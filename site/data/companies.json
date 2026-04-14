@@ -1,0 +1,186 @@
+{
+  "companies": [
+    {
+      "id": "mp_materials",
+      "name": "MP Materials",
+      "short_name": "MP Materials",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "lynas",
+      "name": "Lynas Rare Earths",
+      "short_name": "萊納斯",
+      "position": "upstream",
+      "role": "稀土開採/加工",
+      "x": 0.114,
+      "y": 0.34
+    },
+    {
+      "id": "north_rare_earth",
+      "name": "China Northern Rare Earth",
+      "short_name": "北方稀土",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.179,
+      "y": 0.34
+    },
+    {
+      "id": "iluka",
+      "name": "Iluka Resources",
+      "short_name": "Iluka Resources",
+      "position": "upstream",
+      "role": "稀土/鋯",
+      "x": 0.243,
+      "y": 0.34
+    },
+    {
+      "id": "energy_fuels",
+      "name": "Energy Fuels",
+      "short_name": "Energy Fuels",
+      "position": "upstream",
+      "role": "稀土/鈾",
+      "x": 0.307,
+      "y": 0.34
+    },
+    {
+      "id": "arafura",
+      "name": "Arafura Rare Earths",
+      "short_name": "Arafura Rare Earths",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.371,
+      "y": 0.34
+    },
+    {
+      "id": "hastings",
+      "name": "Hastings Technology Metals",
+      "short_name": "Hastings Technology Metals",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.436,
+      "y": 0.34
+    },
+    {
+      "id": "vital",
+      "name": "Vital Metals",
+      "short_name": "Vital Metals",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "pensana",
+      "name": "Pensana",
+      "short_name": "Pensana",
+      "position": "upstream",
+      "role": "稀土加工",
+      "x": 0.564,
+      "y": 0.34
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow Rare Earths",
+      "short_name": "Rainbow Rare Earths",
+      "position": "upstream",
+      "role": "稀土開採",
+      "x": 0.629,
+      "y": 0.34
+    },
+    {
+      "id": "ucore",
+      "name": "Ucore Rare Metals",
+      "short_name": "Ucore Rare Metals",
+      "position": "midstream",
+      "role": "稀土分離",
+      "x": 0.693,
+      "y": 0.34
+    },
+    {
+      "id": "shenghe",
+      "name": "Shenghe Resources",
+      "short_name": "盛和資源",
+      "position": "midstream",
+      "role": "稀土貿易/加工",
+      "x": 0.757,
+      "y": 0.34
+    },
+    {
+      "id": "neo",
+      "name": "Neo Performance Materials",
+      "short_name": "Neo Performance Materials",
+      "position": "midstream",
+      "role": "稀土磁鐵材料",
+      "x": 0.821,
+      "y": 0.34
+    },
+    {
+      "id": "asm",
+      "name": "Australian Strategic Materials",
+      "short_name": "Australian Strategic Materials",
+      "position": "midstream",
+      "role": "關鍵金屬",
+      "x": 0.886,
+      "y": 0.34
+    },
+    {
+      "id": "china_rare_earth",
+      "name": "China Rare Earth Holdings",
+      "short_name": "中國稀土",
+      "position": "midstream",
+      "role": "稀土加工",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "mp_materials",
+      "target": "neo",
+      "strength": 2
+    },
+    {
+      "source": "mp_materials",
+      "target": "shenghe",
+      "strength": 2
+    },
+    {
+      "source": "lynas",
+      "target": "neo",
+      "strength": 2
+    },
+    {
+      "source": "north_rare_earth",
+      "target": "shenghe",
+      "strength": 2
+    },
+    {
+      "source": "north_rare_earth",
+      "target": "china_rare_earth",
+      "strength": 2
+    },
+    {
+      "source": "energy_fuels",
+      "target": "neo",
+      "strength": 2
+    },
+    {
+      "source": "vital",
+      "target": "ucore",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_remx",
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "REMX",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "稀土與戰略金屬 ETF"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+topics:
+  rare_earth_price:
+    display: 稀土價格
+    keywords:
+    - rare earth price
+    - 稀土價格
+    - NdPr price
+    - neodymium
+    - praseodymium
+    - 釹
+    - 鐠
+    - 稀土報價
+    - dysprosium
+    - 鏑
+  china_export_control:
+    display: 中國出口管制
+    keywords:
+    - China export control
+    - 中國出口管制
+    - export ban
+    - 出口禁令
+    - rare earth export
+    - 稀土出口
+    - export restriction
+  magnet_supply:
+    display: 磁鐵供應
+    keywords:
+    - magnet supply
+    - 磁鐵供應
+    - NdFeB
+    - permanent magnet
+    - 永磁
+    - 釹鐵硼
+    - rare earth magnet
+  critical_mineral_policy:
+    display: 關鍵礦物政策
+    keywords:
+    - critical mineral
+    - 關鍵礦物
+    - strategic mineral
+    - 戰略礦物
+    - mineral policy
+    - IRA mineral
+    - critical raw material
+  supply_diversification:
+    display: 供應多元化
+    keywords:
+    - supply diversification
+    - 供應多元化
+    - supply chain resilience
+    - de-risking
+    - friend-shoring
+    - nearshoring
+    - alternative supply
