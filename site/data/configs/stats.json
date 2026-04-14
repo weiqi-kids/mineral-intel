@@ -1,0 +1,91 @@
+{
+  "company_count": 15,
+  "topic_count": 5,
+  "alias_count": 38,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "mp_materials",
+      "short_name": "MP Materials",
+      "tier": ""
+    },
+    {
+      "id": "lynas",
+      "short_name": "Lynas Rare Earths",
+      "tier": ""
+    },
+    {
+      "id": "north_rare_earth",
+      "short_name": "China Northern Rare Earth",
+      "tier": ""
+    },
+    {
+      "id": "iluka",
+      "short_name": "Iluka Resources",
+      "tier": ""
+    },
+    {
+      "id": "energy_fuels",
+      "short_name": "Energy Fuels",
+      "tier": ""
+    },
+    {
+      "id": "arafura",
+      "short_name": "Arafura Rare Earths",
+      "tier": ""
+    },
+    {
+      "id": "hastings",
+      "short_name": "Hastings Technology Metals",
+      "tier": ""
+    },
+    {
+      "id": "vital",
+      "short_name": "Vital Metals",
+      "tier": ""
+    },
+    {
+      "id": "pensana",
+      "short_name": "Pensana",
+      "tier": ""
+    },
+    {
+      "id": "rainbow",
+      "short_name": "Rainbow Rare Earths",
+      "tier": ""
+    },
+    {
+      "id": "ucore",
+      "short_name": "Ucore Rare Metals",
+      "tier": ""
+    },
+    {
+      "id": "shenghe",
+      "short_name": "Shenghe Resources",
+      "tier": ""
+    },
+    {
+      "id": "neo",
+      "short_name": "Neo Performance Materials",
+      "tier": ""
+    },
+    {
+      "id": "asm",
+      "short_name": "Australian Strategic Materials",
+      "tier": ""
+    },
+    {
+      "id": "china_rare_earth",
+      "short_name": "China Rare Earth Holdings",
+      "tier": ""
+    }
+  ]
+}
