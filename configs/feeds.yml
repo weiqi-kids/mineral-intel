@@ -1,0 +1,49 @@
+# Mining & Rare Earth Minerals industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: mp_materials_ir
+  name: MP Materials Investor News
+  url: https://investors.mpmaterials.com/rss/news-releases.xml
+  description: MP Materials investor news and press releases
+
+- id: energy_fuels_ir
+  name: Energy Fuels Investor News
+  url: https://investors.energyfuels.com/rss/news-releases.xml
+  description: Energy Fuels investor news and press releases
+
+# --- Industry media feeds ---
+- id: mining_com
+  name: MINING.COM
+  url: https://www.mining.com/feed/
+  description: Leading global mining news and analysis
+
+- id: northern_miner
+  name: The Northern Miner
+  url: https://www.northernminer.com/feed/
+  description: Mining intelligence with 100+ years of industry coverage
+
+- id: mining_weekly
+  name: Mining Weekly
+  url: https://www.miningweekly.com/page/rss
+  description: Mining and resources industry news from South Africa and global
+
+- id: mining_einnews
+  name: Mining Industry Today (EIN)
+  url: https://mining.einnews.com/rss/tBbVz2XBb1Rn2lKo
+  description: Mining industry news aggregator via EIN Presswire
+
+# --- Google News topic feeds ---
+- id: google_rare_earth
+  name: Google News - Rare Earth
+  url: https://news.google.com/rss/search?q=rare+earth+minerals+mining&hl=en
+  description: Google News aggregation for rare earth minerals and mining
+
+- id: google_critical_minerals
+  name: Google News - Critical Minerals
+  url: https://news.google.com/rss/search?q=critical+minerals+supply+chain+policy&hl=en
+  description: Google News aggregation for critical minerals policy and supply chain
+
+- id: google_china_rare_earth
+  name: Google News - China Rare Earth Export
+  url: https://news.google.com/rss/search?q=China+rare+earth+export+control&hl=en
+  description: Google News aggregation for China rare earth export controls

@@ -8,6 +8,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 美國唯一稀土礦山營運商
+  rss_url: https://investors.mpmaterials.com/rss/news-releases.xml
   downstream:
   - neo
   - shenghe
@@ -54,6 +55,7 @@ companies:
   position: upstream
   role: 稀土/鈾
   description: 美國稀土與鈾礦生產商
+  rss_url: https://investors.energyfuels.com/rss/news-releases.xml
   downstream:
   - neo
 - id: arafura
