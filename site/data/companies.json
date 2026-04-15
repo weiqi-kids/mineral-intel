@@ -6,8 +6,8 @@
       "short_name": "MP Materials",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.05,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.06
     },
     {
       "id": "lynas",
@@ -15,8 +15,8 @@
       "short_name": "萊納斯",
       "position": "upstream",
       "role": "稀土開採/加工",
-      "x": 0.5,
-      "y": 0.11
+      "x": 0.248,
+      "y": 0.06
     },
     {
       "id": "north_rare_earth",
@@ -24,8 +24,8 @@
       "short_name": "北方稀土",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.23,
-      "y": 0.04
+      "x": 0.416,
+      "y": 0.06
     },
     {
       "id": "iluka",
@@ -33,8 +33,8 @@
       "short_name": "Iluka Resources",
       "position": "upstream",
       "role": "稀土/鋯",
-      "x": 0.5,
-      "y": 0.17
+      "x": 0.584,
+      "y": 0.06
     },
     {
       "id": "energy_fuels",
@@ -42,8 +42,8 @@
       "short_name": "Energy Fuels",
       "position": "upstream",
       "role": "稀土/鈾",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.752,
+      "y": 0.06
     },
     {
       "id": "arafura",
@@ -51,8 +51,8 @@
       "short_name": "Arafura Rare Earths",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.41,
-      "y": 0.04
+      "x": 0.92,
+      "y": 0.06
     },
     {
       "id": "hastings",
@@ -60,8 +60,8 @@
       "short_name": "Hastings Technology Metals",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.59,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.28
     },
     {
       "id": "vital",
@@ -69,8 +69,8 @@
       "short_name": "Vital Metals",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.77,
-      "y": 0.04
+      "x": 0.36,
+      "y": 0.28
     },
     {
       "id": "pensana",
@@ -78,8 +78,8 @@
       "short_name": "Pensana",
       "position": "upstream",
       "role": "稀土加工",
-      "x": 0.05,
-      "y": 0.3
+      "x": 0.64,
+      "y": 0.28
     },
     {
       "id": "rainbow",
@@ -87,8 +87,8 @@
       "short_name": "Rainbow Rare Earths",
       "position": "upstream",
       "role": "稀土開採",
-      "x": 0.95,
-      "y": 0.04
+      "x": 0.92,
+      "y": 0.28
     },
     {
       "id": "ucore",
@@ -96,8 +96,8 @@
       "short_name": "Ucore Rare Metals",
       "position": "midstream",
       "role": "稀土分離",
-      "x": 0.5,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.5
     },
     {
       "id": "shenghe",
@@ -105,8 +105,8 @@
       "short_name": "盛和資源",
       "position": "midstream",
       "role": "稀土貿易/加工",
-      "x": 0.5,
-      "y": 0.45
+      "x": 0.29,
+      "y": 0.5
     },
     {
       "id": "neo",
@@ -115,7 +115,7 @@
       "position": "midstream",
       "role": "稀土磁鐵材料",
       "x": 0.5,
-      "y": 0.55
+      "y": 0.5
     },
     {
       "id": "asm",
@@ -123,8 +123,8 @@
       "short_name": "Australian Strategic Materials",
       "position": "midstream",
       "role": "關鍵金屬",
-      "x": 0.5,
-      "y": 0.65
+      "x": 0.71,
+      "y": 0.5
     },
     {
       "id": "china_rare_earth",
@@ -132,8 +132,8 @@
       "short_name": "中國稀土",
       "position": "midstream",
       "role": "稀土加工",
-      "x": 0.95,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.5
     }
   ],
   "links": [
@@ -175,12 +175,9 @@
   ],
   "etfs": [
     {
-      "id": "etf_remx",
+      "id": "remx",
       "name": "VanEck Rare Earth/Strategic Metals ETF",
-      "ticker": "REMX",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "稀土與戰略金屬 ETF"
+      "ticker": "REMX"
     }
   ]
 }
