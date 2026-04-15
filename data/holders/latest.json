@@ -1,0 +1,436 @@
+{
+  "updated_at": "2026-04-15T04:26:23.364811+00:00",
+  "companies": {
+    "mp_materials": {
+      "name": "MP Materials",
+      "short_name": "MP Materials",
+      "ticker": "MP",
+      "holders": [
+        {
+          "holder": "Hancock Prospecting Pty Ltd",
+          "shares": 14861212,
+          "pct_held": 8.36,
+          "value": 852439129
+        },
+        {
+          "holder": "Vanguard Group Inc",
+          "shares": 14479787,
+          "pct_held": 8.15,
+          "value": 830560591
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 13476867,
+          "pct_held": 7.59,
+          "value": 773033099
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 6597885,
+          "pct_held": 3.71,
+          "value": 378454687
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 3437707,
+          "pct_held": 1.93,
+          "value": 197186875
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 3177806,
+          "pct_held": 1.79,
+          "value": 182278954
+        },
+        {
+          "holder": "Cooperman, Leon G.",
+          "shares": 3000000,
+          "pct_held": 1.69,
+          "value": 172080001
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 2834914,
+          "pct_held": 1.6,
+          "value": 162610668
+        },
+        {
+          "holder": "Reaves (W.H.) & Company, Inc.",
+          "shares": 2609526,
+          "pct_held": 1.47,
+          "value": 149682412
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 2545709,
+          "pct_held": 1.43,
+          "value": 146021869
+        }
+      ]
+    },
+    "iluka": {
+      "name": "Iluka Resources",
+      "short_name": "Iluka Resources",
+      "ticker": "ILU.AX",
+      "holders": [
+        {
+          "holder": "Legato Capital Management LLC",
+          "shares": 21766,
+          "pct_held": 0.01,
+          "value": 160959
+        }
+      ]
+    },
+    "energy_fuels": {
+      "name": "Energy Fuels",
+      "short_name": "Energy Fuels",
+      "ticker": "UUUU",
+      "holders": [
+        {
+          "holder": "Vanguard Group Inc",
+          "shares": 14978848,
+          "pct_held": 6.31,
+          "value": 292686703
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 14082305,
+          "pct_held": 5.93,
+          "value": 275168252
+        },
+        {
+          "holder": "Mirae Asset Global ETFs Holdings Ltd.",
+          "shares": 13768894,
+          "pct_held": 5.8,
+          "value": 269044201
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 12108694,
+          "pct_held": 5.1,
+          "value": 236603891
+        },
+        {
+          "holder": "Alps Advisors Inc.",
+          "shares": 8381026,
+          "pct_held": 3.53,
+          "value": 163765255
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 6604349,
+          "pct_held": 2.78,
+          "value": 129048985
+        },
+        {
+          "holder": "Ameriprise Financial, Inc.",
+          "shares": 4297432,
+          "pct_held": 1.81,
+          "value": 83971825
+        },
+        {
+          "holder": "Bank of America Corporation",
+          "shares": 4177624,
+          "pct_held": 1.76,
+          "value": 81630776
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 3952694,
+          "pct_held": 1.67,
+          "value": 77235644
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 3688397,
+          "pct_held": 1.55,
+          "value": 72071280
+        }
+      ]
+    },
+    "arafura": {
+      "name": "Arafura Rare Earths",
+      "short_name": "Arafura Rare Earths",
+      "ticker": "ARU.AX",
+      "holders": [
+        {
+          "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+          "shares": 37041527,
+          "pct_held": 0.79,
+          "value": 11556956
+        },
+        {
+          "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+          "shares": 25228239,
+          "pct_held": 0.54,
+          "value": 7871210
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
+          "shares": 9312139,
+          "pct_held": 0.2,
+          "value": 2905387
+        },
+        {
+          "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
+          "shares": 8673606,
+          "pct_held": 0.19,
+          "value": 2706165
+        },
+        {
+          "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
+          "shares": 5527290,
+          "pct_held": 0.12,
+          "value": 1724514
+        },
+        {
+          "holder": "DFA INVESTMENT TRUST CO-The Asia Pacific Small Company Series",
+          "shares": 4602260,
+          "pct_held": 0.1,
+          "value": 1435905
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
+          "shares": 4164394,
+          "pct_held": 0.09,
+          "value": 1299290
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
+          "shares": 3174101,
+          "pct_held": 0.07,
+          "value": 990319
+        },
+        {
+          "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
+          "shares": 2252426,
+          "pct_held": 0.05,
+          "value": 702756
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
+          "shares": 1733652,
+          "pct_held": 0.04,
+          "value": 540899
+        }
+      ]
+    },
+    "vital": {
+      "name": "Vital Metals",
+      "short_name": "Vital Metals",
+      "ticker": "VML.AX",
+      "holders": [
+        {
+          "holder": "DFA Asia Pacific Small Company Series",
+          "shares": 246694,
+          "pct_held": 0.0,
+          "value": 32070
+        }
+      ]
+    },
+    "pensana": {
+      "name": "Pensana",
+      "short_name": "Pensana",
+      "ticker": "PRE.L",
+      "holders": [
+        {
+          "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
+          "shares": 554089,
+          "pct_held": 0.16,
+          "value": 47208381
+        },
+        {
+          "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
+          "shares": 141965,
+          "pct_held": 0.04,
+          "value": 12095417
+        }
+      ]
+    },
+    "rainbow": {
+      "name": "Rainbow Rare Earths",
+      "short_name": "Rainbow Rare Earths",
+      "ticker": "RBW.L",
+      "holders": [
+        {
+          "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
+          "shares": 1065118,
+          "pct_held": 0.15,
+          "value": 26627950
+        }
+      ]
+    },
+    "ucore": {
+      "name": "Ucore Rare Metals",
+      "short_name": "Ucore Rare Metals",
+      "ticker": "UCU.V",
+      "holders": [
+        {
+          "holder": "Doheny Asset Management /CA",
+          "shares": 28850,
+          "pct_held": 0.02,
+          "value": 163579
+        },
+        {
+          "holder": "Org Partners LLC                          ",
+          "shares": 2155,
+          "pct_held": 0.0,
+          "value": 12218
+        }
+      ]
+    },
+    "neo": {
+      "name": "Neo Performance Materials",
+      "short_name": "Neo Performance Materials",
+      "ticker": "NEO.TO",
+      "holders": [
+        {
+          "holder": "Nano Cap New Millennium Growth Fund L P",
+          "shares": 12000,
+          "pct_held": 0.03,
+          "value": 275759
+        },
+        {
+          "holder": "Ancora Advisors, LLC",
+          "shares": 400,
+          "pct_held": 0.0,
+          "value": 9191
+        }
+      ]
+    },
+    "asm": {
+      "name": "Australian Strategic Materials",
+      "short_name": "Australian Strategic Materials",
+      "ticker": "ASM.AX",
+      "holders": [
+        {
+          "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
+          "shares": 629769,
+          "pct_held": 0.23,
+          "value": 954100
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
+          "shares": 436024,
+          "pct_held": 0.16,
+          "value": 660576
+        },
+        {
+          "holder": "DFA INVESTMENT TRUST CO-The Asia Pacific Small Company Series",
+          "shares": 441208,
+          "pct_held": 0.16,
+          "value": 668430
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Vector Eqy. PORT.",
+          "shares": 85552,
+          "pct_held": 0.03,
+          "value": 129611
+        },
+        {
+          "holder": "Brighthouse Fd.s TRT II-Brighthouse/Dimensional Intl Small Company POR",
+          "shares": 44058,
+          "pct_held": 0.02,
+          "value": 66747
+        },
+        {
+          "holder": "Dimensional ETF Trust-Dimensional World ex U.S. Core Equity 2 ETF",
+          "shares": 60163,
+          "pct_held": 0.02,
+          "value": 91146
+        },
+        {
+          "holder": "American Century ETF Trust-Avantis International Equity ETF",
+          "shares": 48919,
+          "pct_held": 0.02,
+          "value": 74112
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Dimensional VA Intl Small PORT.",
+          "shares": 15824,
+          "pct_held": 0.01,
+          "value": 23973
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-World ex U.S. Core Eqy. PORT.",
+          "shares": 27243,
+          "pct_held": 0.01,
+          "value": 41273
+        },
+        {
+          "holder": "Dimensional ETF Trust-Dimensional International Core Equity Market ETF",
+          "shares": 3775,
+          "pct_held": 0.0,
+          "value": 5719
+        }
+      ]
+    },
+    "china_rare_earth": {
+      "name": "China Rare Earth Holdings",
+      "short_name": "中國稀土",
+      "ticker": "0769.HK",
+      "holders": [
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
+          "shares": 9802399,
+          "pct_held": 0.35,
+          "value": 6861679
+        },
+        {
+          "holder": "DFA INVESTMENT TRUST CO-The Emerging Markets Small Cap Series",
+          "shares": 3990799,
+          "pct_held": 0.14,
+          "value": 2793559
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-World ex U.S. Core Eqy. PORT.",
+          "shares": 768399,
+          "pct_held": 0.03,
+          "value": 537879
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Social Core Eqy. ",
+          "shares": 717200,
+          "pct_held": 0.03,
+          "value": 502039
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Sustainability Co",
+          "shares": 436000,
+          "pct_held": 0.02,
+          "value": 305199
+        },
+        {
+          "holder": "American Century ETF Trust-Avantis Emerging Markets Equity ETF",
+          "shares": 604000,
+          "pct_held": 0.02,
+          "value": 422799
+        },
+        {
+          "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Targeted Value PO",
+          "shares": 348000,
+          "pct_held": 0.01,
+          "value": 243599
+        },
+        {
+          "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR PORT. MSCI Global Stock Marke",
+          "shares": 13800,
+          "pct_held": 0.0,
+          "value": 9659
+        },
+        {
+          "holder": "American Century ETF TRT-Avantis Responsible Emerging Markets Eqy. ETF",
+          "shares": 2000,
+          "pct_held": 0.0,
+          "value": 1399
+        },
+        {
+          "holder": "American Century ETF Trust-Avantis Emerging Markets Equity Fund",
+          "shares": 68000,
+          "pct_held": 0.0,
+          "value": 47599
+        }
+      ]
+    }
+  }
+}
