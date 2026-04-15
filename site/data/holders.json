@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T04:26:23.364811+00:00",
+  "updated_at": "2026-04-15T09:12:28.162600+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -77,7 +77,7 @@
           "holder": "Legato Capital Management LLC",
           "shares": 21766,
           "pct_held": 0.01,
-          "value": 160959
+          "value": 162592
         }
       ]
     },
@@ -157,61 +157,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 37041527,
           "pct_held": 0.79,
-          "value": 11556956
+          "value": 11668080
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 25228239,
           "pct_held": 0.54,
-          "value": 7871210
+          "value": 7946895
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 9312139,
           "pct_held": 0.2,
-          "value": 2905387
+          "value": 2933323
         },
         {
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 8673606,
           "pct_held": 0.19,
-          "value": 2706165
+          "value": 2732185
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 5527290,
           "pct_held": 0.12,
-          "value": 1724514
+          "value": 1741096
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Asia Pacific Small Company Series",
           "shares": 4602260,
           "pct_held": 0.1,
-          "value": 1435905
+          "value": 1449711
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 4164394,
           "pct_held": 0.09,
-          "value": 1299290
+          "value": 1311784
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 3174101,
           "pct_held": 0.07,
-          "value": 990319
+          "value": 999841
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 2252426,
           "pct_held": 0.05,
-          "value": 702756
+          "value": 709514
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 1733652,
           "pct_held": 0.04,
-          "value": 540899
+          "value": 546100
         }
       ]
     },
@@ -224,7 +224,7 @@
           "holder": "DFA Asia Pacific Small Company Series",
           "shares": 246694,
           "pct_held": 0.0,
-          "value": 32070
+          "value": 34537
         }
       ]
     },
@@ -237,13 +237,13 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 554089,
           "pct_held": 0.16,
-          "value": 47208381
+          "value": 48482787
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 141965,
           "pct_held": 0.04,
-          "value": 12095417
+          "value": 12421937
         }
       ]
     },
@@ -256,7 +256,7 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 1065118,
           "pct_held": 0.15,
-          "value": 26627950
+          "value": 25562832
         }
       ]
     },
