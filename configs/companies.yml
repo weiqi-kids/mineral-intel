@@ -22,6 +22,7 @@ companies:
   position: upstream
   role: 稀土開採/加工
   description: 中國以外最大稀土生產商
+  rss_url: https://news.google.com/rss/search?q="Lynas+Rare+Earths"&hl=en&gl=US&ceid=US:en
   downstream:
   - neo
 - id: north_rare_earth
@@ -34,6 +35,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 全球最大稀土生產商
+  rss_url: https://news.google.com/rss/search?q="China+Northern+Rare+Earth"&hl=en&gl=US&ceid=US:en
   downstream:
   - shenghe
   - china_rare_earth
@@ -46,6 +48,7 @@ companies:
   position: upstream
   role: 稀土/鋯
   description: 澳洲礦砂與稀土精煉
+  rss_url: https://news.google.com/rss/search?q="Iluka+Resources"+rare+earth+zircon&hl=en&gl=US&ceid=US:en
 - id: energy_fuels
   name: Energy Fuels
   aliases: []
@@ -67,6 +70,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 澳洲稀土開發商（Nolans 項目）
+  rss_url: https://news.google.com/rss/search?q="Arafura+Rare+Earths"&hl=en&gl=US&ceid=US:en
 - id: hastings
   name: Hastings Technology Metals
   aliases: []
@@ -76,6 +80,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 澳洲稀土開發商（Yangibana 項目）
+  rss_url: https://news.google.com/rss/search?q="Hastings+Technology+Metals"&hl=en&gl=US&ceid=US:en
 - id: vital
   name: Vital Metals
   aliases: []
@@ -85,6 +90,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 加拿大稀土礦開發商
+  rss_url: https://news.google.com/rss/search?q="Vital+Metals"&hl=en&gl=US&ceid=US:en
   downstream:
   - ucore
 - id: pensana
@@ -96,6 +102,7 @@ companies:
   position: upstream
   role: 稀土加工
   description: 英國稀土氧化物加工商
+  rss_url: https://news.google.com/rss/search?q="Pensana"+rare+earth+processing&hl=en&gl=US&ceid=US:en
 - id: rainbow
   name: Rainbow Rare Earths
   aliases: []
@@ -105,6 +112,7 @@ companies:
   position: upstream
   role: 稀土開採
   description: 南非稀土開發商（Phalaborwa 項目）
+  rss_url: https://news.google.com/rss/search?q="Rainbow+Rare+Earths"&hl=en&gl=US&ceid=US:en
 - id: ucore
   name: Ucore Rare Metals
   aliases: []
@@ -114,6 +122,7 @@ companies:
   position: midstream
   role: 稀土分離
   description: 稀土分離技術（RapidSX）
+  rss_url: https://news.google.com/rss/search?q="Ucore+Rare+Metals"&hl=en&gl=US&ceid=US:en
   upstream:
   - vital
 - id: shenghe
@@ -126,6 +135,7 @@ companies:
   position: midstream
   role: 稀土貿易/加工
   description: 中國稀土貿易與加工整合商
+  rss_url: https://news.google.com/rss/search?q="Shenghe+Resources"&hl=en&gl=US&ceid=US:en
   upstream:
   - mp_materials
   - north_rare_earth
@@ -138,6 +148,7 @@ companies:
   position: midstream
   role: 稀土磁鐵材料
   description: 稀土磁鐵先驅材料製造商
+  rss_url: https://news.google.com/rss/search?q="Neo+Performance+Materials"&hl=en&gl=US&ceid=US:en
   upstream:
   - mp_materials
   - lynas
@@ -151,6 +162,7 @@ companies:
   position: midstream
   role: 關鍵金屬
   description: 鈦鋯與稀土金屬加工
+  rss_url: https://news.google.com/rss/search?q="Australian+Strategic+Materials"&hl=en&gl=US&ceid=US:en
 - id: china_rare_earth
   name: China Rare Earth Holdings
   aliases:
@@ -161,6 +173,7 @@ companies:
   position: midstream
   role: 稀土加工
   description: 稀土氧化物與金屬加工
+  rss_url: https://news.google.com/rss/search?q="China+Rare+Earth+Holdings"&hl=en&gl=US&ceid=US:en
   upstream:
   - north_rare_earth
 etfs:
