@@ -1,5 +1,29 @@
 [
   {
+    "id": "north_rare_earth-2026-04-17-001",
+    "date": "2026-04-17",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth (Group) High-Tech says 2025 net profit up 124.2% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNzh1UnJ5cmNXajU4Z3NNWGxSRjBQdld2UW1HdjdUdjdqRVlfbkRFM0RJYV9aOU9QcVIySTJEa2ZsUHd3T2VhbWlvbzFraF8wNjJCRjVjR0FtMmI1T0lPdkZtaGZud0JNdDA4eVZYa0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "supply_diversification"
+    ],
+    "impact": "neutral",
+    "title": "De-Risking the Rare Earths Supply Chain With Sprott's REXC - ETF Database",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWtpeG9uUEF1UTRoeXVfZllFR2gtNXBIV2ZjaW1iNUttNll3WHBDYkJtZjVIeTNYeTJBUW1ubWZBbUVfTWVYcUxhM0F0dTNJNkhlbzBqaGNfcEw1TFA4Q3pUNzhDRFZBWTFpZ0tqSk",
+    "sources": []
+  },
+  {
     "id": "neo-2026-04-16-002",
     "date": "2026-04-16",
     "companies": [
@@ -477,6 +501,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-05-006",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy"
+    ],
+    "impact": "neutral",
+    "title": "Trump Administration Charts Ambitious Path Toward US Critical Mineral Dominance - WilmerHale",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR01UTWI1bGRrR1EtcUZxMDNxRWlBMnNQd1JpWXVkUWtlSk9aRFBFM0lJUmhLMl9aR1Jlblg3MWhrS1lpVDdzVktXRjhUMHR3djhMVDZZX0lIVGtvaWxMaUxpU0VKWWk1cWwxdjMxNn",
+    "sources": []
+  },
+  {
     "id": "lynas-2026-02-27-002",
     "date": "2026-02-27",
     "companies": [
@@ -486,6 +522,18 @@
     "impact": "positive",
     "title": "Lynas Rare Earths (ASX:LYC) Is Up 21.0% After Record Half-Year Profit And Major Expansion Moves - What's Changed - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbmpFeEpCUUJoTjBad0JqTDhnSTBsWi1zLXh6WS13RkdmeGc5U1dHTkc1aG0xWkYxa1M1YVdyVEU1Wk5xdHhlRnR3OFJabWUwYVNuanNrUXJJbGw1UjgzdFJOaUdUd2NjNDlmR2o4OT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-27-005",
+    "date": "2026-02-27",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy"
+    ],
+    "impact": "neutral",
+    "title": "Trump administration seeks public input for proposed critical minerals trade agreement - White & Case",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG41eFBJME8zdnBxc0ljV05iMy02Q1Vqamx2ZWZKSDFEMzdRT0RWLWVFeC1SbzdhUW16cGhWbkpLbHVSLTlDSnNfVnJmSFlNR1FZZXhHd20xRWJMUW9SRENZQXpvelFpcGRIb3JTbl",
     "sources": []
   },
   {
@@ -746,6 +794,20 @@
     "impact": "neutral",
     "title": "Hastings Technology Metals (ASX:HAS) Is Up 40.2% After US Sets NdPr Price Floor and Export Controls Tighten – Has The Bull Case Changed? - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnR1Vi10OFp4QXlEZndqai1OY0Y1TFlOQlFPcy1RMlZJOFBjN2NURTFqdzRwdGxxUWRnRGVkLTkxX29NOGlCbXhIekpuYUpYNGpzVlotTzgzTncwLU91STNwdmFrNDU4SFdMMkJiTF",
+    "sources": []
+  },
+  {
+    "id": "hastings-2025-10-17-002",
+    "date": "2025-10-17",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [
+      "critical_mineral_policy"
+    ],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals (ASX:HAS) Is Up 51.4% After US-Australia Strategic Minerals Deal Talks - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3ZRU1BzZDJ3Qk5sTjJyRXcyandUMlNESmh6THNWYU12V0VCazVvaUQ1SDA5Q1g0ZGs3R0Q5TVNSMjFXcGs3VnozeElkYkdadUVJanV3OXB2ZXMxaFFqNUxnZ3ZoRzdrZEVnalpMUE",
     "sources": []
   },
   {
