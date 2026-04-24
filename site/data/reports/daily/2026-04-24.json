@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:24:48.043025Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil Has Large Rare Earth Reserves But Is Missing From Top Miners and Refiners | Share of 2024 global mined and refined production of magnet rare earths — neodymium, praseodymium, dysprosium and terbium - MINING.COM - Mining.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為稀土價格相關動態：「Brazil Has Large Rare Earth Reserves But Is Missing From ...」。主要關注主題為稀土價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Brazil Has Large Rare Earth Reserves But Is Missing From Top Miners and Refin...（稀土價格）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
