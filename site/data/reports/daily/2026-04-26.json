@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:16:05.420237Z",
+  "generated_at": "2026-04-26T08:53:18.116229Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 62,
+    "too_old": 226,
+    "gate1_blocked": 39,
+    "gate2_blocked": 10,
+    "passed": 3,
+    "pass_rate": "1.1%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Lynas Rare Earths Limited - Sponsored ADR (OTCMKTS:LYSDY) Short Interest Down 63.2% in April - Marke",
+      "Gina Rinehart-backed Lynas Rare Earths posts record quarter - AFR",
+      "Arafura Rare Earths Races Against the Clock as Competitors Reshape the Sector - AD HOC NEWS",
+      "Is Hastings Tech Metals (ASX:HAS) Expanding ASX 200 Role? - Kalkine Media",
+      "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - "
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無關鍵礦物產業相關事件。市場處於平靜狀態，無重大訊號。",

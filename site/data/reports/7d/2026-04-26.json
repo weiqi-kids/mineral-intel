@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:16:05.483085Z",
+  "generated_at": "2026-04-26T08:53:18.170610Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-20-005",
-      "date": "2026-04-20",
-      "title": "China’s rare earth exports to Japan show marked drop in March - The Edge Malaysia",
-      "importance_score": 0.5
+      "event_id": "energy_fuels-2026-04-23-004",
+      "date": "2026-04-23",
+      "title": "FIRB clears Energy Fuels' acquisition of Australian Strategic Materials - grafa.com",
+      "importance_score": 0.7
     }
   ],
   "anomalies_7d": [],
@@ -100,11 +100,19 @@
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 10 則事件，重點為「China’s rare earth exports to Japan show marked...」。事件量較上週增加 233%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 10 則事件，重點為「FIRB clears Energy Fuels' acquisition of Austra...」。事件量較上週增加 233%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "萊納斯",
         "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Energy Fuels",
+        "reason": "受磁鐵供應議題影響，供應鏈壓力可能上升。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "受稀土價格議題影響，供應鏈壓力可能上升。"
       }
     ]
   },

@@ -1,11 +1,11 @@
 {
-  "total_raw": 360,
-  "dup_title": 70,
+  "total_raw": 340,
+  "dup_title": 62,
   "no_date": 0,
-  "too_old": 228,
-  "gate1_fail": 52,
+  "too_old": 226,
+  "gate1_fail": 39,
   "gate2_fail": 10,
-  "passed": 0,
+  "passed": 3,
   "gate2_samples": [
     "Lynas Rare Earths Limited - Sponsored ADR (OTCMKTS:LYSDY) Short Interest Down 63.2% in April - Marke",
     "Gina Rinehart-backed Lynas Rare Earths posts record quarter - AFR",
