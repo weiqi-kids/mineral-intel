@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 360,
+  "dup_title": 70,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 228,
+  "gate1_fail": 52,
+  "gate2_fail": 10,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Lynas Rare Earths Limited - Sponsored ADR (OTCMKTS:LYSDY) Short Interest Down 63.2% in April - Marke",
+    "Gina Rinehart-backed Lynas Rare Earths posts record quarter - AFR",
+    "Arafura Rare Earths Races Against the Clock as Competitors Reshape the Sector - AD HOC NEWS",
+    "Is Hastings Tech Metals (ASX:HAS) Expanding ASX 200 Role? - Kalkine Media",
+    "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - "
+  ]
 }
