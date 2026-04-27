@@ -1,11 +1,11 @@
 {
-  "total_raw": 339,
-  "dup_title": 94,
+  "total_raw": 678,
+  "dup_title": 195,
   "no_date": 0,
-  "too_old": 210,
-  "gate1_fail": 15,
-  "gate2_fail": 6,
-  "passed": 14,
+  "too_old": 421,
+  "gate1_fail": 32,
+  "gate2_fail": 12,
+  "passed": 18,
   "gate2_samples": [
     "Lynas flags risk of higher costs from Mid East conflict - The Nightly",
     "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
