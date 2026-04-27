@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 14,
+  "gate2_samples": [
+    "Lynas flags risk of higher costs from Mid East conflict - The Nightly",
+    "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
+    "Here's how flowers can harvest vital metals - MSN",
+    "Vital Metals Updates ASX Filing on Proposed Securities Issue - TipRanks",
+    "Ucore: Adroit Innovator In REE Tech But Uncertainty Remains - Seeking Alpha"
+  ]
+}
