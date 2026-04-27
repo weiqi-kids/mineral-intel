@@ -1,82 +1,82 @@
 {
   "mp_materials": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "lynas": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "north_rare_earth": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1258
+    "count": 1316
   },
   "iluka": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "energy_fuels": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   },
   "arafura": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "hastings": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "vital": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "pensana": {
-    "earliest": "2021-02-18",
-    "latest": "2026-04-24",
-    "count": 1307
+    "earliest": "2020-11-20",
+    "latest": "2026-04-27",
+    "count": 1369
   },
   "rainbow": {
-    "earliest": "2021-02-18",
-    "latest": "2026-04-24",
-    "count": 1307
+    "earliest": "2020-11-20",
+    "latest": "2026-04-27",
+    "count": 1369
   },
   "ucore": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1302
+    "count": 1362
   },
   "shenghe": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1258
+    "count": 1316
   },
   "neo": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1302
+    "count": 1362
   },
   "asm": {
-    "earliest": "2021-02-18",
+    "earliest": "2020-11-20",
     "latest": "2026-04-27",
-    "count": 1311
+    "count": 1371
   },
   "china_rare_earth": {
-    "earliest": "2021-02-19",
+    "earliest": "2020-11-23",
     "latest": "2026-04-24",
-    "count": 1271
+    "count": 1331
   },
   "etf_remx": {
-    "earliest": "2021-02-17",
+    "earliest": "2020-11-19",
     "latest": "2026-04-24",
-    "count": 1303
+    "count": 1362
   }
 }

@@ -1,29 +1,141 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:25.530833Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:09:29.098033Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-04-27-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas Rare Earths: Pentagon Deal Fuels Record Revenue but Operational Snags Rattle Investors - AD HOC NEWS",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkpYUm0zWjJld08wR2lYZDVTbDROS1hHOWFxa3g2WndnMjR2aUlqRU9RdEFTWFYzTlZhM0JtZXVhZkVtQ2pKMDdDYjJKSzA5SWxtbEc2RGo4VDRwUEhNQ3VLdXBZM3dVLTdXWG1YQUY0UVBQT2hlVTR2cmtraGc4S2FadUVldDRTWl9TZ3Vhc0daSUt4T0VlazFWOHVhNTF0T0NaUEI1M2Rta0pKWmtzMUhVU3FWclZZR3hYeTJ4TERWbXU5bUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Has the Cash, But Still Needs the Customers - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUFFVmd5OFhvdTFDZThzTG5HZGc0UVZuVGZrTVNqNnkwb0JSWXhnVjNfbVZLOGNtUmhaUTc4UVQyNFhYZVZQZmxUQmJ4eDNzaTlaenFVTHF5XzRMcmJQVlpKdzNCMDMzdWdUR1h2SVFqNmF6VU1XUTFjVzNtdnRfMjNpSWdLTFJvWXhZZm50ZnNqeFVyN2RlWm9zT2FPWXdDUzdrWWhSVkxiVi1zWmFrQlhQazlDRGhpMmFBTUNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Mint gold source tied to criminal networks in Colombia: New York Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/us-mint-gold-source-tied-to-criminal-networks-in-colombia-new-york-times/1003890387/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AuKing Mining pivots to rare earths with Tundulu deal and fresh capital - TipRanks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2hIX2xPTXp1SmlDS29MQXJ5c1gwb1VuTUx3OVo2a2RGaGRzazRjRlF2WlRrc0phNG5FMHFyb3A0OWVBdE1DYmpXUWxBcEVSWU1Oc1E2VXNpeU14d19sRW5TakQ2M1ZqUlkzd01Bb2ZjZjUzcmVDMW5JMm5nUkdGdENRLTQycGdydnZ4YWFKYXpZRWxBNzFxT1NkcmRET2RCbERZZ2xSaUdxaTlQX184OUJ1aEFHaXlLcmxyZk4tQlE?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 4,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 3,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 678,
-    "dup_title": 195,
-    "too_old": 421,
-    "gate1_blocked": 32,
-    "gate2_blocked": 12,
-    "passed": 18,
-    "pass_rate": "3.7%",
-    "gate2_block_rate": "2.5%",
+    "total_raw": 1037,
+    "dup_title": 300,
+    "too_old": 633,
+    "gate1_blocked": 60,
+    "gate2_blocked": 18,
+    "passed": 26,
+    "pass_rate": "3.5%",
+    "gate2_block_rate": "2.4%",
     "gate2_samples": [
       "Lynas flags risk of higher costs from Mid East conflict - The Nightly",
       "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
@@ -34,14 +146,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無關鍵礦物產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 4 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Lynas Rare Earths: Pentagon Deal Fuels Record Revenue but...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Lynas Rare Earths: Pentagon Deal Fuels Record Revenue but Operational Snags R...（礦業產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Arafura Rare Earths Has the Cash, But Still Needs the Customers - AD HOC NEWS（礦業產業通用）",
         "level": "green"
       }
     ]
