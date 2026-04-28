@@ -1,0 +1,123 @@
+{
+  "date": "2026-04-28",
+  "date_range": {
+    "start": "2026-04-22",
+    "end": "2026-04-28"
+  },
+  "generated_at": "2026-04-28T10:08:49.912822Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-04-23-004",
+      "date": "2026-04-23",
+      "title": "FIRB clears Energy Fuels' acquisition of Australian Strategic Materials - grafa.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "rare_earth_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 11,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.18
+    },
+    "critical_mineral_policy": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    },
+    "hastings": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "arafura": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "north_rare_earth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 99,
+        "last": 57,
+        "change_pct": 73.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-22",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 12,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-22 ~ 2026-04-28）共 99 則事件，重點為「FIRB clears Energy Fuels' acquisition of Austra...」。事件量較上週增加 74%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Energy Fuels",
+        "reason": "受稀土價格議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

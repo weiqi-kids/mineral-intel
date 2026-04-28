@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 79,
+  "no_date": 0,
+  "too_old": 212,
+  "gate1_fail": 20,
+  "gate2_fail": 5,
+  "passed": 22,
+  "gate2_samples": [
+    "Here's how flowers can harvest vital metals - MSN",
+    "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+    "Ucore: Adroit Innovator In REE Tech But Uncertainty Remains - Seeking Alpha"
+  ]
+}
