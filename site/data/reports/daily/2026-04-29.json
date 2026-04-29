@@ -1,0 +1,233 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:00:24.450715Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Rare Earth Firms Rally After Strong Earnings, Beijing Plan - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXk3YngzemFnejctanlTQmo0VDFrc2lPZmFoTmluajF2ellmNkhISm9hYnk4cy1uZkdYSnV0anJYZWlwR3Q0VldQOTdYaUxIMjYyS1FSN1FPQnh3eGNBa1c3VTFtQmhDRkozVmstYV9kcWs3ZEFlMUNuVUhDMFY1X0U5bnRVQXF3Wkw5djNWLVFFWklaTHFOMGVDS1hSeEVBLWVqdGZTTmtTemNGbHkwMl9rZnJpZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "north_rare_earth-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Multiple Enterprises Reported Positive Q1 Results, Rare Earth Permanent Magnets Concept Rose Over 3%, China Northern Rare Earth and Other Stocks Hit Daily Limit [SMM Flash] - Shanghai Metals Market",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcnI3RDQwNEJUTnhDTmFYXzhRakdrWWhFVzlrU3pBNmVMWlpzd0NKelN6UE91eW9XM2R0ZVUwRThycHM5Z2wyekhYeWV3ekhvTTJYdFNLMngtSnh3SE5pZGo4ZHZnNWRVQjRfWUFSWm1zT1NGZ29PbURMaEtsWTNnZHFwdldBc2YwS0E3cGJWUFR4UXVNc1NlTTBYTm5ZM2U1N25LY1Q4N0RVaHlYX3cxbncxRF9OUEwtMVAzUGJZZHlWbUNnNVVvTXliX3FKcUZyZ2FDVC1HanZhcTRLWG45VTdwNGFDYldxbklYaFlhMkQtdmhJXzBVSVRWcnI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "north_rare_earth-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth's Q1 Profit Soars 113%, Revenue Jumps 28%; Shares Surge 10% - marketscreener.com",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGFmUXZWeWN4Y2I4LU15ZmdBaDJCdXRBZWl3aUVfd0lKTm9iV3NxN05QUXUxVjdQVUtnNEdwa2JLN1ZGZWV0OVFPcWMwZG1zUVpPWDAyLWlob2hIZW93ZGw1dnlwa1U0a01RZGw3SlpqTVhLa3Vic0FqYUVEVFVvMTJjcl96djc0eFBiekVRMldDZGVrMFk4NE00TU9JWkxFdHh5dzNZcjlYTTVqTkZlS0d2bXkyd1RsR1ZLRWkyOGZELWFfclo1Q1hzeU5PUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-04-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nolans moves closer to construction as Arafura firms funding - Australian Mining",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDFqWXJ4d29aTlpKNXg4M2tTTVd4N0NnSmczc0ktV1FLYl9GZGFaRXJra05XLXUwaDhuWE1CenprUDdRcXB5a2dWOWFTTXNHLWg1SEU0MmRDRnNqa18zOFRFQlcxa3QxbjRYMGdqSkJWamdUY3E3Vjk2V1RkQmJRM2NxbG0yY0RUT0pjREQxb3NiZkc1a0RrZEZoZ2szUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hastings-2026-04-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals Lists New Shares After Option Conversions - TipRanks",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2VvZTJLZnlfbGFhVy1lTWdRUmVoRERucVNjMXRDcUhGOTlFeGFydThTOV8wS1V6d2tVVkFXZlI5NWpxYk5sOFh6QXBKOFNDd2hrbXluR2haM2tBS2pxSTY5bkFiWFVRX3dJc2cwSFB0ODBKUEZCSzlfWlF0VTIwRVQtS09MOGVaamZlZ2w0c1h0ZU9MRHVCdHJfUV9DeGZNR2VfXzE0UUlhVkx5Q0JwVEpTTGVqMkctUTFfSg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 69,
+    "too_old": 209,
+    "gate1_blocked": 15,
+    "gate2_blocked": 6,
+    "passed": 39,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Here's how flowers can harvest vital metals - MSN",
+      "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
+      "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+      "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+      "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為北方稀土、Arafura Rare Earths、Hastings Technology Metals相關動態：「China Rare Earth Firms Rally After Strong Earnings, Beiji...」。主要關注主題為礦業產業通用、關鍵礦物政策、磁鐵供應，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Rare Earth Firms Rally After Strong Earnings, Beijing Plan - Bloomberg.com（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Multiple Enterprises Reported Positive Q1 Results, Rare Earth Permanent Magne...（磁鐵供應、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

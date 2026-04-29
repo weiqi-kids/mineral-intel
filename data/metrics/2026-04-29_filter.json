@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 69,
+  "no_date": 0,
+  "too_old": 209,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 39,
+  "gate2_samples": [
+    "Here's how flowers can harvest vital metals - MSN",
+    "Economic moves to curb Beijing's influence: US pressure to reshape the global vital metals market - ",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+  ]
+}

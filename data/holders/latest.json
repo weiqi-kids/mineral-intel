@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T10:08:49.550075+00:00",
+  "updated_at": "2026-04-29T10:00:24.114964+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -9,62 +9,62 @@
         {
           "holder": "Hancock Prospecting Pty Ltd",
           "shares": 14861212,
-          "pct_held": 8.36,
-          "value": 964789855
+          "pct_held": 8.35,
+          "value": 916936791
         },
         {
           "holder": "Vanguard Group Inc",
           "shares": 14479787,
-          "pct_held": 8.15,
-          "value": 940027745
+          "pct_held": 8.13,
+          "value": 893402868
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 13476867,
-          "pct_held": 7.59,
-          "value": 874918180
+          "pct_held": 7.57,
+          "value": 831522704
         },
         {
           "holder": "State Street Corporation",
           "shares": 6597885,
           "pct_held": 3.71,
-          "value": 428334682
+          "value": 407089509
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 3437707,
           "pct_held": 1.93,
-          "value": 223175932
+          "value": 212106524
         },
         {
           "holder": "Morgan Stanley",
           "shares": 3177806,
           "pct_held": 1.79,
-          "value": 206303159
+          "value": 196070632
         },
         {
           "holder": "Cooperman, Leon G.",
           "shares": 3000000,
           "pct_held": 1.69,
-          "value": 194759994
+          "value": 185100002
         },
         {
           "holder": "Van Eck Associates Corporation",
           "shares": 2834914,
-          "pct_held": 1.6,
-          "value": 184042611
+          "pct_held": 1.59,
+          "value": 174914195
         },
         {
           "holder": "Reaves (W.H.) & Company, Inc.",
           "shares": 2609526,
           "pct_held": 1.47,
-          "value": 169410423
+          "value": 161007756
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 2545709,
           "pct_held": 1.43,
-          "value": 165267423
+          "value": 157070247
         }
       ]
     },
@@ -77,7 +77,7 @@
           "holder": "Legato Capital Management LLC",
           "shares": 21766,
           "pct_held": 0.01,
-          "value": 168686
+          "value": 174780
         }
       ]
     },
@@ -90,61 +90,61 @@
           "holder": "Vanguard Group Inc",
           "shares": 14978848,
           "pct_held": 6.31,
-          "value": 319349034
+          "value": 308414482
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 14082305,
           "pct_held": 5.93,
-          "value": 300234738
+          "value": 289954662
         },
         {
           "holder": "Mirae Asset Global ETFs Holdings Ltd.",
           "shares": 13768894,
           "pct_held": 5.8,
-          "value": 293552815
+          "value": 283501529
         },
         {
           "holder": "Van Eck Associates Corporation",
           "shares": 12108694,
           "pct_held": 5.1,
-          "value": 258157352
+          "value": 249318011
         },
         {
           "holder": "Alps Advisors Inc.",
           "shares": 8381026,
           "pct_held": 3.53,
-          "value": 178683471
+          "value": 172565326
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 6604349,
           "pct_held": 2.78,
-          "value": 140804718
+          "value": 135983546
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 4297432,
           "pct_held": 1.81,
-          "value": 91621248
+          "value": 88484125
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 4177624,
           "pct_held": 1.76,
-          "value": 89066942
+          "value": 86017278
         },
         {
           "holder": "Morgan Stanley",
           "shares": 3952694,
           "pct_held": 1.67,
-          "value": 84271434
+          "value": 81385970
         },
         {
           "holder": "State Street Corporation",
           "shares": 3688397,
           "pct_held": 1.55,
-          "value": 78636622
+          "value": 75944094
         }
       ]
     },
@@ -157,61 +157,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 37041527,
           "pct_held": 0.79,
-          "value": 13705365
+          "value": 14260987
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 27359593,
           "pct_held": 0.58,
-          "value": 10123049
+          "value": 10533443
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 25228239,
           "pct_held": 0.54,
-          "value": 9334448
+          "value": 9712871
+        },
+        {
+          "holder": "-iShares Defense Industrials Active ETF",
+          "shares": 20866379,
+          "pct_held": 0.45,
+          "value": 8033555
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 15383457,
           "pct_held": 0.33,
-          "value": 5691879
+          "value": 5922630
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 9312139,
           "pct_held": 0.2,
-          "value": 3445491
+          "value": 3585173
         },
         {
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 8673606,
           "pct_held": 0.19,
-          "value": 3209234
+          "value": 3339338
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
-          "shares": 5527290,
+          "shares": 5463902,
           "pct_held": 0.12,
-          "value": 2045097
+          "value": 2103602
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Asia Pacific Small Company Series",
           "shares": 4602260,
           "pct_held": 0.1,
-          "value": 1702836
+          "value": 1771870
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 4164394,
           "pct_held": 0.09,
-          "value": 1540825
-        },
-        {
-          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
-          "shares": 3174101,
-          "pct_held": 0.07,
-          "value": 1174417
+          "value": 1603291
         }
       ]
     },
@@ -237,13 +237,13 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 554089,
           "pct_held": 0.16,
-          "value": 54799402
+          "value": 55852172
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 141965,
           "pct_held": 0.04,
-          "value": 14040338
+          "value": 14310072
         }
       ]
     },
@@ -256,7 +256,7 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 1065118,
           "pct_held": 0.15,
-          "value": 28438651
+          "value": 28598418
         }
       ]
     },
@@ -269,13 +269,13 @@
           "holder": "Doheny Asset Management /CA",
           "shares": 28850,
           "pct_held": 0.02,
-          "value": 163867
+          "value": 158098
         },
         {
           "holder": "Org Partners LLC                          ",
           "shares": 2155,
           "pct_held": 0.0,
-          "value": 12240
+          "value": 11809
         }
       ]
     },
@@ -288,13 +288,13 @@
           "holder": "Nano Cap New Millennium Growth Fund L P",
           "shares": 12000,
           "pct_held": 0.03,
-          "value": 308040
+          "value": 304080
         },
         {
           "holder": "Ancora Advisors, LLC",
           "shares": 400,
           "pct_held": 0.0,
-          "value": 10268
+          "value": 10136
         }
       ]
     },
@@ -307,61 +307,61 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 629769,
           "pct_held": 0.23,
-          "value": 1020225
+          "value": 1010779
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 436024,
           "pct_held": 0.16,
-          "value": 706358
+          "value": 699818
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Asia Pacific Small Company Series",
           "shares": 441208,
           "pct_held": 0.16,
-          "value": 714756
+          "value": 708138
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Vector Eqy. PORT.",
           "shares": 85552,
           "pct_held": 0.03,
-          "value": 138594
+          "value": 137310
         },
         {
           "holder": "Brighthouse Fd.s TRT II-Brighthouse/Dimensional Intl Small Company POR",
           "shares": 44058,
           "pct_held": 0.02,
-          "value": 71373
+          "value": 70713
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional World ex U.S. Core Equity 2 ETF",
           "shares": 60163,
           "pct_held": 0.02,
-          "value": 97464
+          "value": 96561
         },
         {
           "holder": "American Century ETF Trust-Avantis International Equity ETF",
           "shares": 48919,
           "pct_held": 0.02,
-          "value": 79248
+          "value": 78514
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Dimensional VA Intl Small PORT.",
           "shares": 15824,
           "pct_held": 0.01,
-          "value": 25634
+          "value": 25397
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-World ex U.S. Core Eqy. PORT.",
           "shares": 27243,
           "pct_held": 0.01,
-          "value": 44133
+          "value": 43725
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Core Equity Market ETF",
           "shares": 3775,
           "pct_held": 0.0,
-          "value": 6115
+          "value": 6058
         }
       ]
     },
