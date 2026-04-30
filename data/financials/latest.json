@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T10:00:21.623572Z",
-  "quarter": "2025-06-30, 2025-12-31",
+  "updated_at": "2026-04-30T10:01:45.642609Z",
+  "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "energy_fuels",
@@ -63,14 +63,14 @@
       "name": "北方稀土",
       "ticker": "600111.SS",
       "currency": "CNY",
-      "ar": 3909584048,
-      "ar_prev": 4033465818,
-      "ar_qoq": "-3%",
-      "inventory": 17069008175,
-      "inv_prev": 15958109308,
-      "inv_qoq": "+7%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 5320966115,
+      "ar_prev": 3909584048,
+      "ar_qoq": "+36%",
+      "inventory": 16068554241,
+      "inv_prev": 17069008175,
+      "inv_qoq": "-6%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "pensana",

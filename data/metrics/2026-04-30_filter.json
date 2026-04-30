@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 80,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 16,
+  "gate2_fail": 5,
+  "passed": 33,
+  "gate2_samples": [
+    "Nolans Momentum: Arafura’s Quiet Push to Redefine Supply - Kalkine Media",
+    "Here's how flowers can harvest vital metals - MSN",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+  ]
+}

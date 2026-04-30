@@ -1,0 +1,232 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:01:50.164962Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Rare Earth Giant Roars Back - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mR0lpSGxMNUVscVhlc3d5TzhRM2lza1N0MUs3SFFzNy1KbjVqOENlZi1Sa29Rd3pmZjhmbDJsaTR5VHlnT3RybWJCM1FQdEdZc3RneV90VXFVRGRVYWZVREduOF9Kc09jdndleFY2UjBHOFdKa0VWTEMyOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-04-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Nears Nolans Decision as Funding Stack Takes Shape - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2lFemVIVEdORHBJcVBhZWJwZFZLTE1EcXBONmF2WmwyWGtOOWgxdEZnZzRpTk9jZVpibjk3N0FycFhEMnY3SF9zellzektiZ3BMU0pCMVlYM3BjVGRTenJzM3A2TUI2ZC1hamp5S3FwMHhGYjVTZDlCT05GOGEzSVhlVVdNOGJHbE9nVHByX3p2amsyRGp4YjVuRVNsNXBZRUZpbkV4Y0ZaNl81WVNqMmZmNEg5Q3BjVUFtaDM0SFk4b18weHlhXw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hastings-2026-04-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Fast-Tracks Rare Earth Output With Thai Plant Acquisition and Offtake Deal - TipRanks",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkxBdHFGNmNEaTRQYmFPSlRFbGFFak02V3AxN0pBelYwMGR2NGFlQU1FN0twSTc0alJUa0pPU2dWTFgxeGpDTmlUaGt2blVHQ0ZubzNkWFFTTHhEcDVkNjlyMEpTclR5d2ZFbTZieThfeElXSzdOZ2RxMy1UN29tZ1lEVkJ1OVFvTjJYbk1Mc0RzYnNpMk0xZXdqaW5SeDFKbElYLVNIc1hpYkFpWWVSUU9vWHdwaThad0xBUWVyM2l4c0ZGSWdoLUIwYWtCLW9I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asm-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian Strategic Materials reports over 70% qtrly increase in NdFeB alloy delivery - marketscreener.com",
+      "companies": [
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbWk3VkpLN1p1R0lxNmo0bUEyM2VydjNuRVo3RlUtenNKVEw0QXhHUV9sRHZpWW5rd3pBaVpsM0NJM1FYMVA0UXpCVzZLQ2JDeVcyWUwxeUV6NTVtVGgwMzZQQ1lWU0RsemZrbXlkQkplZnU1bUF0dTVfYzVZcVhPSWZtbVRxczI0VEFja2oyelJhVVd6eWZVNDIwNFJvOU9wQlM2ZTFIUTdoeEw2UVhGSkQzUU4zSTl0dG45d2prT2pqcnZ1YU9BMm1EenlEVWdJempaYg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Race for Rare Earth Minerals Propels Niche Big Law Practices - Bloomberg Law News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHNob1NfaEJJTy0xSGNYeVRPVVh2anhaUWg0WlplTm92V2tuelB1YmNvdDN0a2R1MENNMTkwZnMyUXlJZTN5ODFka0Raa09Lb215d1YtZEZkVWROT2V5SXlVbHNFdVRtR2dvU2xicFlaSTF2U3RKd0laUXNoZFgyQlg1MzdIUXl0X21Td3k0U2IwVEwxUEVRV2hsVmt6YXJBYjR6N3dVZmlvdGExYXNVN1h5YUs5ZW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "supply_diversification": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      },
+      {
+        "id": "supply_diversification",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 80,
+    "too_old": 204,
+    "gate1_blocked": 16,
+    "gate2_blocked": 5,
+    "passed": 33,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Nolans Momentum: Arafura’s Quiet Push to Redefine Supply - Kalkine Media",
+      "Here's how flowers can harvest vital metals - MSN",
+      "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+      "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+      "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Arafura Rare Earths、Hastings Technology Metals、Australian Strategic Materials相關動態：「China’s Rare Earth Giant Roars Back - Rare Earth Exchanges」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s Rare Earth Giant Roars Back - Rare Earth Exchanges（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Arafura Rare Earths Nears Nolans Decision as Funding Stack Takes Shape - AD H...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
