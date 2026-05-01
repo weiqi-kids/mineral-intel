@@ -1,0 +1,190 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:27:55.046579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Faces a Two-Week Window to Close the 1,200-Tonne Gap - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTRpMG9FNzFMbEIyaWIwYVdxaUtIQ18tS1hZN202VHhyeUYzTWRiR01XTEtScG4xNjBCeG5xaTZ6TC1jaDFzVVJCZnl2TWJsU2I1VWpGMGt0aWJDVkE5cm1rRXdqYzBJNlpqbzV3V2Yyb1lzTHdIbzN6d3h2TUdWUGRpUmV2dTZGYktJLXhCYUExUHpPTklvS2JnWk5ZcXZnSEpUTDRCWW9FUmRrRV9FTTVJd04xWmhsZ3IwY0xDME1WLU1Rb0M1a3cyQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-05-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX All Ords Rare Earths Focus: Arafura (ASX:ARU) Project Update - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR29IcDNwNjdLUlBYUElXNkd4cmd3VzBVc0ItZ05Ra0x0c1FucjY0aWJLQzdYX0lQYXhCTDM3ZjRWYW5uUXZNSXBILWp5WmFUejFkNzdRWUhsNHEzSk9lWXhiVTRtT2Rjb3FZYWdTZG41eDRxRWxFMjNlU1NfSUN4VTNhRHFvNjBTdWN3WkJLQ3lGWC1GV1M4QTlFNG9ySmlpcVJKTW9xRFM0ZW9UT1Exd0NPODFjZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ontario to axe early-stage red tape, Lecce says",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/ontario-to-axe-early-stage-red-tape-lecce-says/1003890539/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Myanmar: A hidden source of China’s most critical minerals | D+C - Development + Cooperation - Dandc.eu",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTURnMDFvc3BkYTNVNTFLUDktWS1RakNONWNDcmdMMDNDZ296ejhGa3dlZ2VoSTFOMDRYX0dSV05vTUJtaWhybFB1WTBkZm1VTDkyYl8wLXpUNGItcWJLOExJMVYxQlhRdlpidmNabU5EQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump’s mineral reserve plans to buy rare earths from China - Mining.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXFuV3VoU3ZkdThrQzdkRlhSQjdPdndmSGlVaUF6N2E0SUlxSV8weUF4UkFVLThJUC1QMVdPV2pUdjI0dW02NGVDcnFQR09CMmpZYUxGOTdZS0psSHQxdllQVWpZMy0wMExVaElTdVZnTUtwY1hhWWltY2xJOUJDc0dEX2pTWXVuNkhyblhMRUJhWUpvSWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 93,
+    "too_old": 200,
+    "gate1_blocked": 16,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Here's how flowers can harvest vital metals - MSN",
+      "Ucore Rare Metals Grants Incentive Stock Options - Yahoo Finance",
+      "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+      "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Arafura Rare Earths相關動態：「Arafura Rare Earths Faces a Two-Week Window to Close the ...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arafura Rare Earths Faces a Two-Week Window to Close the 1,200-Tonne Gap - AD...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "ASX All Ords Rare Earths Focus: Arafura (ASX:ARU) Project Update - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

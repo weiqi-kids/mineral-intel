@@ -1,0 +1,15 @@
+{
+  "total_raw": 337,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 200,
+  "gate1_fail": 16,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Here's how flowers can harvest vital metals - MSN",
+    "Ucore Rare Metals Grants Incentive Stock Options - Yahoo Finance",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+  ]
+}
