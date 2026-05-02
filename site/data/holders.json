@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:27:54.627932+00:00",
+  "updated_at": "2026-05-02T08:59:32.534427+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -10,61 +10,61 @@
           "holder": "Hancock Prospecting Pty Ltd",
           "shares": 14861212,
           "pct_held": 8.35,
-          "value": 981434454
+          "value": 990202514
         },
         {
           "holder": "Vanguard Group Inc",
           "shares": 14479787,
           "pct_held": 8.13,
-          "value": 956245146
+          "value": 964788168
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 13476867,
           "pct_held": 7.57,
-          "value": 890012309
+          "value": 897963611
         },
         {
           "holder": "State Street Corporation",
           "shares": 6597885,
           "pct_held": 3.71,
-          "value": 435724331
+          "value": 439617059
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 3437707,
           "pct_held": 1.93,
-          "value": 227026173
+          "value": 229054407
         },
         {
           "holder": "Morgan Stanley",
           "shares": 3177806,
           "pct_held": 1.79,
-          "value": 209862311
+          "value": 211737205
         },
         {
           "holder": "Cooperman, Leon G.",
           "shares": 3000000,
           "pct_held": 1.69,
-          "value": 198120002
+          "value": 199889991
         },
         {
           "holder": "Van Eck Associates Corporation",
           "shares": 2834914,
           "pct_held": 1.59,
-          "value": 187217723
+          "value": 188890312
         },
         {
           "holder": "Reaves (W.H.) & Company, Inc.",
           "shares": 2609526,
           "pct_held": 1.47,
-          "value": 172333099
+          "value": 173872710
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 2545709,
           "pct_held": 1.43,
-          "value": 168118624
+          "value": 169620583
         }
       ]
     },
@@ -90,61 +90,61 @@
           "holder": "Vanguard Group Inc",
           "shares": 14978848,
           "pct_held": 6.31,
-          "value": 324142261
+          "value": 324441845
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 14082305,
           "pct_held": 5.93,
-          "value": 304741071
+          "value": 305022724
         },
         {
           "holder": "Mirae Asset Global ETFs Holdings Ltd.",
           "shares": 13768894,
           "pct_held": 5.8,
-          "value": 297958857
+          "value": 298234241
         },
         {
           "holder": "Van Eck Associates Corporation",
           "shares": 12108694,
           "pct_held": 5.1,
-          "value": 262032130
+          "value": 262274310
         },
         {
           "holder": "Alps Advisors Inc.",
           "shares": 8381026,
           "pct_held": 3.53,
-          "value": 181365397
+          "value": 181533021
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 6604349,
           "pct_held": 2.78,
-          "value": 142918108
+          "value": 143050198
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 4297432,
           "pct_held": 1.81,
-          "value": 92996425
+          "value": 93082376
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 4177624,
           "pct_held": 1.76,
-          "value": 90403780
+          "value": 90487335
         },
         {
           "holder": "Morgan Stanley",
           "shares": 3952694,
           "pct_held": 1.67,
-          "value": 85536295
+          "value": 85615351
         },
         {
           "holder": "State Street Corporation",
           "shares": 3688397,
           "pct_held": 1.55,
-          "value": 79816908
+          "value": 79890678
         }
       ]
     },
@@ -237,13 +237,13 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 554089,
           "pct_held": 0.16,
-          "value": 56406261
+          "value": 54189905
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 141965,
           "pct_held": 0.04,
-          "value": 14452037
+          "value": 13884177
         }
       ]
     },
@@ -256,7 +256,7 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 1065118,
           "pct_held": 0.15,
-          "value": 28598418
+          "value": 29823304
         }
       ]
     },
@@ -269,19 +269,19 @@
           "holder": "Doheny Asset Management /CA",
           "shares": 28850,
           "pct_held": 0.02,
-          "value": 171657
+          "value": 165887
         },
         {
           "holder": "Org Partners LLC                          ",
           "shares": 2155,
           "pct_held": 0.0,
-          "value": 12822
+          "value": 12391
         },
         {
           "holder": "Ascentis Independent Advisors",
           "shares": 1800,
           "pct_held": 0.0,
-          "value": 10709
+          "value": 10350
         }
       ]
     },
@@ -294,13 +294,13 @@
           "holder": "Nano Cap New Millennium Growth Fund L P",
           "shares": 12000,
           "pct_held": 0.03,
-          "value": 303599
+          "value": 320519
         },
         {
           "holder": "Ancora Advisors, LLC",
           "shares": 400,
           "pct_held": 0.0,
-          "value": 10119
+          "value": 10683
         }
       ]
     },
@@ -364,10 +364,10 @@
           "value": 45495
         },
         {
-          "holder": "Dimensional ETF Trust-Dimensional International Core Equity Market ETF",
-          "shares": 3775,
-          "pct_held": 0.0,
-          "value": 6304
+          "holder": "American Century ETF Trust-Avantis International Equity Fund",
+          "shares": 18274,
+          "pct_held": 0.01,
+          "value": 30517
         }
       ]
     },

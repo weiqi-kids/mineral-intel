@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:59:32.863020Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 99,
+    "too_old": 207,
+    "gate1_blocked": 14,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Ucore Rare Metals Grants Incentive Stock Options - Yahoo Finance",
+      "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+      "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti",
+      "Neo Performance Materials (OTCMKTS:NOPMF) Shares Gap Down - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-02 無關鍵礦物產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
