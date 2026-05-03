@@ -1,0 +1,15 @@
+{
+  "total_raw": 337,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 13,
+  "gate2_fail": 4,
+  "passed": 4,
+  "gate2_samples": [
+    "Ucore Rare Metals Grants Incentive Stock Options - Yahoo Finance",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti",
+    "Neo Performance Materials (OTCMKTS:NOPMF) Shares Gap Down - Time to Sell? - MarketBeat"
+  ]
+}

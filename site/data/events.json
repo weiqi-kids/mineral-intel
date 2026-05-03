@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illegal Miners Loot Amazon Rainforest for Critical Minerals - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVl9HNGktRlFfVmRZZTJIdVhTc3hWQlZ1dHhXMVBHQTFqaDQ1NHJKYldZZTgwTWZidm1IQnVkRTBhUWxuZ1pEaENhd0VTQUpIMF9TRFJhTFBHRS12Tkp1eGJwaW5yOEFsQkd5b1Vrbm",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVl9HNGktRlFfVmRZZTJIdVhTc3hWQlZ1dHhXMVBHQTFqaDQ1NHJKYldZZTgwTWZidm1IQnVkRTBhUWxuZ1pEaENhd0VTQUpIMF9TRFJhTFBHRS12Tkp1eGJwaW5yOEFsQkd5b1VrbmFNRXdFX1c2QUlGeUNjNTZRSFh6ekRhREdLaW12Q0FsWElwYXJOejJMamhyTjVWT2l1TDR1RkNvRjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "arafura-2026-05-01-001",
     "date": "2026-05-01",
     "companies": [
@@ -328,6 +347,42 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGlRcUlwMTVrcVR4VnJrV0tHcUpGU3FoSU8wNS04TEhaQUVvZ3hyNDdac1FTWWtGV3ZWRlNRYzNsM2lMLUszZHcwaUt3dlY3dlpLaTZVNW9HS3Z1Tl9LdEJMd2l6MkozVmNINnpPRGVhWEZMR1NIVnJLa3lKRjAyVWN0cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-019",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare earth mining is poisoning Mekong River tributaries, threatening 'the world's kitchen' - Chattanooga Times Free Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUhCVldCZGdFT1k3cWNWWGh4ZVNTTE9waFc5V1laZkdqQVR5V24wZTBoeUJFNFFSTVhRMHpQVm1sakVTdVYtUGNwR3BBSlk2Q1hGeTBZU2FXNFhlSE1fSnY1TW9xT0IxYVpPcWRpWH",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUhCVldCZGdFT1k3cWNWWGh4ZVNTTE9waFc5V1laZkdqQVR5V24wZTBoeUJFNFFSTVhRMHpQVm1sakVTdVYtUGNwR3BBSlk2Q1hGeTBZU2FXNFhlSE1fSnY1TW9xT0IxYVpPcWRpWHVTcW5TNFJ1ajVuTWlpRVZZR3dJbi1EM25KcDhEdGpvUFotUlFqZGt3YkRwSnliWkRpdFhYTlUydVVtLVIwUks2R3FSVEU1emFadXVVM1huY3JXaTNDTWJIdFFqeVpBb3Ez?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-020",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump sons’ crypto-linked bets run into mining security and financing conflict overseas – FT - Cryptonews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVmFWRm9GQ0RfUDgxSURSMVdoSXlmWFdaazJ6eld5NFdpUlBYZFc3ZlhsWjI4MkVDZTlrSDVheHdRY3JfLUVYVkdEU3dPbGFLZk1VOVZqbTA?oc=5\" target=\"_blank\">Trump so",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVmFWRm9GQ0RfUDgxSURSMVdoSXlmWFdaazJ6eld5NFdpUlBYZFc3ZlhsWjI4MkVDZTlrSDVheHdRY3JfLUVYVkdEU3dPbGFLZk1VOVZqbTA?oc=5",
         "type": "rss"
       }
     ]
@@ -706,6 +761,24 @@
       {
         "name": "google_critical_minerals",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2VDMU80Q2hIcy1idWdGc0poUFo2NFp1c3ZfTzNkRnJfR2FEN3pLblQtbWR5eVdET09hSjBmMXBDRV92eDdBQmJmTHVrTVQ1Mk80UnNnYmVHODBnaTNFNElUN1MwMl9KaFlOSlNrN1YzX3JDeTZYVm5VQkdwRE9CMEtSUzhsUFBpZV9zVEtvXzI0R1Rj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-04-30-021",
+    "date": "2026-04-30",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Q3 2025 Neo Performance Materials Inc Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE84ZG11dFdHdHg3dUtwZW9hNmtyNzBPeUU4M3M5WGVPTzRQUmc3NG1kTzdMS0k2ZW9VOGJPcEZLQ0xSWENmZjQ5RG1lT1NVSlY3ZUdGbTJRaXp6NnA1RDJhYm9vakRfVmhmeDk4?oc=5\"",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84ZG11dFdHdHg3dUtwZW9hNmtyNzBPeUU4M3M5WGVPTzRQUmc3NG1kTzdMS0k2ZW9VOGJPcEZLQ0xSWENmZjQ5RG1lT1NVSlY3ZUdGbTJRaXp6NnA1RDJhYm9vakRfVmhmeDk4?oc=5",
         "type": "rss"
       }
     ]

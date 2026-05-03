@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-03",
+  "date_range": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "generated_at": "2026-05-03T09:16:27.688711Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "iluka-2026-04-29-015",
+      "date": "2026-04-29",
+      "title": "ChartWatch ASX Scans: CSL, Cochlear, Codan, Iluka Resources, Arafura Rare Earths, Liontown, Nickel Industries, Seek - Market Index",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 33,
+      "last_week": 1,
+      "week_over_week_change": "+3200%",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 8,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "supply_diversification": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 4
+    },
+    "arafura": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "north_rare_earth": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 108,
+        "change_pct": 25.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-27",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-27 ~ 2026-05-03）共 135 則事件，重點為「ChartWatch ASX Scans: CSL, Cochlear, Codan, Ilu...」。萊納斯、Australian Strategic Materials表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "北方稀土",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Iluka Resources",
+        "reason": "受磁鐵供應議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
