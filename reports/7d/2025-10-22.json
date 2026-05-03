@@ -1,0 +1,103 @@
+{
+  "date": "2025-10-22",
+  "date_range": {
+    "start": "2025-10-16",
+    "end": "2025-10-22"
+  },
+  "generated_at": "2026-05-03T02:41:49.478629Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-10-16-005",
+      "date": "2025-10-16",
+      "title": "Why China curbing rare earth exports is a huge blow to the US - BBC",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "rare_earth_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 1,
+        "change_pct": 400.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

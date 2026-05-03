@@ -1,0 +1,109 @@
+{
+  "date": "2026-01-13",
+  "generated_at": "2026-05-03T02:41:51.600691Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-01-13-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ecosystems Are the Missing Link in Critical Minerals Supply Chains - Boston Consulting Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-01-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Greenland’s critical minerals require patient statecraft - Atlantic Council",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-01-13-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What are the impacts of China’s REE export restrictions on Japan? - Benchmark Mineral Intelligence",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  }
+}

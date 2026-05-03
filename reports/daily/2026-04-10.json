@@ -1,0 +1,114 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-05-03T02:41:57.554095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-10-022",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Export Controls: China keeps rare earth export controls suspended until November 2026 - news.cgtn.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ucore-2026-04-10-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UCU.CA Forecast, Price Target & Analyst Ratings | UCORE RARE METALS INC (TSX-V:UCU) - ChartMill",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-10-024",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "West Cobar Metals Supply Chain Strategy Targets U.S. Critical Minerals - Discovery Alert",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "china_export_control",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  }
+}

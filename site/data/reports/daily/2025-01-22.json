@@ -1,0 +1,44 @@
+{
+  "date": "2025-01-22",
+  "generated_at": "2026-05-03T02:41:47.428769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iluka-2025-01-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iluka exceeds 2024 sales guidance - Australian Mining",
+      "companies": [
+        "iluka"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "iluka",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

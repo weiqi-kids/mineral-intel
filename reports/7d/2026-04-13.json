@@ -1,0 +1,107 @@
+{
+  "date": "2026-04-13",
+  "date_range": {
+    "start": "2026-04-07",
+    "end": "2026-04-13"
+  },
+  "generated_at": "2026-05-03T02:41:58.086623Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-07-004",
+      "date": "2026-04-07",
+      "title": "Critical Minerals Strategy under the Trump Administration: Progress, Contradictions, and the Road Ahead - Wilson Center",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "rare_earth_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rainbow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "ucore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "north_rare_earth": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 19,
+        "last": 2,
+        "change_pct": 850.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-07",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-09",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-10",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ]
+}

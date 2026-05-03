@@ -1,0 +1,122 @@
+{
+  "date": "2025-10-17",
+  "generated_at": "2026-05-03T02:41:49.177996Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iluka-2025-10-17-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iluka Resources earnings: Q3 production, sales, and outlook - The Motley Fool Australia",
+      "companies": [
+        "iluka"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "hastings-2025-10-17-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals (ASX:HAS) Is Up 40.2% After US Sets NdPr Price Floor and Export Controls Tighten – Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "hastings-2025-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals (ASX:HAS) Is Up 51.4% After US-Australia Strategic Minerals Deal Talks - simplywall.st",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hastings",
+        "count": 2
+      },
+      {
+        "id": "iluka",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  }
+}

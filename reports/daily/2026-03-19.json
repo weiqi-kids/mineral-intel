@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-05-03T02:41:55.310924Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-03-19-020",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Q4 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "neo-2026-03-19-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Inc (NOPMF) Q4 2025 Earnings Call High - GuruFocus",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "neo-2026-03-19-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Tops 2025 Guidance and Advances European Magnet Strategy - TipRanks",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "neo-2026-03-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Missed Estimates As Revenue Fell - Finimize",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 4
+      }
+    ],
+    "top_topics": []
+  }
+}

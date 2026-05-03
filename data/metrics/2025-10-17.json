@@ -1,0 +1,29 @@
+{
+  "date": "2025-10-17",
+  "total_events": 3,
+  "by_company": {
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hastings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

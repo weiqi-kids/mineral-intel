@@ -1,0 +1,80 @@
+{
+  "date": "2026-02-27",
+  "date_range": {
+    "start": "2026-02-21",
+    "end": "2026-02-27"
+  },
+  "generated_at": "2026-05-03T02:41:54.308758Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-02-27-002",
+      "date": "2026-02-27",
+      "title": "Lynas Rare Earths (ASX:LYC) Is Up 21.0% After Record Half-Year Profit And Major Expansion Moves - What's Changed - Yahoo Finance",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-27",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

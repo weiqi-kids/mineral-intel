@@ -1,0 +1,21 @@
+{
+  "date": "2025-07-14",
+  "total_events": 1,
+  "by_company": {
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

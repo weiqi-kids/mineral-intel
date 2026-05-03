@@ -1,0 +1,144 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T02:41:57.997978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China hikes rare earth prices by 45%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "north_rare_earth-2026-04-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Prelim 2025 Net Profit Up 124.2% - TradingView — Track All Markets",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "north_rare_earth-2026-04-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Co., Ltd. (600111.SH) has forecasted a significant increase, with the net profit attributable to shareholders expected to rise by 109.14% to 118.43% year-on-year in the first quarter. - Moomoo",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-13-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese miner boosts rare earth prices - Mining Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "north_rare_earth-2026-04-13-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech prelim 2025 net profit up 124.2% - marketscreener.com",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "rare_earth_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 4
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "rare_earth_price",
+        "count": 3
+      }
+    ]
+  }
+}

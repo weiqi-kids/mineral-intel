@@ -1,0 +1,73 @@
+{
+  "date": "2026-03-19",
+  "date_range": {
+    "start": "2026-03-13",
+    "end": "2026-03-19"
+  },
+  "generated_at": "2026-05-03T02:41:55.398136Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "neo-2026-03-19-020",
+      "date": "2026-03-19",
+      "title": "Neo Performance Materials Q4 Earnings Call Highlights - Yahoo Finance",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "neo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 3,
+        "change_pct": 33.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

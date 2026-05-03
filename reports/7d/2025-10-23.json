@@ -1,0 +1,102 @@
+{
+  "date": "2025-10-23",
+  "date_range": {
+    "start": "2025-10-17",
+    "end": "2025-10-23"
+  },
+  "generated_at": "2026-05-03T02:41:49.699756Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "iluka-2025-10-17-008",
+      "date": "2025-10-17",
+      "title": "Iluka Resources earnings: Q3 production, sales, and outlook - The Motley Fool Australia",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "rare_earth_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "pensana": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 2,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-23",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

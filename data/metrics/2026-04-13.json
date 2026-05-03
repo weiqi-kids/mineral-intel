@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-13",
+  "total_events": 7,
+  "by_company": {
+    "north_rare_earth": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "rare_earth_price": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

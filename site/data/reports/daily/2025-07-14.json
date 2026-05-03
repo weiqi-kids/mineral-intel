@@ -1,0 +1,62 @@
+{
+  "date": "2025-07-14",
+  "generated_at": "2026-05-03T02:41:47.862672Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mp_materials-2025-07-14-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inside DoD and MP Materials' Critical Minerals Partnership - Procurement Magazine",
+      "companies": [
+        "mp_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mp_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  }
+}
