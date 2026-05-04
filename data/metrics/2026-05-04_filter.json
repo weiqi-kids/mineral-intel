@@ -1,0 +1,14 @@
+{
+  "total_raw": 338,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 13,
+  "gate2_fail": 3,
+  "passed": 13,
+  "gate2_samples": [
+    "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+    "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+  ]
+}

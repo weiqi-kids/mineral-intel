@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:08:52.158987Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia, Japan strengthen critical minerals ties - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0tyLXgwNEVEYVIzWERYbFI3V2VtRVV1NW5JQnpUZ0p0YVpRdTdhYjRLdmdGaHgteDlmeVB5N0ZrXzlZcU1mZVpyaHdlbUNaX2d4NElvaWFjeGRJUG4tOWlWUDYyc3hNNmkxWm53Z3ZlaGM4bkRCWTZPcHE0dVZ5OHRCLXJfSWpGRHNTZVg2ZXA5Z0pxRW5ueWpmYjZXQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-05-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) CEO Exit Tests Durability of Its Government-Backed Supply Chain Strategy - simplywall.st",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdE02YU5wVGRickJ4U0dJZ0R6VjNGUEJXbWp1NXB4T1JLeEdVeXgtSDh3Zl9OVWFYcGxYYV9vOFhidnA0MGtRNDFORmJHZTJOZTN5emJPM19LWUVIZjQ2V01pMzF6RndpWmk4VlRJbGZhZHJORXU1cm1fU3E4dmtUemg5MWoyR2Q5TkZoSVB6Tk9UMGpoOEJVbTJ2Q0ZIZG1QWGZoSkpiSGIwcE01WDBGUEREc3d3LTRraDVoSFROVENhdHZwbEZyY1haR2dBdnpPOU9DY2RPUdIB3AFBVV95cUxPMGJzbWhQQkNjWEZWTzdUeDFaTDhTOTRwbFBRdWdnTmpWYkg3VEMzSUdMUlR5bzBaVS1GeVNzeUVHZGg1cGJuSEtDQy1wTnREYkYxcUdBRUJ4NndtcUM5ZmpkNG1QaTFYVnRIYTFadTRYNkh2aVNJdTZXWXlqUmR4VHVSZmNTSFREMlRlR2FyUEw1UmNNRU55YkY0dVJIN1Z0NTRDcVRydnZUS240RWRQYXQtRnc3TDlaN0dWTDZqR3RYaDdCTmFtcGFhSUhPODNKeGJTXzF3alJRTHFF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-05-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MS-Australia Index Earning Revision (Apr): Lynas Rare Earths, National Australia Bank, BHP, Westpac - Smartkarma",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVkEydTRNd3RZcE5vdTNpbjRuV0MzeTRnMnpmMVF0WGJPNlNEZTIxV0JjMGwzOE82Ui1QUGNtTWY1cVRLNC1hTGFXbEM0OElPa0c1ank5YXpXenpKQTZSQ1lIVEl4eXA3VE13Qk4zc1hMc2lsZW1nNkxDNUUzdk5JSms4NlowWXVQdmJvSDllM3BpYnBrdGYxZUw1ZmlDN044V09DT0NnRWJvaEQtUW50aUFmUFA5WmFPZndhUXJiMzFXa2hQemZoaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asm-2026-05-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Quarterly wrap: Strong production lift for Australian Strategic Materials - Australian Mining",
+      "companies": [
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWU4Y25kc1BuYUFlV2VETnN3Y1k4UUs1Ql9hR1ZESFlzZjE2ZmpieEwwYU1FQzVrblBDcEE4TmEyMnJkYzJKRThYWWZ4Q3RZNXhkUFhUbEpGdnYxWXVtbHY2T0F6c2thS3hIcDJVNW9ZSkhScnVSSW1RbmhEMzBIMUtWVVlRR1JCclo5MDU1NDdPYXdUVTlRQTNGc0dVclV3QVB1ZXhVZ3lJVjJzblE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s critical minerals grip faces test as new Asian financing tool launches - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzBwQVlpNTlmUFZib3E1RTdJRzgyWHBhVng1QWoxMFFpNGx0V3FtbmFvSHlNQTY1MVh4VVIybHZ5S2Jrci1mTmZtd09KSXZaQzd4WGRfWjBGS1BJTjlyRVlrLVBEckh5RDA2TU9KYS15Znk5QlRESDhZaUViQzlSaVRyemdHV1hYSWNQX285NWMyLW9DMjNtekotMExwMVVOeWZTREc1T1RiSEN4ODhNdUZpOEhRc09kLUYySkhURmVFU3JVcXfSAcYBQVVfeXFMTmZxTVdZVW1fNF9mNmRXWWs5dUl2VlZvM3FOVWlHblFUblBBc2txMlVaY05nNFR0allZWUVtOUhYMFpKSWRfSExnd0FiQ09lRWkwSWFJLWs1Zktna2N6QWVZMGQ1ZlVfd2hsTk1xMGR2YjhGbEN4NnJvOXpiY1hUZGU3dlJXMl9MdmljVzFCVzF1NmpXYzBNbGRNZmp3dlFObm9VbzVGZUZxVFhUZWJ4OW9ON0p4bzFnRy1nX3pCZ1VGbXN0LTVB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 99,
+    "too_old": 210,
+    "gate1_blocked": 13,
+    "gate2_blocked": 3,
+    "passed": 13,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "1.3%",
+    "gate2_samples": [
+      "Ucore awards 2.775 million options priced at $5.33 a share - Stock Titan",
+      "Ucore Rare Metals Grants Incentive Stock Options - TMX Newsfile",
+      "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為萊納斯、Australian Strategic Materials相關動態：「Australia, Japan strengthen critical minerals ties - Mini...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Australia, Japan strengthen critical minerals ties - Mining Weekly（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) CEO Exit Tests Durability of Its Government-Backe...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
