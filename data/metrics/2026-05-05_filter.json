@@ -1,0 +1,13 @@
+{
+  "total_raw": 334,
+  "dup_title": 84,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 12,
+  "gate2_fail": 2,
+  "passed": 38,
+  "gate2_samples": [
+    "A Look At Ucore Rare Metals (TSXV:UCU) Valuation After Its Upgraded Bokan Dotson Ridge Resource Esti",
+    "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+  ]
+}
