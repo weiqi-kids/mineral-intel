@@ -1,0 +1,12 @@
+{
+  "total_raw": 332,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 12,
+  "gate2_fail": 1,
+  "passed": 18,
+  "gate2_samples": [
+    "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+  ]
+}
