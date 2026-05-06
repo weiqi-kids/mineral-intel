@@ -6,65 +6,65 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "north_rare_earth": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1851
+    "count": 1914
   },
   "iluka": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "energy_fuels": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "arafura": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "hastings": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "vital": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-05-05",
-    "count": 1472,
+    "latest": "2026-05-06",
+    "count": 1473,
     "history_complete": true
   },
   "rainbow": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1934
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 1998
   },
   "ucore": {
-    "earliest": "2018-09-05",
+    "earliest": "2018-06-07",
     "latest": "2026-05-05",
-    "count": 1924
+    "count": 1985
   },
   "shenghe": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1851
+    "count": 1914
   },
   "neo": {
-    "earliest": "2018-09-05",
+    "earliest": "2018-06-07",
     "latest": "2026-05-05",
-    "count": 1924
+    "count": 1985
   },
   "asm": {
     "earliest": "2020-07-30",
@@ -73,13 +73,13 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2018-09-07",
+    "earliest": "2018-06-11",
     "latest": "2026-05-05",
-    "count": 1880
+    "count": 1942
   },
   "etf_remx": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   }
 }

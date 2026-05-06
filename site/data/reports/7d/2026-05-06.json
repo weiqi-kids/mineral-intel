@@ -4,7 +4,7 @@
     "start": "2026-04-30",
     "end": "2026-05-06"
   },
-  "generated_at": "2026-05-06T06:02:42.675565Z",
+  "generated_at": "2026-05-06T10:11:53.170571Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,9 +18,9 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "industry_general": {
-      "this_week": 37,
+      "this_week": 42,
       "last_week": 20,
-      "week_over_week_change": "+85%",
+      "week_over_week_change": "+110%",
       "sentiment_this_week": 0.0
     },
     "magnet_supply": {
@@ -46,7 +46,7 @@
     "arafura": {
       "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 2
+      "rank": 3
     },
     "hastings": {
       "event_count": 2,
@@ -59,9 +59,9 @@
       "rank": 5
     },
     "lynas": {
-      "event_count": 3,
+      "event_count": 5,
       "sentiment_avg": 0.0,
-      "rank": 3
+      "rank": 2
     },
     "rainbow": {
       "event_count": 7,
@@ -72,9 +72,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 110,
+        "this": 115,
         "last": 149,
-        "change_pct": -26.2
+        "change_pct": -22.8
       }
     }
   },
@@ -111,12 +111,12 @@
     },
     {
       "date": "2026-05-06",
-      "event_count": 2,
+      "event_count": 7,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-30 ~ 2026-05-06）共 110 則事件，重點為「China’s Rare Earth Giant Roars Back - Rare Eart...」。Australian Strategic Materials表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 115 則事件，重點為「China’s Rare Earth Giant Roars Back - Rare Eart...」。Australian Strategic Materials表現正面，整體氣氛穩健。",
     "watchlist": [
       {
         "company": "Arafura Rare Earths",
@@ -124,7 +124,7 @@
       },
       {
         "company": "萊納斯",
-        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "Rainbow Rare Earths",

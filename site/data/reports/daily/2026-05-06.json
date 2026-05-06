@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:42.609924Z",
+  "generated_at": "2026-05-06T10:11:53.104684Z",
   "top_events": [
     {
       "rank": 1,
@@ -43,12 +43,74 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LNXhtVTkyaDgxYTdDb1RMRWdKM2ZuSC1jOWp5dGlwVnpxc3pJYnBMRGdVTzZyNTFXLW94YWdFb0lnNTVaY3FsOWNDY2hXWURsM3MxazRMeklPaG1BUU9aaTNGT3BaaWxJdFZvTjRoM0x0aGg4djVSWG9Ncw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Western regulations pivot rare earth buyers from China - grafa.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaV9VN3EzcDZlMm91a19laHRCcFlaUGpoY2hJNjBKMDk1eUdUVHZGWlFxeUtERXhuMXdlaFluQUF0Q2syTUQxem00cU44M1FIR2M0RFVVRGZlaXI0RFoxUmd6bXY5VFk4UUxISlk3OW40VmNCSi1Qd012VW5IZmtCbl84VnB0SFpQc19EX3NwT2NrNTRj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How we can fight China rare metal monopoly: mining boss - Michael West Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnI4M1lfZGV0WEZBdkFoNmdCSDk4SEpSeWdCSDZ1MmlTOTcxel9CelZrVmZpMnpsckxrNE0zdVlneFlmRlE1YjBaRmVQSkp2VVloSFgxbjF4VnFMRkVrUFpIcTBzOUJ6bTNXT3JKMWoxMldiV0FLNlNTVEN0eXJyQWpJWVZFY0pXR1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-05-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas CEO says US, Europe rules sway buyers from Chinese rare earths - KLSE Screener",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXBVVHNsdVM0aVlLbkg4b3BEbGt2MktVXzlydmwtQmlTMWdxT2xMLVRTaXEwNnd6bExJQW1JU1ZySktSLUVWS3hWXy1jcXRaZVJDMXdjN3N0NDJ3dllPU3ptaGFGVFBrVmxKbHlxWU1IenVRSnJnTEktLUN5aWd1aEdSS0JpLTFFeVZJckYxaXYzNllKOEJ5S1RUeGtxWG8zSzR6bUl6emhfQkRFbFg4aVFSZzgtaGd4?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 2,
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -60,41 +122,42 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 7,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 2,
+      "neutral": 7,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "lynas",
-        "count": 1
+        "count": 3
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 2
+        "count": 7
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 332,
-    "dup_title": 99,
-    "too_old": 202,
-    "gate1_blocked": 12,
-    "gate2_blocked": 1,
-    "passed": 18,
-    "pass_rate": "7.7%",
+    "total_raw": 665,
+    "dup_title": 211,
+    "too_old": 404,
+    "gate1_blocked": 25,
+    "gate2_blocked": 2,
+    "passed": 23,
+    "pass_rate": "5.1%",
     "gate2_block_rate": "0.4%",
     "gate2_samples": [
+      "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor",
       "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為萊納斯相關動態：「Lynas CEO says US, Europe rules sway buyers from Chinese ...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "summary": "今日共 7 則事件，焦點為萊納斯相關動態：「Lynas CEO says US, Europe rules sway buyers from Chinese ...」。主要關注主題為礦業產業通用，市場情緒中性。",
     "signals": [
       {
         "text": "Lynas CEO says US, Europe rules sway buyers from Chinese rare earths - Reuters（礦業產業通用）",
