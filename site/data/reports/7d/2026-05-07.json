@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-07",
+  "date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-07"
+  },
+  "generated_at": "2026-05-07T10:16:39.644083Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arafura-2026-05-01-001",
+      "date": "2026-05-01",
+      "title": "Arafura Rare Earths Faces a Two-Week Window to Close the 1,200-Tonne Gap - AD HOC NEWS",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 42,
+      "last_week": 26,
+      "week_over_week_change": "+62%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arafura": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lynas": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hastings": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "rainbow": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 118,
+        "last": 155,
+        "change_pct": -23.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-01",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 31,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-01 ~ 2026-05-07）共 118 則事件，重點為「Arafura Rare Earths Faces a Two-Week Window to ...」。礦業產業通用、關鍵礦物政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rainbow Rare Earths",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

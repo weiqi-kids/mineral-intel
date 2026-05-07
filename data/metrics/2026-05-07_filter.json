@@ -1,0 +1,13 @@
+{
+  "total_raw": 334,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 13,
+  "gate2_fail": 2,
+  "passed": 26,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+  ]
+}
