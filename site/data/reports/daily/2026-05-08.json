@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:08:50.668474Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Neo Performance Materials Is Revolutionising AI Rare Earth Manufacturing - Discovery Alert",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDN0ZDhVVThid2JwM3N0ZzhWSGZuWExKUDdqWWJzRHl3aUgyRVlCTjBZaF9HOXpIemFxUFphNGVLME5NcGJzUGNrdHd5WURpX2VUZHZEZHJOSlo4dUZ3eng2LWNLVEFTVW1OdGlhLXVyVmFOSjh6bl9DUmNWaUwwSTdlbURCUXNZZ3RTQXVFdE9KT0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Secures Greenland Critical Minerals - Energy News Beat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmljNGdBVzZxUFk0elRXeFg1bmlMRFhOdEs1MUF1MGxmM2taNXVBdlFKNXNEQ2VTQy1HZDhiamlHbnhsWkx6RExkbGdsejhzT2lxRGVtb3ZiUjZHcjR3OXdBTTBSbnZWSHBaNDU0YlFVTmlkRW1hWG9kLWduNkplT1NKVFJEcVUyN0Fr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Altona Rare Earths Reflects Mining Sector Activity Across FTSE All-Share Index Market Landscape - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRVBLNmdPcTJNRHduY2hrZWVmQjVnTlFPN3JoV1otY2VHU1cyZE8tRm5uQWNZWmNpaktpQXNpXzI4TDFYb1hRa2lwQnBRWnRfTHJDVW05WVNYQzNEaFpIQjFHR3laVERPbktyUmFtV0FFQUtZcGNLVnhZT09nSmRjeW9uRlhSVkFTYjV3UFM0UWpETklTVU9PX2RjQ0dIRXpqdWYxcWc2U1A0eDNuMlFIYXcwdDVlY1FnU3dTdmlOWjI1QklIYzNBdVYzRkIzX2JGakJTNGNvQjI4SlF5bXFVWXRQZV8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China doesn't control rare earth minerals, but it's parlour: Saran | Tap to know more | Inshorts - Inshorts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNEl0aHlaU1UxN0V0SnV6VDRaTUhHTy0tQy00M1VfSkFnSTFZWk0tN0ZJMHJlMFF0RE9XOS1QSk0tZHdDRzRvLURCMkZiLUZNc0NUOEQtMk5JSlc2MEZmREZ3WFJoSzJXaW5mQzNnR2VMWmJudlRCeFRrdzBkbjVwRExFMC04LXN1TWs4OW82ODdkZnMtc3RLUTZLVDR5WFJNM1EtZE9ocU9GNUhIa1HSAbMBQVVfeXFMUGpJUHAySHVoVDBfeHZpc3lOdVc5aXAyUE92S2ZrS2NWSTZmR3d5aV80emdZM3pJcGhma0FZajk2a09sTEVPUlZ3OUprNTlPaUl3QW4xY0xfMUJfakdYNGd5bWRULWJmQUdtWUZOQVlMdWNtMFhPTFdBZWtHRC1Tb3RSUzVyTWN1R1RyQWVOY2FIX0lGUnVRNmFlOXkzNFdxdzQ2UGNxUzluNjRpc1pjMGI1Wnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 92,
+    "too_old": 198,
+    "gate1_blocked": 19,
+    "gate2_blocked": 3,
+    "passed": 21,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+      "Neo seeks a tech metals-AI feedback loop - Metal Tech News",
+      "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Neo Performance Materials相關動態：「How Neo Performance Materials Is Revolutionising AI Rare ...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Neo Performance Materials Is Revolutionising AI Rare Earth Manufacturing ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "US Secures Greenland Critical Minerals - Energy News Beat（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

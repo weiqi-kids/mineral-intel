@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:16:36.125098Z",
+  "updated_at": "2026-05-08T09:08:47.034799Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -10,11 +10,11 @@
       "ar": null,
       "ar_prev": null,
       "ar_qoq": "N/A",
-      "inventory": 73492000,
-      "inv_prev": 74354000,
-      "inv_qoq": "-1%",
+      "inventory": 69034000,
+      "inv_prev": 73492000,
+      "inv_qoq": "-6%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "iluka",
