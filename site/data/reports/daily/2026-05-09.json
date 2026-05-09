@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:11:48.528581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials and TalTech’s AI Manufacturing Partnership - Discovery Alert",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXVnd1c2UWtvU2xWSFd0NS1xZjg0NW1WVC1xWFAyOHFiLUYzV3ZXUTUxd2dDUDAySFlnMXRHVFdBSGN4cUNnbUxvYWx0dW1sa3pRSU84Mm1DSUg5bEpETmhjYm5MNjlQWWlWNU9TRjVpM21qRnZOVFNtOUNrWGVEMkU1enpMRHMtaUpNZGlHV3FBc3ZsbGJUckVB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Earth Maps Are Being Redrawn to Include Greenland - RealClearWorld",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19KMDVjOWtNZEswdlBrZUptUWhpNHhsRXR4S0h1NlFBOVlCUkpJdjlLQ0Z4SVluOHBNci1vUi1DMl9qb1pyWnlYRXJsSlloSk1xdHFyM1RmSUhrSnV2bzU5cWViRU1UemhsblRTQ1VVd0czZ0pHdVR3a1AxT1ZneWg4bW9zcU9CYjlFLVZQb21pU0lpWXZyTHJNUUx6elVZY2x1d0drNXNqcU45Y0JwY3FGR2dwM0ExUHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 93,
+    "too_old": 204,
+    "gate1_blocked": 16,
+    "gate2_blocked": 3,
+    "passed": 17,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+      "Neo seeks a tech metals-AI feedback loop - Metal Tech News",
+      "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Neo Performance Materials相關動態：「Neo Performance Materials and TalTech’s AI Manufacturing ...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Neo Performance Materials and TalTech’s AI Manufacturing Partnership - Discov...",
+        "level": "green"
+      },
+      {
+        "text": "Rare Earth Maps Are Being Redrawn to Include Greenland - RealClearWorld（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

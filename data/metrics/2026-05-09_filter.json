@@ -1,0 +1,14 @@
+{
+  "total_raw": 333,
+  "dup_title": 93,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 17,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Neo seeks a tech metals-AI feedback loop - Metal Tech News",
+    "Energy Fuels Inc. May 2026 Update: 8 Things You Need to Know - Crux Investor"
+  ]
+}
