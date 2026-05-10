@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-10",
+  "date_range": {
+    "start": "2026-05-04",
+    "end": "2026-05-10"
+  },
+  "generated_at": "2026-05-10T09:24:32.089542Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arafura-2026-05-08-005",
+      "date": "2026-05-08",
+      "title": "Arafura Rare Earths: Technical Breakthrough Meets Fundamental Progress - AD HOC NEWS",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 39,
+      "last_week": 33,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hastings": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "rainbow": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "neo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 132,
+        "last": 150,
+        "change_pct": -12.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-04",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 32,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-04 ~ 2026-05-10）共 132 則事件，重點為「Arafura Rare Earths: Technical Breakthrough Mee...」。礦業產業通用、關鍵礦物政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rainbow Rare Earths",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

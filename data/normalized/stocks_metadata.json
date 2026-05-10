@@ -6,39 +6,39 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2189
+    "count": 2253
   },
   "north_rare_earth": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2093
+    "count": 2157
   },
   "iluka": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2189
+    "count": 2253
   },
   "energy_fuels": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   },
   "arafura": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2189
+    "count": 2253
   },
   "hastings": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2189
+    "count": 2253
   },
   "vital": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2189
+    "count": 2253
   },
   "pensana": {
     "earliest": "2020-07-06",
@@ -47,24 +47,25 @@
     "history_complete": true
   },
   "rainbow": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2185
+    "count": 2248
   },
   "ucore": {
-    "earliest": "2017-09-12",
+    "earliest": "2017-06-14",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2234
   },
   "shenghe": {
-    "earliest": "2017-09-13",
+    "earliest": "2017-06-15",
     "latest": "2026-05-08",
-    "count": 2093
+    "count": 2157
   },
   "neo": {
     "earliest": "2017-12-08",
     "latest": "2026-05-08",
-    "count": 2111
+    "count": 2111,
+    "history_complete": true
   },
   "asm": {
     "earliest": "2020-07-30",
@@ -73,13 +74,13 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2017-09-14",
+    "earliest": "2017-06-16",
     "latest": "2026-05-08",
-    "count": 2125
+    "count": 2189
   },
   "etf_remx": {
-    "earliest": "2017-09-15",
+    "earliest": "2017-06-19",
     "latest": "2026-05-08",
-    "count": 2173
+    "count": 2235
   }
 }
