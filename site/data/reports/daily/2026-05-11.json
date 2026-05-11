@@ -1,0 +1,117 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:55:39.025150Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-05-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AngloGold Ashanti, Power Metallic Mines, Lynas Rare Earths – Commodities on the Verge of Another Surge - news.financial",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtrYldKWmQ4VndsR0hlNVJJY0Vfcl9aYlhlb3ZRVU8wVF9hbzBPZmpHMXJ6cVJnNjdUSHRwNThxMGp0LXY5UVpVTnlueDZ3bUV4Q2NhMGFyTk12UFlLUWFpbkdUbGZobURXM2Jwcml5RWJvalVobWItTFhUZ2tvajVMQ1hzb0p1bmhMalRHSnNUc2xIU2kybHBIdnozM3VrYmhEbzR5ckoxaHd5YTNqaDl0NUx1bXRpWW4zdk9fenZSVG5ZczFBVm9n?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rainbow-2026-05-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MOS and Rainbow Rare Earths advance Uberaba project in Brazil - MSN",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOZmJSRVNlV2NES3poRWd4aVBkVkJmZG5uYlZhSmVoUGl2WHlNOUN5akhlOFVxUUdVcEpsM2tRWkdVNDlvUWlwc2xpdURlcVJUN3QwdzFiUy1VWjN0MVYwSTZWQmJUOWdhdHlvdmhObWp2RmYxRm9vNGNhc0E5WmhHRGFVZkhSWTdrUjk2R1F0aTByV2Iza0dfb2p6dWNEdTJsaVlrWUNNLU5HUVIyQUFYYVdYRm9PdUlEWDFJcTd3SlBVXzNpQzRSd1dyUWdWVHpVZ2dzdkJJZ3pQa3l1VDZ4YzNLZWZNSXc0SzhNLUxtSFd2SkhYOGxyWlo1cUVNb2NvZmJNU3hTQl9fR3BoVWNWaVRzNWRKQnprOTMxcTRUWUMwQk9tMFR3YnI3cjZzZ0Q1SFFDZDdqUDc4NkNHX01WdnNFYzhJTXZuSzdJbF96aFBWdzA0T1l4LXRLM3Y2WVM5dTJMeQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 94,
+    "too_old": 210,
+    "gate1_blocked": 16,
+    "gate2_blocked": 2,
+    "passed": 14,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+      "Neo seeks a tech metals-AI feedback loop - Metal Tech News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為萊納斯、Rainbow Rare Earths相關動態：「AngloGold Ashanti, Power Metallic Mines, Lynas Rare Earth...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AngloGold Ashanti, Power Metallic Mines, Lynas Rare Earths – Commodities on t...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "MOS and Rainbow Rare Earths advance Uberaba project in Brazil - MSN（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "total_raw": 336,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 210,
+  "gate1_fail": 16,
+  "gate2_fail": 2,
+  "passed": 14,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Neo seeks a tech metals-AI feedback loop - Metal Tech News"
+  ]
+}
