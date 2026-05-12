@@ -1,0 +1,14 @@
+{
+  "total_raw": 332,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 31,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+    "Neo seeks a tech metals-AI feedback loop - Metal Tech News"
+  ]
+}
