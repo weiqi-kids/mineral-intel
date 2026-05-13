@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 95,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 35,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+    "Neo Performance Materials : Investor Presentation (NPM Investor Presentation 1Q2026) - marketscreene",
+    "Neo Performance Materials Reports First Quarter 2026 Results - Newswire Canada",
+    "Neo Performance Materials Q1 Adjusted Net Income Boosted By Better Than Expected Revs; Lifts Its 202"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:16:07.643321Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-05-13-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Neo Performance Materials Lifts Guidance After Record Q1 - TipRanks",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2Z3RkVZUUw0aDE4MVVobi1uQW1PS2tuaWQ1X2R2QXZhNHhBUjBsZnJRVEtPYVZQNnhNNEVUR0FCZFJQTXd1bzYyQV9KbXljNm1EOWUtSU1SYXhWVUlBVkVRMzkxU1R5eksxWVZWblp0c29nQVFLY1UyV1VoeXVxeXZNdVJkZGZ1eXQ4T29ZdU12WlZ2bVRFQVFZc3FNR2NqOFZZUDJhVmNaNGNW?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "neo-2026-05-13-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Neo Performance Materials Inc (NOPMF) Q1 2026 Earnings Call Highlights: Record Revenue and ... By GuruFocus - Investing.com Canada",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelJmeE0yQ0tkS2d4YlBRaHpLZjB2Smxub05sUnRLZjlfZ3ZuYU5Wak90SHlYM0hDakpVcG41QW4tT1M4ZmpJZnpwSWowT01pTXk3aGE5NDlmblVTbURMM2w5WlByT0pMWGNQTUV6VWg0NVFtTGE2WnNUaDg5MUZxdk9XN0k2WmctdU9aZ2lVb0R0aWVwNzkxbEFTa0FLUV8tTGItR3hUaklEZTZnOXB0Y1UtUFlPLUFNdjZuVWg5SlpGRzhGck9VQ2U3X0txZm5LRlRGd3BR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-05-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU) Locks 500tpa Traxys Deal Aimed Squarely At US Supply - Stocks Down Under",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTG5nQkdpSXRxTFNvN1ZtbHNDdWdzcGhFMHktLWtmU3o3bWJ4RzFWalBEN2J2bUdodHRDd2daTERrQ2VaaU5VZnRjdVJta3FvZnViR291WHJCYjZxSjAxLWIwbG9QYmlCTVJKSVdZVl9ObFhQbk1OZlJyTGowQllzY3l5SjBrbFNsLXJNWg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-05-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Adds Another U.S.-Linked Offtake Signal - Rare Earth Exchanges",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTFQbEFmdXpieDBHTlExX0FhejktMWxlek9kSzREekJsZ0k0MjdEZ3VMYkhDdEJEckdjVi1BSDBaS3JhRGNTRVcwcmVlSGVVYjJLNmFsMUptNXZaWEd6YkVDSUNSbWdOSFhmczd5dmRfSEFWSVFROUNtVC03RExOX19ZZ1J5MUpnYU5F?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-05-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura inks US rare earths offtake deal - Australian Mining",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT214dUZ2VmRFVy1YMnZmMGdWQ0dhQzF4dTBsVkhMbTJPb2VuVXJ6ZnpNTUxqY01WeGhSa0YtTXZpZXNWYUhweTlZVUhOOUp2cXBIRDNDWWY0NktEUG14VjA5bjR4M2VaSllKbXNMWXQ2Y2FNTmRfV082WjFSZ3NEaWNwbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 5
+      },
+      {
+        "id": "neo",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 95,
+    "too_old": 178,
+    "gate1_blocked": 14,
+    "gate2_blocked": 8,
+    "passed": 35,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+      "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+      "Neo Performance Materials : Investor Presentation (NPM Investor Presentation 1Q2026) - marketscreene",
+      "Neo Performance Materials Reports First Quarter 2026 Results - Newswire Canada",
+      "Neo Performance Materials Q1 Adjusted Net Income Boosted By Better Than Expected Revs; Lifts Its 202"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Arafura Rare Earths、Neo Performance Materials相關動態：「Neo Performance Materials Lifts Guidance After Record Q1 ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Neo Performance Materials Lifts Guidance After Record Q1 - TipRanks",
+        "level": "green"
+      },
+      {
+        "text": "Neo Performance Materials Inc (NOPMF) Q1 2026 Earnings Call Highlights: Recor...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-13",
+  "total_events": 10,
+  "by_company": {
+    "arafura": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 3,
+      "sentiment_avg": 0.67
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
