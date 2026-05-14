@@ -1,0 +1,266 @@
+{
+  "companies": [
+    {
+      "id": "mp_materials",
+      "name": "MP Materials",
+      "aliases": [],
+      "ticker": "MP",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "美國唯一稀土礦山營運商",
+      "rss_url": "https://investors.mpmaterials.com/rss/news-releases.xml",
+      "downstream": [
+        "neo",
+        "shenghe"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "lynas",
+      "name": "Lynas Rare Earths",
+      "aliases": [
+        "萊納斯"
+      ],
+      "ticker": "LYC.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "稀土開採/加工",
+      "description": "中國以外最大稀土生產商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Lynas+Rare+Earths\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "neo"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "north_rare_earth",
+      "name": "China Northern Rare Earth",
+      "aliases": [
+        "北方稀土"
+      ],
+      "ticker": "600111.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "全球最大稀土生產商",
+      "rss_url": "https://news.google.com/rss/search?q=\"China+Northern+Rare+Earth\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "shenghe",
+        "china_rare_earth"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "iluka",
+      "name": "Iluka Resources",
+      "aliases": [],
+      "ticker": "ILU.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "稀土/鋯",
+      "description": "澳洲礦砂與稀土精煉",
+      "rss_url": "https://news.google.com/rss/search?q=\"Iluka+Resources\"+rare+earth+zircon&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "energy_fuels",
+      "name": "Energy Fuels",
+      "aliases": [],
+      "ticker": "UUUU",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "稀土/鈾",
+      "description": "美國稀土與鈾礦生產商",
+      "rss_url": "https://investors.energyfuels.com/rss/news-releases.xml",
+      "downstream": [
+        "neo"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "arafura",
+      "name": "Arafura Rare Earths",
+      "aliases": [],
+      "ticker": "ARU.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "澳洲稀土開發商（Nolans 項目）",
+      "rss_url": "https://news.google.com/rss/search?q=\"Arafura+Rare+Earths\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "hastings",
+      "name": "Hastings Technology Metals",
+      "aliases": [],
+      "ticker": "HAS.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "澳洲稀土開發商（Yangibana 項目）",
+      "rss_url": "https://news.google.com/rss/search?q=\"Hastings+Technology+Metals\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "vital",
+      "name": "Vital Metals",
+      "aliases": [],
+      "ticker": "VML.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "加拿大稀土礦開發商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Vital+Metals\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "ucore"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "pensana",
+      "name": "Pensana",
+      "aliases": [],
+      "ticker": "PRE.L",
+      "market": "LSE",
+      "currency": "GBP",
+      "position": "upstream",
+      "role": "稀土加工",
+      "description": "英國稀土氧化物加工商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Pensana\"+rare+earth+processing&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow Rare Earths",
+      "aliases": [],
+      "ticker": "RBW.L",
+      "market": "LSE",
+      "currency": "GBP",
+      "position": "upstream",
+      "role": "稀土開採",
+      "description": "南非稀土開發商（Phalaborwa 項目）",
+      "rss_url": "https://news.google.com/rss/search?q=\"Rainbow+Rare+Earths\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ucore",
+      "name": "Ucore Rare Metals",
+      "aliases": [],
+      "ticker": "UCU.V",
+      "market": "TSXV",
+      "currency": "CAD",
+      "position": "midstream",
+      "role": "稀土分離",
+      "description": "稀土分離技術（RapidSX）",
+      "rss_url": "https://news.google.com/rss/search?q=\"Ucore+Rare+Metals\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vital"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "shenghe",
+      "name": "Shenghe Resources",
+      "aliases": [
+        "盛和資源"
+      ],
+      "ticker": "600392.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "稀土貿易/加工",
+      "description": "中國稀土貿易與加工整合商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Shenghe+Resources\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "mp_materials",
+        "north_rare_earth"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "neo",
+      "name": "Neo Performance Materials",
+      "aliases": [],
+      "ticker": "NEO.TO",
+      "market": "TSX",
+      "currency": "CAD",
+      "position": "midstream",
+      "role": "稀土磁鐵材料",
+      "description": "稀土磁鐵先驅材料製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Neo+Performance+Materials\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "mp_materials",
+        "lynas",
+        "energy_fuels"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "asm",
+      "name": "Australian Strategic Materials",
+      "aliases": [],
+      "ticker": "ASM.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "midstream",
+      "role": "關鍵金屬",
+      "description": "鈦鋯與稀土金屬加工",
+      "rss_url": "https://news.google.com/rss/search?q=\"Australian+Strategic+Materials\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "china_rare_earth",
+      "name": "China Rare Earth Holdings",
+      "aliases": [
+        "中國稀土"
+      ],
+      "ticker": "0769.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "midstream",
+      "role": "稀土加工",
+      "description": "稀土氧化物與金屬加工",
+      "rss_url": "https://news.google.com/rss/search?q=\"China+Rare+Earth+Holdings\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "north_rare_earth"
+      ],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "remx",
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "REMX",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "稀土與戰略金屬 ETF"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "稀土開採",
+      "稀土開採/加工",
+      "稀土/鋯",
+      "稀土/鈾",
+      "稀土加工"
+    ],
+    "midstream": [
+      "稀土分離",
+      "稀土貿易/加工",
+      "稀土磁鐵材料",
+      "關鍵金屬",
+      "稀土加工"
+    ],
+    "downstream": []
+  }
+}

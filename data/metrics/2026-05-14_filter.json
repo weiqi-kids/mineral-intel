@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 16,
+  "gate2_fail": 7,
+  "passed": 42,
+  "gate2_samples": [
+    "Hastings Director Increases Shareholding Through Option Exercise - TipRanks",
+    "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+    "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+    "Neo Performance Materials Reports First Quarter 2026 Results - PR Newswire Canada",
+    "Neo Performance Materials Q1 Adjusted Net Income Boosted By Better Than Expected Revs; Lifts Its 202"
+  ]
+}
