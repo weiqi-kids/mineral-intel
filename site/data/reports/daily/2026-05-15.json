@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:15:18.279692Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Empty Stockpiles: The US Military Must Rearm — A Golden Opportunity for Lynas Rare Earths, Antimony Resources, and Lockheed Martin - news.financial",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWUNMdjVaNGlvUDVwRUNmeExlaHI5S1RteXNLQUpxRmEyQkJPNWFTWUpzMVRlVmFGSDNUUUZFWlVQR0Q1RVVHOTdVX0hzdnQ0SVdOUlpoV2xfSHp0cThGUjlHM3BvUlF3WmQ5ZnhkTHdEZFpvMTJUbk9pYUJUWWVrNU1QazZuTThFRTllNW5XeDFtTk0za1JyNjBYLVhVZnBXNlNJOEliUlB6TEJyTjlROE82RVJsWDhyRW1qQUN6QVdFZDZYTTRYVWx2LXpzTEUxTmdVaGhDbGJSLVFFUTMtNElEeUFod3ZWN2c1TzBIb0Nmdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura and Traxys sign rare earths deal - Mining.com.au",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2akdTVEZHTzRvaVcwQUE5c2pOaFdpUnRSTWlyOEV3VWxyOURiYi0zN3dBSlQzd2tDQmZ5djMxRTRNSUNKd2doUWRNZklJaUhkamJweGFfOEZ6Tmpaa2oyMEJ1X05hU3dmLUdUVXNDRmQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What does Arafura’s rapid progress mean for Australian rare earths? - Australian Mining",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkFpTjFUOFhMZTY4S0ZrWi1iUnJBNVQxcmlvb3I4dW5fUi1TSlk3VmltVGthSjh1MmFIMjJlWWRXbGZiOVdPdWxSckdQN0k3bXFmOF9PREstQmpaZjlwQTQ4V1M1clRBU2VjZ3J4NFBGbXhTZUlLRUs5QVdwZ0pvMDc5ck4ybUVaSHdQYi1NWFVXZHlHYVNPNFlkcVl6a2plTTBYNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asm-2026-05-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian Strategic Materials Says Federal Court Orders Shareholder Meeting to Vote on Proposed Acquisition by EFR Critical Materials - Moomoo",
+      "companies": [
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ2JyNUZpUmpzOGVWQUpZcmRnT2hxdXFYT19CdTRENmZXaVZUVEpEUm1yQTlFZnctaWhoZUNfQ1p3SlhmUDBEZnZwUl9wTEJfeFVEX0ZhVExqTVhzdk1BUWpGRHM4eVdyams5d1kzNVFyNEVhVUNFbmx1Z0VYSlJXWFU5WTU1UExOMUo0SXdhZXVZdUpUaWJoRmtySkNTOHJXYnBPbDlER2tfNE5qcThyNUlSZ2JoT3ZoallPMzFnMWVmay02SFcyRjZZNllCQ0dEb3V1S0ZFN3pTei10TGExRHlpVzc3NmQ0TnYwVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 115,
+    "too_old": 168,
+    "gate1_blocked": 18,
+    "gate2_blocked": 9,
+    "passed": 21,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+      "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+      "Need To Know: Analysts Are Much More Bullish On Neo Performance Materials Inc. (TSE:NEO) - simplywal",
+      "Neo Performance Materials Reports First Quarter 2026 Results - PR Newswire Canada",
+      "Neo Performance Materials Rises In TSX Smallcap Index Discussions Again - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Arafura Rare Earths、萊納斯、Australian Strategic Materials相關動態：「Empty Stockpiles: The US Military Must Rearm — A Golden O...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Empty Stockpiles: The US Military Must Rearm — A Golden Opportunity for Lynas...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Arafura and Traxys sign rare earths deal - Mining.com.au（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
