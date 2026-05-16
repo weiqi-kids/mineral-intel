@@ -1,0 +1,149 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:24:57.667194Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Trade Representative Greer: China Rare Earth Exports Improving, but Delays Persist - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUtBT1VJWmc5UmlaQ1JFeGxjWGg4R3NRN1ZEdlk2WEpxN1haSHhKX0l5UWZpYzIxZ05wZkhOVXVvaTdHMjZfTGx6SE9weUZUY2Z1ZXhnMURacFc4cGdrek9WMEk0LVVoc0JjZTlCaml1RS1nd2QzVlIzT3RkNWdNVHVITGsxOWZXZHBmT1VrV2ZKcGJ1eTJvdEEyOHNjcHlhQmYwWWlQeXdjUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At Arafura Rare Earths (ASX:ARU) Valuation After New Traxys Offtake Term Sheet - simplywall.st",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVnlxOXNLYUJaSmlHbXl0LURWSWNKNkEwUFE0ZVR3NUxjTDBTYkZKU2x6QWtVRFEwYmphc2dqbEtSOExkbjVwNFlPMk4tX3RsMHl3ektJRzg2MFEtQ0F2ZjVKRmx1MkZ2UnVlX3Y0ZHlaZ0NrWnN6Z0JuNUpWQTdRaS1NTWd5RkZ1TjlCdS11ZnlTaTdhSmlxZUpBUGxza3Ayekg1dVczN1RZX3ctOUFIMlpsY2FHRUFTTl9MeEhTX2drVnVlSjRtMWtuejhzYUdqb0NaZGgtYlk0WEV2cGlB0gHfAUFVX3lxTE5WeXE5c0thQlpKaUdteXQtRFZJY0o2QTBQUTRlVHc1TGNMMFNiRkpTbHpBa1VEUTBiamFzZ2psS1I4TGRuNXA0WU8yTi1fdGwweXd6S0lHODYwUS1DQXZmNUpGbHUyRnZSdWVfdjRkeVpnQ2tac3pnQm41SlZBN1FpLU1NZ3lGRnVOOUJ1LXVmeVNpN2FKaXFlSkFQbHNrcDJ6SDV1VzM3VFlfdy05QUgyWmxjYUdFQVNOX0x4SFNfZ2tWdWVKNG0xa256OHNhR2pvQ1pkaC1iWTRYRXZwaUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Rare Earth Breakaway From China Still a Decade Away - Sri Lanka Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTg3V254N281OUt1aTQ1TUVKMF9VYW12RzQzM1JoMXZ3SnA1Y05sQS1tLUh3TW5JTlZxQllnUzMyUWJFcXJzdTZMX21oSVVwY1VzSHlwbzlQNDYxYlNaNmNqSzI4cTBCdXgyVDJfdW1URlBNV19aVmF4WWlvLVpQbk8zWVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 119,
+    "too_old": 163,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 25,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+      "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+      "Need To Know: Analysts Are Much More Bullish On Neo Performance Materials Inc. (TSE:NEO) - simplywal",
+      "Neo Performance Materials Reports First Quarter 2026 Results - PR Newswire Canada",
+      "Neo Performance Materials Q1 Adjusted Net Income Boosted By Better Than Expected Revs; Lifts Its 202"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Arafura Rare Earths相關動態：「U.S. Trade Representative Greer: China Rare Earth Exports...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "U.S. Trade Representative Greer: China Rare Earth Exports Improving, but Dela...（中國出口管制、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A Look At Arafura Rare Earths (ASX:ARU) Valuation After New Traxys Offtake Te...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
