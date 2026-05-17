@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 14,
+  "gate2_fail": 6,
+  "passed": 12,
+  "gate2_samples": [
+    "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout",
+    "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+    "Neo Performance Materials Reports First Quarter 2026 Results - PR Newswire Canada",
+    "Need To Know: Analysts Are Much More Bullish On Neo Performance Materials Inc. (TSE:NEO) - simplywal"
+  ]
+}
