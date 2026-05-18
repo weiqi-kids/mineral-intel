@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-18",
+  "total_events": 11,
+  "by_company": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "supply_diversification": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
