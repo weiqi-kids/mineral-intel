@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 12,
+  "gate2_fail": 6,
+  "passed": 30,
+  "gate2_samples": [
+    "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout",
+    "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+    "Need To Know: Analysts Are Much More Bullish On Neo Performance Materials Inc. (TSE:NEO) - simplywal",
+    "Australian Strategic Materials (ASM AU): Scheme Vote on 22 June - Smartkarma"
+  ]
+}

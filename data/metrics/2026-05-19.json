@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-19",
+  "total_events": 10,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": -0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

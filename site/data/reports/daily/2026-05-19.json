@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:56:13.039035Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas anchors rare earth surge - Australian Resources & Investment",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUREMkdldXpkOGhNNnZ6bllsZy1OTS1EOXpKa25vQ1R6VUNRQ3lKZmx3bnYtSjR0SmJkeFRvYmRlRzdEclhCZ29wZWFnTHdyemhFaThobWpHUEhKdGNqcGJVakNDWGdMSUk4LWxBUmgtSWlaX0ZHeC1Ud09xUFUzcUxaMVZtZ25KNUVOUU9TcUpWaFlzZmU2TVVn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-05-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Lynas Rare Earths (ASX:LYC) Shares are Trading Lower on Tuesday? - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1pSS05ndWJxWHJmSXVhcC1Kd0VRd00yUExJYjJlTWNKV1BqY3ZpSW8zYlFNR1NBbHVhLWVmSVdsVkZTcl82TGF0NHVPNW9hZ1RBS0REa3JKd090dEswYXd5aFBjdFZYQUZjNURWcGNKd05WcGFnRWEwSWVFYi13YzVtR0JKRm5zMlBicGhqUzFWSm16LUpPcXZkcHZUYU5B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's Rare Earth Giant Signals Tightened Control, Financial: Discipline, and Long-Term Strategic Coordination - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEtHeUZsRjNUUnhrXzE5Sk13NDlsRjNxVUM2VUk0cERpTmZ6ZGticWRERXZobUxrTWVVV0l1SUFIa3c3dnZPaTczRW5DTXV4SWxKcEtrdWRLTXFqNkJHVW14V2VVODZpYjBKSGxLTUVyc2pHcDRKTUhuREtfOTN0SWxfM2NEaXhjdWkzdlYtZDlkLUM5aEM1UmJtemZoTVl3Tm5hSmR5QkhsRmlNd0l1WkF2ZFQwbjJnYjRqRmFDYWxkQ1NYMHl4LXA3ZERSVmduWFVJTklXYXdwTzdK?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Annual import value of rare earths to China from 2015 to 2025 - Statista",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmhINFNHWDFyRTdoTDkxaVJYaFp4YWdCa1VsZ05JX2NVZFRIc1pMVE9pbUVrQVVpQUNFMHkwVWRDc21pVE9STWhtbnR6NGp0c0JHeFJzUWJ5c01fTC1YSUg3MnQ5QjRkY0dWZGxpSmRDeTFnUWdER2FUcElxRElmbTBzSFM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China to Ease Mineral Concerns, Controls Stay: White House - Mexico Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUduVjMzOU9uYzA2ZlpMbzlTVzFndzV2Tll4Q0dETVV1c1VxZU9LSmJ2VFZEelJUYlI5c0xjTlpZeDIwSmpES1NNMEstaUYxbU8xazk2RHMtZGg3TlhRSVF2em92bERGWVNTcFE3QlpkYkIxRG5KeXRGQTBvUDVRRDYzVGNvWnRPdFZKcHQtNU03WUNpM2p4MA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 117,
+    "too_old": 163,
+    "gate1_blocked": 12,
+    "gate2_blocked": 6,
+    "passed": 30,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Why Insider Buying Is Keeping Vital Metals in Market Focus - Kalkine Media",
+      "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout",
+      "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+      "Need To Know: Analysts Are Much More Bullish On Neo Performance Materials Inc. (TSE:NEO) - simplywal",
+      "Australian Strategic Materials (ASM AU): Scheme Vote on 22 June - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為萊納斯相關動態：「Lynas anchors rare earth surge - Australian Resources & I...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lynas anchors rare earth surge - Australian Resources & Investment（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Lynas Rare Earths (ASX:LYC) Shares are Trading Lower on Tuesday? - Kalkine（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

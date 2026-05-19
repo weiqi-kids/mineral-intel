@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:39:49.679340Z",
+  "updated_at": "2026-05-19T10:56:09.219079Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -35,28 +35,28 @@
       "name": "MP Materials",
       "ticker": "MP",
       "currency": "USD",
-      "ar": 14642000,
-      "ar_prev": 14792000,
-      "ar_qoq": "-1%",
-      "inventory": 171560000,
-      "inv_prev": 144366000,
-      "inv_qoq": "+19%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 47291000,
+      "ar_prev": 14642000,
+      "ar_qoq": "+223%",
+      "inventory": 169192000,
+      "inv_prev": 171560000,
+      "inv_qoq": "-1%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "neo",
       "name": "Neo Performance Materials",
       "ticker": "NEO.TO",
       "currency": "CAD",
-      "ar": 93186000,
-      "ar_prev": 90662000,
-      "ar_qoq": "+3%",
-      "inventory": 205405000,
-      "inv_prev": 160710000,
-      "inv_qoq": "+28%",
+      "ar": 113962000,
+      "ar_prev": 93186000,
+      "ar_qoq": "+22%",
+      "inventory": 234594000,
+      "inv_prev": 205405000,
+      "inv_qoq": "+14%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "north_rare_earth",
