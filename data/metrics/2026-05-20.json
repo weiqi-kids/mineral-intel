@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-20",
+  "total_events": 6,
+  "by_company": {
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "critical_mineral_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

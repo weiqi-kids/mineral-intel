@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:44:37.013617Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-05-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Western Governments Take Equity Stakes to Push Arafura’s Nolans Project Past the Funding Line - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFQ4Y3hQdmlwU2Jhdk9vOFh2VXRUMWxtMk1TeElGb1VWTjZsa1BqYkQydW1FQmxXU29SWVMxcTN0aXVaNng4V1NiQ1NSSmRDYTFOM25TMi1kMjRXdVB4Vy0zRVZ6akE0UWZjQThTbDdzSXEyWFlNLXUzRVRIUWl2a3VTcFlDNUhMSUc3VjM0bzdKSXNLcnk3RkEzd1lMd2RYOGF1U2Z0WUlpNkRkQlp6bXhGUU5NUzdPa3N4M3JXN2REb2F3eDNkbnh3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Brazil become a major rare earths supplier? - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMURva2cxdWRIem9Da0RZb3ljek5sMnJNNU9XM3RtQnkxUUMyc0hqSTU4ODdpNmZYVFlXQ29ZbU0wSERWYW43UEYzOTh4R2d6VWoxazB1Nlp5VWEzd2hMSW1BTjlUdVdfQlhrR2VZUl80M1ozMVRpR1VuTXc4U19mRENwNDhCS0F6bTMxbXQ2SUlEWUF3V0FFdlV4OWVnbE1uSHBkREVhQzlpTWZPRFNtQk02VjdKMXc2dkM2TzVyWDc0NDF3Qkk3QnhR0gHPAUFVX3lxTE9QMXBIdnhRdnRlV29Vei1aUUtvLWJiMjhDa013NFhBenYtd3Z3SzZlY2QxNlIwVFRfamJkTkdfaGxZWjk2Y0RuYUsxZks2Slhza2NiTGREZG9WS3AtTmFwUjlocmkyam9sYUsyM0hBR2VIdjRiZ1B4c0p3cTFoejNrSDJUcno2MzZxd1l0NXRvMlZ0MXc0dFhzTEt0RUp2R1hSM25sMlhmMDZzSm1KUXVVREh2THJTenREVmZzQTM2Mlc4WHJEa0xPOTg1MHRXdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK's Clean Power 2030 mission hinges on global critical minerals supply chain - Solar Power Portal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGRxa2VZNTBPU1ZFUE5kQ184S1ZXbEJZcVp3Q3REMGpnOTBhWFZSYlExa1hmWjFTTGJBR1RsMXhEcXBsQTZnNm9lY3JqVHA3R3hRTHZjNXlfVG01NG5KU0R3X0dpcm12QTJMZll1UkRjQ0F2bHVQNGZONmhZWmhyRVc3U1VGRGY4Y3dOUjg1ODgzS012Qk1OTXdHc3RRWmxzdVVuQ3VCNXZBS1pVMEVGczkxenl6cFF2cy10UlhnZWFORTRz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX Critical Minerals Stocks in Focus as Supply Chain Risks Reshape Investor Interest - Kalkine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHVoVjgxOGVIeWQxb3ltUDg5M1kzdzV1SGtJRzdOV0E5dkxKd1dvYTF2UjdLUkRkNHFhXy1TU09Xdk51dEFhSUgwdy1MYmhTZlkyYlVHNURFRWFnV3pqazk4ODl5Wkltc0lMWWdiTnVBcDRnUEVMLVpDQ3lzdlZGblM0TWxWTXlHcXlDb2pjdEtaRVJWMXpHdzZhaFpkTXFNZVNwc3JkZnR0aDRCS0p3aWhNRUF2bUMyN0txdg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Rare Earth Export Controls and Growing US Supply Concerns - Discovery Alert",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVlfTGRreHY3RmJ4TnNkVTZNbHE4dWRQZ1d6Z0VEZEJ2WF9BWDR5MF92OGI2WkNxdVd2SFZMU2pRY2IxbVgtVzVaNGdaa1A4RmpURzhORy13NXFYMW1QUm1QUFpKODhHZ2UzWnZLOEFEd2hxZ3l4WjlabjczN2g0NDN1UXJIVGZkVmNZcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "china_export_control",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 111,
+    "too_old": 182,
+    "gate1_blocked": 16,
+    "gate2_blocked": 4,
+    "passed": 21,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout",
+      "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+      "Raj Ray Lifts Neo Performance Materials Price Target to C$38 on Strong Q1 Beat, Upgraded 2026 Outloo",
+      "Australian Strategic Materials (ASM AU): Scheme Vote on 22 June - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Arafura Rare Earths相關動態：「Western Governments Take Equity Stakes to Push Arafura’s ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Western Governments Take Equity Stakes to Push Arafura’s Nolans Project Past ...",
+        "level": "green"
+      },
+      {
+        "text": "Can Brazil become a major rare earths supplier? - The Economic Times（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

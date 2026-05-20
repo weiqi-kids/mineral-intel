@@ -1,0 +1,15 @@
+{
+  "total_raw": 334,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 16,
+  "gate2_fail": 4,
+  "passed": 21,
+  "gate2_samples": [
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout",
+    "Neo Performance Materials Maintained at Buy at Stifel Canada After Q1 Results; Price Target Raised t",
+    "Raj Ray Lifts Neo Performance Materials Price Target to C$38 on Strong Q1 Beat, Upgraded 2026 Outloo",
+    "Australian Strategic Materials (ASM AU): Scheme Vote on 22 June - Smartkarma"
+  ]
+}
