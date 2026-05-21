@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 16,
+  "gate2_fail": 9,
+  "passed": 43,
+  "gate2_samples": [
+    "Rinehart-backed Arafura proceeds with crucial flagship NT project - AFR",
+    "Australia’s Arafura to build $1.6 billion rare-earths project - MSN",
+    "Arafura Greenlit A $1.6 Billion Rare-Earths Mine In Australia - Finimize",
+    "Neo Performance Materials Hands Sarfartoq Project To Greenland Mines - Finimize",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout"
+  ]
+}

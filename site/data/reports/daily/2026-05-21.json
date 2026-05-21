@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:01:24.378731Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia’s Arafura approves $1.6 billion rare earths project - KFGO",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTk1rcUh3bVpYVEJtQXVMaDZvM1MxWkZFRmpXMUNIU2g0WVRYLVRVLWRfQmc2MVFla1JBd1hZWXJWOHVwMENMdVRoY0Y4NjY2Mmc2X0lYWUpFZkM5OHlUQ3ZIcm55REc2dE5FbWx4c3FZZGFpN25oRmhUa056OHJSRkphX3hmQ28wOHo0akFtZ01hZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia's Arafura approves $1.6 billion rare earths project - Reuters",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVFxS0hvQndZMWZSYTJVa3Nzd0ljbWg3TDdBcTJ0ZWhCMDJyVVNCRTNuUnNyanc4dFRydkxUQTJNWFNHQWpSQmlhdDVTU0VzQkVjdXRQYU1tdE1YcW1MYmcxcjNJX3BiTmZhdjBHWm9Jc2NFQmluM3ZQR3d1WVMxZEJhdHBmOTNCRnRTeTRSaVJRV19zT3lQMFlxQ1NQeDFrbE15bmd1X0d6Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia’s Arafura to Build $1.6 Billion Rare-Earths Project - WSJ",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcE02dkJtY3NyOXJUSTR6RVkyalhYNm5vclZGdnFtZXhIOXZtUC1lYzlMZzJpUzFSQ2pjVWNuYi0zcTJ6QWVwYjV1c2xmM0VsQTBhYnpmVEh6SHM4c21WVUdQRTZZRFhVRmlzeHVHYmF4RF9iOFNJTGQ5OWxnaVoxQUR6bnhtdlpBNHAtN2JXUUFIdFlFN2hEQzU1SU9mQTdfNFpjM05RQTZaOE11T19aeTZlMm1wN28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian Rare Earths Miner Gives Go-Ahead for Massive Project - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2VsWDNJdGRnQzhZLTYtN2xlOTgtVEN0TF8zd3BhX0NZYXU4dDdGenplYWVOVnRLZXM3bUJFX2NIRmxkODFDdW5vdkhQNFloMlFrY0pobUJQXzFUV2ZyZ1ZFVmNja3pmSFByUFNvOEhONFc1UVlKaFNDdGRrYTVaQ0hiWVlpWVZDSmwyUDB4ZlMtVDhVSFJyRnlFUl9ydnE2UTB5ZW81QmVibXZSeG1zMWxpOXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-05-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths mine gets green light to challenge China's dominance - Australian Broadcasting Corporation",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVTEtSVhDMXFjWWwybkFablB0THJuYUVNTFBGTS11NjJadEZDaTV4OUY2alIyeU41QmJCdnR6WUlBSU5ZX1BKeFgzRHNlSFVkVm12MFdJN0lITEdSOEVwOXM0bWU2c3N1VjRaTGIwaXZMNUVkcXh2cFFYeW9ZVkN0WFkxT1ZRank2RjJXR1RIQ2R0T3ZUNXRTTXJ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 13
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 92,
+    "too_old": 174,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 43,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Rinehart-backed Arafura proceeds with crucial flagship NT project - AFR",
+      "Australia’s Arafura to build $1.6 billion rare-earths project - MSN",
+      "Arafura Greenlit A $1.6 Billion Rare-Earths Mine In Australia - Finimize",
+      "Neo Performance Materials Hands Sarfartoq Project To Greenland Mines - Finimize",
+      "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Arafura Rare Earths、Australian Strategic Materials相關動態：「Australia’s Arafura approves $1.6 billion rare earths pro...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Australia’s Arafura approves $1.6 billion rare earths project - KFGO（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Australia's Arafura approves $1.6 billion rare earths project - Reuters（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

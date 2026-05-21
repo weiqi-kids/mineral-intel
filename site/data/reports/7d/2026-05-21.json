@@ -1,0 +1,122 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T11:01:24.520048Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-15-010",
+      "date": "2026-05-15",
+      "title": "Trump leaves Beijing with no rare earth deal confirmed",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 50,
+      "last_week": 31,
+      "week_over_week_change": "+61%",
+      "sentiment_this_week": -0.05
+    },
+    "china_export_control": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "critical_mineral_policy": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.1
+    },
+    "supply_diversification": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "arafura": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "asm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 146,
+        "last": 173,
+        "change_pct": -15.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 29,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 25,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 27,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 27,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 146 則事件，重點為「Trump leaves Beijing with no rare earth deal co...」。礦業產業通用、關鍵礦物政策、中國出口管制為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
