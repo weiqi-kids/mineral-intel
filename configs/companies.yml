@@ -77,6 +77,7 @@ companies:
   description: 澳洲稀土開發商（Nolans 項目）
   rss_url: https://news.google.com/rss/search?q="Arafura+Rare+Earths"&hl=en&gl=US&ceid=US:en
   fetch_mode: http
+  inventory_applicable: false
 - id: hastings
   name: Hastings Technology Metals
   aliases: []
@@ -112,6 +113,7 @@ companies:
   description: 英國稀土氧化物加工商
   rss_url: https://news.google.com/rss/search?q="Pensana"+rare+earth+processing&hl=en&gl=US&ceid=US:en
   fetch_mode: http
+  inventory_applicable: false
 - id: rainbow
   name: Rainbow Rare Earths
   aliases: []
@@ -136,6 +138,7 @@ companies:
   upstream:
   - vital
   fetch_mode: http
+  inventory_applicable: false
 - id: shenghe
   name: Shenghe Resources
   aliases:
