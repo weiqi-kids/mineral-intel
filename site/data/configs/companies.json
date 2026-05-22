@@ -94,7 +94,8 @@
       "role": "稀土開採",
       "description": "澳洲稀土開發商（Nolans 項目）",
       "rss_url": "https://news.google.com/rss/search?q=\"Arafura+Rare+Earths\"&hl=en&gl=US&ceid=US:en",
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "hastings",
@@ -136,7 +137,8 @@
       "role": "稀土加工",
       "description": "英國稀土氧化物加工商",
       "rss_url": "https://news.google.com/rss/search?q=\"Pensana\"+rare+earth+processing&hl=en&gl=US&ceid=US:en",
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "rainbow",
@@ -165,7 +167,8 @@
       "upstream": [
         "vital"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "shenghe",
