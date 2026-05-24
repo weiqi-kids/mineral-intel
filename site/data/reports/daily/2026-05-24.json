@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:49:54.156435Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 122,
+    "too_old": 181,
+    "gate1_blocked": 10,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Australia's Arafura rare-earth project to start construction in September - Nikkei Asia",
+      "Rinehart-backed Arafura proceeds with crucial flagship NT project - AFR",
+      "Neo Performance Materials Hands Sarfartoq Project To Greenland Mines - Finimize",
+      "Australian Strategic Materials (ASM AU): Scheme Vote on 22 June - Smartkarma",
+      "ASM Sends Scheme Booklet Ahead of Energy Fuels Takeover Vote - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-24 無關鍵礦物產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

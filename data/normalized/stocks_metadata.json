@@ -6,39 +6,39 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3068
+    "count": 3131
   },
   "north_rare_earth": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 2942
+    "count": 3000
   },
   "iluka": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3068
+    "count": 3131
   },
   "energy_fuels": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "arafura": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3068
+    "count": 3131
   },
   "hastings": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3068
+    "count": 3131
   },
   "vital": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3068
+    "count": 3131
   },
   "pensana": {
     "earliest": "2020-07-06",
@@ -53,14 +53,14 @@
     "history_complete": true
   },
   "ucore": {
-    "earliest": "2014-04-07",
+    "earliest": "2014-01-07",
     "latest": "2026-05-22",
-    "count": 3043
+    "count": 3106
   },
   "shenghe": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 2942
+    "count": 3000
   },
   "neo": {
     "earliest": "2017-12-08",
@@ -75,13 +75,13 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2014-04-15",
+    "earliest": "2014-01-15",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3041
   },
   "etf_remx": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   }
 }
