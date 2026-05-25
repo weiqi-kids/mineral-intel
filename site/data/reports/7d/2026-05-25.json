@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-25",
+  "date_range": {
+    "start": "2026-05-19",
+    "end": "2026-05-25"
+  },
+  "generated_at": "2026-05-25T11:46:30.346130Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "shenghe-2026-05-19-026",
+      "date": "2026-05-19",
+      "title": "A-share rare earth stocks collectively declined, with Zhongxi Youse and Shenghe Resources dropping more than 4%. - 富途牛牛",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 59,
+      "last_week": 42,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": -0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "magnet_supply": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "arafura": {
+      "event_count": 29,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "neo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 170,
+        "last": 186,
+        "change_pct": -8.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-19",
+      "event_count": 28,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 40,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 47,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 37,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-19 ~ 2026-05-25）共 170 則事件，重點為「A-share rare earth stocks collectively declined...」。礦業產業通用、關鍵礦物政策、中國出口管制為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "盛和資源",
+        "reason": "受磁鐵供應議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
