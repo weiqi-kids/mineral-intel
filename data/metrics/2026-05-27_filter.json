@@ -1,0 +1,13 @@
+{
+  "total_raw": 330,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 13,
+  "gate2_fail": 2,
+  "passed": 36,
+  "gate2_samples": [
+    "How China almost pipped Arafura to develop $2.2bn Nolans field - NT News",
+    "A Look At Neo Performance Materials (TSX:NEO) Valuation After Its CA$100.05m Follow On Equity Offeri"
+  ]
+}

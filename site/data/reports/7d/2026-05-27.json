@@ -1,0 +1,117 @@
+{
+  "date": "2026-05-27",
+  "date_range": {
+    "start": "2026-05-21",
+    "end": "2026-05-27"
+  },
+  "generated_at": "2026-05-27T11:32:50.224954Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-26-013",
+      "date": "2026-05-26",
+      "title": "America’s manufacturing Achilles’ heel: McKinsey’s warning on rare earths grows louder - Fortune",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 49,
+      "last_week": 43,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arafura": {
+      "event_count": 28,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lynas": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "neo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 138,
+        "last": 175,
+        "change_pct": -21.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-21",
+      "event_count": 47,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 38,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 13,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-21 ~ 2026-05-27）共 138 則事件，重點為「America’s manufacturing Achilles’ heel: McKinse...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
