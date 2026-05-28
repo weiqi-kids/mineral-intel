@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:32:26.603856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Earth Race Heats Up as Lynas Expands Processing Push - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3YwZXAzeTRWUXBzb3Z0VUVrT2hNRXBxQmxyeW5GZFM4Q3pqZW91WVo0UUctenM2NVhSUlBjQWlZaXpSOTNaVEdZenE3dVJwM2NFdWRtVzdnbzVTd24weGpCR0dPdTJsVXpHdEYtdUJ6dm45VE9vSXR3OUttTU15UzdyNmdaV0VsZzhHRnRWSzFyejcxUURnSWxzdWM1X0EtNFRpblVwd3ROUFN0SGJTWTJ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zimbabwe Strengthened Mineral Controls, Minor Metal Sector Rose Over 3%, Yunnan Germanium Industry, Jin Mo Shares Hit Daily Limit [SMM News Flash] - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbG1oaXVBWGdvNUdmbDJUbTVJeUp5cnhIa1hZenkzZEZOcjhjMS1vbE9fNGU4WVJ2U2VTeUJKa1ZiV1NoUENrMGxIRC1TRHNSbjJpWFR0ZFR3bzRHaHllM045S2RUc2d3MUhuWWg2azNWUUZJZ0YwVkhBZUNoeHpCNEJHQW92cGVHdkJRLTRmSzdBSTcwRnFCTkgycGF1U21ndkNVeUgzeUNoUnlDb3dya1VYTk1UM1cwN0M0ZlU3d3hIR1pST09WbVJtRmNrRTItZTlPVl9KczhCaGM5V0g2Sm9kY0VRTzBLaVpQTWZWaV9uMF8xSnVVTVFHang?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Milei allies to promote rare earth mining in Congress - Buenos Aires Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGI4ajhMbDdHUTY5UlFkeDlRRlNVQVpWRW52MEpxYUVQa2dXOUZCbnBWZDdXVWZ6alZqSURkdEFYUzMxeWl5LVY3S2dKUkNpNmFMUWlzY2tfVDZRNWFsU3otMlg1em1iN0l0SzVhR0Nsai0xa3FZTHMyMURub2d4ZFE1NFM2Qk1hdzhtV3BSbzJVU1VWYmU4cjRaTdIBoAFBVV95cUxNS29Lc0MzLTdfcXc0UUVqVFN5eVE1TC1NRTlBWVNSS2dBbVlLM0ZPQzlyZk9jY0stVllvMHlOZTdaTm9MZ2ZSZXpfbWxEQ0xReVlRTjE0R21GbXh6ejFfUEtkbjdsakRaTGRWZEtCSURvMnpZY0hYMGJ1eExqQ3Z4YTlrREdtUkJZMlFhMWZEU1ZKaHpNSERwV182UjdURXVF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Quad framework sharpens critical minerals supply chain push - Mining Magazine Australia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZU9hc1J0Q2wyaGYzQVZOS2Q2dVlzLXdlVDViZnR2cGt5N0tmYjZ2b0p0UEJjSmRpOTFiLW5WeFJCcGdxOEJOVjRjRVdaTGZhSWN2OW9aX1BrZjRoTHZXOU9NMXFMc0pqVXhtMGlTaXFNVGhlczEwOEhsc2NfdHExeno5d1F5RFBLa05vZ2FFaXdYVzlI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 100,
+    "too_old": 193,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 33,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "How China almost pipped Arafura to develop $2.2bn Nolans field - NT News",
+      "Contra Guys: Why we’re not selling our shares in Neo Performance Materials despite its formidable ru",
+      "A Look At Neo Performance Materials (TSX:NEO) Valuation After Its CA$100.05m Follow On Equity Offeri"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為萊納斯相關動態：「Rare Earth Race Heats Up as Lynas Expands Processing Push...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rare Earth Race Heats Up as Lynas Expands Processing Push - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Zimbabwe Strengthened Mineral Controls, Minor Metal Sector Rose Over 3%, Yunn...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

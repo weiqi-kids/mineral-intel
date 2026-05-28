@@ -1,87 +1,87 @@
 {
   "mp_materials": {
     "earliest": "2020-06-22",
-    "latest": "2026-05-26",
-    "count": 1489,
+    "latest": "2026-05-27",
+    "count": 1490,
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-27",
-    "count": 3259
+    "earliest": "2013-04-16",
+    "latest": "2026-05-28",
+    "count": 3322
   },
   "north_rare_earth": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3123
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3182
   },
   "iluka": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-27",
-    "count": 3259
+    "earliest": "2013-04-16",
+    "latest": "2026-05-28",
+    "count": 3322
   },
   "energy_fuels": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-26",
-    "count": 3234
+    "earliest": "2013-04-18",
+    "latest": "2026-05-27",
+    "count": 3297
   },
   "arafura": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-27",
-    "count": 3259
+    "earliest": "2013-04-16",
+    "latest": "2026-05-28",
+    "count": 3322
   },
   "hastings": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-27",
-    "count": 3259
+    "earliest": "2013-04-16",
+    "latest": "2026-05-28",
+    "count": 3322
   },
   "vital": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-27",
-    "count": 3259
+    "earliest": "2013-04-16",
+    "latest": "2026-05-28",
+    "count": 3322
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-05-27",
-    "count": 1487,
+    "latest": "2026-05-28",
+    "count": 1488,
     "history_complete": true
   },
   "rainbow": {
     "earliest": "2017-01-30",
-    "latest": "2026-05-27",
-    "count": 2354,
+    "latest": "2026-05-28",
+    "count": 2355,
     "history_complete": true
   },
   "ucore": {
-    "earliest": "2013-07-11",
-    "latest": "2026-05-26",
-    "count": 3230
+    "earliest": "2013-04-12",
+    "latest": "2026-05-27",
+    "count": 3293
   },
   "shenghe": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3123
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3182
   },
   "neo": {
     "earliest": "2017-12-08",
-    "latest": "2026-05-26",
-    "count": 2122,
+    "latest": "2026-05-27",
+    "count": 2123,
     "history_complete": true
   },
   "asm": {
     "earliest": "2020-07-30",
-    "latest": "2026-05-27",
-    "count": 1474,
+    "latest": "2026-05-28",
+    "count": 1475,
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2013-07-19",
-    "latest": "2026-05-26",
-    "count": 3164
+    "earliest": "2013-04-22",
+    "latest": "2026-05-27",
+    "count": 3225
   },
   "etf_remx": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-26",
-    "count": 3234
+    "earliest": "2013-04-18",
+    "latest": "2026-05-27",
+    "count": 3297
   }
 }
