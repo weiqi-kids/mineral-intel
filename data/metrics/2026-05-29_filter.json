@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 196,
+  "gate1_fail": 15,
+  "gate2_fail": 7,
+  "passed": 18,
+  "gate2_samples": [
+    "How China almost pipped Arafura to develop $2.2bn Nolans field - NT News",
+    "Ucore front - loads REE separation strategy - Metal Tech News",
+    "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+    "Contra Guys: Why we’re not selling our shares in Neo Performance Materials despite its formidable ru",
+    "Neo Performance Materials Raises $115M in Treasury Offering of Shares - Moomoo"
+  ]
+}
