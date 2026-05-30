@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 10,
+  "gate2_fail": 8,
+  "passed": 18,
+  "gate2_samples": [
+    "How China almost pipped Arafura to develop $2.2bn Nolans field - NT News",
+    "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+    "Ucore front - loads REE separation strategy - Metal Tech News",
+    "Shenghe Resources Hits Day High with Strong 3.02% Intraday Surge - Markets Mojo",
+    "Contra Guys: Why we’re not selling our shares in Neo Performance Materials despite its formidable ru"
+  ]
+}
