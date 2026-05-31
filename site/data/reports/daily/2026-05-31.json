@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:09:38.548887Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil is set to cut into China's rare earths dominance - DW.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmk5bDVGVHNEVUVRbFpYNGdJUlpodElpa1BhNl9VTFlWcUZHYzZ5TGxTVjF0c056WWdoYzNfLVZNMGlzYzRKUXFPdmxpa0kzdVNxd0o2QWtZWlVJUmZlaE9iTEh5MmdEY3UtR05XSFVEeUZlUE1CSS1qRG56MHNDanFvanB3ZVVjRXZlQ1dWRUnSAZABQVVfeXFMUHE3TWZhWk80SjY4M1ljN2Z0Ylo1dTdKZnhkOE9QNU8wdTl3U25wZHA1djZudXVDU1VOVWdveWNRcThWcEpiWnFhY1RJbHh2MnVJcDVrTHBpMWlzVzRkSVdwSXF0d2pjQ3Q2Sm1FX3dHV2cxZVg4ajF2ekgyWDhJRV9uTzVqX2hMd3UxNjU2VXln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Race for rare earths sparks concern about environmental damage - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFY0LTQyTXlwanM4SjMyU2JDajdSczJKODdOUUM2WFctZW0ta3kzb0I0OHJJbjhpelJYellwOTR6TFJTbFNwYWJncms3bmxVQVpNRjJ1WU1oaWhmLU0tSkdIQktrUFBIOU5ZNXNYM3N1YUsweUVKWGpDQWNvVmpaSXhwNEU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 105,
+    "too_old": 196,
+    "gate1_blocked": 11,
+    "gate2_blocked": 8,
+    "passed": 14,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "How China almost pipped Arafura to develop $2.2bn Nolans field - NT News",
+      "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+      "Ucore front - loads REE separation strategy - Metal Tech News",
+      "Shenghe Resources Hits Day High with Strong 3.02% Intraday Surge - Markets Mojo",
+      "Neo Performance Materials Raises $115M in Treasury Offering of Shares - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為礦業產業通用相關動態：「Brazil is set to cut into China's rare earths dominance -...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Brazil is set to cut into China's rare earths dominance - DW.com（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Race for rare earths sparks concern about environmental damage - Financial Times（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
