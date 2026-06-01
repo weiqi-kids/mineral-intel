@@ -1,0 +1,198 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:30:24.157041Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Lynas Rare Earths Is Capturing Attention in Rare Earths - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC1WQzhUVjZueW15eGFzUFFBdzFrYlMtWG9BbG94bmhWbEt2b2tkaGQtSzFPc1ljNjNtZFZEbWZEeHgzTWdqY256THVhWGROT3h1STR2R0ZfaHJXd1BFSzR0Umo3b0Q3MldlZS15T0g0M1JtbkZBdXIzZ1RHT2J4ZHZWX0haOUZZSEJTaDdrUTJfX090RlJncHQ1d2JRV0hsMWd5OUZBN1pNUTR2QWJhcGhjZFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A bachelor’s in rare earths? In China, there are schools for that - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSm5ocjVrRVE2ZmV2MlM3NzBnT1VJdVZqUjRRM21SMDNKNnBmQmdZdUNLeUg2d3BDY1VYbmNOSlpubmZTMXBLX01MZVNXdzV1SDk2SDRCeW1ybi1VVjVjVEZ4Q3hCVXRnNGVHX0o3LUIzWXY2RUpZTl8yekttNkd6VA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Turns Rare Earth Know-How Into Workforce Infrastructure - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3hiQnhLblE3T1dOSjJnR3Vad2JCd2hJWHRhQW05eXp1NTQ1a21lTDlXSFd6R3lVQ1EyaXk3V290V3ZlWEs5eE4wS1JzakhaaWFOV083dlBXRjdZQnpjNV9nV3Z0RjRXSk5DQUhrS1BqV180Qm1qVW9EeUVqdWVrdzh6bWE1eHlESTZtblZQMHBIenNwSi1GdzJhTkx5VFk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare earths project in outback gets fast-track approval - Hancock Prospecting",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtXcGg4RXlJeUFaWnFHZTFIb205eWlTcURsX01DbFlLcG5nOVFFVGpnSWZPVDdpenQ1WGpZb1NYQ3hsM0hqOWRKS2N1WnZrb24xNmxrbm9YVWYzVnQ2UWtUbzlnX1lwbnZUR2JJVWVXaFkzLUNMcHhnZndQVXRhelhoc1lEUm40aHByd0dNRmZ1UFhXSlRoT1N3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-06-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura’s Nolans declared first Significant Project under NT Act - Mining.com.au",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkJMY1BEM2ZYM21sc09Lb2VJR1BtXzVyb3hwY1FqLXpHN3cyM25PZWYxNkpWN0VzOTkyMXpIdXQyODRiQkx0VVF1Z2lvbjk2d3hLdjZHT1pORGh4SExib0JVVHVSMDBPNmJGcWFRdk1MY2k1YVVmUnRqTnMtNVRPUkNEZ3pncHY0aXFOWmNIUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 105,
+    "too_old": 193,
+    "gate1_blocked": 11,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+      "Ucore front - loads REE separation strategy - Metal Tech News",
+      "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+      "Shenghe Resources Hits Day High with Strong 3.02% Intraday Surge - Markets Mojo",
+      "Neo Performance Materials Raises $115M in Treasury Offering of Shares - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為萊納斯、Arafura Rare Earths、Ucore Rare Metals相關動態：「Why Lynas Rare Earths Is Capturing Attention in Rare Eart...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Lynas Rare Earths Is Capturing Attention in Rare Earths - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A bachelor’s in rare earths? In China, there are schools for that - Reuters（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

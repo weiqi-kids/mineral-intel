@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 11,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+    "Ucore front - loads REE separation strategy - Metal Tech News",
+    "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+    "Shenghe Resources Hits Day High with Strong 3.02% Intraday Surge - Markets Mojo",
+    "Neo Performance Materials Raises $115M in Treasury Offering of Shares - Moomoo"
+  ]
+}
