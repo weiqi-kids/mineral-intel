@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 12,
+  "gate2_fail": 9,
+  "passed": 21,
+  "gate2_samples": [
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+    "Ucore front - loads REE separation strategy - Metal Tech News",
+    "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - Barchart.com",
+    "Shenghe Resources Hits Day Low of CNY 21.79 Amid Price Pressure - Markets Mojo"
+  ]
+}

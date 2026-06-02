@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:59:25.449145Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mining’s least difficult child leads a rare earths revolution - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUy1CQm1EQ3FzRDNSaGxZZnFLX1ljWTBScGktbHgxZ3NvNWo5dXdDMjJhZ2JXUWZQMWJKVnJSczBSSlYzV2ZGM0hUUHhRVkpyUFBBbEhmOGt3OEhBWk5TdVFUdGtGTUNmeWp6ZXlNN0RuZEctdVdqeFNpRUs4UHNUREIycjlTRzBUMVBNSkJLU0JnbVRwUS0yekhBMHkyM1NLN2VxaHhoLWk1QWYycW5DSUhfd1o?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Five ASX Critical Minerals Plays Beyond Just Lynas - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTg4eWNjbmxCdTVDX0lZa3JoOFUydzdvRjEwd3BGMzN1N1o4TnFVTk9vWUg0N2czV0w1dFNPeXVFZ3BMX05ISm5ZbmJ3Z0dNeWItUXNTNThlQXcyOXRkcjBWd1NTVTZRUWlPbE92N20zTkFLemhiSDA3V19DVnlzYWNNcnZJQ1BodVpsS1lBMjdXeVBDOUJzalBDaFFvWFVqUmlDUkdqc2M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Best Rare Earth Stocks to Buy Now June 2026 - Zacks Investment Research",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil's US$360mn Viridis rare earths project gains momentum - BNamericas",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU55NmFESFVPaHMwTGdCSG1nSDExRTg1RXFxbUxFNmNJbF9zWmlyRzRmNHBwUTkzTzhna1BJYm9vUkNCMHFlYTMtSFpaVWQ3OF9wUy16dHg2YWY5Rmx2YzBGd2NwSHRGdW5QS3p5VWd5dlNKZ3B3TVpZRUNhTGtSX3diLTk4RnV4Zm5CX05mNk4xaldGX0JsdG1nUHNsSE1n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Earths, the 21st-Century Resource that Colombia has Yet to Fully Explore - ColombiaOne.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR19PM1Q2WldONE5Ic2lDME5KZGRKckMxRUF3bWFVQ0d5ZkJMeXd0TWtESnZRT2FadUdxV1RjM2oxLXMtWGluSy15MDZsVkhOYU5PSmV6Zm9qYWRhMWs4WVgwYzBKbXozTHNYX1RkdlgzYUx2Y3hVbFBDM3JXbnNLajlkNUx5RlVUSlNWMXZqdXBwRDhNZFdORXdHdzIwQTdTZ05VR3NGOTA3cEdDMnVzT2VB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 100,
+    "too_old": 191,
+    "gate1_blocked": 12,
+    "gate2_blocked": 9,
+    "passed": 21,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+      "Ucore front - loads REE separation strategy - Metal Tech News",
+      "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+      "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - Barchart.com",
+      "Shenghe Resources Hits Day Low of CNY 21.79 Amid Price Pressure - Markets Mojo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為萊納斯相關動態：「Mining’s least difficult child leads a rare earths revolu...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mining’s least difficult child leads a rare earths revolution - AFR（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Five ASX Critical Minerals Plays Beyond Just Lynas - Kalkine Media（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
