@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-03",
+  "date_range": {
+    "start": "2026-05-28",
+    "end": "2026-06-03"
+  },
+  "generated_at": "2026-06-03T12:35:17.732138Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-02-011",
+      "date": "2026-06-02",
+      "title": "Agnico’s Boyd balances opportunity with discipline",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 42,
+      "last_week": 49,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.05
+    },
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "arafura": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "ucore": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 118,
+        "last": 171,
+        "change_pct": -31.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-28",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 24,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 31,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 22,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-28 ~ 2026-06-03）共 118 則事件，重點為「Agnico’s Boyd balances opportunity with discipline」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

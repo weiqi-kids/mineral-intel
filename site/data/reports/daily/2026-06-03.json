@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:35:17.603385Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-03-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Japan's Rare Earth Breakthrough and the China Supply Chain Challenge - JAPAN Forward",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cndoc3lJSG50Um9XdWI4Mm51WXI2Y0xqNFdFTFY1TlVDQnBubGlaYXQzdlRlMVVWMExLUkY2eC1SekNRZTZzY0V1Mkw1YUI3X0tNSW01VjFHS0Jzd2RhYjVtQmFFWmI3ZVJmWk1mRkZsdVk1RGhNQlRMZC0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Opens Share Purchase Plan; Shares Rise 4% - marketscreener.com",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcHFFVTR2blh0RDFJamFocHFJZGJOa1lTbzZ0eVk5QXdVNVdjaUctdExxS0ROMm9wVjdMUlVmcjQ4WlItSzQyS19vUUQ2ZEVpVjkxclFja0I4QXJoRUU3QldmSWxpalg4bThvODNPWWVIR2VPdTljR1d2TXBXQ1hzZjBaVWhVQkhTMlJCaTlTaWpsZ0N2eTktaVlQb2lIUDFDS1cwOVpFSlVBS3B1TzRaQU93?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bold Ventures Discovers Rare Earth Element System at Burchell Project - Investing News Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFdqWDRBQlVKd1pWNjBWRXp0Vng1X1Fma3VFSGZweTdrWk9LbG95bEwteDlENEd4aHZ5MHc3WDJXdnNCVnpUMzFXUndCTkFOemhqVWdkNmpSLU9hOHFzVVhDejZFNFRKZmYzSWtUWG9faklxblY4ZmR1VDZXd0lVeEpqVjFzVW9JbVF2RVRuNjJ5cW4tSkwzU2ZpR1U?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Colorado School of Mines, ElementUSA awarded US gov funding to recover rare earths from alumina tailings - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWlRSY0k3ekNyRXpzUjh6N0pBTE9Ra3VBR3pXaEU2dGpFTklwM2piSkMwS0FSR3g3NkpCSFhGSWlPZ1pxU0tfSzliVURBNS1QVmxrUkw3ajhLejhIVGx3d2ZrcXJVNzlJS0I2LVg5aVpZVEhaMm1MdmFkUzJIeFVXbWV6cHJpSG5iZngtcnB1enNjRl9HQ3FhYjNCUlVWQ0lJUUh5bW42aUZKTVYxZXBlY1djUXFlOWJuXzhaVTZ5U1F0Qk83bU44RFZ6TVNrNVdYWjRTR0MxTjcwbXJTaGZmbEYzcHhoQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US announces $134m projects that will strengthen domestic supply chains for rare earth elements - Innovation News Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFhTclhqY2NGN18zaTFMT09HS0R0Rm1XR0QxQmVNeXIyOVZ4VHlXN3BUZEJNZTRURm11WXRaSGRGTUtheDVEcUREQi0xdXNLTklUZmhTNllUa29URldwRm12M1MzSHFqdnFEZGYtdVRzZnBxcHNjbXItQUpHSUpyaU9BWkxzdVhPU05Ydm9xVTRsR0cwLUpRLTJ0czkwQnFDUHFsOXVLNk84dno2SW9GVnNEdmRGMTFhcWlCSzQyaTJ5VHAyeVV5ZTdfQTQwY2JCcWJ2WDdhVkllMU13NXdZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 95,
+    "too_old": 197,
+    "gate1_blocked": 25,
+    "gate2_blocked": 8,
+    "passed": 28,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+      "Ucore front - loads REE separation strategy - Metal Tech News",
+      "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - Barchart.com",
+      "Ucore Engineering Report Drives Optimized Commercial Deployment Plan for Louisiana Strategic Metals ",
+      "Shenghe Resources Hits Day Low of CNY 21.79 Amid Price Pressure - Markets Mojo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Arafura Rare Earths相關動態：「Japan's Rare Earth Breakthrough and the China Supply Chai...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan's Rare Earth Breakthrough and the China Supply Chain Challenge - JAPAN ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Arafura Rare Earths Opens Share Purchase Plan; Shares Rise 4% - marketscreene...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
