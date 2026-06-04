@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 33,
+  "gate2_samples": [
+    "Lynas stalls on finding someone to fill Lacaze’s shoes - The Australian",
+    "Lynas taps interim chief to replace Lacaze - The West Australian",
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+    "Ucore front - loads REE separation strategy - Metal Tech News",
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - Barchart.com"
+  ]
+}
