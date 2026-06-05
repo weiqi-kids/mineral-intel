@@ -1,0 +1,16 @@
+{
+  "total_raw": 290,
+  "dup_title": 79,
+  "no_date": 0,
+  "too_old": 188,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 17,
+  "gate2_samples": [
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - Barchart.com",
+    "Shenghe Resources Hits Day Low of CNY 21.79 Amid Price Pressure - Markets Mojo",
+    "Shenghe Resources Hits Day High with Strong 3.02% Intraday Surge - Markets Mojo",
+    "BMO Capital Maintains NEO PERFORMANCE MATERIALS INC(NOPMF.US) With Buy Rating, Raises Target Price t"
+  ]
+}
