@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-06",
+  "date_range": {
+    "start": "2026-05-31",
+    "end": "2026-06-06"
+  },
+  "generated_at": "2026-06-06T09:56:23.110355Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-06-03-010",
+      "date": "2026-06-03",
+      "title": "Energy Fuels: $35.7M Uranium Revenue as ASM Acquisition Nears Close - Crux Investor",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 45,
+      "last_week": 21,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.02
+    },
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "ucore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 134,
+        "change_pct": 0.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-31",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 33,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 30,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 27,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 14,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-31 ~ 2026-06-06）共 135 則事件，重點為「Energy Fuels: $35.7M Uranium Revenue as ASM Acq...」。礦業產業通用、關鍵礦物政策為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
