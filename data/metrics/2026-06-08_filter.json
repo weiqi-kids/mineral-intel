@@ -1,0 +1,15 @@
+{
+  "total_raw": 332,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 11,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc. Price Target Cut to C$14.75/Share From C$15.00 by Raymond James - Moomoo",
+    "Ucore Advances NRCan CMRDD Program and Hosts Ottawa Dignitaries - TMX Newsfile",
+    "Shenghe Resources Hits Day Low of CNY 21.79 Amid Price Pressure - MarketsMojo",
+    "BMO Capital Maintains NEO PERFORMANCE MATERIALS INC(NOPMF.US) With Buy Rating, Raises Target Price t"
+  ]
+}
