@@ -1,0 +1,13 @@
+{
+  "total_raw": 350,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 203,
+  "gate1_fail": 25,
+  "gate2_fail": 2,
+  "passed": 18,
+  "gate2_samples": [
+    "Pensana Longonjo Mine Construction Progress in 2026 - Discovery Alert",
+    "Ucore Rare Metals Inc. Price Target Cut to C$14.75/Share From C$15.00 by Raymond James - Moomoo"
+  ]
+}
