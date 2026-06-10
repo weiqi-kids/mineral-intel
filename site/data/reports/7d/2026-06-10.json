@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-10",
+  "date_range": {
+    "start": "2026-06-04",
+    "end": "2026-06-10"
+  },
+  "generated_at": "2026-06-10T11:33:13.170281Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-06-04-001",
+      "date": "2026-06-04",
+      "title": "Australia's Lynas Rare Earths names Pol Le Roux interim CEO - Reuters",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 35,
+      "last_week": 42,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 100,
+        "last": 147,
+        "change_pct": -32.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-04",
+      "event_count": 29,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 13,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 22,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-04 ~ 2026-06-10）共 100 則事件，重點為「Australia's Lynas Rare Earths names Pol Le Roux...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

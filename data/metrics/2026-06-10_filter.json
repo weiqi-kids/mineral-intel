@@ -1,0 +1,13 @@
+{
+  "total_raw": 330,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 17,
+  "gate2_fail": 2,
+  "passed": 22,
+  "gate2_samples": [
+    "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+    "Pensana Longonjo Mine Construction Progress in 2026 - Discovery Alert"
+  ]
+}
