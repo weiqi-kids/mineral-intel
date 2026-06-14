@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:46:22.269702Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan Moves Toward Greenland Rare Earth Exploration as Tokyo Seeks Safer Critical Mineral Routes for Clean Energy and Advanced Industry - Travel And Tour World",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wUzhVTHdESnJXQ1dqSEVlZ2dnZjhXUkhEYng1bWdGd09SX24ta2UyQzhBNE1Wek5sQU56Tl9WcFB6MGJuVjRXYVNvYWhCcVl0dFUwMXhlYW1lVXRJUFVyWVE3UjN1dkdBUk1nR09B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 117,
+    "too_old": 193,
+    "gate1_blocked": 12,
+    "gate2_blocked": 5,
+    "passed": 8,
+    "pass_rate": "3.7%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+      "Pensana Longonjo Mine Construction Progress in 2026 - Discovery Alert",
+      "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+      "Neo Performance Valuation Debate Deepens After Strong Market Rally - Kalkine Media",
+      "Metals retreat amid Iran conflict and rate-hike concerns"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為關鍵礦物政策、礦業產業通用相關動態：「Japan Moves Toward Greenland Rare Earth Exploration as To...」。主要關注主題為關鍵礦物政策、礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Japan Moves Toward Greenland Rare Earth Exploration as Tokyo Seeks Safer Crit...（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
