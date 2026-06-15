@@ -1,0 +1,15 @@
+{
+  "total_raw": 354,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 24,
+  "gate2_fail": 4,
+  "passed": 22,
+  "gate2_samples": [
+    "No rare rentals in Alice thanks to Arafura mine: Burgoyne - NT News",
+    "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+    "Pensana Longonjo Mine Construction Progress in 2026 - Discovery Alert",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa"
+  ]
+}

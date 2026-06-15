@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:49:08.645536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_fuels-2026-06-15-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Australian Strategic Materials Says Independent Expert Review Continues to Support Energy Fuels Deal; Shares Up 3% - marketscreener.com",
+      "companies": [
+        "energy_fuels",
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0NXaWc2WGFzbDBaMXl1enhjU1FTWnZ3Wk9Ld1paeXVwclZ5LWFwWEF2NDZrc0hvc2h3SjNxUENadmJzZlN3anRGbnd6RkF1SHowLThYcGR1alUxM292a3VEY3kzQmtjSjFJSkkwemg4RHN3eXNTVTdPU1NJd1JQNmk3OFJ2RkJXVXVKMkpnWnlZTDVZeUxRLXNnRFE1d2VRdkZnZGJza0ZoNkRlMmh1Zi1mWVdOWkZGM29FcFBsNHdMRV9sWjM3YmswQlZ3SENFN3lPVGRXaEFVS01QNm1MNTI0YXVnQmZV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths eyes Australia’s first ore-to-oxide mine at Nolans - The Northern Miner",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMG1Jb0ZYajRFdVgtT2pxR1hlV3NfQ1BRLU5GYTR5SmkxTDhvbGF3anE5UlN1Z1lhV08xOWpNVnFYUHozYXZreFRmdnJXUWZSN0p3d3hjZ0twajU4eGZDT2U0dHVpMjJRWE1kUmJWeXNucGdqdWdKOFVhdE9CZWtHNVllaEpTM25oQmU1Vng2R1U3Mmg3MThnQ21jR1BOOXphQVp0eEd4M29SdXhPdm1yYnlnbDd2WXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inside the Rare Earth Funding Surge Behind Arafura - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRU5BSXBJeFNfRHFxb214aFI4ekdsRHpkRm91dVpDUHRDTlktQ3hfcGtrX2tQSWdPekFnTlEzc3NfakszNm12VUlTeTRCT1FVenZhSXdmaWx2dHFmR3p3ZDlTZzgtay1JUVFIbnNOTldpVGtKWjlrMWZGd0NoTUt1NnNEbVd1RG5kdXFubnpOeFMzWGdYbXBsbHV2cHpqUThPNlFoTEhGQmQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ucore-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore Rare Metals and Sumitomo Corporation of Americas Announce Strategic Collaboration in Rare Earth Supply Chain - TMX Newsfile",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVlBGdkIxZWFiaUx2T2IxTWNuMXRrd2cxZXdKSmRyY0lIc1ZhRWNSa0tTNXNiWXBHQ0ZaTVgwLTY5ZVRVRDMtNVo1R1l1Wkp5Tng1OEVfUWxYSDFONUlNQlNCZ1ZLcmUzbWtwMzd4SG1sSEZCOFVHNGZCSVgtMFZTNERHRm13N3UxOGZpeWRaTFN3Q0lFSXlodUtxRkRTUHJfVW52YXZicW5Na2xKbXpVaDVvWnpWaHNLV0NaeVNRVVNzcWc0RUlxY210R1hhRWlEd0dhU1pHY2t1d2xYWWRadExPT00tc3d0ZjkxM0hOQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ucore-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore, SOMA to collaborate on rare earth supply chain - Mining Weekly",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGh2dXM1T0J2b29aM3dwSWFzQXMtWjc0M2pBaUU1WTRKTEhMbGY1a0I1U1lldWpvVjBCeXJFd2tTZm9fU09oNnp6Y05TM1RTTnRITXRKQXhGYS1MVTVkZGNoZnJ1dTA4cktvYlJsQ2NCQnltUkgxOGRxek1hTUdfU3ZrQWFMM215eVRrRGEzSE9uNG5ycEVCYUUxYkFrVzBMYnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 3
+      },
+      {
+        "id": "ucore",
+        "count": 2
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 111,
+    "too_old": 193,
+    "gate1_blocked": 24,
+    "gate2_blocked": 4,
+    "passed": 22,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "No rare rentals in Alice thanks to Arafura mine: Burgoyne - NT News",
+      "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+      "Pensana Longonjo Mine Construction Progress in 2026 - Discovery Alert",
+      "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Arafura Rare Earths、Ucore Rare Metals、Energy Fuels相關動態：「Australian Strategic Materials Says Independent Expert Re...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Australian Strategic Materials Says Independent Expert Review Continues to Su...",
+        "level": "yellow"
+      },
+      {
+        "text": "Arafura Rare Earths eyes Australia’s first ore-to-oxide mine at Nolans - The ...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
