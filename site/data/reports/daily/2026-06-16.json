@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:47:59.629720Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Bull Case For Lynas Rare Earths (ASX:LYC) Could Change Following New Supply Deals And CEO Shift - simplywall.st",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2RhRFRobE8zWVNRbU5waUk3VzlPUmhBSk1WT2R5a0hoT1hoNGI4cVdtU0RyLTVzYWtUU1B3Um9NYklySDBKY1hvU0Z4aGMtVWx0eUc4VmlOT2VNOXd0elBIR0oxVHZHMWpHYWtuRnkzQmJGa0p2NmtwSDZ1SGFnVUs0d3JyeDlpUUlYenBkdkI4V3RYT1pkSnI4MzBpZGk0VVVEQUdZdllNVVR1X3hrRzVFQmdVRlVHeHdhRE1XSW9CQ2QzZDdXQWI5Z0lfZm12dW10MzlFLTllUdIB3wFBVV95cUxQaGdTVTJBMHFvdGJMTTIydkk4UnNiYzNkallfRzkyVXc4TTExNzBZcGRLb1U0by0yVElrbkFmNGowQ2UzNEpSWVFzdHlGOGpRamdocS12eVBnQWxER2xjQ3lMSmlHcWZYdjVGLWk1R3hkY2xsSjFWUVBFSU45Qy0tbkJRWDJ5WDZjdkI4NXlONERWN2NYTGZLWVRHbHhFN2w5WDZ2M0NNclFUUmtTQnhTTnFST3FuaXpMUTc0bkpFTkVRZzhJaTFpemttN3FicGhmcXAyQXZsRjQwUmtfNko0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Launches Three-Tier Mineral Stockpiling System - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWt2bkdmcjBCcDJaZ3hfTGttckFoYUpxV1JmWmZEREo5cE5uVDR6ZXpmY0dXOFJXU0RKNmNFUWJGVExZQ0dDNjc0WldFM3pyTkZZWC13d1NUNzYxTXJkLWF3R3hYOUluQ1RhSHZHTEZfaGd1ZnVTajVYZG1WMWFlUXY4eG0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura’s Nolans ore-to-oxide rare earths mine: capex and design notes for engineers - Geomechanics.io",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUxJSmRYSTNxSDRyYWg2RkRDYnZlVTZqZkF0Rng0bDFkLUhPU0hub0Z6Nlh5Q3NFeFA1QWJhaXlCYko3SV9xY2hXeUhYMG1ENTFIZzBiR1A3SW1qNWgyUmRqeE9abW9jVVU2Z0NycjVaSEE5dXN3XzlwWUxzdTJ1NUUtSHJlZVlIT2diRTNjd3R4bDVzMXlsb0RVYjBNVmJseXNEV19Mb3V3UXpnLUo0SWZoY3ljcjVDZFU4MmRERXo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-06-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Clears Final Hurdle for A$1.23 Billion Nolans Project, Aiming to Chip Away at Ch - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0Q0M1BjMlRKVnFvMTNDd241MDhpNDhpaDBORlNZTFBNRGs1SnRjUTUwbmM2VC1ncEdIZ0RUUExlZGJzSWZ2T0VrMmg2Uk1BV2NCRzZPOExWdlVXNWh1eWZPcDdfN1JiNlRieTRkV3k5MDB6ZWNSV2lkbElKQ09vUks1QWtLeWt4U3YwWmR4eU1QVkxfTDROZEE5TDVxWXRtR2k0REoybHNZQWYzcG9UUXd6OVI0dG1JcVV4UGxvR3NFMHBQRks3TEpFWDg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ucore-2026-06-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore, SCOA sign deal for North American rare earth supply chain - Mining Technology",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmJVdDYwajktRTB5WlFtdmxsOTdFYV9uYVVfNC1wSmMyNkszNV9UaFl5UU02ZGdoVFF5bWEwWVprVVo3aFNaOHoxekFobkN2WU56UVhsS2o1a0JNRnVDMC12SC1EZklhMjZrYjlaRUc5c2lEMXVIR19ZOS1uX3N5NFBwTkR5N3BpcTcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "ucore",
+        "count": 2
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 100,
+    "too_old": 180,
+    "gate1_blocked": 11,
+    "gate2_blocked": 5,
+    "passed": 37,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+      "Ucore Teams Up With Sumitomo To Build Rare-Earth Supply Lines - Finimize",
+      "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+      "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+      "Neo Performance Materials Valuation Debate Intensifies After Strong Momentum - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Arafura Rare Earths、Ucore Rare Metals、萊納斯相關動態：「The Bull Case For Lynas Rare Earths (ASX:LYC) Could Chang...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Bull Case For Lynas Rare Earths (ASX:LYC) Could Change Following New Supp...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Launches Three-Tier Mineral Stockpiling System - 조선일보（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

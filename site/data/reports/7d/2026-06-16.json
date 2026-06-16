@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-16",
+  "date_range": {
+    "start": "2026-06-10",
+    "end": "2026-06-16"
+  },
+  "generated_at": "2026-06-16T12:47:59.770278Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-06-15-006",
+      "date": "2026-06-15",
+      "title": "Australian Strategic Materials Says Independent Expert Review Continues to Support Energy Fuels Deal; Shares Up 3% - marketscreener.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 45,
+      "last_week": 38,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": -0.02
+    },
+    "critical_mineral_policy": {
+      "this_week": 8,
+      "last_week": 1,
+      "week_over_week_change": "+700%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arafura": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lynas": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ucore": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "energy_fuels": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "asm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 132,
+        "last": 129,
+        "change_pct": 2.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-10",
+      "event_count": 19,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 42,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-10 ~ 2026-06-16）共 132 則事件，重點為「Australian Strategic Materials Says Independent...」。礦業產業通用、關鍵礦物政策、中國出口管制為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ucore Rare Metals",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

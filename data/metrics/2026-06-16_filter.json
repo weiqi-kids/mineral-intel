@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 11,
+  "gate2_fail": 5,
+  "passed": 37,
+  "gate2_samples": [
+    "This Vital Metals Insider Increased Their Holding By 32% Last Year - Yahoo Finance",
+    "Ucore Teams Up With Sumitomo To Build Rare-Earth Supply Lines - Finimize",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+    "Neo Performance Materials Valuation Debate Intensifies After Strong Momentum - Kalkine Media"
+  ]
+}
