@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 10,
+  "gate2_fail": 6,
+  "passed": 34,
+  "gate2_samples": [
+    "Ucore Rare Metals and Sumitomo Corp. of Americas enter rare-earth supply cooperation - chemengonline",
+    "Ucore Teams Up With Sumitomo To Build Rare-Earth Supply Lines - Finimize",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+    "Australian Strategic Materials Requests Trading Halt - TradingView"
+  ]
+}
