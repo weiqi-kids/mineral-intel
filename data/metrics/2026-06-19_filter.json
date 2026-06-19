@@ -1,0 +1,16 @@
+{
+  "total_raw": 353,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 19,
+  "gate2_fail": 5,
+  "passed": 46,
+  "gate2_samples": [
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+    "Australian Strategic Materials Requests Trading Halt - TradingView",
+    "Australian Strategic Materials Calls Trading Halt Pending Scheme of Arrangement Update - Kalkine",
+    "ASM (ASM AU) Delays Scheme Vote As Energy Fuel Secures Conditional Pentagon Funding - Smartkarma"
+  ]
+}

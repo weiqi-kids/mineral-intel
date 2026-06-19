@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-19",
+  "total_events": 13,
+  "by_company": {
+    "lynas": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "arafura": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "asm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "energy_fuels": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "critical_mineral_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
