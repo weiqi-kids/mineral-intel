@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T12:01:18.607919+00:00",
+  "updated_at": "2026-06-20T10:28:47.830101+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -256,7 +256,7 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 1927702,
           "pct_held": 0.28,
-          "value": 43180524
+          "value": 41927518
         }
       ]
     },
@@ -269,25 +269,25 @@
           "holder": "Doheny Asset Management /CA",
           "shares": 28850,
           "pct_held": 0.02,
-          "value": 164444
+          "value": 163002
         },
         {
           "holder": "Douglass Winthrop Advisors LLC",
           "shares": 10000,
           "pct_held": 0.01,
-          "value": 56999
+          "value": 56500
         },
         {
           "holder": "Ascentis Independent Advisors",
           "shares": 1800,
           "pct_held": 0.0,
-          "value": 10259
+          "value": 10170
         },
         {
           "holder": "Hurley Capital, Llc",
           "shares": 1873,
           "pct_held": 0.0,
-          "value": 10676
+          "value": 10582
         }
       ]
     },
@@ -300,7 +300,7 @@
           "holder": "Ancora Advisors, LLC",
           "shares": 400,
           "pct_held": 0.0,
-          "value": 13783
+          "value": 14032
         }
       ]
     },

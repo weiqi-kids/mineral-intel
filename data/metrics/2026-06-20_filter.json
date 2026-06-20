@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 12,
+  "gate2_fail": 6,
+  "passed": 16,
+  "gate2_samples": [
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+    "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Gains - simplywa",
+    "Neo Performance Materials Valuation Debate Intensifies After Strong Momentum - Kalkine Media",
+    "Australian Strategic Materials Requests Trading Halt - TradingView",
+    "Most Read: Tokyo Electron, Kioxia Holdings , TRE Holdings, SpaceX, Boston Dynamics, Australian Strat"
+  ]
+}
