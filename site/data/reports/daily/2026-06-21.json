@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:12:10.670853Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths’ July 2 Vote: One Chance to Secure A$350 Million and Keep Nolans on Track for - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNU5tRHpuOHp1T0hqUUhqa2gtVHVaSDJiaVpOQkFNYWJISThIdW1pZDVfTkR3QnF5RXk3c2FCWlhOMlByU0Q4aWwxeXVRdFEwZmFfallpNGxhak0zNENFX0RBcUZKZm53YWpQWWgtRmFjTldJLUYtajl6RUFzVW93WDQwMGl6Q1N2eFNPT1BaT0RNXzV5cS1BYWlyeWZaN2hqQ0NmVDNaSmx2R2VQdU04TEVSQ1A1WmlTR3VObWNheTUtS2toeW5jSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A top banker tried to sway Pope Leo XIV on rare earth mining - National Catholic Reporter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbE9aNVdhZ1ZkRVU1R2d6SFpYblVvREVrc3dmZ2lmaVFCdlVPcDNMZUVmYUlwdEtJRWM0b2c1elEzVk16LUFrMWdkc1pXakZSd0M0YTJ2N2QxaXlKT1kySDlJRVFzVHJwRkhjV2Q1QWNvMFdmem9NNDBoNTVoVjlEOVNDcHFQMlVCa01GZk4zUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A top banker tried to sway Pope Leo XIV on rare earth mining - TelegraphHerald.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3Jzemg3XzVpeG0tanBqUUVYVmI5Ynl2dzRRbHBySE40em5lSWJOT0U1Ynh4Z25Ydi1BQy1xbHpCbHpPN0twcW9YanZLVVNOT0ZUR2dCMFdpLXF4UTJYUk45LTVwVHRCMzZzZjVxWDQ0Q3V3T29DbDIwS3NlR2F6MnBtNEsyb0NJeU9xM2VkcUNGVkpxdG5kLXRXdnVBZWtDNk1n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 148,
+    "too_old": 161,
+    "gate1_blocked": 11,
+    "gate2_blocked": 4,
+    "passed": 9,
+    "pass_rate": "4.9%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Ucore Teams Up With Sumitomo To Build Rare-Earth Supply Lines - Finimize",
+      "Neo Performance Materials (TSX:NEO) Stock Valuation After Strong Recent Share Price Momentum - Yahoo",
+      "Australian Strategic Materials Requests Trading Halt - TradingView",
+      "Australian Strategic Materials Calls Trading Halt Pending Scheme of Arrangement Update - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Arafura Rare Earths相關動態：「Arafura Rare Earths’ July 2 Vote: One Chance to Secure A$...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arafura Rare Earths’ July 2 Vote: One Chance to Secure A$350 Million and Keep...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A top banker tried to sway Pope Leo XIV on rare earth mining - National Catho...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
