@@ -1,0 +1,15 @@
+{
+  "total_raw": 333,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 13,
+  "gate2_fail": 4,
+  "passed": 36,
+  "gate2_samples": [
+    "NEO.CA News | NEO PERFORMANCE MATERIALS IN (TSX:NEO) - ChartMill",
+    "Australian Strategic Materials Requests Trading Halt - TradingView",
+    "ASM (ASM AU) Delays Scheme Vote As Energy Fuel Secures Conditional Pentagon Funding - Smartkarma",
+    "Australian Strategic Materials Calls Trading Halt Pending Scheme of Arrangement Update - Kalkine"
+  ]
+}
