@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 17,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "Hastings scores $1M and processing muscle from Malaysian ally - The West Australian",
+    "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+    "NEO.CA News | NEO PERFORMANCE MATERIALS IN (TSX:NEO) - ChartMill",
+    "Australian Strategic Materials Says Proposed Acquirer Energy Fuels to Acquire Vacuumschmelze - marke",
+    "Energy Fuels and the Emergence of a Credible Magnet Competitor - InvestorNews"
+  ]
+}

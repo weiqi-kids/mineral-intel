@@ -1,5 +1,173 @@
 [
   {
+    "id": "lynas-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Macquarie upgrades Lynas Rare Earths (LYSCF) to a Buy - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1dTQXhJQjgtUTlkZXgzYnowVWRZTV9uRTdnRFAzTFZ6Qk9YZWV1bjd2VGl1Snpjdm1kbXJTdmJpb0RNWTMtR2JEVmFFTmRjMVptYUw1dXp0TTJNbW92cV9RTlZXR3ZDRm9qc0piaG",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1dTQXhJQjgtUTlkZXgzYnowVWRZTV9uRTdnRFAzTFZ6Qk9YZWV1bjd2VGl1Snpjdm1kbXJTdmJpb0RNWTMtR2JEVmFFTmRjMVptYUw1dXp0TTJNbW92cV9RTlZXR3ZDRm9qc0piaG5oVVc1eU5VTXJXT3FFTkRzaTJZQUxucVhhTnNuTFdzcFBfOUJhbF9jMW9ob2szY2hIdXJ1MEVHZG5vb282NlJyV29Hb3o0ZkEwblF1RFNHcENmQjNhRlpvYjhtLUI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Rare Earth Talent War: Northern Rare Earth and Inner Mongolia University Strengthen Strategic Alliance - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEh6WkdBdDVUWmRramFlZE5WQXZBZGgySVN6bFkyOUJIZWg4ZHRWczQwc1hWek01Y2k2aVRTMVZjdy0wUERIdU5fNVN0dFkzTkM3M3RGV2FROExLNGlCel9JWG9OaFJDREpITVlwWk",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEh6WkdBdDVUWmRramFlZE5WQXZBZGgySVN6bFkyOUJIZWg4ZHRWczQwc1hWek01Y2k2aVRTMVZjdy0wUERIdU5fNVN0dFkzTkM3M3RGV2FROExLNGlCel9JWG9OaFJDREpITVlwWk5NX2kwcWVOYmhscDFZNkVoUDdzX1RrTmVHMlBPekhZd0pBbXV6OG1UQlpJVExmcklIcV9kYl9VeUR5OFUweHRXSjlpS0gzU1U3YzQ4SVVqZlZfbEMzYkZla2xpekhSVWtFY2k5cDJtRzdCUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Arafura Rare Earths (ASX:ARU)- What’s Driving the Nolans Breakthrough? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUE2em45ajVycUktSjUzQWJuMFRuN3VtVzROUlo3WXY3am4xRHE4amMtam92WlBmeEh5djRodUk2a3g5QmNodkNmVWswNi1nRU9MeFNRQThWUVlFd09SMGVseE5zZ0s5NXVkWGRUdF",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUE2em45ajVycUktSjUzQWJuMFRuN3VtVzROUlo3WXY3am4xRHE4amMtam92WlBmeEh5djRodUk2a3g5QmNodkNmVWswNi1nRU9MeFNRQThWUVlFd09SMGVseE5zZ0s5NXVkWGRUdF9RVlBYRVVYZHFMbFl3SUVxQ010WUt1QmFybWZ3eXVCQ2hiTHNMLUY4QUtmMVlVMXhNenVqNVZObVd6RXRYWVJ1Qi1PeDBqMjhLaHlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LYC, ILU, ARU: Nolans Funding Signal Puts Rare Earths On Watch - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZl9PQTNEa0pXOWRENy1JTDJ0QVNHZUN3eG9OLTFWdm9MVHNqYXdMVE9JVzJaZlQ3UUJKUi1tdmJ4bGQxa0xTMUl3UVMzRzBwMFo1X0UzenpBSXlFc1RZTks0VDhQRWo0MDJMS1N0Rm",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZl9PQTNEa0pXOWRENy1JTDJ0QVNHZUN3eG9OLTFWdm9MVHNqYXdMVE9JVzJaZlQ3UUJKUi1tdmJ4bGQxa0xTMUl3UVMzRzBwMFo1X0UzenpBSXlFc1RZTks0VDhQRWo0MDJMS1N0RmQwUjNiUzlQVTFZMVpaN293bXphdV9pWmk2V19GRUI0cWZ6WEcyMl9rTWc0SG8xTnNmUGVka2hvNks3aWxnYTBQY2RKWng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Issues 2.7 Million Shares at $0.365 in Professional Investor Placement - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmM5VkRIU0s4bjNjcDFQUVdva29xVTU2WnVHT1dENjJCSy1SNHdyc3BsSU05SVdfRzBwaFBsdkdJcE9Jc2Y0Wk5JaUFVSm9ES1pwUFNDV2dVWndYVUhLV1oxSklmN2k4bkN3dFAxa2",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmM5VkRIU0s4bjNjcDFQUVdva29xVTU2WnVHT1dENjJCSy1SNHdyc3BsSU05SVdfRzBwaFBsdkdJcE9Jc2Y0Wk5JaUFVSm9ES1pwUFNDV2dVWndYVUhLV1oxSklmN2k4bkN3dFAxa2ZDSVVCR0dyNHRtNzNXUlo3VmJfLU9NSy15RVpUbTdkTnFOZVVORFVNbDEtWGNFM3pzemdsTVVnTi1lcmhzNVAzTS0yN2hxdmtRUjZFejMwUE5zem9YRXFNWmFsOUpuUjdHMGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_fuels-2026-06-24-006",
+    "date": "2026-06-24",
+    "companies": [
+      "energy_fuels",
+      "asm"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Energy Fuels delays Australian Strategic Materials deal - grafa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2RfWUdreEpmYXJNZEtRNWhGckpVX2EzLWNxeU85R25sZC0xbTB6VTdESEtFYXhobDRqbFltVVRoY1hxNzllVUdhR1BVZF9weFo4YTMtNVpidmlsMkNJMUh6MVhkd01XZ0o4ZDg5NG",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2RfWUdreEpmYXJNZEtRNWhGckpVX2EzLWNxeU85R25sZC0xbTB6VTdESEtFYXhobDRqbFltVVRoY1hxNzllVUdhR1BVZF9weFo4YTMtNVpidmlsMkNJMUh6MVhkd01XZ0o4ZDg5NGtjZ3c5cEtURFJ0UkdUUFNYeS1mN0I0Q1U0LW5fSWNhRE1Ud1d6UEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asm-2026-06-24-007",
+    "date": "2026-06-24",
+    "companies": [
+      "asm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Australian Strategic Materials (ASX:ASM): What Scheme Postponement Means for Investors - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3VoalRjSmQyT2FteVExajVsYWtqNlpuS2JiSjJiTDl2YmhhR0VpWTRSZEF5OE52VkRaeTV4MVdDWjhHSjNhZU5iZlMwcjdkZGg2NVpsdFlQUGlYRjBNelFQQUNJREY2SjUyaVVlV0",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3VoalRjSmQyT2FteVExajVsYWtqNlpuS2JiSjJiTDl2YmhhR0VpWTRSZEF5OE52VkRaeTV4MVdDWjhHSjNhZU5iZlMwcjdkZGg2NVpsdFlQUGlYRjBNelFQQUNJREY2SjUyaVVlV090Qkp0WmVUMEhVS1VOcEh4ZWhsU1NLWFNYSlJNVy1mS001Z2Utbll1OEJCNE9lcjdNTUNFZWh2V2lucFBvTUZ2MUstNW1xNjlM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-008",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths strengthens board with veteran Wyoming mine builder ahead of planned Nasdaq listing - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNYWJJWEdmRENjaFhTSHB4T0xvWFo4T2ZBcGV3STVGY0Q4eFJZYVVpLWhheVZhNkxoUW5hT1dWN0ZqcTN2aVM2MUJONmw1VXdCdzJIeFVPRHhrUUNQcThDWHRGMERIcjk4N2MwSGhFOW",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYWJJWEdmRENjaFhTSHB4T0xvWFo4T2ZBcGV3STVGY0Q4eFJZYVVpLWhheVZhNkxoUW5hT1dWN0ZqcTN2aVM2MUJONmw1VXdCdzJIeFVPRHhrUUNQcThDWHRGMERIcjk4N2MwSGhFOWtIQUlQano2YzVnV3hsV0pzeFg5NHlWcy1MNGY0LU9GNENaYnZkSTdfTzR3ZnRJSE5MN0hKYlBSdVBQa1QySE82Y1lyRUJJUERuZWVSbmlSbXc0Wm05dXBtQlpPNEstRm1HOHZiUkZEYTNZZzFkY2YyVWFzczN5RHlaczJwX0tKZlEtNFg1cHBtMS1DeWlIeE5pQjR1N3BB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-009",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK Government invests £50 million in critical minerals - Aluminium International Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44V0Ewa2RsaXMwbXo0eVM2elFaRWpXaFJZYU1UTWhQSEdJVUVZem9qcnhLd3FOaWl3Z2VOaTNGc0pnUWxYNS13RHR3b3o3NHhFdE5TamNnYWVvQWd3R0hxdzMtLXYzTDNGcjZCbDRQV3",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V0Ewa2RsaXMwbXo0eVM2elFaRWpXaFJZYU1UTWhQSEdJVUVZem9qcnhLd3FOaWl3Z2VOaTNGc0pnUWxYNS13RHR3b3o3NHhFdE5TamNnYWVvQWd3R0hxdzMtLXYzTDNGcjZCbDRQV3VOam5ZNDk0WE5oSXA1NVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -418,6 +586,265 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3o1X3dFa3piWTR3QUw4OEZRS2g1cGJlcmNPTXl2U00tdXVGSEVXRGRMSk5tbHFObUlQRjlZSV8yQ2x1d3I1aUpLT0VhX1NhdzhLYU5XUDAzOENQLVFtNGZXZGRHY2tuTFlfa0I1Q3N2Nng3Zl9YUEtJTzA4ZTBsd2Q1ZlNfRXU1b2d1b0tDVXVHNXlWVzZOQWtIeDJlNlBsT1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-06-23-023",
+    "date": "2026-06-23",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lynas Well Placed to Benefit as the West Tries to Create an Independent Rare-Earth Supply Chain - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPREotQzE2ak1ZV013c2QzZXhaZkNYM0N3dGlkeS1WREFQMGpoSW5hMkQ4ZEN2TjhidUlUbGEtWEtOYy1HUWFlQjAtRUFtRnpoUjhuWnJ5clBEdm5uX0F1LWZwRUh0R1Znakw4OHBpVH",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPREotQzE2ak1ZV013c2QzZXhaZkNYM0N3dGlkeS1WREFQMGpoSW5hMkQ4ZEN2TjhidUlUbGEtWEtOYy1HUWFlQjAtRUFtRnpoUjhuWnJ5clBEdm5uX0F1LWZwRUh0R1Znakw4OHBpVHZJQW03N1FPd2RBQk03TXNzSlI0elRBY0FGa2pGa0NsbGJ1YUthS1ZySVg3NExRaU1sSUxqRWJRbWZxeXp5bEZQd0VGYm1kcjdKaFFOR2dZWjVHa1p4eFRXM09taE9QU3JsaVFabHNjekVaRS1hRjlscA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-06-23-024",
+    "date": "2026-06-23",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths gets stock rerating as focus shifts to Malaysia execution over price risk - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFFpVnNIa3RXcUNMczhIX1pacjRldFkwUl8wazgtaVFfNm5uemtEd0Y3aDNFMkYtY1lRMWwtMXowM3NXQ1pvVWZvbFJaYTl1XzRpUHRVU1A3X2JEc1BhOEdNa1hHdFl6VlQxQlRDQ3",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFFpVnNIa3RXcUNMczhIX1pacjRldFkwUl8wazgtaVFfNm5uemtEd0Y3aDNFMkYtY1lRMWwtMXowM3NXQ1pvVWZvbFJaYTl1XzRpUHRVU1A3X2JEc1BhOEdNa1hHdFl6VlQxQlRDQ3dRV3pLaTZnOTl4YmF3aHM0bnI5d0UxMTduN25RQVU3MDY0WWNiNTdIbXRKTnpJdnNyLVpvQV8zaUgtMVdVMHRRTlNzMEpFYzdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-06-23-025",
+    "date": "2026-06-23",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are Lynas Rare Earths Shares Still a Buy? - thebull.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBUc1RxaHBYbkVPY1FQbWhvN2F6ZFIwLUdZNGM5eTBTYTQ2WlJUNUFmWFpUTUthZTFTNnpqaFI3dFlDUXk1LUJGV0R2VWlHQnE0clBRZjVHdnFual9VNTJxWUVPaDlmOHFjQThPb0pUbl",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUc1RxaHBYbkVPY1FQbWhvN2F6ZFIwLUdZNGM5eTBTYTQ2WlJUNUFmWFpUTUthZTFTNnpqaFI3dFlDUXk1LUJGV0R2VWlHQnE0clBRZjVHdnFual9VNTJxWUVPaDlmOHFjQThPb0pUbllWa0FPVkxJQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-026",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Rare Earth Innovation Push Moves Underground: Baogang Commercializes Corrosion-Resistant Rare Earth Rail for Tin Mines - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV09fWUJkbHpTWFJTSTEtYW5TWWs1R2Vrc09xSTAybTY5TUVSaFRib05nRl9mMUlSNU9HbGRZX3N5WEw0azRQd0d1WGVDYkYwcEJ1elBISU9NbXdXcGlneklnQnJYYU1keWd4NnU0b0",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV09fWUJkbHpTWFJTSTEtYW5TWWs1R2Vrc09xSTAybTY5TUVSaFRib05nRl9mMUlSNU9HbGRZX3N5WEw0azRQd0d1WGVDYkYwcEJ1elBISU9NbXdXcGlneklnQnJYYU1keWd4NnU0b01KRlljaTVVeXQtRHh3SkFxdzdfNlAwT2JUeE4tYVFiTHh2Z3dLQlA5Yklqa2JOSWNJYXFfNmZYR3NjMHBWQUJtX2N0T3lEYTg5NnNfMXRkN1lZMi1qNjhZeEhsdFNWUXB5QTFscGw1WDZSSVFGSldFTzY4cXRtT3NIek5RTzJYLVVuUmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_fuels-2026-06-23-027",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_fuels"
+    ],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Rare Earth Express] US critical minerals developer Energy Fuels a - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUhyYkZhQ2NEX2dBYVcxdUMtNlFnQ19DQXZuZTQzWHd0dkszYll3TW1fTVVBUDJtZ3VIZkhkamR2Zl9wbkQ5QWhIWlpyZVl0MTVMUFkxU3ZGb09ORk9lSVNxQW5Vb3lHU2xwNXp4Rk",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUhyYkZhQ2NEX2dBYVcxdUMtNlFnQ19DQXZuZTQzWHd0dkszYll3TW1fTVVBUDJtZ3VIZkhkamR2Zl9wbkQ5QWhIWlpyZVl0MTVMUFkxU3ZGb09ORk9lSVNxQW5Vb3lHU2xwNXp4RkROU3pfdXpzc1JFdTVabk9XNks5cXBMc2YzZUtsckxpSV9UVzRteWN0Uk0tblNMRFplb21NaVVxaDdhaVl1SVo4OE9mQkJ1UXFWVDFlMVBkbVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-028",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aclara Resources gets environmental OK for Chile rare earths project",
+    "summary": "<p>The receipt of the final environmental approval for Aclara Resources’ (TSX: ARA) Penco Module rare earths project in Chile shows the need for governments to make the most of the...</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/1003892383/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-029",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US sanctions shut Canada’s only cobalt refinery",
+    "summary": "<p>Sherritt International (TSX: S) has begun shutting down its Fort Saskatchewan refinery after expanded U.S. sanctions on Cuba halted the feedstock supply needed to keep the Alberta plant running. Th",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/us-sanctions-shut-canadas-only-cobalt-refinery/1003892373/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-030",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BHP, Rio test electric trucks to cut iron ore emissions",
+    "summary": "<p>Industry leaders begin testing electric haul trucks as mining seeks to cut emissions at scale.</p>\n<p>The post <a href=\"https://www.northernminer.com/news/bhp-rio-test-electric-trucks-to-cut-iron-o",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/bhp-rio-test-electric-trucks-to-cut-iron-ore-emissions/1003892406/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-031",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gold miner sues BC over ‘stripped’ mining rights",
+    "summary": "<p>MCC Canadian Gold Ventures says it has launched a multi-million dollar lawsuit against the British Columbia government after the province stripped MCGV of its mining rights through Orders in Counci",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/gold-miner-sues-bc-over-stripped-mining-rights/1003892371/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-032",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why the US is becoming a rare earth mine-to-magnet destination - Benchmark Mineral Intelligence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjMwN3VPOG1RUkRmMGlWblRiYW9TeFU1LVJJRTZlY1o3VDBycmhXYlpyZy1rQ0tWSHJMWUVrUDZ2T2FjUlhzVnlzbkJMNnlRM0RrMmRPMnNtbmo3ckpQMUNGamh6QmpCZEs5U1A0Z2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjMwN3VPOG1RUkRmMGlWblRiYW9TeFU1LVJJRTZlY1o3VDBycmhXYlpyZy1rQ0tWSHJMWUVrUDZ2T2FjUlhzVnlzbkJMNnlRM0RrMmRPMnNtbmo3ckpQMUNGamh6QmpCZEs5U1A0Z29oS0tRQzN2WTkyQWRJMmRQSDN0WkNsM3dfeFNMZmF5ZndiY2ZYUmJDcl9vc1lPNTVkamJvUm5JWmZub1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-033",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China takes aim at U.S. rare earth companies with new export controls - The Washington Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnVjbnBoV2F5Tk4tNzhtT0pQN0haOGdPOXN6d29MWGxDTGhNMm1mMmtaaFc4LUNpVUxyTmxNc1Y2OVZnbEJ2dE9HRDljdUREdU1EeldfTXRBRTBWNUN3YTVSbFlUdjdXRzdWdXMzeV",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnVjbnBoV2F5Tk4tNzhtT0pQN0haOGdPOXN6d29MWGxDTGhNMm1mMmtaaFc4LUNpVUxyTmxNc1Y2OVZnbEJ2dE9HRDljdUREdU1EeldfTXRBRTBWNUN3YTVSbFlUdjdXRzdWdXMzeVN3aGIwcWg4d0JaVFJLOTZMYTlyX0tUYUJpbzgxS1k5cy1EcDJWNW1jV0dJUTVCSGFJeENxa3IzVjN1cHB6aEM5czI3NjZYSnFfZ1lrTGlSZlNrMlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-034",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aclara Resources gets environmental OK for Chile rare earths project - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXcxRlNHSHhmYS1kM2ZrRV9EdUJRMFJZMWxwRUJkYUVXV1VDUW1oTFhoVVRQN0xyMWlpTmJvN3l6ZDF5RHVDSlNuNlB1RzZ1eXlJWkFWdVNhMzJneFJCSlBzM2ZLWFMyamhxWmpiZj",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXcxRlNHSHhmYS1kM2ZrRV9EdUJRMFJZMWxwRUJkYUVXV1VDUW1oTFhoVVRQN0xyMWlpTmJvN3l6ZDF5RHVDSlNuNlB1RzZ1eXlJWkFWdVNhMzJneFJCSlBzM2ZLWFMyamhxWmpiZjZRU2MxazBDc3U5Y0owOWM0SVFHWkhEeUJic3lxX3F0SDU0SjRUNmFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-035",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Technofantasy’ or ‘eureka’?: Berkeley’s $3 billion AI mining company - Berkeleyside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9xejBLRndJYm9NUGZPOTQ3dzdMN1pKWHpyRFdTYzlHcHYzOUtCYm9hRDMwbnJiSm0wVkxuWkdURWxBV3A3T3ZhazBCSE9pajQ3U3dtSXZTLUEwcWg1dVhRd3M5cllISEN0N2ZKdnMyVQ",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xejBLRndJYm9NUGZPOTQ3dzdMN1pKWHpyRFdTYzlHcHYzOUtCYm9hRDMwbnJiSm0wVkxuWkdURWxBV3A3T3ZhazBCSE9pajQ3U3dtSXZTLUEwcWg1dVhRd3M5cllISEN0N2ZKdnMyVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-036",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Strikes Back at the Pentagon’s Rare Earth Bet - Foreign Policy in Focus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVX",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
         "type": "rss"
       }
     ]
@@ -1304,6 +1731,116 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFcya04yenhtYXV0aE9Xc2kxcWVFNGtLM3BXWUR1bGlrYkk1aDlWMkhLLVVQaWdhVER1T21vTnF3MnZfRG5qbm9pNWRjWllfOUQ2Mm0wcURWWENwOGgzbGVVSDN2ZmN6RmhTa3l2MGI2NmpwbGJJemxZQmZDZW1XLUw5OE9iNVU0Wk9wN0VmNXhhV28yS05wZERuaVFPZFRKT0dNM1otbHFaUjlPekZGS3lrb2Rxdzdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-048",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU courts Brazil as strategic partner in global race for critical minerals - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTRWY0Y1UkZqa2ZJemJpZmRhWEQ0a1VkbVU1MmVtbWpnLXZ1dHVFbXlBY0JDSU1aOU1nZVBjTkVCRmVDcVN1dDkwczVSbUJYd19HeV9wSktTbU95Q2dlb3NMWHJmeUFyY2FHTFhiWm",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTRWY0Y1UkZqa2ZJemJpZmRhWEQ0a1VkbVU1MmVtbWpnLXZ1dHVFbXlBY0JDSU1aOU1nZVBjTkVCRmVDcVN1dDkwczVSbUJYd19HeV9wSktTbU95Q2dlb3NMWHJmeUFyY2FHTFhiWmZIOGE2SVp0TGt6NEJHRlp0YjNwZUp1U20tQ2tMSTBlV25hQ1p3RTJuTVM5NjhnVGdMVHF5aTJOWnplNWQxSWNuZThB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-049",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK Government announces investment in critical minerals projects - IOM3",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2pJTDJsVmgzQU9HaDd4MDM2Nm5PQ3pqVW9Sd29xbWE0bkx1Z1pmWVJvaS01b1dfbGJ4MUZkRndvTDJENV9WTWxqRjhpVDVYMzRYS0FfSDZNME80a3p2X2hRVkZnUXNTMmhFU2JVYT",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2pJTDJsVmgzQU9HaDd4MDM2Nm5PQ3pqVW9Sd29xbWE0bkx1Z1pmWVJvaS01b1dfbGJ4MUZkRndvTDJENV9WTWxqRjhpVDVYMzRYS0FfSDZNME80a3p2X2hRVkZnUXNTMmhFU2JVYTVjYlRyYXRyQzVETG84SmJhRUZqdi1BTmd4RExiS2QxZFpURTY4Q1A0NHJtUDJYeE91?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-050",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Places Two US Rare Earths Producers on Export Control List - Bloomberg.com",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYU",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-051",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China targets US rare earth and other firms with export controls - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVNCbzE0c2EzTzNvNENhaUFQQTVWQlpLdmR1OWU3WGR2aXFleHdTMkstME81QV94TFhNTWNTZ2pndW1ZSE1wMVBFRUk4RVlYRVZqZ25XM1FVM0JhOEgyVEQtMkJlTnJPSTdfdVQ2RH",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVNCbzE0c2EzTzNvNENhaUFQQTVWQlpLdmR1OWU3WGR2aXFleHdTMkstME81QV94TFhNTWNTZ2pndW1ZSE1wMVBFRUk4RVlYRVZqZ25XM1FVM0JhOEgyVEQtMkJlTnJPSTdfdVQ2RHVzMTlBUjd1cmhOVFd4WmFiTDVEY3JSd3BSOXJsVl9GaGphQjJFRmhoNWhBZVNnLXdQcUF0V1lHRW4wTV9PQUswb1JZQ0FqdUcxSEs3Yg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-052",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China targets US rare earth and other firms with export controls - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRklFRUJ2cGlvSnJxQlRjSkNhdnR0Q3QtRkJmQjNVaEwtM04zak1Geks0MUlyUjF2dTFsRFktSkdWaDFYN09IR2ZPYVpSN0ZwcXhBd3ltdzRFTUhQSGQ1ZGRkRGlKMUJmbERxYWlFYX",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRklFRUJ2cGlvSnJxQlRjSkNhdnR0Q3QtRkJmQjNVaEwtM04zak1Geks0MUlyUjF2dTFsRFktSkdWaDFYN09IR2ZPYVpSN0ZwcXhBd3ltdzRFTUhQSGQ1ZGRkRGlKMUJmbERxYWlFYXpJRTdET2FjdU0waVdWeVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-053",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China adds US rare earth, other firms to its export controls list | Daily Sabah - Daily Sabah",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3VpUUxiZUU2OXdvRzJKbG5ZZktuYVFaa1hFNUZSZWdwcFhESnpFM3l4RUsyUjRPR1dodl9uN1pzemZxMklXTjdnT05jeTZKWWxya2NDbEx5UnhKN1RzXy05OVlSY3h0SzlIMzRndD",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3VpUUxiZUU2OXdvRzJKbG5ZZktuYVFaa1hFNUZSZWdwcFhESnpFM3l4RUsyUjRPR1dodl9uN1pzemZxMklXTjdnT05jeTZKWWxya2NDbEx5UnhKN1RzXy05OVlSY3h0SzlIMzRndDZPRG1LLWo0bFdjQXlaWnl5SDNpMXF1WHZLYTFQUkdQYWlYRk5rT0Z6aWhCYS1JUUVFejN1cXZ4UF9lUldqT1JVbDhR0gGyAUFVX3lxTE03dWlRTGJlRTY5d29HMkpsbllmS25hUVprWEU1RlJlZ3BwWERKekUzeXhFSzJSNE9HV2h2X243WnN6ZnEySVdON2dPTmN5NkpZbHJrY0NsTHlSeEo3VHNfLTk5WVJjeHRLOUgzNGd0Nk9EbUstajRsV2NBeVpaeXlIM2kxcXVYdkthMVBSR1BhaVhGTmtPRnppaEJhLUlRRUV6M3VxdnhQX2VSV2pPUlVsOFE?oc=5",
         "type": "rss"
       }
     ]
@@ -2923,6 +3460,25 @@
       {
         "name": "ucore",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnd2QW9hRHZMNnZubWhnbnl1RUcyd3lxNWp3MkNOZHNsTFZrN2twRlEtRmNZLWZTbkF6eEx6bjFWUDlrLVZZcUlxVnlFdVBDSEZkMmxteGNFOTJXX3pfdGxhQ2dkaXdKODVlbnpEUUJ3ZXFfbkw5cVFseHgyYnBjbTRfR2hJX0kydU11SjhaUTdXcmVnN2dhMkdCMkNpU01HU0tNTkFFU05peUNBQ2NfWTNVVVhaMFE1TnpYVGdyNmg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-045",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "G7 Countries Commit to Diversifying Critical Minerals Supply Without Deciding Who Bears the Cost - CGEP",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclNkOVRhdnNUNW0tLUlJdVZINlJMbkpDZ1p6cmliLUxyWkF1bUlLQ3g5Ymk5cGQ1YWVDZS0zTHN0Q1R0ZGViQUxWdGw5MzdrVGVaRWhCbVU2anNDTVRXcDNhczZGZm5xeVFEbUt5aH",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclNkOVRhdnNUNW0tLUlJdVZINlJMbkpDZ1p6cmliLUxyWkF1bUlLQ3g5Ymk5cGQ1YWVDZS0zTHN0Q1R0ZGViQUxWdGw5MzdrVGVaRWhCbVU2anNDTVRXcDNhczZGZm5xeVFEbUt5aHRKYU5ZdWxZZXh2MlRvYi1adWRjdklDUGU1MGNzb2hKVWJZdEFFbEU0SjB6TmJGLTZnVnVpcDBfcXU4RVZEb0hJVEtiTF91d3FXMy1pUjVMd0ZEY2hKRmZhaldJY3F4NE1j?oc=5",
         "type": "rss"
       }
     ]

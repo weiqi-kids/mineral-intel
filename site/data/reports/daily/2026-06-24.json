@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:42:59.835086Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_fuels-2026-06-24-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Energy Fuels delays Australian Strategic Materials deal - grafa.com",
+      "companies": [
+        "energy_fuels",
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2RfWUdreEpmYXJNZEtRNWhGckpVX2EzLWNxeU85R25sZC0xbTB6VTdESEtFYXhobDRqbFltVVRoY1hxNzllVUdhR1BVZF9weFo4YTMtNVpidmlsMkNJMUh6MVhkd01XZ0o4ZDg5NGtjZ3c5cEtURFJ0UkdUUFNYeS1mN0I0Q1U0LW5fSWNhRE1Ud1d6UEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-06-24-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Arafura Rare Earths (ASX:ARU)- What’s Driving the Nolans Breakthrough? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUE2em45ajVycUktSjUzQWJuMFRuN3VtVzROUlo3WXY3am4xRHE4amMtam92WlBmeEh5djRodUk2a3g5QmNodkNmVWswNi1nRU9MeFNRQThWUVlFd09SMGVseE5zZ0s5NXVkWGRUdF9RVlBYRVVYZHFMbFl3SUVxQ010WUt1QmFybWZ3eXVCQ2hiTHNMLUY4QUtmMVlVMXhNenVqNVZObVd6RXRYWVJ1Qi1PeDBqMjhLaHlZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Macquarie upgrades Lynas Rare Earths (LYSCF) to a Buy - The Globe and Mail",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1dTQXhJQjgtUTlkZXgzYnowVWRZTV9uRTdnRFAzTFZ6Qk9YZWV1bjd2VGl1Snpjdm1kbXJTdmJpb0RNWTMtR2JEVmFFTmRjMVptYUw1dXp0TTJNbW92cV9RTlZXR3ZDRm9qc0piaG5oVVc1eU5VTXJXT3FFTkRzaTJZQUxucVhhTnNuTFdzcFBfOUJhbF9jMW9ob2szY2hIdXJ1MEVHZG5vb282NlJyV29Hb3o0ZkEwblF1RFNHcENmQjNhRlpvYjhtLUI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Rare Earth Talent War: Northern Rare Earth and Inner Mongolia University Strengthen Strategic Alliance - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEh6WkdBdDVUWmRramFlZE5WQXZBZGgySVN6bFkyOUJIZWg4ZHRWczQwc1hWek01Y2k2aVRTMVZjdy0wUERIdU5fNVN0dFkzTkM3M3RGV2FROExLNGlCel9JWG9OaFJDREpITVlwWk5NX2kwcWVOYmhscDFZNkVoUDdzX1RrTmVHMlBPekhZd0pBbXV6OG1UQlpJVExmcklIcV9kYl9VeUR5OFUweHRXSjlpS0gzU1U3YzQ4SVVqZlZfbEMzYkZla2xpekhSVWtFY2k5cDJtRzdCUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LYC, ILU, ARU: Nolans Funding Signal Puts Rare Earths On Watch - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZl9PQTNEa0pXOWRENy1JTDJ0QVNHZUN3eG9OLTFWdm9MVHNqYXdMVE9JVzJaZlQ3UUJKUi1tdmJ4bGQxa0xTMUl3UVMzRzBwMFo1X0UzenpBSXlFc1RZTks0VDhQRWo0MDJMS1N0RmQwUjNiUzlQVTFZMVpaN293bXphdV9pWmk2V19GRUI0cWZ6WEcyMl9rTWc0SG8xTnNmUGVka2hvNks3aWxnYTBQY2RKWng?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "asm",
+        "count": 2
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 119,
+    "too_old": 162,
+    "gate1_blocked": 17,
+    "gate2_blocked": 7,
+    "passed": 30,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Hastings scores $1M and processing muscle from Malaysian ally - The West Australian",
+      "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+      "NEO.CA News | NEO PERFORMANCE MATERIALS IN (TSX:NEO) - ChartMill",
+      "Australian Strategic Materials Says Proposed Acquirer Energy Fuels to Acquire Vacuumschmelze - marke",
+      "Energy Fuels and the Emergence of a Credible Magnet Competitor - InvestorNews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Australian Strategic Materials、萊納斯、Arafura Rare Earths相關動態：「Energy Fuels delays Australian Strategic Materials deal -...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Energy Fuels delays Australian Strategic Materials deal - grafa.com",
+        "level": "yellow"
+      },
+      {
+        "text": "Arafura Rare Earths (ASX:ARU)- What’s Driving the Nolans Breakthrough? - Kalk...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
