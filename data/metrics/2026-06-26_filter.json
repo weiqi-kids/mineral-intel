@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 21,
+  "gate2_fail": 9,
+  "passed": 20,
+  "gate2_samples": [
+    "Lynas (ASX:LYC) sent back for a redo on its Malaysian EIA - Stocks Down Under",
+    "Enterprise value to EBIT forward of Vital Metals Ltd – LS:A0F5YD - TradingView",
+    "Ucore Rare Metals Inc. Actuals & Estimates (LSX:A2QJQ4) - TradingView",
+    "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+    "Price to sales forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView"
+  ]
+}

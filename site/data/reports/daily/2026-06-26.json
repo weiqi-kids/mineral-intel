@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:45:51.468753Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asm-2026-06-26-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Australian Strategic Materials Expects Schemes for Proposed Acquisition by Energy Fuels Unit to be Implemented by August, Shares Fall 3% - marketscreener.com",
+      "companies": [
+        "asm",
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUF9feXY3N1dydkNQdDhiYlcwYlh5VWdtMjk0Nm9YSHZ3TTlNa2l0RjBfZFp1MXgxQzV4b21DcVVnandZVzlrcnJkb3lpY2ZOSW9ZZnY0WnB5eHJIc2ItU1FoSnFrUkVoWEplZHhDeE9EUHE4VXFPQjJTVzFYSTV5bGMxSXp2bW9SVjhPSjJQellSTWhlY2wyOHNQZV85NnhuZ1Yxa0lWTC1SaHJrZzZYNVZSdjgyMzVNUW81NDJQclk4WnRFaGthODh3X0F1UVdtLVBzUHBCTzdlNmdnWWI0QV9kbFN0NTg5?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia’s Lynas Rare Earths Starts Producing Key Defense Mineral Samarium - WSJ",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3ota3psZkpyaTFYc0tlU2xUQzhDRjJoY3Zib2pUTmhSbDR3bl9ONTNXX2J4N0NfV09JVlpTN3h6UGR1S2dncTRaTjY4UnRPR1FrSlh3UlAxeFBJb25FV18tMldLNHdHS2tYa1BMa0F0ZjZkbGNKNUtuVGtmOTg2dW1oT1lBd1dZV21meEZaNHh2YklxUTV5MnZnbzViS3BWdVk3WHNMUUxUUmp2VHFTZ0NyVzV6Z1RIa0lKRERmOFJoWmR2U05GRms2LUlhZHhPUC1NMjc1VnIxbE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Lynas Rare Earths Limited Sponsored ADR – GETTEX:LYIC - TradingView",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmxEdE1HV2F4dTNXY2ZiMFVjVGZTYjF1NVpVektKQUotcjk3YkZLMjNZWGtjN0Y1Y3IzVWNOcTNzMlFnSE5TQl9MUXMxYzh5RFhXalV1Zk9OUEI3bDIwTlNzSWZwYjNNczJvc0NOTGdzcFNwYlhla1lmeXJGX1hOMnhqMzBZYWljdFc2SEllOFFvMUxVUG1hdm1DUnpIQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX: LYC): Rare Earths Giant Gains as Critical Minerals Stay in Focus - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkNibEgzN2hmRk92cVBRNzNJNjJXa2NpMFFpMjBydklPR0NhZEpIMjAweUhxMDhESElUUU5XdzBLUTBHbmlqdjNJc3JISVVneHZkMUFBMWYwc1ZCLXFhT0ZkcDNobEVqOFI2STMzNWozVm9IRFJ1U2o3dUdPZ3ZWaHdRMzRQYl9iV2xyLTNMYmRZR2NJVWtYVUdGdEVXR2NYV2Z6NWtjX0JmRFh0U0czdnlvdlNIN2ZNS2xv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-06-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Arafura (ASX:ARU) Advancing Its NdPr Rare Earth Strategy? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT09sU2k4SjdmMElUMVptdWNsNUtPWlphbGh0dWhFbEpfUC05cEVLNjJadFRacGJkNEhEVDBpeVRxd19jS1gyWGJEZVBtOGUzWGpCVks5QTdscy1pdzUyXzhSSFpuWmdHaFRxQ1hXckJyM29NLVBVYWlmaFN5UTg5SFM4MXdLNXR0VG9QNW9nVXJlQUNSektGbzdBM2dvMmhBNl9KYTNuaEVmem84Uy01MDRraTNldw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 3
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 125,
+    "too_old": 162,
+    "gate1_blocked": 21,
+    "gate2_blocked": 9,
+    "passed": 20,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Lynas (ASX:LYC) sent back for a redo on its Malaysian EIA - Stocks Down Under",
+      "Enterprise value to EBIT forward of Vital Metals Ltd – LS:A0F5YD - TradingView",
+      "Ucore Rare Metals Inc. Actuals & Estimates (LSX:A2QJQ4) - TradingView",
+      "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+      "Price to sales forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為萊納斯、Arafura Rare Earths、Rainbow Rare Earths相關動態：「Australian Strategic Materials Expects Schemes for Propos...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Australian Strategic Materials Expects Schemes for Proposed Acquisition by En...",
+        "level": "yellow"
+      },
+      {
+        "text": "Australia’s Lynas Rare Earths Starts Producing Key Defense Mineral Samarium -...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
