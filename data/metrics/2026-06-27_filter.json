@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 24,
+  "gate2_fail": 10,
+  "passed": 25,
+  "gate2_samples": [
+    "Hastings scores $1M and processing muscle from Malaysian ally - SMH.com.au",
+    "Price to book forward of Vital Metals Ltd – FWB:VJF - TradingView",
+    "Enterprise value to EBIT forward of Vital Metals Ltd – LS:A0F5YD - TradingView",
+    "Shenghe Resources Holding Co., Ltd. Class A Actuals & Estimates (SSE:600392) - TradingView",
+    "Neo Performance Materials, Inc. Actuals & Estimates (OTC:NOPMF) - TradingView"
+  ]
+}
