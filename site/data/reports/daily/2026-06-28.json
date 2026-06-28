@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:23:06.962097Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rainbow-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Rainbow Rare Earths Ltd. – LSE:RBW - TradingView",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaC1oc0YtQXNPT2FPMVNqS2ZRcGUzcDNzQS1YekNNS2Z2TEpBYVVjdW9EUEU2eW9MR2RjcndsWEctallSSTVLX3FaZG42dGJqQllSZHpGTkljcVRqWkFPRHpPUC13c2pPb21JRE9QODFDYWk5Y0E3a0VYTnZIbzNCZjREeFNtdHJ0bkQ4S1NvalRrQVhJLVBYRg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 147,
+    "too_old": 143,
+    "gate1_blocked": 33,
+    "gate2_blocked": 12,
+    "passed": 24,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Hastings scores $1M and processing muscle from Malaysian ally - SMH.com.au",
+      "Price to book forward of Vital Metals Ltd – FWB:VJF - TradingView",
+      "Enterprise value to EBIT forward of Vital Metals Ltd – ASX:VML - TradingView",
+      "Ucore Rare Metals Inc. Actuals & Estimates (LSX:A2QJQ4) - TradingView",
+      "Ucore ships NdPr oxide to magnet makers - Metal Tech News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Rainbow Rare Earths相關動態：「Price to sales forward of Rainbow Rare Earths Ltd. – LSE:...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to sales forward of Rainbow Rare Earths Ltd. – LSE:RBW - TradingView（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rainbow Rare Earths為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
