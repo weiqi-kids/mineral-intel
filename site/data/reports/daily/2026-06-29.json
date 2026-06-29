@@ -1,0 +1,199 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:25:33.461625Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-06-29-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Is Lynas Rare Earths (ASX:LYC) Leading the Rare Earth Rally? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnRjYjQ2em10UFc2NnI4S0Rsa29nOVhrcVRrSVdzc2U5T3RIeHlFeWQ4b3lOdldfLXdDejB2LVJvN1hCMUNUU0QzQlJicTJlOGc4bHVXQmZvRUpPSlRDSWtsQmYyZWowYzNCcll5cXNDNjJobHd0b3ZRUzZRMFNuN01yUUhpY2ZYMVlOUU9TbkZnMzJfcGlxeFlhdi1Vb0Z3OV92WDQ2Y2g2eXpMZ0xsemFEc19QUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-29-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LEADING EDGE MATERIALS GRANTED 25-YEAR MINING LEASE FOR NORRA KÄRR HEAVY RARE EARTH ELEMENTS PROJECT - Investing News Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQloyTzNwODE3ekN3T0ZOMmQwOVNkNFd3VklleDJfNGpuNUJYdXVNYWczZDNrSU00bm1KVlJFelYyTDhDbjlDRERWX016WHFnMjZJYjduTGkwWndXM2l2Z0NDZzFlNE5nWHVyVndwZDZVYk05aVBPcTJBLUthSUdBYjlNMzc5c1RoajdLT01xSnRlV3VUR291aW8yYlhTcDFKLXkxRmNBTTFQOTZrOVhCek1PdHlSWVBCTG5hNXdkcWV1SHVVUXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Northern Rare Earth Deepens University Partnership, Reinforcing Long-Term Rare Earth Strategy - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmtyX2Nyd1RzN1NrcTlJQTBodDFxSzI5ekkxWjRjVElvYndaN0xpV21qY2licXl4WGdaaXlQUTZnM3gxYXZvUi1mZlVpZjZURXBKT0dPcXQ1WHJHVXUyWktRbHgyZ04xM3hhRHhEWEc1cnZtdDRqV1FES1Rab1V0Y3BQOEM5TXJzLURsQmszZzh4WXNmcXdzdGpBbWJHS0gwaENXLWhTRktOMmpnODJKQzB4cUFaaEFxNHd6TTVkODlMLUtKd0dhaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Makes Arafura Rare Earths (ASX:ARU) a Key Critical Minerals Story? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDV5Z2Y5STRUZmk4UjV3UkM2RnRjRXZaQ0JyQmhaeUowbVFaOXBzS2xHVTZFbUVjR21LVXloaGgxZU9SbE9OTDFjX3lNT1o0TzhQR1VyblZlR1RXYkhYM2pnSjZHSEdyRjlEYm1mZER6YnlhMXUwWVo3RHc2MTVMZ3MtOVBXd3MyV3JHeUR4WGpNYWR5cGdQRDZlc2N4MEVvYUlvU2lpYWxfNEdSUDU5M1o2dUNiOWcySDlKSm9YUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amaroq starts drilling for rare earths in Greenland's Gardar Alkaline province - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQW9wWk12aXBnb2FhRnVLcTVUdVQyb0dJME1MUTNocVB1cDkzbWhPQ1pqSW9UQkhIQXpQLXBLeGZncE83V0NlR1p0MU5WcjhaVVh1TTk2V19aa2R0aEVTQjJHRHRkU1gyY0lIU081NXc5dWVZajktVUJLUTF6Q3RSYUIzbDJzbUZNWUo3QThUTUx5cENqN2MtUWoxMHJ4Z0N2TWplUUtPWHlyOGxndHJBZ0JQVGRfekhtem1DdWdSam1XX0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 129,
+    "too_old": 156,
+    "gate1_blocked": 27,
+    "gate2_blocked": 11,
+    "passed": 14,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Price to book forward of Vital Metals Ltd – FWB:VJF - TradingView",
+      "Ucore Rare Metals Inc. Actuals & Estimates (NEO:UCU) - TradingView",
+      "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+      "Enterprise value to EBIT forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+      "Enterprise value to EBITDA forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Why Is Lynas Rare Earths (ASX:LYC) Leading the Rare Earth...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Is Lynas Rare Earths (ASX:LYC) Leading the Rare Earth Rally? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LEADING EDGE MATERIALS GRANTED 25-YEAR MINING LEASE FOR NORRA KÄRR HEAVY RARE...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

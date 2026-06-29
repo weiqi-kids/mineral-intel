@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-29",
+  "date_range": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "generated_at": "2026-06-29T12:25:33.593372Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-06-24-006",
+      "date": "2026-06-24",
+      "title": "Energy Fuels delays Australian Strategic Materials deal - grafa.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 56,
+      "last_week": 71,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.02
+    },
+    "critical_mineral_policy": {
+      "this_week": 8,
+      "last_week": 11,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.06
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hastings": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ucore": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "mp_materials": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "arafura": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "energy_fuels": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 7
+    },
+    "asm": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "vital": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "rainbow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 152,
+        "last": 207,
+        "change_pct": -26.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-23",
+      "event_count": 39,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 32,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 28,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 8,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-23 ~ 2026-06-29）共 152 則事件，重點為「Energy Fuels delays Australian Strategic Materi...」。Arafura Rare Earths、Energy Fuels情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Energy Fuels",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

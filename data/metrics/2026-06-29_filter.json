@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 27,
+  "gate2_fail": 11,
+  "passed": 14,
+  "gate2_samples": [
+    "Price to book forward of Vital Metals Ltd – FWB:VJF - TradingView",
+    "Ucore Rare Metals Inc. Actuals & Estimates (NEO:UCU) - TradingView",
+    "Ucore ships NdPr oxide to magnet makers - Metal Tech News",
+    "Enterprise value to EBIT forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+    "Enterprise value to EBITDA forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView"
+  ]
+}
