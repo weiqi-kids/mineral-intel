@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 19,
+  "gate2_fail": 13,
+  "passed": 32,
+  "gate2_samples": [
+    "Hastings scores $1M and processing muscle from Malaysian ally - SMH.com.au",
+    "Vital Metals Ltd Actuals & Estimates (FWB:VJF) - TradingView",
+    "Ucore Rare Metals Inc. Actuals & Estimates (NEO:UCU) - TradingView",
+    "Enterprise value to EBIT forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+    "Ucore ships NdPr oxide to magnet makers - Metal Tech News"
+  ]
+}
