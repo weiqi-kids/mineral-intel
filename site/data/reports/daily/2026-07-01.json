@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:19:04.192936Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-07-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (LYSCF) Gets a Buy from UBS - The Globe and Mail",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM2RILVBHeFY0R1VvTHVTWFBzaHhfQ0FNUURkY25CTk9pRXZFVkxhNXUtVDFvTDVPWHo5OC1qWk9JUXk3bnZ3TnZnYy1zMVV6LW9udUZaOTcyVUJ3eFhNWWtFZWNJYlNLVkE4Z1licS02N2cyWWVpc3VfWHNPZXBKeDVSbEh2ZEI4QTF3LTNpeE5XdWdWS2hHOER3bXNxS2xIdEE0SzFiNjlUOGVYYmxtSHBWTkh6V3ptVlNOVFRaUEl5Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Lynas (ASX:LYC) Back in Rare Earth Focus? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkN5OUtlYmJQYlN3am42d1Y4TDNvYW5vRGo1QmhvLVljU0JyR1VXTDJSLV80ekUyREczNzZQeFY5XzIwaklsQ2tMV0xyWFZjV0ZHRXMtSDJ2NzdJbThucVdYMVM4QUFLd0piemNnUGJyUkJsUzRkN2JtSnU1czFVSFI2NjZiOGhtRzFWaGJWcXZIZXBsN3ZpbVRza09tNHdf?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-07-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas (ASX:LYC) Strengthens Rare Earth Supply Links With Japan and Korea - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0x3SzNaYTNraXlqOWVxSndCOElIdllmMDU0b2M4bFdfR1NIX0tJN0VmN3dzTEx4bWtuSGRtTDF4RGh0UDJFbVBPTTdFVTAyQTRaTUhIbmNKQmx0VVI3RXlpUThUX29MeUFtdm52U0xKRlpUMG02UXludnRUaXZkNFIydWV2UmNQWTlVTjdWTFRDeEpuOWdIWF9YV21HZG5BZkg4R3RGM0wtYzU2SVVGWnRDWDEtdHNvX2JVMGpROVMxdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-07-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Is Arafura Rare Earths (ASX:ARU) Revealing About Today's Rare Earth Minerals Theme? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWloS1p3ZzlRaXhiM1FIbmF6c1lIZTBDaEFnbDJFOEtITnF6VW5vU084S3ZRZ1A4YVdWQVlIMG1RY0NjT3VZazhXRmxpcGNJaDRVMUlCVkFYTXJGSVRHQUxRcE5tU3hTXzJzOFdhdVlwZjl6RTJhUXl2bzVycEZtOEJoLWNmdU5MajQwc1J6LWpUNGpDamFQRHQ0REFZUHdiaElGdW4wWWEwMHJfMW4tLWtITzJjQTZ1eTVudzdPUDd6U3NIWjJ0eEdEYnduVHBlM01NLQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-07-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Arafura’s Nolans project became absolutely critical - Australian Mining",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2ZHNF95aU05Zmk2dE9aMVVQdUxHT2NvWFF1dFMwRnRPcHVBQzVrZThFMHVWMlU4VXhsQUN4cWpPWlh6NlVpS2ZOZmpIMy1QSUE5SXdON0xxQkFHRVpON3hDQngxeTFGU0lrcTdCMzl1dW5qbUJKSldNWEQxUUcwdEdqNk10V01YbVEzdTlYZUZXMll5TkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 5
+      },
+      {
+        "id": "lynas",
+        "count": 3
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 120,
+    "too_old": 153,
+    "gate1_blocked": 21,
+    "gate2_blocked": 7,
+    "passed": 34,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Vital Metals Ltd Actuals & Estimates (FWB:VJF) - TradingView",
+      "Ucore Rare Metals Inc. Actuals & Estimates (NEO:UCU) - TradingView",
+      "Enterprise value to EBIT forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+      "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+      "Shenghe Resources Holding Co., Ltd. Class A Actuals & Estimates (SSE:600392) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Rainbow Rare Earths、萊納斯、Arafura Rare Earths相關動態：「Lynas Rare Earths (LYSCF) Gets a Buy from UBS - The Globe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (LYSCF) Gets a Buy from UBS - The Globe and Mail（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Is Lynas (ASX:LYC) Back in Rare Earth Focus? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
