@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 29,
+  "gate2_fail": 8,
+  "passed": 43,
+  "gate2_samples": [
+    "Vital Metals Ltd Actuals & Estimates (FWB:VJF) - TradingView",
+    "Price to sales forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+    "Ucore Rare Metals Inc. Actuals & Estimates (NEO:UCU) - TradingView",
+    "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+    "Shenghe Resources Holding Co., Ltd. Class A Actuals & Estimates (SSE:600392) - TradingView"
+  ]
+}
