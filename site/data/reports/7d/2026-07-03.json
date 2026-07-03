@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:28:48.642059Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "arafura-2026-07-03-005",
+      "date": "2026-07-03",
+      "title": "ASX Preview: Can Arafura Rare Earths (ASX:ARU) and Hastings Technology Metals (ASX:HAS) Lead Rare Earth Stocks Today? - Kalkine Media",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 56,
+      "last_week": 78,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.04
+    },
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 13,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": 0.0
+    },
+    "rare_earth_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "rainbow": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "arafura": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 148,
+        "last": 208,
+        "change_pct": -28.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 28,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 38,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 39,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 148 則事件，重點為「ASX Preview: Can Arafura Rare Earths (ASX:ARU) ...」。礦業產業通用、關鍵礦物政策、稀土價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rainbow Rare Earths",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

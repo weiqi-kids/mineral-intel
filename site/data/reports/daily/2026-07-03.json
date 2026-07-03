@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:28:48.510236Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-07-03-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ASX Preview: Can Arafura Rare Earths (ASX:ARU) and Hastings Technology Metals (ASX:HAS) Lead Rare Earth Stocks Today? - Kalkine Media",
+      "companies": [
+        "arafura",
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMnVPWkhtYkNTRkRmd01ZMVdkeno3Q3k0bUFESjZLT2hYeS1rS1RnUTNOYUpHYzFrTkxHTkR1S25WZ1I2UWYyc19yQXRGVXlyS3pZdWhRZW13RFJKSzFBY1JiSkJpaGdsSXFwalBnLVJCREtkZTZPczd2c0tfeXNQU3dteTR5RnhSZEZPSDk5NXFDeUFFNTNqRGRfSjZRUXUyZWlGbjlVVkNCd3hOVmFnYk5hNURxREoycHRzWUc2Sm9GVjkxOS1PVEdBbjV6cmpySGctcXp5YlljQkpsYnduWVlrcWl1TGVQWnJtMlIxSFV2QXhWbm44?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rare Earth Minerals Are Back In Focus As Lynas Rare Earths (ASX:LYC) Leads The Supply Chain Debate - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY3dOdmZCa004cVp3cDRqZ2pOX241Si1RNEJ4Y2FtU3J1bDVua0dKUE1ITVBocUhjaWR2ZUhFSmxFOUs5MDV6M29tRTJ3djByUnpTd1dpS0RQV0NqLWtGaVUxRkhkNmdnZVUwSlpUZURubHpTZnVBWDFxVktrM0JHZTBMRnFwcFVZSXZ6dWFMcUpUM1BrekNlOFpSeHF0Y3lZVG9Zc25xR2RUdjlBUDVtdlRfbGFtS0tIRThod1FHT2I4c1RiZlJ0cW1BZkxTdVdNekUzSG9DSzVReC1kNEhKTjhGYlFqZWRQTXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Lynas Rare Earths (ASX:LYC) Is Back In Focus As Rare Earth Minerals Rebound - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWm9NMkNjdlJ5bExoaTBiNURNTkJZN0hneUpQaTZRd1FHMlFsejNNT1BOSnVqb1JwbXBIZWpNME82WWxRZHh1RE9lSk5CR0NwVG1RbmpoTFJYcmZJWU9VYkh1TTNQd1lLcWVvTjdXd1dCYnJPS3ZMMFFtYlFnSlFPcG1GNHd6WU0xNDU4WUxhUEIxSlh4NmpXbUJrTEhFNFdBT1lkV09HSFhGNHdqbll4VVl6WUhaaGJEQmhvZ3Zfd3RtLWUzNXphb0NSSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-07-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): Why Is ASX 200 Watching the NdPr Price Rally? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmp3QllBdDVlMVBKc25LbzFCV2RKMzBHYVUtQ01UUFQ2bHVwYTlqM0M0QmNHcXBrMGV1SFBjTktlcXFtRS0xaWNrYk9iTDd2N2hUclJOWllOSVpvWGRpc1BuOWF6YjJnQ1U5N293N1d0Z25JU0tNQUdBb2RtRWM2Mk1Ma2M2UUptYTZZTGtmelJYbU1vUDhSTnotdzBjMzBaNWtFeC05WUZiNEZhdHB5NnFhbGoyTDhYbE1ycC1IV1lVQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-07-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Arafura Rare Earths (ASX:ARU) ASX 300 Facing Its Biggest July Yet? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRW5yTl9SVzJ5NmlQQ1VHNk9xZXpaMUczcFdUVmtmdzlMMHZaMjduZ3NLMDVaRld6MUFBQnFmTDI2d0xnbEFUWS1NMDBZQXptanRUVnkzQ2huWUVkLU5vVEVLcG9nUzFRZUVwbnhoRXU4WHBMcTVmeVdhd2VzemMxcW5rUWV4eno1clVXUkpYSkp4bTFrQmV0Mkc5eGtoX3F2cjFCenZxNGlfLV85REVhejlDcHZUbGlPbHJFS0N5Ml9TUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 3
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 141,
+    "too_old": 148,
+    "gate1_blocked": 16,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Vital Metals Ltd Actuals & Estimates (FWB:VJF) - TradingView",
+      "Price to sales forward of Ucore Rare Metals Inc. – TSXV:UCU - TradingView",
+      "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+      "Shenghe Resources Holding Co., Ltd. Class A Actuals & Estimates (SSE:600392) - TradingView",
+      "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為萊納斯、Arafura Rare Earths、Hastings Technology Metals相關動態：「ASX Preview: Can Arafura Rare Earths (ASX:ARU) and Hastin...」。主要關注主題為礦業產業通用、稀土價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ASX Preview: Can Arafura Rare Earths (ASX:ARU) and Hastings Technology Metals...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Rare Earth Minerals Are Back In Focus As Lynas Rare Earths (ASX:LYC) Lead...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
