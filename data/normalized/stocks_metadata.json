@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2004-06-16",
+    "earliest": "2004-03-18",
     "latest": "2026-07-03",
-    "count": 5580
+    "count": 5644
   },
   "north_rare_earth": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5369
+    "count": 5433
   },
   "iluka": {
-    "earliest": "2004-06-16",
+    "earliest": "2004-03-18",
     "latest": "2026-07-03",
-    "count": 5580
+    "count": 5644
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
@@ -27,9 +27,9 @@
     "history_complete": true
   },
   "arafura": {
-    "earliest": "2004-06-16",
+    "earliest": "2004-03-18",
     "latest": "2026-07-03",
-    "count": 5580
+    "count": 5644
   },
   "hastings": {
     "earliest": "2008-02-20",
@@ -57,19 +57,19 @@
   },
   "ucore": {
     "earliest": "2007-10-25",
-    "latest": "2026-07-02",
-    "count": 4689,
+    "latest": "2026-07-03",
+    "count": 4690,
     "history_complete": true
   },
   "shenghe": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5369
+    "count": 5433
   },
   "neo": {
     "earliest": "2017-12-08",
-    "latest": "2026-07-02",
-    "count": 2148,
+    "latest": "2026-07-03",
+    "count": 2149,
     "history_complete": true
   },
   "asm": {
@@ -79,9 +79,9 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2004-06-23",
-    "latest": "2026-07-02",
-    "count": 5436
+    "earliest": "2004-03-25",
+    "latest": "2026-07-03",
+    "count": 5501
   },
   "etf_remx": {
     "earliest": "2010-10-28",

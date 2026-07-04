@@ -1,0 +1,14 @@
+{
+  "total_raw": 335,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 22,
+  "gate2_samples": [
+    "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+    "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra",
+    "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine"
+  ]
+}
