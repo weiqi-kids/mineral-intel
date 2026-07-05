@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-07-05-001",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AmForge, Flash Metals & Greenbrier Plan WV Rare Earth Hub - Mining Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOUFSVXh2SUt5c2NmQzVfMHpiVTVUZE0yTnhrQXJEbzk5Y1pibEthNjI3LWxPeUNFOW91OGE0cEU0amlpeVU3Q1dfalNYT3lrVDFGcHNPYUJaY2RiaEJ2SWhrWHh4WDdrd0RZT3o1LU",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOUFSVXh2SUt5c2NmQzVfMHpiVTVUZE0yTnhrQXJEbzk5Y1pibEthNjI3LWxPeUNFOW91OGE0cEU0amlpeVU3Q1dfalNYT3lrVDFGcHNPYUJaY2RiaEJ2SWhrWHh4WDdrd0RZT3o1LUpjUXFXVGM1NkV3VTFpZkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-002",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Japan's plan to recycle rare earth minerals from AC units is unfeasible and reveals its weak points: Chinese analysts - Global Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Xa0dNbFBzZGc0M1hndlUzbzE4aVNrZ3hxQVFqaGoxRzdRUVRBc0lFY2l2Zjg0Qzg1d2xUQ1Q3N3VvZGRtNmpkM1M5VkJYMmR5NGdOUklNX09USjFuY3VwOHFn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Xa0dNbFBzZGc0M1hndlUzbzE4aVNrZ3hxQVFqaGoxRzdRUVRBc0lFY2l2Zjg0Qzg1d2xUQ1Q3N3VvZGRtNmpkM1M5VkJYMmR5NGdOUklNX09USjFuY3VwOHFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rainbow-2026-07-04-001",
     "date": "2026-07-04",
     "companies": [
@@ -33,6 +69,104 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2ZnXzk5VjhVYXZ4Zi1seGM2Zm96RFJCSzVmLW93SUQwUzhZaWJKcGNITExLVkhSS2pHNTg5M1h1ZFpHcjZNeEMtZGJOa244bXI0ZmkxS29LeVIzbGpWc3U5MzFpSGRmR2tUTHo2T1BMaXFwWGc1QUdSMHZiSTcyT2J1ekU4aTNPVzhGZW1uQVVhQkI3blI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-07-04-003",
+    "date": "2026-07-04",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does NdPr Demand And US DoD-backed Expansion Change The Bull Case For Lynas Rare Earths (ASX:LYC)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNXhySHY3Zlk4UEM1MW1OOHFOS0R4TXpCbTJiWUJkMUhicHVsZFp4aVJsYWFwQ1l1Zm9VYmY1N2szcVZCQUppd25VTWFYQWxhSlktY19udGZXRkdBWWs3S2d4M2dPWFlweHNCSFF2TE",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNXhySHY3Zlk4UEM1MW1OOHFOS0R4TXpCbTJiWUJkMUhicHVsZFp4aVJsYWFwQ1l1Zm9VYmY1N2szcVZCQUppd25VTWFYQWxhSlktY19udGZXRkdBWWs3S2d4M2dPWFlweHNCSFF2TEpub1BVS0NiVVJ2Yy1iQjdiTWZyUThDcmx4Q19Ka281bk9PRFJPRGZ5cE94TWR4ZXZuVEhnaVpGejNTNjBBMU93RU10b1F6SEItMlZlbXdqWVZKZG12LXhHYlF6TGUyc1phSmYtaGxBb9IB3AFBVV95cUxQZWlQOVBKdjRPOFJVZ1daQzV3dlhxclhRQnBVbjZMdkhBY1M2ajdnVnJSYU9QcTJQYjhReG1IcW9zdjlaUGU2Mlh3OTVFRGNKeWExNktOVWFIeEdUdGxLLTJFbHp3Zkl2LVJEeGF4U1psTEpCbmNkLWcwTm50bXpQOFJyOHRkckloV2ptN0NPZGNQSGZRbGpLQjBKZmRoUTh0OEc3czc2RkxTT3publZDNmduQVZab3otQWE5bnUtZlMxVnBmU2FnWVFadVJUVmllODM5dXJkN3ZtZWV2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rainbow-2026-07-04-004",
+    "date": "2026-07-04",
+    "companies": [
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths simplifies extraction proce... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSk9DUGNoZEZFRGFIU0hhaVJnWXpwS2RaUHdTalB3czlzYkFWZXlmOHJCT0RKaGpuVzFUaW5ZOXZmMDRuOUU1ZGdoS2ZJTzVobkx0VUlTWDY0Y29OYm9MdDRhd1R0X3RzM19GWG9UTH",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSk9DUGNoZEZFRGFIU0hhaVJnWXpwS2RaUHdTalB3czlzYkFWZXlmOHJCT0RKaGpuVzFUaW5ZOXZmMDRuOUU1ZGdoS2ZJTzVobkx0VUlTWDY0Y29OYm9MdDRhd1R0X3RzM19GWG9UTHhxclVkRFRTZzFHeXR5X19EbG4xQV83ZTFOdXozRWhBNXpldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rainbow-2026-07-04-005",
+    "date": "2026-07-04",
+    "companies": [
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EnergyPathways, Ilika, Metals One, Rainbow Rare Earths, Gelion, Bradda Head Lithium - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWDlaZVN0ODhJWU0wUEx6YUQxS25wZlRXbHMwcjY4X0V3MlZGOGpkaFlzVUJZdnlPSXpVbFpWNzVseFR6Y1Z1OEJHQlZjOHZZVGF5eXVlMlREb01pdENDTDllWUowLVpHdmw2Skc2T0",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWDlaZVN0ODhJWU0wUEx6YUQxS25wZlRXbHMwcjY4X0V3MlZGOGpkaFlzVUJZdnlPSXpVbFpWNzVseFR6Y1Z1OEJHQlZjOHZZVGF5eXVlMlREb01pdENDTDllWUowLVpHdmw2Skc2T0NZZ1ZucGprcTE5SmowX2QzWHdkZ0FiTUk4SEVaVzZzdnN5TU1fLVRwemhrWmd4LU8yQTl1b29ZT0QwVTdxclU2T1dRbUh0eE52UDF1djVQTWJKOWlFUHAwVmRDVEdqUF8xTzRLU0gwMURuVXhSWU1pNUU3WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-07-04-006",
+    "date": "2026-07-04",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of China Rare Earth Holdings Limited – HKEX:769 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2dmYlVNelZRNWhjUHVJakpKSzJDOV9LZkU3dHlBakYxeWlyUzZQaktoNDVtTlFzelF1MVUtdENVZ3d2NEowcF9FQzlIVkNmb0tRbVFDWktROUJuU3dhZ1FDMmcxMTlpNlp4XzhhTD",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2dmYlVNelZRNWhjUHVJakpKSzJDOV9LZkU3dHlBakYxeWlyUzZQaktoNDVtTlFzelF1MVUtdENVZ3d2NEowcF9FQzlIVkNmb0tRbVFDWktROUJuU3dhZ1FDMmcxMTlpNlp4XzhhTDlYbFZFbjh1a1F2R19iX3Y2cUFsblhVSGtRWnhnYXZ2YTNhOHJoOG1KU2VQNUJjcG91NEo3VWlMN1Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-04-007",
+    "date": "2026-07-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada and Japan join hands to reduce dependency on Chinese rare-earth minerals - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ5VDhWWGh3dVJGdXB5YzZBMkhtdjJVQVlrOXZVQlhhRGJzeTYyYTRJS0taeU16Skd6VGJWeUlwWHpIOVlFdEV2Mjk4WTAwM0VaSUlxSWFNa2loSENUUkF5LUxTRnhSbnFETUZwXz",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ5VDhWWGh3dVJGdXB5YzZBMkhtdjJVQVlrOXZVQlhhRGJzeTYyYTRJS0taeU16Skd6VGJWeUlwWHpIOVlFdEV2Mjk4WTAwM0VaSUlxSWFNa2loSENUUkF5LUxTRnhSbnFETUZwXzByREFOcnhxNXdMQ3lZcEhtTXhuZ3ZIRWtfdDlr?oc=5",
         "type": "rss"
       }
     ]
@@ -379,6 +513,24 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWndFX2x1bGlKZUJIQTBJcE84OG1XN0ItRmxCcnlySThSek5BZzduaklrOEs3cE4yMkpsRmQyeFNWSl9tZnFKTXN4SVlOOHlzTlFZeDBTU1lvM0JsTzljWWNaTjdsdVFaRjlidWRFVkZMTEM2UlZJMUE1SDd3Z0dpbmotZUFteVVIcmUtU3BxaEFPWl9TVzBwdHdmOU4zTVdJUktGS3VKbDM4UWZialhqTjdkd3pENEQyeG5DcUpXYXluY3RC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-019",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mining Firm Acquires Cruise Ship to House Project Workers in Greenland - The Maritime Executive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEdwZ2xGNmhNc0dyTE1tTVdKcXFfYVJzMDZqaW9tdjVqUktQdWdaVy1ueHVrV0M5dmF5WklRVi14ejgxZ2h2R1FTMlVSLXhYRWhHNUxWSmlDNVJMR0ZIRVZjejBteDY2QUdaQ0xhWl",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEdwZ2xGNmhNc0dyTE1tTVdKcXFfYVJzMDZqaW9tdjVqUktQdWdaVy1ueHVrV0M5dmF5WklRVi14ejgxZ2h2R1FTMlVSLXhYRWhHNUxWSmlDNVJMR0ZIRVZjejBteDY2QUdaQ0xhWlZ2OGUzQUtYZkNDam9MSVBZY2ZMdTZqUDRidVVib0szVjlfTGZkRmRBVkE3cXNfS0hSUE00ZXZZNkhtUWQ3TVE?oc=5",
         "type": "rss"
       }
     ]
@@ -818,6 +970,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnRDWDh2M2M4cVBzc0FLZGpYVjhsYlNNSGc5eUlmZmh1SDItUnI1OG9NUEZMMEtnWTVoZ1NhUU5rcXh4TU9aa1hvNWtfakdTbUJUWHRUNHAzZ0dreU00REVSNHhlRGVZVEZXb0NOcXRCdGVtUGI5cjJ2bW9XcHZwLWpxZ043bE12ZWtHSi1kQVRGbzBYNWNfRU94d1F6Y3BLRGhja1VMU05oQTI2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-024",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deep Seabed Hard Minerals Mining - NOAA's National Ocean Service (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU8wLWRpN1ptWkFSaE9yYjZCaF9XQ2MxWGtoYXNmSzh3aW1OOFZwTmdkNTd3VHpaOVBtSUc0V2R1TXQ2UEEzYkJtNVRkSGRoTEp3Ri1NUF96dzhYMUh3YndLUHhPS29oNHRzVXNkMX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU8wLWRpN1ptWkFSaE9yYjZCaF9XQ2MxWGtoYXNmSzh3aW1OOFZwTmdkNTd3VHpaOVBtSUc0V2R1TXQ2UEEzYkJtNVRkSGRoTEp3Ri1NUF96dzhYMUh3YndLUHhPS29oNHRzVXNkMXRkWU1ZVV9ObXJWd3YzYXJyNHp1aW9oUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1604,6 +1774,42 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-042",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Update on the Phalaborwa Rare Earths Project DFS – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWdhZmI4emR4S1pIbkdXTFpHUTZWSGtFNThxTnJRd0w4YzI5R2d4REZtcG80Tm1OSEstQVBxRHpNZ0MwMF9uSEZJSDV6aHNFdVNqWm0zanFXbWQwUXk2ZDNzUTRXbnFxTTNwZFlxdW",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWdhZmI4emR4S1pIbkdXTFpHUTZWSGtFNThxTnJRd0w4YzI5R2d4REZtcG80Tm1OSEstQVBxRHpNZ0MwMF9uSEZJSDV6aHNFdVNqWm0zanFXbWQwUXk2ZDNzUTRXbnFxTTNwZFlxdWloQW1UYzU2TjVfMmVoSFV1UmRYbHRNdFlUWGlGQ25qZV9DaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-043",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pilot plant brings rare earth processing to Albany County as Halleck Creek project advances - WyomingNews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNeDgyRTdYV3hJZUU2QTNVRm40bjdOa2ZiQ05FV1JhQVlLLXlOM2c1LXNJUGlSYjFtZlppN19nTmQ1SzFhXzB4OGk5bEtPbE8yUllEODlQRzJIclVUekVnaVR5dE5CSjkxOUNzaDJoV2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeDgyRTdYV3hJZUU2QTNVRm40bjdOa2ZiQ05FV1JhQVlLLXlOM2c1LXNJUGlSYjFtZlppN19nTmQ1SzFhXzB4OGk5bEtPbE8yUllEODlQRzJIclVUekVnaVR5dE5CSjkxOUNzaDJoV29vOXNVaC12cDhnR1Nqckd3Q0d3QnVOc1I2aTNTOHhKSTYtd2h2MU5YTWRtcUFaVkJiak15dTFuVl9lbk1GM0ZmTFEteFo1UkZ6NlJYaVU1M1dQUlQtMk1ZV3pFdFoxU0FJWk1rMnh3VHJuVUFPMmJpQWxyTS1rRjlEZ1ZWYlNXZlVZdy1iUEJFeXFvS0VQRlVPZFI1UFU3NHZ4VVdKdjl0T2ZWWDNGQmU4ZXlR?oc=5",
         "type": "rss"
       }
     ]

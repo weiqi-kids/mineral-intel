@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:05:06.580991Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AmForge, Flash Metals & Greenbrier Plan WV Rare Earth Hub - Mining Digital",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOUFSVXh2SUt5c2NmQzVfMHpiVTVUZE0yTnhrQXJEbzk5Y1pibEthNjI3LWxPeUNFOW91OGE0cEU0amlpeVU3Q1dfalNYT3lrVDFGcHNPYUJaY2RiaEJ2SWhrWHh4WDdrd0RZT3o1LUpjUXFXVGM1NkV3VTFpZkU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan's plan to recycle rare earth minerals from AC units is unfeasible and reveals its weak points: Chinese analysts - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Xa0dNbFBzZGc0M1hndlUzbzE4aVNrZ3hxQVFqaGoxRzdRUVRBc0lFY2l2Zjg0Qzg1d2xUQ1Q3N3VvZGRtNmpkM1M5VkJYMmR5NGdOUklNX09USjFuY3VwOHFn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 144,
+    "too_old": 159,
+    "gate1_blocked": 16,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+      "ATB Cormark Capital Markets Maintains NEO PERFORMANCE MATERIALS INC(NOPMF.US) With Buy Rating, Raise",
+      "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra",
+      "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為礦業產業通用相關動態：「AmForge, Flash Metals & Greenbrier Plan WV Rare Earth Hub...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AmForge, Flash Metals & Greenbrier Plan WV Rare Earth Hub - Mining Digital（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Japan's plan to recycle rare earth minerals from AC units is unfeasible and r...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

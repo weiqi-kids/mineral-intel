@@ -1,0 +1,15 @@
+{
+  "total_raw": 334,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 16,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "Price to sales forward of Shenghe Resources Holding Co., Ltd. Class A – SSE:600392 - TradingView",
+    "ATB Cormark Capital Markets Maintains NEO PERFORMANCE MATERIALS INC(NOPMF.US) With Buy Rating, Raise",
+    "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra",
+    "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine"
+  ]
+}

@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2004-03-18",
+    "earliest": "2003-12-19",
     "latest": "2026-07-03",
-    "count": 5644
+    "count": 5708
   },
   "north_rare_earth": {
-    "earliest": "2004-04-06",
+    "earliest": "2004-01-07",
     "latest": "2026-07-03",
-    "count": 5433
+    "count": 5497
   },
   "iluka": {
-    "earliest": "2004-03-18",
+    "earliest": "2003-12-19",
     "latest": "2026-07-03",
-    "count": 5644
+    "count": 5708
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
@@ -27,9 +27,9 @@
     "history_complete": true
   },
   "arafura": {
-    "earliest": "2004-03-18",
+    "earliest": "2003-12-19",
     "latest": "2026-07-03",
-    "count": 5644
+    "count": 5708
   },
   "hastings": {
     "earliest": "2008-02-20",
@@ -62,9 +62,9 @@
     "history_complete": true
   },
   "shenghe": {
-    "earliest": "2004-04-06",
+    "earliest": "2004-01-07",
     "latest": "2026-07-03",
-    "count": 5433
+    "count": 5497
   },
   "neo": {
     "earliest": "2017-12-08",
@@ -79,9 +79,9 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2004-03-25",
+    "earliest": "2003-12-26",
     "latest": "2026-07-03",
-    "count": 5501
+    "count": 5565
   },
   "etf_remx": {
     "earliest": "2010-10-28",
