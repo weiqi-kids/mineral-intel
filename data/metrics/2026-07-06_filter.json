@@ -1,0 +1,15 @@
+{
+  "total_raw": 329,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 14,
+  "gate2_fail": 4,
+  "passed": 17,
+  "gate2_samples": [
+    "ATB Cormark Capital Markets Maintains NEO PERFORMANCE MATERIALS INC(NOPMF.US) With Buy Rating, Raise",
+    "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView",
+    "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine",
+    "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra"
+  ]
+}
