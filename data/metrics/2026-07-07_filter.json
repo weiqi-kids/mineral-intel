@@ -1,0 +1,14 @@
+{
+  "total_raw": 348,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 41,
+  "gate2_samples": [
+    "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView",
+    "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine",
+    "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra"
+  ]
+}

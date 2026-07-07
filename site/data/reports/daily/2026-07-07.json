@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:48:46.880620Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-07-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU5JVFBvb2dpZjBYTXBjc0hOekc3N3VrdzFMNHItSUJZX2lyVFhaV2RRR1VvZm90cXRQRUlHNnlod19Cc2g3ekVxSDRLZ0NVR083ZVhRWUNXQVhYZ3RoYVhqXzVLRWJpNEFxd09jNVlkVU1XdjVJLTVOQldhSFl5YWRiX244R3VGemJ3bUNGSkNscUljcnc2NWZiQkRtbFF6V2pndHJtX3NZTE9xUEtoajBLaUZyOTNGSlBEdEpScVh6ZENCcUhz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas rare earths supply deal could strengthen growth outlook - Yahoo! Finance Canada",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUkwZTBkQkdrWV95ejhYWWRNMWoxbUhEb3NrYWs3NjBSeTdTc2drcC04aVJVSmN3VGNGYjFuRlpqOTEyQWotZndxQTdFTmZTbVBoTVkzWWhKLXV6bks5SXJtcF85N19HX0VNd3BmbWVKTV9BRW93dFZRSHAtOTBkWTBYX2U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths signs agreement for $50M factory - grafa.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnJTcmo3Tjg0RnYyelMzbVg2MDh3X0hxMTh4a19Ca0dRN3hham1YbWctZUN5dWJLN1lHVzNGVjRxNzEwb3lDTl94T2hxM2tEZUMxYWh0aFVXSGFRTG5BTDA1aWhNX2wzUVZ0NVVpcWxmYmpva3U5VGRNY1NPakxZOG80T1RMSGE0YlUxQ3Z3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-07-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JS Link Deal Shows Strategic Value of Lynas's Separated Rare-earths Output -- Market Talk - Moomoo",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUklvT2hxbXYtbUl4SWdVbGVqZWZ5SVJkVXc0SFZGd25VWFBnR05McmJaeGJVZzB4TS1oa20zdVZvTm5hZnM0RkczanFYS1BDNXNlYllTQS1WdE1QRXpySnBvWnZUeVltM1ZKYnd3aGpJeHB0cEo3Nmw2QkZONVRwcnFjVkJuS1BOMGFYX2kxUmJYemowRHFBS3RyZGN4UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-07-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia’s Lynas partners South Korea’s JS Link for Malaysian magnet factory - South China Morning Post",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3B0clV1Tno3Rm1Ib3p6NVZBakV1dzdkU0pjcm1oNE1GVnhfc3F3QTVpYzd2RXBpTFA5WFNBLUtJR1BpaTVxQUhsZnk0TXprWVJ0MUg4RjU1cmNtSXhibVRzeUxQWU9aWnV2VDI2YlZibGpGSVlZS1VfZ3lWS0hwMElIZHlIcmlrM2V1U2JERE5uQTBLbWF0RGtFZGx3X0Z5ZVp6QUJvTlpMYno1QThsZ1lGc3ZUWmdmcVc4Sl9wOERoRGxCbDZXSnhR0gHKAUFVX3lxTE5PcHRyVXVOejdGbUhveno1VkFqRXV3N2RTSmNybWg0TUZWeF9zcXdBNWljN3ZFcGlMUDlYU0EtS0lHUGlpNXFBSGxmeTRNemtZUnQxSDhGNTVyY21JeGJtVHN5TFBZT1padXZUMjZiVmJsakZJWVlLVV9neVZLSHAwSUhkeUhyaWszZXVTYkRETm5BMEttYXREa0VkbHdfRnllWnpBQm9OWkxiejVBOGxnWUZzdlRaZ2ZxVzhKX3A4RGhEbEJsNldKeFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 12
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "magnet_supply",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 123,
+    "too_old": 157,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 41,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "1.3%",
+    "gate2_samples": [
+      "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView",
+      "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine",
+      "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Corporate Japan's rare-earth warnings get louder as China...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Corporate Japan's rare-earth warnings get louder as China keeps the spigot cl...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas rare earths supply deal could strengthen growth outlook - Yahoo! Financ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
