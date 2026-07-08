@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:10:16.482667Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-07-08-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Lynas Rare Earths (ASX:LYC) Outperformed Mining Index: Here's What Investors Are Watching - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb245bmY5elNaaW5rRTI4dXdLby1TZHBZUkpGRkYtRDdRd1pNQi0xcUdiLTRJV0dUQUJHckdkYkNnOTc0bjhtYVFyZ2pIakpDTmU1SlFPbmNnV1AxdFZkVEozbTFlaFZlc2NQSFNxQnNLcFJ1WF9yQ1JnS3dhWms5cjVWZ0tkamVVWjFoV3RzT0ljTHNaRVVCQzNzbGhmb28wNGlSdW5CZThGOWdqNU4zSmJBVVN6SVA0UTFTZEd6LTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Macquarie Remains a Buy on Lynas Rare Earths (LYSCF) - The Globe and Mail",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEwtTmZ1aWs1ZW5oSWxORVBwSUNZREh5ZS15a3hvbVUzcThPaWd6ZThKWjdOLWVYTmNIbmdXUWNBVTRmNFMzOXlINFpNRjFkdHZMano2RGx2QzZIV0d4dEJYNnBCMTJlZDlLOGV6aC1LTUhKMVZiZTRqb1M1YURQVThfSEpXcWpraGhNdzNyQWtSdGNYOFlnRVgzaU1ESm9GbllEU1ZoUjI5S0c5VzFoQmFJaWlmOXU5X29rSFZzdzRYTzU3Ym9FV3lHUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Malaysia to Probe Rare Earths Deal Over Potential Military Use - اسلام تايمز",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmlmRXJjcF9aaUFmSlYyejIwd3RFQmVXUHBwZ1R4cEtOc05MbVBFVWdIcGRpUnpaSkJfc2dTM1h6bUtlQ0pvZUlUY1RnWmVxQ3EtdGtlSW5MbkZLR09NbmJadU0wNnc3MWp6Z0dLR2JSVWpuNWdWWExvak9iRndpSHVra2gyTXkzQTZTNlNnU1lUNTlWYTRyM2hEUTNmWjlMQ2FTWHlibUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas partners with JS Link for Malaysian rare earth magnet factory - Mining Technology",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEI2V1BwN2JNMDA2b0JSSmJILW44eDBoRU1Qb3FwX2IxWDFkdU5RUDI1SnVTc1kxQkhNNnB4N0s1bzduYjhMS2RzZVByRldQeU5jbk9DbjBCSjZjSU5TUXhINTlrYks3aTE4RGdINWw4bXdKRjhBbW1TTWZZVU9ZRGlhTTNHRmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-07-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Bets On Magnet Demand Without Going Capital-Heavy - Finimize",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0hlcG01djM0VEZaeEVBY29iRlFmX2Qtc3pQWENyRl9NSjVzVnZOdjVPeG1qcUtSTDdBSHJIeU1sYWZzekNLRjhLVm56RGF4UmwwOTBtT0xaX3NWMHp1RExxZWJLakVDVEc5cl9waURxME5MOGFudXc1bnBRcFNQWUp2OXZudXlrM0xjMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 6
+      },
+      {
+        "id": "arafura",
+        "count": 5
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 120,
+    "too_old": 154,
+    "gate1_blocked": 14,
+    "gate2_blocked": 3,
+    "passed": 39,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView",
+      "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine",
+      "Australian Strategic Materials Ltd Warrant 2024-31.10.27 on Australian Strategic Materials Ltd - Tra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為萊納斯、Arafura Rare Earths、北方稀土相關動態：「Why Lynas Rare Earths (ASX:LYC) Outperformed Mining Index...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Lynas Rare Earths (ASX:LYC) Outperformed Mining Index: Here's What Invest...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Macquarie Remains a Buy on Lynas Rare Earths (LYSCF) - The Globe and Mail（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
