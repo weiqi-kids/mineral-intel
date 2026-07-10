@@ -1,0 +1,13 @@
+{
+  "total_raw": 333,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 7,
+  "gate2_fail": 2,
+  "passed": 36,
+  "gate2_samples": [
+    "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView",
+    "Why Australian Strategic Materials (ASX:ASM) Is Facing a Fresh ASX Test - Kalkine"
+  ]
+}

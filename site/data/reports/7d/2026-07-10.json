@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-10",
+  "date_range": {
+    "start": "2026-07-04",
+    "end": "2026-07-10"
+  },
+  "generated_at": "2026-07-10T10:46:37.083720Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rainbow-2026-07-04-001",
+      "date": "2026-07-04",
+      "title": "Rainbow Rare Earths on breakthroughs behind simplified extraction process - ICYMI - Proactive financial news",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 68,
+      "last_week": 56,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.04
+    },
+    "critical_mineral_policy": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rainbow": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 6
+    },
+    "lynas": {
+      "event_count": 30,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mp_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "north_rare_earth": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "neo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 182,
+        "last": 178,
+        "change_pct": 2.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-04",
+      "event_count": 9,
+      "sentiment_avg": 0.22
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 8,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 48,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 39,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 37,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-04 ~ 2026-07-10）共 182 則事件，重點為「Rainbow Rare Earths on breakthroughs behind sim...」。Rainbow Rare Earths表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Neo Performance Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
