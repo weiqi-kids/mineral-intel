@@ -1,0 +1,12 @@
+{
+  "total_raw": 332,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 15,
+  "gate2_samples": [
+    "Australian Strategic Materials Ltd Actuals & Estimates (ASX:ASM) - TradingView"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-11",
+  "date_range": {
+    "start": "2026-07-05",
+    "end": "2026-07-11"
+  },
+  "generated_at": "2026-07-11T09:20:40.708163Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-07-014",
+      "date": "2026-07-07",
+      "title": "Corporate Japan's rare-earth warnings get louder as China keeps the spigot closed - Mining Weekly",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 66,
+      "last_week": 55,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.02
+    },
+    "critical_mineral_policy": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 30,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mp_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "north_rare_earth": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "neo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 188,
+        "last": 179,
+        "change_pct": 5.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-05",
+      "event_count": 8,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 48,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 39,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 38,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 26,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-05 ~ 2026-07-11）共 188 則事件，重點為「Corporate Japan's rare-earth warnings get loude...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Neo Performance Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
