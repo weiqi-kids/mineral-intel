@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2002-07-01",
+    "earliest": "2002-04-02",
     "latest": "2026-07-10",
-    "count": 6097
+    "count": 6161
   },
   "north_rare_earth": {
-    "earliest": "2002-07-18",
+    "earliest": "2002-04-19",
     "latest": "2026-07-10",
-    "count": 5886
+    "count": 5950
   },
   "iluka": {
-    "earliest": "2002-07-01",
+    "earliest": "2002-04-02",
     "latest": "2026-07-10",
-    "count": 6097
+    "count": 6161
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
@@ -81,9 +81,9 @@
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2002-07-08",
+    "earliest": "2002-04-09",
     "latest": "2026-07-10",
-    "count": 5954
+    "count": 6018
   },
   "etf_remx": {
     "earliest": "2010-10-28",

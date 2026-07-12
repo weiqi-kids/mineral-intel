@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T09:20:40.025222+00:00",
+  "updated_at": "2026-07-12T09:45:10.224888+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -237,13 +237,13 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 991934,
           "pct_held": 0.29,
-          "value": 71220864
+          "value": 70625697
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 141238,
           "pct_held": 0.04,
-          "value": 10140888
+          "value": 10056145
         }
       ]
     },
@@ -256,7 +256,7 @@
           "holder": "SPROTT FUNDS TRUST-Sprott Critical Materials ETF",
           "shares": 1927702,
           "pct_held": 0.28,
-          "value": 42698598
+          "value": 42409444
         }
       ]
     },
@@ -300,7 +300,7 @@
           "holder": "Ancora Advisors, LLC",
           "shares": 400,
           "pct_held": 0.0,
-          "value": 16055
+          "value": 16724
         }
       ]
     },

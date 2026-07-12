@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-07-11-001",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gold price loses its grip: World’s 50 biggest mining companies shed $228 billion in Q2",
+    "summary": "Gold's slide back below $4,000 an ounce wipes out most of mining's 2026 gains, but the diversified giants – led by a resurgent BHP – is staging a comeback.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/gold-price-loses-its-grip-worlds-50-biggest-mining-companies-shed-228-billion-in-q2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-07-10-001",
     "date": "2026-07-10",
     "companies": [
@@ -493,6 +511,101 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUtsUmFTVFRoUDBIczVrZ3JnZVB6Zl9RcllSZkpSMkVjMlhrbWtSQUN3cFl2VGM4bjVZM1pBa21TME5tWW5sRVN1b2xFNjZpbDBaQkFwSzRQc1JUenMxXzNfZ1ZYak9jX2RzU09TVmdFbUNhTUE3Y2JOSTZFR0gtVGRidDJBZWZZVE5WQjFPS1JDVFViOE1ENGdyUm1lcUl1REFF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-07-10-027",
+    "date": "2026-07-10",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth Adjusts Rate Earth Concentrate Price for Q3 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWlSTWJYNTlScnVBaUN1NHlkQVNGNWJMMFpPR2lhZFlhV2VsSEcyNEpDSzhwWkdrY1ZNZ1dzT3p4YzJTbUZTV3REeXRZX3NvLWI4NE15TE4yTWREWEhCeWhSTWEyNjM5cWMwQVR5dm",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWlSTWJYNTlScnVBaUN1NHlkQVNGNWJMMFpPR2lhZFlhV2VsSEcyNEpDSzhwWkdrY1ZNZ1dzT3p4YzJTbUZTV3REeXRZX3NvLWI4NE15TE4yTWREWEhCeWhSTWEyNjM5cWMwQVR5dmI2RTdSanJwcFZiQ0x4aWJscFFmTFRvdkJCYnl5MFJxY2VQOGMzZDEzMTMzTVNmMDZkcHFMbm81RXJsUFh6MnNFZWZqS2F0T0xqY0pERW8zbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-07-10-028",
+    "date": "2026-07-10",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [
+      "rare_earth_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare Earth Prices Surge; Shenghe Resources Forecasts More Than Doubling of Net Profit for First Half | Earnings Analysis - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkw1dWxEdWU5Z2R3Sk1mV0JWSk5pVE9OQXBXMW12RlVuODVMeDdaSHVlNUpkZFVhSlEyTWdxS2xyTHNQRzF1ZHNLenQ0ZFFIQ2RGb3ZJQkp2RWlsT2ZJMDJaQUI3ZUtoX0J2VmgtVE",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkw1dWxEdWU5Z2R3Sk1mV0JWSk5pVE9OQXBXMW12RlVuODVMeDdaSHVlNUpkZFVhSlEyTWdxS2xyTHNQRzF1ZHNLenQ0ZFFIQ2RGb3ZJQkp2RWlsT2ZJMDJaQUI3ZUtoX0J2VmgtVEw0QVM0UDZtOFF6Nm1VNC13UTVucDkyTUpodHZLMGFWalU2UnFwZF8xcEJRaFhwdlZ0V0ctRURybzR0amlBLVFKWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-029",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guardian Metal, Montana Mining Association forge US tungsten processing alliance",
+    "summary": "First shipments of legacy ore are expected by late summer 2026. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/guardian-metal-montana-mining-association-forge-us-tungsten-processing-alliance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-030",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Giustra: Copper market needs six new mines a year to 2050",
+    "summary": "Frank Giustra sees looming copper shortages and mounting debt reshaping mining, gold and global capital flows.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-031",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "BHP strike threat lifts iron ore price for best week since May",
+    "summary": "Supply risks in Australia offset weak Chinese steel demand, lifting iron ore toward its strongest weekly performance in two months.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/bhp-strike-threat-lifts-iron-ore-price-for-best-week-since-may/",
         "type": "rss"
       }
     ]
@@ -1207,6 +1320,116 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWW80YXdQenpNT3VjZmFqYlNBbE1fdDUzYlRHZEJHeW53ajhoR1BRUURGeF9ZS0xLWkJVN19Gczh3WjVRU2JIei1PbjVGN3YydHkzZGFJc0tkaVFQU0tWYjBTdWd0OE1Ya1VyVWtzSDBjdEZqcU4tbjVrWFN1OGxiNS1BZnRrRWh2TXZLbzJGSzdTYWsycmxWOGpObkg5S0FlaDZuWV83V3o4bFpVQ21mc3JUTHdLMlBlbGgtNDlWUnhJd0hTaHJPNWdfNzlmekZyclpRNk53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-07-09-039",
+    "date": "2026-07-09",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Neo Performance Materials raises full-year 2026 adjusted EBITDA guidance to $140M–$150M - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNnZOcU9JX191WWZSOHNGcDRidnVvdVl6eF9sRlkxenAyVUszTVJMeXlnSWJTYmJ4QWFiRExfMlBJV2VaTE5sM0FPRnZNaUhvd0RqcUpQd0pyalMwNE9hekJKODZYMlVmbnRObHUycn",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNnZOcU9JX191WWZSOHNGcDRidnVvdVl6eF9sRlkxenAyVUszTVJMeXlnSWJTYmJ4QWFiRExfMlBJV2VaTE5sM0FPRnZNaUhvd0RqcUpQd0pyalMwNE9hekJKODZYMlVmbnRObHUycnRsVmpLOEpqSzJTcmctZEw4SjItTzRyQ0dhU05PNWktYWY1azVmVXg3SUl3a1pjS1ZhcmZLOElEQUZOM0Y0YngxOUQxMm9QcmMtdEZ4azdkU0VCNUptMmFzcnFvRTc5MjRX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-040",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Macquarie says copper price rally still running ahead of reality",
+    "summary": "Copper price is approaching $14,000 again, but copper stockpiles – already at unprecedented levels – continue to build globally.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/macquarie-says-copper-price-rally-still-running-ahead-of-reality/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-041",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Devolution may see made-in-Nunavut model",
+    "summary": "Nunavut’s devolution could reshape mining, resource control and royalties as the territory prepares to manage Crown lands, water and permits in 2026.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-042",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flynn: US billions for rare earths ‘missing the mark’",
+    "summary": "Retired general says Washington must back juniors, suppliers and workers to build a secure critical minerals supply chain.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-043",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Study values GBM’s Ontario graphite mine restart at $183M",
+    "summary": "GBM’s Kearney graphite mine restart in Ontario gets a $183M valuation, highlighting strong returns and Canada’s critical minerals push.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/study-values-gbms-ontario-graphite-mine-restart-at-183m/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-044",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Billions in US-funded rare earths flowing to Asian markets: report",
+    "summary": "Washington is funding rare earths production, but most output is still flowing to Asia as US magnet demand ramps up.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/billions-in-us-funded-rare-earths-flowing-to-asian-markets-report/",
         "type": "rss"
       }
     ]
@@ -3413,6 +3636,24 @@
     ]
   },
   {
+    "id": "unknown-2026-07-06-030",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The West Wants a Critical-Minerals Supply Chain Outside China. One Nasdaq Company Is Trying to Build a Piece of It in Greenland. - Newswire Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPUTdFQWNBY0dGTEZNeXhFY0RZYVI0UzlmOHQ4RWN6WTdXUFdiMFV1MDlDOU1rSklmdWk0cGNqcXM4UTBKZWZjdEpsSkdhaTFuRzE4NGtod0FDbWxQN29NWDJMVWtvdC1nNUZpbXpyU1",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUTdFQWNBY0dGTEZNeXhFY0RZYVI0UzlmOHQ4RWN6WTdXUFdiMFV1MDlDOU1rSklmdWk0cGNqcXM4UTBKZWZjdEpsSkdhaTFuRzE4NGtod0FDbWxQN29NWDJMVWtvdC1nNUZpbXpyU19TTGZsWkxnUG9FVmp0ZXVIalZ3S2ExZm5WTlR4ZndLT3A0SVRBcVJBb3BKaDRlUWMtcEVrUm1Tbks2M1dudUdmQWhFcVFjcGlJTVh6RC1PSnBqbGI4VHA2RnI1MzFWU2JtR3d4RzNFZElUZFplQW9ucFJzSTZJMFFYVTBhcUxJZWxUU084S0tSbFRwU21uTjFITWROU3JINFRGZU9W?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [],
@@ -3553,6 +3794,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-009",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How recycling could help power America's rare earth future - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2Zqc2FoN2NQV2p1N0hqVEs5Q0tSOXNSZjNWaS1lSmNCcElwWkNjM2prVFhBLWRFS1I3ZXliQWNXWWxKVkxvdHVDc3VaZ1E2WlRjVFV6RENaaXEtb0M5QmZZNmJKTDJMSUhsSFVzTE",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2Zqc2FoN2NQV2p1N0hqVEs5Q0tSOXNSZjNWaS1lSmNCcElwWkNjM2prVFhBLWRFS1I3ZXliQWNXWWxKVkxvdHVDc3VaZ1E2WlRjVFV6RENaaXEtb0M5QmZZNmJKTDJMSUhsSFVzTE5ScDc0dFNUNzFRQ0hKNngwRjFiYmo5enNOTlFaOXVwT19FQkhkUERfX2hVYVRscGs?oc=5",
         "type": "rss"
       }
     ]

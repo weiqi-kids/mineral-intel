@@ -1,0 +1,12 @@
+{
+  "total_raw": 352,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 14,
+  "gate2_samples": [
+    "Neo Performance Materials (TSX:NEO) Shares Sit 6% Above Fair Value Following 2026 Outlook Lift - sim"
+  ]
+}
