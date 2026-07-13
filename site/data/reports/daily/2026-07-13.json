@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:52:48.547894Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[SMM Rare Earth Flash] Brazilian rare earth developers Meteoric Resour - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb196TktkY1hUdjNORnUwdkc0em9YNkRXd1o3TGt3UGVrNkl6RUxsR08tS3V2bWtJZ0NJOTN1U1VvbnJDaG1NbUNvaTFhOHpEY0RiLURFUUdEUVhRTGlMekJ1OThtN05kc0dHMGJIWWd1WVVLNk1pRnptOTVBNUU5RmpZVnByblk5SlN0dW9mV0l4WktrUjZFQ0NJWmR1VGZSa1A5cTN4Vm94ZG16RnhYR3FxWGExbGFkWEtWbEpfQmJQNEhnbEkwWDh5ZHNsYlo0bzltajZHMEJ3WUo5?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hastings-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Yangibana study confirms $649M WA rare earths prize - The West Australian",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHVGVlFBVF9NS2o3N19UNTZWdUpSQWktdmFzTjRvdElxemFwa0dVblBscS1iRVljRmhfZXRlWWJWSldGZ0oxU2RVMUktNGtIMm1mbnN4M3FnV19PVWhyd1lxaFlzOVVqN1UzQzAyOGpJYWhHWUxlRmhSRHRUc3lKNzhNTEFjcTV0c2ljM0FCRmYyeXE2OVItajNNdHdEMWd5b2dhZnJYYWE3cC1Ma21JeFA2NlBUR0XSAbwBQVVfeXFMT0E1aG5jR2xCaDVXZHIzV0s4cTVQOGM2Um9VRno5N1BBQ3RxamE4TDdDZzlpSks2V2d3NEZMUUt5UEU4bzB4Yl8wVzE2Q3NhdUpEd05Cb0daNW1zMDlKVFBBb0xJR2FXaFpWRkdGMTRIMXV5bEJQb2ZxMzZPamozWUlISTJEQkN2VVIyWWdJeTV2SnJRS3g5TFZVdTZUQ09aakJ1V2dGQ1p1MmE0azR2UVlxZUJWQ1I5Y1h4d3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hastings",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 189,
+    "too_old": 152,
+    "gate1_blocked": 6,
+    "gate2_blocked": 1,
+    "passed": 6,
+    "pass_rate": "3.6%",
+    "gate2_block_rate": "0.6%",
+    "gate2_samples": [
+      "Neo Performance Materials (TSX:NEO) Shares Sit 6% Above Fair Value Following 2026 Outlook Lift - sim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Hastings Technology Metals相關動態：「[SMM Rare Earth Flash] Brazilian rare earth developers Me...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "[SMM Rare Earth Flash] Brazilian rare earth developers Meteoric Resour - Shan...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Hastings Yangibana study confirms $649M WA rare earths prize - The West Austr...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

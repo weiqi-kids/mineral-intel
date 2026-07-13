@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-07-13-001",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Rare Earth Flash] Brazilian rare earth developers Meteoric Resour - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb196TktkY1hUdjNORnUwdkc0em9YNkRXd1o3TGt3UGVrNkl6RUxsR08tS3V2bWtJZ0NJOTN1U1VvbnJDaG1NbUNvaTFhOHpEY0RiLURFUUdEUVhRTGlMekJ1OThtN05kc0dHMGJIWW",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb196TktkY1hUdjNORnUwdkc0em9YNkRXd1o3TGt3UGVrNkl6RUxsR08tS3V2bWtJZ0NJOTN1U1VvbnJDaG1NbUNvaTFhOHpEY0RiLURFUUdEUVhRTGlMekJ1OThtN05kc0dHMGJIWWd1WVVLNk1pRnptOTVBNUU5RmpZVnByblk5SlN0dW9mV0l4WktrUjZFQ0NJWmR1VGZSa1A5cTN4Vm94ZG16RnhYR3FxWGExbGFkWEtWbEpfQmJQNEhnbEkwWDh5ZHNsYlo0bzltajZHMEJ3WUo5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-07-13-002",
+    "date": "2026-07-13",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hastings Yangibana study confirms $649M WA rare earths prize - The West Australian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHVGVlFBVF9NS2o3N19UNTZWdUpSQWktdmFzTjRvdElxemFwa0dVblBscS1iRVljRmhfZXRlWWJWSldGZ0oxU2RVMUktNGtIMm1mbnN4M3FnV19PVWhyd1lxaFlzOVVqN1UzQzAyOG",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHVGVlFBVF9NS2o3N19UNTZWdUpSQWktdmFzTjRvdElxemFwa0dVblBscS1iRVljRmhfZXRlWWJWSldGZ0oxU2RVMUktNGtIMm1mbnN4M3FnV19PVWhyd1lxaFlzOVVqN1UzQzAyOGpJYWhHWUxlRmhSRHRUc3lKNzhNTEFjcTV0c2ljM0FCRmYyeXE2OVItajNNdHdEMWd5b2dhZnJYYWE3cC1Ma21JeFA2NlBUR0XSAbwBQVVfeXFMT0E1aG5jR2xCaDVXZHIzV0s4cTVQOGM2Um9VRno5N1BBQ3RxamE4TDdDZzlpSks2V2d3NEZMUUt5UEU4bzB4Yl8wVzE2Q3NhdUpEd05Cb0daNW1zMDlKVFBBb0xJR2FXaFpWRkdGMTRIMXV5bEJQb2ZxMzZPamozWUlISTJEQkN2VVIyWWdJeTV2SnJRS3g5TFZVdTZUQ09aakJ1V2dGQ1p1MmE0azR2UVlxZUJWQ1I5Y1h4d3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "National View: Minerals mining will fail without a talent pipeline - Duluth News Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObHNTLUF4N0tMRGx1YU05Znl1RUpFZC1pX3Q5SUpHV2x6YmZ3LUp4SXN6YlBsek1RS21pYTFEMzhETnBwV0ZTNG1xTHJPYm1JZzV1djRYR1cySmR5SzY4R282TnVGQWREZTZuQnYzTl",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHNTLUF4N0tMRGx1YU05Znl1RUpFZC1pX3Q5SUpHV2x6YmZ3LUp4SXN6YlBsek1RS21pYTFEMzhETnBwV0ZTNG1xTHJPYm1JZzV1djRYR1cySmR5SzY4R282TnVGQWREZTZuQnYzTlVIRW9GMkRBbGtYNFYtSkxKa0VZZDRkanAxWXprbF92OTVaMFF2UmVkT08yWlRGRU85dVNlSldQMzUtRll2X0JfdFdLaUZzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [],
@@ -606,6 +662,43 @@
       {
         "name": "mining_com",
         "url": "https://www.mining.com/bhp-strike-threat-lifts-iron-ore-price-for-best-week-since-may/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-07-10-032",
+    "date": "2026-07-10",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shenghe Resources (600392.SH) 2025 Annual Dividend Distribution: RMB 0.30 per share - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1UzRWN5Z1JORUpPUkVyTWxOaHFEdmNJMGJISXN2NWJ4Ykl4RzMtaDMzdDRlTGU1NkoyNEZXM1RIM1Z6WFBITmwzSWNhZEx4YnpfemVZR3I0dVN0aUZERm5xaVk3akJONGVSQy1TOW",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1UzRWN5Z1JORUpPUkVyTWxOaHFEdmNJMGJISXN2NWJ4Ykl4RzMtaDMzdDRlTGU1NkoyNEZXM1RIM1Z6WFBITmwzSWNhZEx4YnpfemVZR3I0dVN0aUZERm5xaVk3akJONGVSQy1TOWNtOWliamdrZGpuWlRFN0pXQXBfc3phUTlpY3VBMWVSdHNhb3BRdHpEamJpQWVLVkJNMGRtU3k0QXRhX2JO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-033",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wyoming coal company wins federal money to extract critical minerals from Powder River Basin - Oil City News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTVuZGVQODcwSm44TWtNM2tLU1RLVl9DS2dPNl9rOVRIalA1NUpJOFZEbEtYXzBPNU9OczNtTU8wbzVQNURPOHR2SEJjTVBQaXZLRHRSd3JCeHVFOWN3R3VRcGdSWVpMbzlTdllZX0",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTVuZGVQODcwSm44TWtNM2tLU1RLVl9DS2dPNl9rOVRIalA1NUpJOFZEbEtYXzBPNU9OczNtTU8wbzVQNURPOHR2SEJjTVBQaXZLRHRSd3JCeHVFOWN3R3VRcGdSWVpMbzlTdllZX0RpZ0gtLUh1YnNPa2NGMnNxNHBXQW02UU51VzhiV1VOaWU1NGR4c04xUDVkS09MQWhORTNmZldPUkhBNTF6eF9Vc2dUd3N5OUs0QVBqS1RDb3hrZ0E1UzhxVlRtelY3UVdmczBNbEFMYW5oSVVzTGNodDRTaGV6cUk?oc=5",
         "type": "rss"
       }
     ]
@@ -2169,6 +2262,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajY5aVFjZGNPWmNMZHYtWmstaU1PcXpzZElHaVRfeHJaWWxxTEF3TEliVVF2aTRsTFF4U0R3NVdvR2twcUdSRUxPVXJPdno3d1U3anlSU3Bad2Nzd1Foa2YwRDNVN25jbTVpLVFoS1BHUnZaSldQZ1NFeDhRWUtfSjNwaDNualpxejlUNk5wTFNtRmFzcXQ5OVN6TWNWZU5aWnN5R1dLM1UzMFo3cFpmWVkxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-07-08-040",
+    "date": "2026-07-08",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Neo Performance Materials Raises Full-Year 2026 Adjusted EBITDA Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0F2OTYxdnViMWF4QUtaWnR1SXZtWGpta0d1djdYMGFGSUY1eVBPWEV2UXk5SG9GVTdCc25JdEN4Y3RaNkh1Q2U0WWUzNElwNmdZcXpRQmNpaXNxbDJBODZGVGVnTmViYzdvTTNfeE",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0F2OTYxdnViMWF4QUtaWnR1SXZtWGpta0d1djdYMGFGSUY1eVBPWEV2UXk5SG9GVTdCc25JdEN4Y3RaNkh1Q2U0WWUzNElwNmdZcXpRQmNpaXNxbDJBODZGVGVnTmViYzdvTTNfeE84YllLZEpYeWs2aExHRVdZS1hXV0ZzMVlCUEhjaW1FSm15SS1tWnFqS3M4WnpOeEtQZUN3cQ?oc=5",
         "type": "rss"
       }
     ]

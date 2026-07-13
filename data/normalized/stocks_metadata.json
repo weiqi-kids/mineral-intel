@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "lynas": {
-    "earliest": "2002-04-02",
-    "latest": "2026-07-10",
-    "count": 6161
+    "earliest": "2002-01-02",
+    "latest": "2026-07-13",
+    "count": 6226
   },
   "north_rare_earth": {
-    "earliest": "2002-04-19",
-    "latest": "2026-07-10",
-    "count": 5950
+    "earliest": "2002-01-21",
+    "latest": "2026-07-13",
+    "count": 6015
   },
   "iluka": {
-    "earliest": "2002-04-02",
-    "latest": "2026-07-10",
-    "count": 6161
+    "earliest": "2002-01-02",
+    "latest": "2026-07-13",
+    "count": 6226
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
@@ -28,32 +28,32 @@
   },
   "arafura": {
     "earliest": "2003-11-04",
-    "latest": "2026-07-10",
-    "count": 5746,
+    "latest": "2026-07-13",
+    "count": 5747,
     "history_complete": true
   },
   "hastings": {
     "earliest": "2008-02-20",
-    "latest": "2026-07-10",
-    "count": 4651,
+    "latest": "2026-07-13",
+    "count": 4652,
     "history_complete": true
   },
   "vital": {
     "earliest": "2005-10-10",
-    "latest": "2026-07-10",
-    "count": 5248,
+    "latest": "2026-07-13",
+    "count": 5249,
     "history_complete": true
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-07-10",
-    "count": 1519,
+    "latest": "2026-07-13",
+    "count": 1520,
     "history_complete": true
   },
   "rainbow": {
     "earliest": "2017-01-30",
-    "latest": "2026-07-10",
-    "count": 2386,
+    "latest": "2026-07-13",
+    "count": 2387,
     "history_complete": true
   },
   "ucore": {
@@ -64,8 +64,8 @@
   },
   "shenghe": {
     "earliest": "2003-05-29",
-    "latest": "2026-07-10",
-    "count": 5661,
+    "latest": "2026-07-13",
+    "count": 5662,
     "history_complete": true
   },
   "neo": {
@@ -76,14 +76,14 @@
   },
   "asm": {
     "earliest": "2020-07-30",
-    "latest": "2026-07-10",
-    "count": 1505,
+    "latest": "2026-07-13",
+    "count": 1506,
     "history_complete": true
   },
   "china_rare_earth": {
-    "earliest": "2002-04-09",
+    "earliest": "2002-01-09",
     "latest": "2026-07-10",
-    "count": 6018
+    "count": 6082
   },
   "etf_remx": {
     "earliest": "2010-10-28",
