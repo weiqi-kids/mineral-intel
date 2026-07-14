@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-14",
+  "date_range": {
+    "start": "2026-07-08",
+    "end": "2026-07-14"
+  },
+  "generated_at": "2026-07-14T09:50:22.305312Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-07-08-004",
+      "date": "2026-07-08",
+      "title": "Why Lynas Rare Earths (ASX:LYC) Outperformed Mining Index: Here's What Investors Are Watching - Kalkine",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 54,
+      "last_week": 58,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.04
+    },
+    "magnet_supply": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 15,
+      "sentiment_avg": 0.13,
+      "rank": 1
+    },
+    "north_rare_earth": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arafura": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "neo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "mp_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hastings": {
+      "event_count": 4,
+      "sentiment_avg": -0.13,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 147,
+        "last": 189,
+        "change_pct": -22.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-08",
+      "event_count": 40,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 44,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 33,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 17,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 11,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-08 ~ 2026-07-14）共 147 則事件，重點為「Why Lynas Rare Earths (ASX:LYC) Outperformed Mi...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "北方稀土",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
