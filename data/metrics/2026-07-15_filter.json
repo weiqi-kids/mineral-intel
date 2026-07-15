@@ -1,0 +1,13 @@
+{
+  "total_raw": 332,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 14,
+  "gate2_fail": 2,
+  "passed": 22,
+  "gate2_samples": [
+    "Neo Performance Materials Inc Price Target Raised to C$60.00/Share From C$43.00 by BMO Capital Marke",
+    "Neo Performance Materials (TSX:NEO) Shares Sit 6% Above Fair Value Following 2026 Outlook Lift - sim"
+  ]
+}
