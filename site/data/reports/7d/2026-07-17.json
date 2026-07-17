@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-17",
+  "date_range": {
+    "start": "2026-07-11",
+    "end": "2026-07-17"
+  },
+  "generated_at": "2026-07-17T09:50:21.485029Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "north_rare_earth-2026-07-14-013",
+      "date": "2026-07-14",
+      "title": "China Northern Rare Earth forecasts first-half net profit to surge by over 112%, driven by rising rare earth volumes and prices, with output of its three major products hitting record highs for the period｜Earnings Insight - 富途牛牛",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 39,
+      "last_week": 68,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hastings": {
+      "event_count": 6,
+      "sentiment_avg": -0.09,
+      "rank": 2
+    },
+    "lynas": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "north_rare_earth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arafura": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "asm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "vital": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 106,
+        "last": 217,
+        "change_pct": -51.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-11",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 19,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 25,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 18,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 27,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-11 ~ 2026-07-17）共 106 則事件，重點為「China Northern Rare Earth forecasts first-half ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Hastings Technology Metals",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

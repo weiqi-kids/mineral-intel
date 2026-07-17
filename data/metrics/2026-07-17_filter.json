@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 12,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+    "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout | AI",
+    "Neo Performance Materials Inc Price Target Raised to C$60.00/Share From C$43.00 by BMO Capital Marke",
+    "Neo Performance Materials (TSX:NEO) Shares Sit 6% Above Fair Value Following 2026 Outlook Lift - sim"
+  ]
+}
