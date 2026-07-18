@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 13,
+  "gate2_fail": 6,
+  "passed": 31,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+    "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout | AI",
+    "Neo Performance Materials Inc Price Target Raised to C$60.00/Share From C$43.00 by BMO Capital Marke"
+  ]
+}
