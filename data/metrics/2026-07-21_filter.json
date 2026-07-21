@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 26,
+  "gate2_samples": [
+    "How Lynas survived China coercion, Malaysian activism and Wesfarmers attack - AFR",
+    "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+    "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+    "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya"
+  ]
+}

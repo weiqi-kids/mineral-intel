@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-21",
+  "date_range": {
+    "start": "2026-07-15",
+    "end": "2026-07-21"
+  },
+  "generated_at": "2026-07-21T10:18:42.721443Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-07-15-001",
+      "date": "2026-07-15",
+      "title": "Why Is Lynas Rare Earths (ASX:LYC) Leading the Race for Western Magnet Metals? - Kalkine Media",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 48,
+      "last_week": 54,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "asm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "vital": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 136,
+        "last": 168,
+        "change_pct": -19.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-15",
+      "event_count": 18,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 30,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 41,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 30,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-15 ~ 2026-07-21）共 136 則事件，重點為「Why Is Lynas Rare Earths (ASX:LYC) Leading the ...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

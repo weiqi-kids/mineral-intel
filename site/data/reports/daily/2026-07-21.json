@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:18:42.572164Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LEADING EDGE MATERIALS ADVANCES MIDSTREAM PROCESSING STRATEGY FOR THE NORRA KÄRR HEAVY RARE EARTH ELEMENTS PROJECT - Investing News Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1Buc19KSnhINU5pY0N6TEpPb05pWDBHRU4xUldJS255RjdGR2RUVXBLcDdsZkx6MnJCR2lwNmhHUk1sdVZCZXJoR05kZFFZaUpjVXZYem1aMmE0Q2RxV2lqR3Zubktha1hmQUhtRmV1bXo2VkNMQ3YtNHZLS2ItdGJIYlBnbTBXbllEdVRhb3A4QnVYd2Z6RnNaMDZuWkdzdWZLeDhHNWFyaEFYeF9EVVlOUHJhenlFaWtIYjNSbDJya21TZU5oTlFHQV8xX2hKM3ltbHdDQWo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Screens Cheap as Demand Firms - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjJwSzJqZENYYUZmdDE3Ym9KUmRfLUdncGtuM3pKR0JldWFKV00xS191QW83TUREMllBQ3F3WWxLc081UnhaZmpXdEVSY1V2bnA0VkJ6djNBQVYyTGI2TVNZLXVZS2RtQnRhcVpjMVVKdVAxb3cxZGdaQ2UxQ1RUczR4RnloZVUyRGpDZXhyWEVfdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Five Reputable Rare Earth Manufacturers China 2026: Boosting Advanced New Energy & High-Tech Material Supply Chain - EIN News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTjJjV2MyM25EX0NQNE9KU1hfMHktb1BRaU5TdlhnOWo3cERTcG1rTm5zSzJlNHpveU4zdzYzVE9iMVk3MEoyRTVGRUpNSGVscHV4ZnI2VURac1EtRS1LbldmSklvNjhzVTZ1ZWh6SGFNazdqMEFmTlV6a2tFMlRlU05xb2tvOHBIWjNHNnR3Nm9EWmRXeDdZaTE4c1JfMXNyRTRhNDUtMF81bGRNbzVURWZENlpWb1NlNjR2U2JQOWJWV0RWcTFoOWpaWnFmWnd4SFZPVTFQcm5ZNWNhZUdSYW8zcjYxa0lf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Arafura (ASX:ARU) Turn Nolans Into a Rare Earth Milestone? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmJ2cE02NldyUm5ndGsyb0lUUkJpM0w2a3V6Um83M21za0ltMVBoaEtRYUFOaGQ3S01SLUpCTG5jSl9iZVMxeUNxa09lNEJDdnBQUi1YMjltOHkteDlUQ0NaZmd2RWpOTTdtNldFTkRjM0wzRjBQQ3hzb0xVeVh1T1hoMmVJaUdrMHpxT2pVb01tWFN1cXM2d2VFWjZKV29YOW1TNVhnRUtpTkFpMGZrekZHZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vital-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vital Metals (ASX:VML) Advances 5.00% as Rare Earth Development Strategy Continues to Evolve - Kalkine",
+      "companies": [
+        "vital"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdEdkU2xCcVpDWFJTX3BXRGNqaTFMLXFKOXpjazhZejZuSVJmdW1mc0JkSmJWVzNxVTFyTjY5a0hZMS01aUlrM3lCRnFjV3I3OE5iZDNmMlRGUEdDQjBEZW5HaU13ZWkycmptdmk3OWgxeE5BMnhPbnNMT3dXMUNJODBaYTlpcTJiaVlnaUxfSkJBSVBWbkVkcFpSMmRwQTdRM0tYUHRpNHJ3ODUxMlZvYlRRaHY3bWJSMDVxX3RIY0MtQlJkS3k4WnpGVGk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "vital",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 138,
+    "too_old": 144,
+    "gate1_blocked": 17,
+    "gate2_blocked": 8,
+    "passed": 26,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "How Lynas survived China coercion, Malaysian activism and Wesfarmers attack - AFR",
+      "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+      "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+      "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+      "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為萊納斯、Arafura Rare Earths、Vital Metals相關動態：「LEADING EDGE MATERIALS ADVANCES MIDSTREAM PROCESSING STRA...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LEADING EDGE MATERIALS ADVANCES MIDSTREAM PROCESSING STRATEGY FOR THE NORRA K...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths Screens Cheap as Demand Firms - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
