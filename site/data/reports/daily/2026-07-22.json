@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:18:50.218872Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-07-22-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Why Lynas shares tumbled 9% despite record rare earth prices - Market Index",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHVvb1ZpTHJ5VVQzMkpOcDRHOTM4dDZuQ3NMOHBBZDJHMUhmYURrR2EwZzZrS3Yxd2NYaUZRUVFKdERFX0VTZUxVTTNrcWVMcE5ZeXItNExWWGdpb0ZqTlB1S0RRM3BEVmplMWpVeTZac0FWam1QdlF3bncwclZCYXlrbHFnTXI4SmtSMm50LTE3ZXlHUENwcEhWWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-22-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: Lynas Rare Earths posts record pricing in Q4 2026 as stock falls By Investing.com - Investing.com South Africa",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTYyNWN1QXlSbjFISzd5eU56UUhaS0t1YkVxV0RTX0o3VF9oWlpxc3g4ejBlaXdLQXFwQ3N6M21qb0VfTlBqVEt2VzNsakI0cURESEtVRGU5U3pjeWMxWW5OSWpTelljZ2ZwY3U5aTdyNE9GV1g5Nll3LWVQVDZ3MXR4Sm9hdGxabmNsREI5RkNRODlwMzQ5Y2FBdWZHZXJoalZOX0ozOWJXbzBoV2M1SG5LVGhTdm1zRm5UVFpkMFdVVklNMVpVOUNvc0hmODFaenZ0Y1RPR2N6UVJZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-07-22-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Arafura Rare Earths (ASX: ARU): Rare Earth Developer Declines Despite Broader Mining Rally - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHZ0UTV2dERERHIwNExxOHUwVzlPNDRnRzJISG53Uk1WcnJHNDlRbUoySllfU0tTTFVteG0zbW5rR1JJRzlzdzFFVzNvbGRNcVl5YjhmcDdQTVRNNUh0VW5waXYwUnlZeHNRZUk3SGRzZWFNWjJrTzRFR1NFWnRZWmd0SFlCY3I0NF8tcXNTa21QUzZ5YXVMY2NiRjJmcmoxVlBmNDlXOGl1Ti1ObS1PSC1DSHRnakFJRXVaVERn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-07-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths posts 70% rise in fourth-quarter revenue - Mining.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWdTT25yLUJHLVFZSG0xRkotRzJSSkVfSU5tcHlxZTRTbUMzSnY5czlKVVRRQUFMQ1puSERDRnM2NEwwVVBXZnQyZC0tMVkzRU9Lc0dpVU5sNWRNX0lmenF0Si1SbUhOOUlrQS1HdUlIczNwczZCYUduaUpiTFhzZGdub05kdkVZUEIwR1hB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-07-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia's Lynas flags cost overrun after revenue miss, shares tumble - Mining Weekly",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0VqcTYwSFJ2b0huZWxaYWJVYmhkaGx6eExycm8tOW1MYjc5NXAzSFI4eU5OX3hYZEtXSmhmd1MtbXliQzZDQUtnVmRia3htdkFnZDhSTXZDQzhDa2xFODFxeDZPdzZna0FsSThlTzNTc3lvUVEyVlpKOHNFUnNDODlhMjJleTY1WWw3eE9kR094N0pEZnRjdkZ0cVY2MWV4RlBZbmVLTHhsaEx6NXlTRUtjclBvVkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 10
+      },
+      {
+        "id": "neo",
+        "count": 3
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 130,
+    "too_old": 141,
+    "gate1_blocked": 11,
+    "gate2_blocked": 9,
+    "passed": 41,
+    "pass_rate": "20.3%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Lynas cost blowout hits $114m amid political heat - The Australian",
+      "Lynas stung by cost blowout at Malaysian heavy project - The West Australian",
+      "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+      "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+      "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為萊納斯、Neo Performance Materials、Arafura Rare Earths相關動態：「Why Lynas shares tumbled 9% despite record rare earth pri...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Lynas shares tumbled 9% despite record rare earth prices - Market Index（稀土價格、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Earnings call transcript: Lynas Rare Earths posts record pricing in Q4 2026 a...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-22",
+  "date_range": {
+    "start": "2026-07-16",
+    "end": "2026-07-22"
+  },
+  "generated_at": "2026-07-22T10:18:50.374273Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-07-17-020",
+      "date": "2026-07-17",
+      "title": "Why Are Investors Watching Lynas Rare Earths (ASX:LYC) After Today's Decline? - Kalkine",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 43,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "rare_earth_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 25,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "asm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "arafura": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 2
+    },
+    "vital": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "neo": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 159,
+        "last": 146,
+        "change_pct": 8.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-16",
+      "event_count": 30,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 41,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 31,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 25,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 21,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-16 ~ 2026-07-22）共 159 則事件，重點為「Why Are Investors Watching Lynas Rare Earths (A...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

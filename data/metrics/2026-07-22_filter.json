@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 11,
+  "gate2_fail": 9,
+  "passed": 41,
+  "gate2_samples": [
+    "Lynas cost blowout hits $114m amid political heat - The Australian",
+    "Lynas stung by cost blowout at Malaysian heavy project - The West Australian",
+    "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+    "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine"
+  ]
+}
