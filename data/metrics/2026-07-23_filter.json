@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 10,
+  "gate2_fail": 7,
+  "passed": 36,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+    "Why Is Arafura (ASX:ARU) Back on Policy Radar? - Kalkine Media",
+    "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+    "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:13:59.274074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-07-23-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas revenue hits four-year high on record rare earth prices - Australian Mining",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3poRXhPMnhaczQwN3Nxd1lQay1MUzRNVFJ3TkJwV1Q5YjNqQ29BX1o3SURSci14T3YzMkZmNjFHanFqOGFYWjFObjl3TURKQzdLaWx2S2JrNTZ0Y0ZGUkJMZll5OXZ0NU9fdE9CaWJnTG5FVGxyTlBwR1NkeWJYcDF3SlVMOEdYYTdaUmtaTFdVMU9XTGdPYzlrZVBvTTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Stock And 2 ASX Miners With Strong Earnings Growth - simplywall.st",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGN5cU95QS14OG9vZzZ5T1ZsQ0JRMGM1dEtHUmlUeTNlZC11UFpEM1JuMXFfNFNaLVRvUXBaMlZtTTRWc2xVWnJLc1JiM25uTF91NFVHYTYyNFVrMERVenh4MVV5ckowQ3AtMDcyOXlwVUpXZ1BBQ3JFM09LUFpReE1LUXN0RUlxd1k4akpnRWlUQkZUNmJ1amRhT1NRS2VRVGRYUlc0WW80cHBuQVZLTG5yR1NTcm92Yzg0XzUtbFA1WjZlR2pzT3hzZWlpRko5NG42NUhIblTSAdgBQVVfeXFMTTBjeXFPeUEteDhvb2c2eU9WbENCUTBjNXRLR1JpVHkzZWQtdVBaRDNSbjFxXzRTWi1Ub1FwWjJWbU00VnNsVVpyS3NSYjNubkxfdTRVR2E2MjRVazBEVXp4eDFVeXJKMENwLTA3Mjl5cFVKV2dQQUNyRTNPS1BaUXhNS1FzdEVJcXdZOGpKZ0VpVEJGVDZidWpkYU9TUUtlUVRkWFJXNFlvNHBwbkFWS0xuckdTU3JvdmM4NF81LWxQNVo2ZUdqc094c2VpaUZKOTRuNjVISG5U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): Critical Minerals Pioneer Tracks Complex Market Signals - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWlyME1ZbGNBNWhHeHZ5aTlhZldnemZSY0o1LVhjeGo0enJXbThlSHhKX2tlYzRLcGtSM3FVUnkwV0V2cDRQY0hlTWFxREJIMUxTaDJTWmtoMVc3OW5zTVZMSmY2QkhVcHVaTFBZSHNzaTZibFM5X0JmTUloS0dTLUxydzN6MXN3ZFVDM3Y3c1IxVlhvYTZTZ1pTR1FtVTA4YjVNUDBhSzB2OE80SF96R013QVlNQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What happened to the job-creating rare earths refining plans for Hull? - Hull Live",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalpOdWNtdkVjV3BWYTV5anlKVVBtNVRmWjFydC0wNTJ2S0ZwemZfRTA2NUM4eFl5dUpVLXhwTU4tRG9tcGFzRVVOTUlhQ1NVYWYyY1JUNmNIUmtBOHdXdUtINEZpN3BBcGdyb21NNmlIQmVjNnRFZ1dhMjVJOUJjQ0RwVF9YQkZzTTc3eERPWVItU3V3ZWlHSkJya1B4eVBNeHQxeXdhVmdaQdIBqgFBVV95cUxPalpOdWNtdkVjV3BWYTV5anlKVVBtNVRmWjFydC0wNTJ2S0ZwemZfRTA2NUM4eFl5dUpVLXhwTU4tRG9tcGFzRVVOTUlhQ1NVYWYyY1JUNmNIUmtBOHdXdUtINEZpN3BBcGdyb21NNmlIQmVjNnRFZ1dhMjVJOUJjQ0RwVF9YQkZzTTc3eERPWVItU3V3ZWlHSkJya1B4eVBNeHQxeXdhVmdaQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "neo-2026-07-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials at precious metals and critical minerals virtual investor conference: growth By Investing.com - Investing.com South Africa",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOHpoTEdjTEY0Q1NuOEN1eHNuTEplbTlpeU5uWF8tMWlhblhoNFBFcTRWdU03bzQ0MUJHT2t0VV9pODFVRG5WMV9TRlpIYVF5d05ualh1QVAzZHNxLVFuaFdCbG5wVlVwUDFTa1d0Z1lXNTNIakRKbXBjajFZYWo1bEx4MGZlMnE3Y1RfTDFtc3lLMUtocHAxQ1J3OU1tdTAxZUZXVzB4WDhXbmFSTVFsaWg4WGxGbzJrd2xGS3BLaUUwOUdiZWJ4bXdPelpFTTRacU9GMklxMDFKeXlBMFowc1Z1UnFlX01aeldBeUZFNTVhYXNmcjdGRUVCTFI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 3
+      },
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 139,
+    "too_old": 141,
+    "gate1_blocked": 10,
+    "gate2_blocked": 7,
+    "passed": 36,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+      "Why Is Arafura (ASX:ARU) Back on Policy Radar? - Kalkine Media",
+      "Vital Metals Strengthens Board with David Herlihy Appointment to Drive Capital Markets Strategy Amid",
+      "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+      "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為萊納斯、Neo Performance Materials相關動態：「Lynas revenue hits four-year high on record rare earth pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas revenue hits four-year high on record rare earth prices - Australian Mi...（稀土價格、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths Stock And 2 ASX Miners With Strong Earnings Growth - simply...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
