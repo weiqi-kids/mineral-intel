@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 9,
+  "gate2_fail": 6,
+  "passed": 34,
+  "gate2_samples": [
+    "How Lynas survived China coercion, Malaysian activism and Wesfarmers attack - AFR",
+    "Iluka Resources (ASX:ILU): Why Is ILU Back in the ASX 200 Spotlight? - Kalkine Media",
+    "David Herlihy Appointed as Director of Vital Metals Limited - Kalkine",
+    "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
