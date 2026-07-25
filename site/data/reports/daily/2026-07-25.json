@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:30:57.143960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Western Governments Entered The Rare Earth Metals Business - Seeking Alpha",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzhlSm84TE1ZVXM4S1VpVzg4UXVKQUxDX2RHNlM5QkNGczNrOGxlWEdWUE80b2F0eF8xVXdBMXlyOHFlTlh0di1EdVR2Z1g2c0RtckdUUnkyMkQxbkhNUWgzZnNRR3FWRmdHUXFXZWZ5UExnVkZLQWhRQVNrOXpGdXVWS29qWXl4YUhTek1YajZYenpDb0xUcWtJZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan to test rare-earth mining 6 km underwater - Times of Suriname",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1h2c2FHR3R5OEs4NlA1TzlNQVdWOWo4R0dXOW9nWlFOcERFM2lDSE5rdXNrTEdDZzFoUUplTzdrSnVYUUlXYW04U0xCUGNyMVJ0UXB2VXJjZGZjcU83cUN1ZS01VzBSSUtHVFJ4ekpwZW9JZ2ZpdUFGRUFMX3lOWEN6Ni1FeS1aOFpER3Jn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China bans rare earth exports to 14 European companies - S&P Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVW1PUmQ5TkdaRU45dThZS180dkhNQ1pvamJDY2FKenVvSE9zbWE0NGxBdXFTY2dJZ1pwS0pHVlJnRkJFNVk4UHkzZlBUWlNKRHpjTUx5ckJMem9MUE9GX0ZrSXQ5X0hvLVhXaExPV0pEejBxcjh3ck1tODZFTkd1YTJ6MGp6Z0NCeXMyeEczYk13UWp5ZVhlYmZ4ZGFPMFlObDJMdmxjUmExWjRNUExLU3BGU2l0eG9ETXpod1hmSDlRd0FfNFAwLQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can the US and its allies break China’s grip on rare earths and AI technology? - The Star",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzZiQ2ZxOGxzTm9VbWgwS1dQNU51emVyb1M1V1BXeENHdzI1WUhON21WbmZyVFBjRWVDaU1fZ0NLSW9CNUYxdU1nb1RPbnhPRVJaenFnbzdQYWNjQ1REWXRLMUlfVkFna0VIcUp1NFM4dWlRLWZuQUYzZl9ZRWxjUzBwRll4QXd2TWZySEZKaENvdTZYNzVZdGZNT3F5ODJkekNIU2M3czlxM1FoeTFPZGRGcVBvWEx1TTlWbGJ0Zy16T2VDMXR4czNVLXVFNDcxZ2FBTjRR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 143,
+    "too_old": 141,
+    "gate1_blocked": 15,
+    "gate2_blocked": 5,
+    "passed": 28,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya",
+      "Does Neo Performance Materials Inc. (NOPMF) Have the Potential to Rally 38.41% as Wall Street Analys"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為礦業產業通用、中國出口管制相關動態：「Why Western Governments Entered The Rare Earth Metals Bus...」。主要關注主題為礦業產業通用、中國出口管制，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Western Governments Entered The Rare Earth Metals Business - Seeking Alpha（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Japan to test rare-earth mining 6 km underwater - Times of Suriname（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
