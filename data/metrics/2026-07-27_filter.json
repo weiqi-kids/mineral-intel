@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 17,
+  "gate2_fail": 5,
+  "passed": 25,
+  "gate2_samples": [
+    "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo",
+    "What Drove Neo Performance Materials' Record Q1 2026 Performance - Kavout | AI",
+    "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+    "Is Neo Performance Materials Inc. (NOPMF) Outperforming Other Basic Materials Stocks This Year? - Ya"
+  ]
+}

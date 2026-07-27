@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-27",
+  "total_events": 19,
+  "by_company": {
+    "lynas": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hastings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rainbow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "asm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
