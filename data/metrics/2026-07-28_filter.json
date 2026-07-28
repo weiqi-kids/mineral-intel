@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 17,
+  "gate2_fail": 5,
+  "passed": 25,
+  "gate2_samples": [
+    "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+    "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+    "Neo Performance Materials Inc. (NOPMF) stock price, news, quote and history - Yahoo Finance Singapor",
+    "Australian Strategic Materials Says Court Approved Revised Scheme Meetings - TradingView",
+    "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - "
+  ]
+}

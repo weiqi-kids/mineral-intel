@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-28",
+  "date_range": {
+    "start": "2026-07-22",
+    "end": "2026-07-28"
+  },
+  "generated_at": "2026-07-28T10:27:33.924860Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-07-28-005",
+      "date": "2026-07-28",
+      "title": "Energy Fuels acquisition for Australian Strategic Materials considered fair despite share price slump - Capital Brief",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 67,
+      "last_week": 48,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.04
+    },
+    "rare_earth_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.07
+    },
+    "magnet_supply": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "china_export_control": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 24,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "neo": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "rainbow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "asm": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "energy_fuels": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 169,
+        "last": 166,
+        "change_pct": 1.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-22",
+      "event_count": 47,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 32,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 31,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 4,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 34,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-22 ~ 2026-07-28）共 169 則事件，重點為「Energy Fuels acquisition for Australian Strateg...」。Arafura Rare Earths情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Neo Performance Materials",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
