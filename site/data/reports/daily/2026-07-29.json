@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:32:40.555211Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-29-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "St George Mining delivers record 207-metre rare earths intercept in Brazil - Proactive financial news",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbS1ObHg1YjI1ZlBRY0YtM0E3OHItMFdKOE5jaFh4WUhNNkhURlItSHVBZXhNMmstWnhoMzJZNnZqUGhYMTQ4cEg1VXdfUjF2UWJFb19EcHBRRWMzR1BIdnZleWRUa20tODJodTh2RHFrMllsbkNVa0dKMG9DTnFtNGZwZGtvckRzOGFBQWhKdHVzWF9udDQwYW5CbzRlWHBGZkFGRzNuM25rMmJ5cVYzUHZSYmg2aG5UWmpwNTQzMDJYaXJyZWJNZ1puQnpuWTJwc2tFNGtXVEd3Q1YwZ2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): Why Is Rare Earth Demand Back in Focus? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWJDWFQxc2tuOE9SMXZiaDR1OUFhOVNSSHFsY3g5UjFuNV9vaUxwaTlvM0xvZTliY2NFNkhpV3B1Q21KcWJLQUpMTFQ0RTFBSzM2QjdpYmtFb1IxRlhLZ0hKVllxUk9vZXRXSnk1TldsUVctZEVCd2hySDZrQW4wcmJsNUNUVElkQzFXWTlNc1ZPLTdsX3ZPT3l0Q3FFY3ZxODFEMGx1elRSN2RDTlVxeFhTTVdrSW5lQWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU) Moves Into Nolans Construction Phase as Funding Execution Becomes Key Focus - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakVjamhNVzdmdmp3Q0ZCOWR4cG9zYnNQUXFfbk4tLWV0dExXdTVIV0VuMF8xQXdqYk9mMTFvUk43SXdhMDZ6S2Z2NjBsVEkyTGs4cGh5YkVyNFdxbFV1MmdFd3lwOHZWWlNZVmgxYlRjbHhCSWdoV3FINjVJalZVLVh6OHdwR0ZGeEVvaElDZjhUUjR1QXNxUzRfSXJ0SkJsT1ZDNVNuRmxtQzY4ZmJnWkJBYUpFS3BYLTU5cVYyVlFJLUFYbFo5RzdrNGlzeWg2a3RZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-07-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU): What Is Behind Its Mine Funding Progress? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXVQNWlyNHlYeWJGbkJkaElIbXAyVGpjZXkzc2YxdHo5X2Z3OEY1Qm9pb25ORWVKR2FmV1puaDBtME9rTUtlUGtMTVNuOVJMRGEwbFpvZzZkRVJDcHZFSXh1U3BnUVBEelY1X1dHbzdLWEFTNDhJbTFMbVhORFptM2VDY1dTR0dERVNqWlZXeGhkZFFnYW53TF83UHBkRXg3TTlja00teWJTLUkyUzF6dlRlUDR6QVlmNENXTmRCMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vital-2026-07-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vital Metals Extends Tardiff Rare Earth Deposit Beyond Current Resource Envelope with High-Grade Diamond Drilling Results - Kalkine",
+      "companies": [
+        "vital"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3dVNTlhOWtJbUY3OTVRQ1RJNXV2UHlxVS1JdjhmNFROZVZOOGdON3BPQlNYRDk5eHBMaXZ4WHE0aHhhWTBUT3MyREZNN3FVNDltZ2ZTWUxLbEt4U3ZKRXNmXzlfLTVKaXVSRHZhRkNUU1UxbjB1MXRTM0VibVdxVFZEMDRlN2JScENmTV9JeG1BY2NsSHdZTndhLWRoNUl0amgtUUJPNHFid21EZEtoS2tlNnhfblFaVUF6d3FXNUNSdjF0WFloSW12d2V4aHZLa1lOYUZ0N1pkVHl1em1ocHFXNjlpWnJId2J1NDNDb0ZhVU1UTHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "vital",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 143,
+    "too_old": 142,
+    "gate1_blocked": 15,
+    "gate2_blocked": 5,
+    "passed": 24,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Can Arafura (ASX:ARU) Reset Midcap Sentiment? - Kalkine Media",
+      "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+      "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+      "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+      "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Arafura Rare Earths、萊納斯、Vital Metals相關動態：「St George Mining delivers record 207-metre rare earths in...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "St George Mining delivers record 207-metre rare earths intercept in Brazil - ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC): Why Is Rare Earth Demand Back in Focus? - Kalkin...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

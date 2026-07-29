@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 15,
+  "gate2_fail": 5,
+  "passed": 24,
+  "gate2_samples": [
+    "Can Arafura (ASX:ARU) Reset Midcap Sentiment? - Kalkine Media",
+    "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+    "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+    "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+    "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+  ]
+}
