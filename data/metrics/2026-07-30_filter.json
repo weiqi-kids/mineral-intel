@@ -1,0 +1,15 @@
+{
+  "total_raw": 331,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 17,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "Conflicting Signals For Ucore Rare Metals (OTCMKTS:UURAF) - Seeking Alpha",
+    "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+    "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+    "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+  ]
+}
