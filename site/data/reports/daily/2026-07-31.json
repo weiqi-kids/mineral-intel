@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:30:51.031428Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asm-2026-07-31-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Australian Strategic Materials Dispatches Supplementary Scheme Booklet for Energy Fuels Acquisition - finnewsnetwork.com.au",
+      "companies": [
+        "asm",
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFdYQkhJRXB3ZzY5UzFvWHV1alFPSjRUTzM3UF9BaEx3Yi1abmwyTG53MW5sbkN0OUdfQW9IdEstNUZSQ0xWM0l6aFZEYnJ0aDYwOHBURl9RX0JhcDdPcDc4M25BRTlIU0FoMVJuQ3JWaUh1bHdJSWVpX2wtWlpkYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Lynas Rare Earths (ASX:LYC) Back in Focus? - kalkinemedia.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkxEbEc1QWQ2V3VqVlhMUGZjbjZKRVoyUGRrMzZnNjZFbXBGZXBESVpNZnJUckRxNDBHS1prQzBielZIb2tDQVl1ZlhKRDJXbHlOeDlsUVNzR1VDWFN3ZGItVTBzeXBSd2Fpc0Zwc3lBVHp1THVlWFg0QXZwamxOalFyQmdyVndUTW9nOWZpSXg5ajBoWjRIMzRQaXNqR0xKc0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Lynas Rare Earths (ASX:LYC) Sustain Fresh Momentum? - kalkinemedia.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemhQM2t0cWg5NUw4NloxdHRMSi1Td3pKUm9rN2dTeHdJa2g4eFBlcmRwVWh1NTkxYVJCZGFIYzNBVm5pVWdiMXZtel9zUmtGMGxrS3cxM19wczF0WnZablU3bkRFemM3YkdZYkdXSkJ4dUozUFJNVW5QYlhpc0ZiR1FfUm1rNXpqUWgtQUFuTDBCWDJZRnFv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Reports A$723 Million Cash Balance as Nolans Project Construction Nears Following FID - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV1MwMjRPMnlIOWRvSXpZU0M5OWdENk9WRlRRWWhOb0ZiN21hT1RsRUJkbmJaejRDMEQ2YUh2SEhzdUtZQVpLa1lrTnhCb01PVmZUb1FuWnNXU3AyVmpQY3FIQ3o4ZndEQkpLQlNMUE1lU042eUpRSkRNLTgtTy1HOVlLaUN4eld3MWxhU3VxUFoxVTFPMndXM0FZZXY3TlMyblM1TkhpdDNTYUhVbDlTd042ckltbnplVEdSbXhSejR0LTZQdXk4S1NFdS05RUU4QklwN0QzUk9mLTJ1S0Vr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vital-2026-07-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vital expands NWT rare earths at Tardiff - North of 60 Mining News",
+      "companies": [
+        "vital"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUFYOW9hdXZRVnZrWjgxdXdrOXlTSVdscnR6TktmRUM2RjRBR2g3T2hDUkpKeGdUR3FuWEZ3ZGJmYXE1NUozQnNneVZTQnNXcFZmOHU2T2Rrcl9LcWZRWklpWktVbmhFOFd0Ui1zU2ZyX1JfcEZ0cVlad1FRUWRaTC1BbHE5U2NxNzFGZEdobUpGZ3ZpVG1JTzBfeTFYSkN1RGZGTjV0OHJVbjcwZllYNUg5UEVaVzZrZlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "vital",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 133,
+    "too_old": 150,
+    "gate1_blocked": 19,
+    "gate2_blocked": 3,
+    "passed": 28,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - fina",
+      "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+      "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為萊納斯、Vital Metals、Arafura Rare Earths相關動態：「Australian Strategic Materials Dispatches Supplementary S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Australian Strategic Materials Dispatches Supplementary Scheme Booklet for En...",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Is Lynas Rare Earths (ASX:LYC) Back in Focus? - kalkinemedia.com（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
