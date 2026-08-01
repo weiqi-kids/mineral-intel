@@ -1,5 +1,63 @@
 [
   {
+    "id": "lynas-2026-08-01-001",
+    "date": "2026-08-01",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Lynas Rare Earths (ASX:LYC) Is In Focus Following Its Convertible Bond Funding - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNk1sbWc3SUJmYnNQUjhqcFNBZ1Nhb3FUYXIzZWJzWG1ZZThvN1VNZlNVTHZRMlpZeFZScHRNRWlUcF83NmVrZ3gzZ1FReU9jbXBiSVRMSmFLaTBvRWJRc1NVWUM5TVhaTElOd0E2cX",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNk1sbWc3SUJmYnNQUjhqcFNBZ1Nhb3FUYXIzZWJzWG1ZZThvN1VNZlNVTHZRMlpZeFZScHRNRWlUcF83NmVrZ3gzZ1FReU9jbXBiSVRMSmFLaTBvRWJRc1NVWUM5TVhaTElOd0E2cXQ0Nm40M0lNbERQZ25EUjlveTJ3VFNiRDhpZ25jV2FqM0xLcXA2YlQwaUlDNnY0UU01R0ZHb3ZLODNRdFEtRDg5MzhOdW52cjR4NHFGQV9VQmp1V2Y1TzRZZzdvWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-08-01-002",
+    "date": "2026-08-01",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Arafura Rare Earths: Cash-Rich but Under Pressure as Nolans Construction Looms - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOG1WT29wMjV3NE9CaWVtdEM5TTVSaTVpWEl2UHlBenA0N1E0TzBpY2FTck9ZU3BlWUZFb01Fa29wTi02N1pTYmZJQlcwQkN6aDZzWVlPSS1xOGF3MTg4YVNraHhBRTJoMHVvS3BwMk",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOG1WT29wMjV3NE9CaWVtdEM5TTVSaTVpWEl2UHlBenA0N1E0TzBpY2FTck9ZU3BlWUZFb01Fa29wTi02N1pTYmZJQlcwQkN6aDZzWVlPSS1xOGF3MTg4YVNraHhBRTJoMHVvS3BwMkljRXRzdnozMTUzTnVna01VNVFTVmVfQV9RWk1zSHFQeDhQc1VpZVpZSGFZRVhLZmREZ1RJN1ZVX0o4UzZrRWhENnFhamdGSV9oWHo5WTFlMzBmVU8wNlJ4WndNQlE2Z2xocXN1WjVTeEs0Y1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-003",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Market Recap (August 1) - The Phalaborwa Dump and America’s Rare Earth Awakening - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmNrcEJXbGpZdUdfQVNFVVY5SDMtbUNoQ1AtY3RUUmlHd1JpdVd6M1daY2tGZ2VUb3JuMmlNSlNUb3pLUkRtWElUSnhXcjAzWGNNZmZweUpQN3VJWTNKY1o0RHE0M2hkb2dpcnc3OH",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmNrcEJXbGpZdUdfQVNFVVY5SDMtbUNoQ1AtY3RUUmlHd1JpdVd6M1daY2tGZ2VUb3JuMmlNSlNUb3pLUkRtWElUSnhXcjAzWGNNZmZweUpQN3VJWTNKY1o0RHE0M2hkb2dpcnc3OHNKbDRMWDhUV09XMEZVbGJGUVJuYlB4M0xRS21oZU1BZTVSSzMwM2JhZVJsX1ZNNzg2bjdSejJfN0lNejUzWWp2S0h0NW9Fdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-07-31-001",
     "date": "2026-07-31",
     "companies": [
@@ -223,6 +281,321 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjhjbFM1WmJDSG9zZnJidnBENWtOeVUzZGR0OVR3aTNrc1VTQW5ZY2pfZlA3TF93SnZmcHp5THdZbzZBMzQxeW5wcW5vTklIdU1LV25MQzdqQWdUY0J4TTgyM3dVRFJaNGFJSklQMmVWVEp2ZTJvYlBOM0NRbTByOGpHd3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-013",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan’s Rare Earth Strategy Is a Portfolio, Not a Project - InvestorNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWEpPamxoTU9CMWpPM2VtQy1NZThjRFNpc3JDMktfTm11NzFSeFRHaG1YYWktbUFVaTF2WmllU1htMEt6cC10eHpWWk5uZnVoSktHal83b1RsRHczc1hUVjk2eVBzUTB2MXBxZGk2Y3",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWEpPamxoTU9CMWpPM2VtQy1NZThjRFNpc3JDMktfTm11NzFSeFRHaG1YYWktbUFVaTF2WmllU1htMEt6cC10eHpWWk5uZnVoSktHal83b1RsRHczc1hUVjk2eVBzUTB2MXBxZGk2Y3poMUxOdmVNbjVoUU1vdTM3UGFSTmRUOE41ZmVtMGY0OFJOdVk2aXJLTEt0MjhQTmQxZm5Wb2hxR2JBM0FzS0V0aDQ0QTdKbUx3U0swbE1wTG5XZzlnSGt6ZUNTc3FRanhEZldOT1l3LXRpWWJ5emVHb3VyM05zUFB4QkdiSERiZmd1NnVHVnR3WmhXNXVjM2VfdXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-014",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Names Top Rare Earths Stock Amid Western Supply Chain Push - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG41YjJXQW9zdWxubHotdUF5RVhYbEp0ZTEycU11c1VhSU9nWjNtNVlUT0JJSmt1dEtxeTB0Qm1sSjRzbm9NbE10Z0IyUW45d0UtUDlIUEo0YTgweDFNRTNLZEJxZ2VYejVPQ3B4d3",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG41YjJXQW9zdWxubHotdUF5RVhYbEp0ZTEycU11c1VhSU9nWjNtNVlUT0JJSmt1dEtxeTB0Qm1sSjRzbm9NbE10Z0IyUW45d0UtUDlIUEo0YTgweDFNRTNLZEJxZ2VYejVPQ3B4d3hCM0dZYlhfS2hLRzROeUl0RDNJZ2pkV1FsWGpUN3N5dmkzbUJ1b0xZTmx2WGttUW10NE53TmtQcmljX2NYUnd2VWVLYnRoRFdVV0pEQWdTdFl6dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-07-31-015",
+    "date": "2026-07-31",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did Lynas’ Zero-Coupon Convertible Bond Issue Reshape Lynas Rare Earths’ (ASX:LYC) Funding Risk-Reward Profile? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSW9xX191LUc1azU1WnRkRUVTMzRfNl9TdTRtM21tRmc2UUl2dUNwTk5BOG8tdW9IUkQtZE12REVOWVdlbTg3YTRRV05rNERPTmJtY1dZZXZQY3FvUkNYNmNBSHRiRjdrZGZ6VzlnOW",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSW9xX191LUc1azU1WnRkRUVTMzRfNl9TdTRtM21tRmc2UUl2dUNwTk5BOG8tdW9IUkQtZE12REVOWVdlbTg3YTRRV05rNERPTmJtY1dZZXZQY3FvUkNYNmNBSHRiRjdrZGZ6VzlnOW9nTU95WTA4bFNvckdEUHhqUkhCbDhXM3NkS29HdEVhWDlOaTJ6bDlYS19tVkxxQURyWi1jODZzeFRVOGVTNUhKRHo1M2l0aDBHQTY3R2Q1QlphQ3VkOVVZSF9yU3B0QV9FVmFfU0FwN0ZmRmVl0gHcAUFVX3lxTE5Jb3FfX3UtRzVrNTVadGRFRVMzNF82X1N1NG0zbW1GZzZRSXZ1Q3BOTkE4by11b0hSRC1kTXZERU5ZV2VtODdhNFFXTms0RE9OYm1jV1lldlBjcW9SQ1g2Y0FIdGJGN2tkZnpXOWc5b2dNT3lZMDhsU29yR0RQeGpSSEJsOFczc2RLb0d0RWFYOU5pMnpsOVhLX21WTHFBRHJaLWM4NnN4VFU4ZVM1SEpEejUzaXRoMEdBNjdHZDVCWmFDdWQ5VVlIX3JTcHRBX0VWYV9TQXA3RmZGZWU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-07-31-016",
+    "date": "2026-07-31",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths (ASX:LYC) Shares in Focus Amid Positive Material Sector Momentum - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUFMT1hCM3QxZ19fVHl6YlJPT3RRNkJKSk0xZmNFVmVFd1Fkbjh5N3Y2T2xzYXdjN2ZFYTVxNVZudGIxSDd4NjNEUFFrT29YeXctczdYT0xRakJKMXBmUkxDWmY0aVh0Unpja0FDZF",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUFMT1hCM3QxZ19fVHl6YlJPT3RRNkJKSk0xZmNFVmVFd1Fkbjh5N3Y2T2xzYXdjN2ZFYTVxNVZudGIxSDd4NjNEUFFrT29YeXctczdYT0xRakJKMXBmUkxDWmY0aVh0Unpja0FDZFFJeFhMRGxvT0ZzbHZlNmttcWpES2d0d3dCVmlPZjRpQm9ZWmZKNDZpWFpTN1pEdW1Zc3ItSlZRdjB3bHpuOTJDUk1mTUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-07-31-017",
+    "date": "2026-07-31",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arafura Rare Earths Advances Northern Territory Project in June Quarter; Shares Up 4% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHVYSmZlYlNqLU5hQmc4a2dqV3dnS0FlVkFYLUNTeVBCZkxWS0hBbk4ydElkRndCZFpVeGZvbWo5dEJhbWNzSWxBcWNseDRTaE5JWi1KaTF2cVdvOXVzbkRELUlQeVBnTE1qZ2lCUW",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHVYSmZlYlNqLU5hQmc4a2dqV3dnS0FlVkFYLUNTeVBCZkxWS0hBbk4ydElkRndCZFpVeGZvbWo5dEJhbWNzSWxBcWNseDRTaE5JWi1KaTF2cVdvOXVzbkRELUlQeVBnTE1qZ2lCUW5PSHRfOHZUeHFVUk1jUjQ5R1JxVktuRFBtRTBBWktFM0RZaVEyZXZGODdqOEotUmgxWDE0eHF0RlYxWEJsMTJYRzhMcVZEeVBIRDZUdUcxMHhXbld6VWQxYVNVNmRPX3Y0c0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-07-31-018",
+    "date": "2026-07-31",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Limited Revenue Breakdown – ASX:HAS - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTRnlPZmNIaVNfMGxvb2I4cTB5Mlo3U3AxZ1praWd1OVJITHB6cHBoZC0zbEZuVzlXSlN6X3hiNmRMc1pjc0JBQ0JLeExySVgyZG9tX05CWnYza1ZCVjFYdFpwbjBMME9hMUhqNU45d2",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTRnlPZmNIaVNfMGxvb2I4cTB5Mlo3U3AxZ1praWd1OVJITHB6cHBoZC0zbEZuVzlXSlN6X3hiNmRMc1pjc0JBQ0JLeExySVgyZG9tX05CWnYza1ZCVjFYdFpwbjBMME9hMUhqNU45d25qUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-07-31-019",
+    "date": "2026-07-31",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shenghe Resources Holding Co., Ltd. Class A Revenue Breakdown – SSE:600392 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1aC0zUzlZRVh2LUN3dXhfd3ktQlI5Uy05M1ZIN3NUWjBHUTd3TWJDY2VwNlJVUDJ5bFJkd0N3NzNZUTJXU2lmb0ZTTUhhTzZpMnpiOXBlb3cxTDlfb0lROElTZE5Lc083UDBoSW11Zm",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1aC0zUzlZRVh2LUN3dXhfd3ktQlI5Uy05M1ZIN3NUWjBHUTd3TWJDY2VwNlJVUDJ5bFJkd0N3NzNZUTJXU2lmb0ZTTUhhTzZpMnpiOXBlb3cxTDlfb0lROElTZE5Lc083UDBoSW11ZmdLdURfc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_fuels-2026-07-31-020",
+    "date": "2026-07-31",
+    "companies": [
+      "energy_fuels",
+      "asm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Australian Strategic Materials Dispatches Supplementary Scheme Booklet for Energy Fuels Acquisition - Finance News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFdYQkhJRXB3ZzY5UzFvWHV1alFPSjRUTzM3UF9BaEx3Yi1abmwyTG53MW5sbkN0OUdfQW9IdEstNUZSQ0xWM0l6aFZEYnJ0aDYwOHBURl9RX0JhcDdPcDc4M25BRTlIU0FoMVJuQ3",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFdYQkhJRXB3ZzY5UzFvWHV1alFPSjRUTzM3UF9BaEx3Yi1abmwyTG53MW5sbkN0OUdfQW9IdEstNUZSQ0xWM0l6aFZEYnJ0aDYwOHBURl9RX0JhcDdPcDc4M25BRTlIU0FoMVJuQ3JWaUh1bHdJSWVpX2wtWlpkYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-021",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ottawa approves Canada Nickel’s Crawford mine",
+    "summary": "<p>Canada Nickel (TSXV: CNC: US-OTC: CNIKF) has secured federal approval to proceed with its proposed Crawford polymetallic mine in Ontario, paving the way for a construction decision next year amid..",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/canada-nickels-crawford-mine-gets-federal-ok-report/1003893587/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-022",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinox hands CEO job to Orla’s Simpson",
+    "summary": "<p>Equinox Gold (TSX, NYSE-A: EQX) will hand the CEO job to Orla Mining’s Jason Simpson on Nov. 1, reversing a leadership plan set when the companies agreed to merge in...</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/equinox-hands-ceo-job-to-orlas-simpson/1003893634/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-023",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Treasure Hunt: Manitoba – Where a storybook hero led Canada to one of its greatest mining camps",
+    "summary": "<p>Read the French version: Manitoba: héros de roman et camps miniers ancrés dans le roc Watch the Video: English &#124; French Every great mining discovery begins with a question. Sometimes science..",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/treasure-hunt/manitoba-where-a-storybook-hero-led-canada-to-one-of-its-greatest-mining-camps/1003893604/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-024",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gangs hijack Ecuador’s gold mining supply chain",
+    "summary": "<p>Ecuador has elevated illegal mining to a national security threat after concluding that criminal gangs have infiltrated the country’s gold supply chain, from extraction to export, turning the secto",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/gangs-hijack-ecuadors-gold-mining-supply-chain/1003893606/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-025",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hercules hires executive team behind $2B Hudbay deal",
+    "summary": "<p>Hercules Metals (TSXV: BIG; US-OTC: BADEF) has recruited the management team behind Arizona Sonoran Copper’s $2-billion (US$1.4-billion) sale to Hudbay Minerals (TSX, NYSE: HBM) to push the Leviath",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/hercules-hires-executive-team-behind-2b-hudbay-deal/1003893626/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-026",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: Canada should back critical minerals with buyers",
+    "summary": "<p>The federal government&#8217;s first move through the Canada Critical Minerals Accelerator did not go to a lithium developer or a nickel mine. It went to germanium, antimony and gallium at...</p>\n<",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/commentary-canada-should-back-critical-minerals-with-buyers/1003893582/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-027",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Op-Ed: Giving credit where it’s due — The US finally gets rare earth strategy - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQkVXZkVBWmRmV3VMUkhwMkVoZHAxcFc0MFBGRC1NRmRCSHZGLWpxUEZDWU00WmNxTm01UGlodmZDemZ1WVFmWkg5VW05eU53dndITEhmWFo0TlhFM2NuWHhvZzhETlRYZmVIS0Jta3",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQkVXZkVBWmRmV3VMUkhwMkVoZHAxcFc0MFBGRC1NRmRCSHZGLWpxUEZDWU00WmNxTm01UGlodmZDemZ1WVFmWkg5VW05eU53dndITEhmWFo0TlhFM2NuWHhvZzhETlRYZmVIS0Jta3hUR2p5d2Y2cWhVYkR0ZXFpMS1SNmRLRnVybXp6MU41dnVzcUxqcVZWVV9pZnI2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-028",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEQ disputes U.S. Critical Minerals - Bitterroot Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9iWjktdnFsRGh0ZVVsbTNoWHd0VWl4N1NKbFBQYlR2MHp0Q0tZUUloNE1nS0QxZmFnODkyTGZjdGJCcndLNExLMnRwbjhuYXZVYl9RMGZTRm5wMmhpN0N6N3BSZTQ2S01VT1g1REZRcU",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iWjktdnFsRGh0ZVVsbTNoWHd0VWl4N1NKbFBQYlR2MHp0Q0tZUUloNE1nS0QxZmFnODkyTGZjdGJCcndLNExLMnRwbjhuYXZVYl9RMGZTRm5wMmhpN0N6N3BSZTQ2S01VT1g1REZRcUhDT3RxTXJieTV5RTM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-029",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ionic launches strategic review of Uganda rare earths project - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnJ6UTFEMUhfLWpQUmV3UUlibzJGbGx6SFNKbTl3TjBkMkM4SGd6N3NaSHJvYTQ0QmgycFhjLWhzQ2xJUU1QME1kX0I3TEsyRU1Jb0N4TFo4a3FkZExMNHVFbGZrQzNjTENteUZ4MV",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnJ6UTFEMUhfLWpQUmV3UUlibzJGbGx6SFNKbTl3TjBkMkM4SGd6N3NaSHJvYTQ0QmgycFhjLWhzQ2xJUU1QME1kX0I3TEsyRU1Jb0N4TFo4a3FkZExMNHVFbGZrQzNjTENteUZ4MVd6bngxa1dyelUySDdub09nLWtyZ1llMFM5N2NBRzBPYXVVNkJfQnozSUdFRC1wODJ3SGppdml0TXhwNDFZWmc?oc=5",
         "type": "rss"
       }
     ]
@@ -1111,6 +1484,24 @@
       {
         "name": "neo",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mNk8wbGpPblptXzR5WmNZa3QwNkQ0OXBTTzV0S2l3aXJrb0I2bHBzRGVwLWtJMFlLRzhTYWNybElkZVR4RE02bUpWUU9waGxNNHpKR3FDNzZta2hRdTMwbWsyVXNaSzI1ZG5kRkVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-030",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Backs Madagascar's Rare Earths Project - oilprice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0RFX2lQUnhIVDNMSFpPTXBoUktCN1Q0bXhDUF95Sk1vWjdlSExJRF81cHNaWk1nMGo1VUN5TFlualBCVEx0ZnVoMmVNOUg5SnRqRVk0elFzOUpKbjB2REV1cTlvbHRUbkpxbE5Gd1",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0RFX2lQUnhIVDNMSFpPTXBoUktCN1Q0bXhDUF95Sk1vWjdlSExJRF81cHNaWk1nMGo1VUN5TFlualBCVEx0ZnVoMmVNOUg5SnRqRVk0elFzOUpKbjB2REV1cTlvbHRUbkpxbE5Gd1B1SlhyWmI1aFUwZHpsbUMwd09EUXFwTXdNUlY2NkFB0gGTAUFVX3lxTE1lX0RoNjdWV0NfYzFTYjR1Sk9mQ25iZTQ4X0dISzhDMk9yZ2U0VzRpNWpuSk9ac0ZacExVblE3NzdrVEY4RmQ3SGZQQ1IySmQ1S19jeXVwTW5kdXV0YjdPNnRtaGs4d3cwZGxfS0tiQk9Sd0ZXeGxTSjZJOU05SjRHSlVuT2hUUDNQRWc4ZVdCVnYxSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2345,6 +2736,62 @@
     ]
   },
   {
+    "id": "lynas-2026-07-27-042",
+    "date": "2026-07-27",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths Enters Into Binding Agreements With LS Eco Energy for Cross-Subscription of Convertible Instruments - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlFYYnRLVGExd0twVThkTjY0bjNhM2NVMm93M0E5SkRpTUZrTXNmMDE3WVdsTjBFX3RYNlUzUnc2ZjBjZHpnWmhfWjJzVUlwQmlya0lKdkpEUkZqSW85Z0s0T3p0Q2lMcTZ2U1Jhc1",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlFYYnRLVGExd0twVThkTjY0bjNhM2NVMm93M0E5SkRpTUZrTXNmMDE3WVdsTjBFX3RYNlUzUnc2ZjBjZHpnWmhfWjJzVUlwQmlya0lKdkpEUkZqSW85Z0s0T3p0Q2lMcTZ2U1Jhc1JSRXl0OVdEVU51U1ZtTUhDVW0tMEZJdjhGTVdBMXB4THpoa1RSVDZ3UEtZQWg3R1B3aHB2Zg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-043",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nova Minerals positions Alaska antimony project to support new US defence supply chain policy - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjRDcllrQ0JiQWJuZWs0Um5aeWg1T25MR3JSUklLb1I0MEF4M0RPV3dxdThOLXI5bU9sdnJSTi04UGVqb1JkZF96bW1sU0FreFZMVnRFNmo0OEQ0QlFYSmZOaDJlbWdNWHFSNGpjQk",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjRDcllrQ0JiQWJuZWs0Um5aeWg1T25MR3JSUklLb1I0MEF4M0RPV3dxdThOLXI5bU9sdnJSTi04UGVqb1JkZF96bW1sU0FreFZMVnRFNmo0OEQ0QlFYSmZOaDJlbWdNWHFSNGpjQkJxeldFUlJ4MHczQTV1OXh5MWVpS1RyMGh4cUFEdVg1dlR1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-044",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution - oilprice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHhRckowbmViLTVRSFh2aTF0MUVtcGRtTHpWV1Y0UFFMZnhIcUd1V0ZFYmpYSTJPQ2s4bzc2ZHM4OXpHZGhpdVdJNWd2eUwzbURCdExqTVZscmFvdzVGampxMmJrazlGcWtQeG9YcU",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHhRckowbmViLTVRSFh2aTF0MUVtcGRtTHpWV1Y0UFFMZnhIcUd1V0ZFYmpYSTJPQ2s4bzc2ZHM4OXpHZGhpdVdJNWd2eUwzbURCdExqTVZscmFvdzVGampxMmJrazlGcWtQeG9YcUxLbE45SWVReXBQVHRqN2p3OUpWUzRZdmx4S3EzRUI0UHNtRnN3NXFpMXo1SDBjVnFqNk1XUUozUDlfUHBiazRtTWtxU1QxUdIBuwFBVV95cUxOTlVldHM3VVFoa09ZUEpHczBjdEJZb05welNzUkNZWTRaS2t4UUEzWlZhcUFXeF9XbXpxNVRoV2FnbmxIZWN1Y01TRjZDVi1tdnZXZV9sYTZwMkdjM3gwTGptejA4WmR6WUJrakI1cEVReUN2N0RPcGxvTmNQUU5tR2hSLTF6RXRIZzd4WlJLUmlweFdSZTZ6SWRLY3MwMWUweXRiY00tN1gxZjk1NXl1MHd3TWJ0aW1ITFBv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-07-26-001",
     "date": "2026-07-26",
     "companies": [
@@ -2416,6 +2863,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHdNUXA2T1JfLW9TZDNtaks4V1NiY3B5aVNsLXR4eTlGRFdsQ1VQam9EUENyclRFQlpVR3FnMzVRZXc3dHFRNUl4REJsbmg4US1zZVVxVHpwRm84SGNub0J5LXJXOG9EQ3dHZ3JBWEVhY2J5Z2VMZy03cF96SVMtRTJteVRUNmhkZkJsMERlOGdLc3pWRU50T0hrNmxnVThi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-07-26-005",
+    "date": "2026-07-26",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Neo Performance Materials, Inc. Revenue Breakdown – TSX:NEO - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA2NVZDMEo5WHI4a3dQTE5MRV84ZHdZZTRRbTRCeHNxMUxhTFpKR3MzbHVoNVZpdTllc0Z2MTFCdk1IbXFmNEFGNU5qZnFUTGdTcDViNi1fRGVERzNPdFl0RE9WazNFY01BeUNuVExMY3",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2NVZDMEo5WHI4a3dQTE5MRV84ZHdZZTRRbTRCeHNxMUxhTFpKR3MzbHVoNVZpdTllc0Z2MTFCdk1IbXFmNEFGNU5qZnFUTGdTcDViNi1fRGVERzNPdFl0RE9WazNFY01BeUNuVExMY3dxdw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:52:37.003968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Lynas Rare Earths (ASX:LYC) Is In Focus Following Its Convertible Bond Funding - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNk1sbWc3SUJmYnNQUjhqcFNBZ1Nhb3FUYXIzZWJzWG1ZZThvN1VNZlNVTHZRMlpZeFZScHRNRWlUcF83NmVrZ3gzZ1FReU9jbXBiSVRMSmFLaTBvRWJRc1NVWUM5TVhaTElOd0E2cXQ0Nm40M0lNbERQZ25EUjlveTJ3VFNiRDhpZ25jV2FqM0xLcXA2YlQwaUlDNnY0UU01R0ZHb3ZLODNRdFEtRDg5MzhOdW52cjR4NHFGQV9VQmp1V2Y1TzRZZzdvWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths: Cash-Rich but Under Pressure as Nolans Construction Looms - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOG1WT29wMjV3NE9CaWVtdEM5TTVSaTVpWEl2UHlBenA0N1E0TzBpY2FTck9ZU3BlWUZFb01Fa29wTi02N1pTYmZJQlcwQkN6aDZzWVlPSS1xOGF3MTg4YVNraHhBRTJoMHVvS3BwMkljRXRzdnozMTUzTnVna01VNVFTVmVfQV9RWk1zSHFQeDhQc1VpZVpZSGFZRVhLZmREZ1RJN1ZVX0o4UzZrRWhENnFhamdGSV9oWHo5WTFlMzBmVU8wNlJ4WndNQlE2Z2xocXN1WjVTeEs0Y1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly Market Recap (August 1) - The Phalaborwa Dump and America’s Rare Earth Awakening - NAI500",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmNrcEJXbGpZdUdfQVNFVVY5SDMtbUNoQ1AtY3RUUmlHd1JpdVd6M1daY2tGZ2VUb3JuMmlNSlNUb3pLUkRtWElUSnhXcjAzWGNNZmZweUpQN3VJWTNKY1o0RHE0M2hkb2dpcnc3OHNKbDRMWDhUV09XMEZVbGJGUVJuYlB4M0xRS21oZU1BZTVSSzMwM2JhZVJsX1ZNNzg2bjdSejJfN0lNejUzWWp2S0h0NW9Fdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 144,
+    "too_old": 146,
+    "gate1_blocked": 13,
+    "gate2_blocked": 3,
+    "passed": 25,
+    "pass_rate": "13.4%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+      "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+      "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Why Lynas Rare Earths (ASX:LYC) Is In Focus Following Its...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Lynas Rare Earths (ASX:LYC) Is In Focus Following Its Convertible Bond Fu...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Arafura Rare Earths: Cash-Rich but Under Pressure as Nolans Construction Loom...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
