@@ -1,0 +1,14 @@
+{
+  "total_raw": 350,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 13,
+  "gate2_samples": [
+    "Neo Performance Materials (TSX:NEO) Gains Investor Attention, Is The Stock Still Undervalued? - Yaho",
+    "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+    "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+  ]
+}
