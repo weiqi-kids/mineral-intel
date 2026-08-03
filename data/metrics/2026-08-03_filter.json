@@ -1,0 +1,13 @@
+{
+  "total_raw": 353,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 23,
+  "gate2_fail": 2,
+  "passed": 14,
+  "gate2_samples": [
+    "Australian Strategic Materials (ASM AU): Rescheduled Vote On 12th August For Energy Fuel's Scheme - ",
+    "Australian Strategic Materials (ASM AU): Synthetic Expert Call Transcript (28 Jul 2026) - Smartkarma"
+  ]
+}
