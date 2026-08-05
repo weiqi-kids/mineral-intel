@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-05",
+  "date_range": {
+    "start": "2026-07-30",
+    "end": "2026-08-05"
+  },
+  "generated_at": "2026-08-05T10:28:32.287185Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "asm-2026-07-31-006",
+      "date": "2026-07-31",
+      "title": "Australian Strategic Materials Dispatches Supplementary Scheme Booklet for Energy Fuels Acquisition - finnewsnetwork.com.au",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 55,
+      "last_week": 57,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.07
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "arafura": {
+      "event_count": 8,
+      "sentiment_avg": 0.31,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "vital": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "asm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "energy_fuels": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "rainbow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 140,
+        "last": 181,
+        "change_pct": -22.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-30",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-30 ~ 2026-08-05）共 140 則事件，重點為「Australian Strategic Materials Dispatches Suppl...」。Arafura Rare Earths、Vital Metals表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
