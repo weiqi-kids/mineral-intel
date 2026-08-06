@@ -1,0 +1,12 @@
+{
+  "total_raw": 348,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 16,
+  "gate2_fail": 1,
+  "passed": 31,
+  "gate2_samples": [
+    "What's Driving Australian Strategic Materials (ASX:ASM) HigherToday? - Kalkine"
+  ]
+}
