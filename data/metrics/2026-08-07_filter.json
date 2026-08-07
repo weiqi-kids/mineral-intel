@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 14,
+  "gate2_fail": 5,
+  "passed": 40,
+  "gate2_samples": [
+    "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - stocktitan.net",
+    "Ucore Rare Metals Completes RapidSX™ Scale-Up Verification for Louisiana Strategic Metals Complex - ",
+    "Australian Strategic Materials (ASX:ASM) Share Price Falls – Here’s Why - Kalkine",
+    "What's Driving Australian Strategic Materials (ASX:ASM) HigherToday? - Kalkine",
+    "Spotlight: Four companies advancing projects around the world"
+  ]
+}
