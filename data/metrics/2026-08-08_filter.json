@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 16,
+  "gate2_fail": 9,
+  "passed": 44,
+  "gate2_samples": [
+    "UCORE RARE METALS INC (UCU.NE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - Stock Titan",
+    "Ucore Verifies Louisiana RapidSX(TM) Equipment Scale-Up Configurations - TMX Newsfile",
+    "Ucore ran more than 400 tests on 24-inch rare-earth contactors - Stock Titan",
+    "Ucore Rare Metals Completes RapidSX™ Scale-Up Verification for Louisiana Strategic Metals Complex - "
+  ]
+}

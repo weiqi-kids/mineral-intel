@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-08",
+  "date_range": {
+    "start": "2026-08-02",
+    "end": "2026-08-08"
+  },
+  "generated_at": "2026-08-08T08:31:02.537826Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-08-06-010",
+      "date": "2026-08-06",
+      "title": "Australian Strategic Materials Says Federal Court to Hear Application for Approving Schemes for Proposed Acquisition by Energy Fuels Unit, Shares Fall 3% - marketscreener.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 51,
+      "last_week": 52,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.07
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "asm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rainbow": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ucore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 189,
+        "last": 172,
+        "change_pct": 9.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-02",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 28,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 38,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 39,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 33,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 38,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-02 ~ 2026-08-08）共 189 則事件，重點為「Australian Strategic Materials Says Federal Cou...」。Arafura Rare Earths表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
