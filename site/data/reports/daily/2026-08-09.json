@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:33:16.759851Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials (TSX:NEO) Magnet Expansion Story Keeps Fair Value In Focus - Yahoo Finance",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzR3cm5NZm9rb0R2cmFYR29zVVJLSFFRbkhfY0dvcWVLX2pCNTFjWUtiRklValhKTWlqNHZFSEQ3d1dDSVBqVnNDQ1p4TWkwYTY5WWFwM0NBaHFlMy13WEdVRk5YalRxaUhhd051SzFjUjFHd1R6d3h5dUhncWw2NkNtWjd5QXRKTi1MNFRtc3k5ZExoVzB1ZjBvbFFMTXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Comments Open on Proposed Rare Earth Mine Near Sacred Mato Tipila - Native News Online",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGZ0cDk2bnNjLWpXQXowR2NXNWpmMEgtRFo4bHdpT3lLYXEyTS0wMThWOW9mdEdrdVNhMjRDbHJaT1NVenp0NmNmZGdSalRXTGpPM0o2c2FOOXpUdDJrckN6S1M4dm85emN4MS1qUy1LS2RNRGs2TXA2YkVOZUpRTEpxcVlXNjZLVUNSS2NkcEpmMTdOOWNJeEkyS0VZMWpTVUVsVkpxNUthd1UwTGJxdC1zZVU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "America Has Money. China Has Time: Why Trump's Critical Minerals Strategy Needs a Phase II - rareearthexchanges.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2pHbDJjNjRZakhUQkNsd2xkVG1iOFJoc0dHaVNhbnRMUWlTMWcyaS11NHZ1YkZZVmUxSHJJSWFGeUcxNmw4bk02ZGVTTmQ5Si04UXpmakhQSW84c01QeWl5ZWhuTzFGZUpfUmhCVEFmeExleUx1SjFfOGNJS001azhQazN5Vi1Ddm1EMV9TeWJtSHIyaURTMGVDakpOTHdXbl9HVUdZQXF5ajFYM2tHRGZUOXRvRTdycWlwR21ESl82dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 157,
+    "too_old": 149,
+    "gate1_blocked": 15,
+    "gate2_blocked": 7,
+    "passed": 25,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - Stock Titan",
+      "Ucore Rare Metals Completes RapidSX™ Scale-Up Verification for Louisiana Strategic Metals Complex - ",
+      "Ucore ran more than 400 tests on 24-inch rare-earth contactors - Stock Titan",
+      "Australian Strategic Materials (ASX:ASM) Share Price Falls – Here’s Why - Kalkine",
+      "What's Driving Australian Strategic Materials (ASX:ASM) HigherToday? - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Neo Performance Materials相關動態：「Neo Performance Materials (TSX:NEO) Magnet Expansion Stor...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Neo Performance Materials (TSX:NEO) Magnet Expansion Story Keeps Fair Value I...",
+        "level": "green"
+      },
+      {
+        "text": "Public Comments Open on Proposed Rare Earth Mine Near Sacred Mato Tipila - Na...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
