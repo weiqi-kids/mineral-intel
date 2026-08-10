@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:33:13.630454Z",
+  "updated_at": "2026-08-10T09:10:54.338682Z",
   "quarter": "2024-12-31, 2025-06-30, 2025-12-31",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "Energy Fuels",
       "ticker": "UUUU",
       "currency": "USD",
-      "ar": 5482000,
-      "ar_prev": 15993000,
-      "ar_qoq": "-66%",
+      "ar": 13111000,
+      "ar_prev": 5482000,
+      "ar_qoq": "+139%",
       "ar_period": "QoQ",
-      "inventory": 69034000,
-      "inv_prev": 73492000,
-      "inv_qoq": "-6%",
+      "inventory": 75037000,
+      "inv_prev": 69034000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "iluka",
