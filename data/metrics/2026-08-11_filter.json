@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 24,
+  "gate2_fail": 9,
+  "passed": 26,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - Stock Titan",
+    "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus",
+    "Ucore ran more than 400 tests on 24-inch rare-earth contactors - Stock Titan",
+    "Australian Strategic Materials (ASX:ASM) Rises As Energy Fuels Takeover Nears Vote - Kalkine"
+  ]
+}
