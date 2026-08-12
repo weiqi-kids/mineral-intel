@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:04:26.210631Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-08-12-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Are Lynas Rare Earths (ASX:LYC), Arafura Rare Earths (ASX:ARU), Australian Strategic Materials (ASX:ASM) and Iluka Resources (ASX:ILU) Back in the Market Spotlight? - Kalkine Media",
+      "companies": [
+        "lynas",
+        "arafura",
+        "iluka",
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMTQ2aS1FcUs1YkVBNVFQZjdvSkF0STFzOXFsVVJ2SzNndDV1Tnh3aTFQSFlUa0l4LU9HWUR2RlpFSUpGcFU2cUYzR2xsckpONTNsX2gySHpPdHVWY0F5dWYwMHNxanZic0kzN3FZeHQ5QmF1bENiWVJBWFJ2ZV9KRlhHcF9NUW4zc1R5UldaWmZCTUZwNWl5R1Q4dTZtS1BINDlhczBNTWlBQkFqRlBKbm11TUZXSGxFQlhOcmlEUUdScjBXaml6eXZueVlsV2VWSHNDWW1FZV92bW9Ia0kxVkVSMkpBZDJlbnBJNm9kTEoyQkpCdjZCTkRXTEpBZzgyZE9XTzNnZW1BR0NXZDViN1NpdF9sR2lUbjlfZUhqMEVqUmgxSWZ1UzJadEtRcU41S1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Heavy Rare-Earth Push Could Put Australia at the Centre of Global Supply Chains - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWNhRlRKTTJFS1NfaDRwd2VFanNISWx6Q0ZpZ2RvQjBMdlpRSXI1MkJuYzJXMjNiakhhSXRFVHJ0bzd3STdicksxY0FTX0NrdnpBOW4tbEhJVHNhT0VSMjNadGU4Q3JyQUhuZVZvLWU0NmRBNHVJQk1CdVdwbkZ2Zk8tXzdqb1F6WlJXZERkckdCV2JXRC03RHFYMXpIYzdCTWFSMVZNemMtTVQ1aEV6VHZLenZQcGc4SEg2LUo4NVR4WnFIeGc2WDVKcGV0eUxjQUZ5TnktckdRUk9zZEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU) Has Made the Big Decision — Nolans Is Heading Into Construction - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2ZGNlAyejJ0UWRqQ2xnTE15cnpNZTVSZDFmZ0tBTV9tcjJjQ3VMQlRlaVVDRjNzVTBkU2RMRzVnNE5XcXhYWHhUbW9WMEFIOVQ5anl1TzdUdVNGd0JtcUtHd3BIa285ZkxnS1JlclMxaGU2N0wtczA0WHAtTUxBdmU5aEdaeFlVWWtPMklVUVFnaEpnd3AzTXQ5ZXZfWi1iV1NDeDZHUXFHLUc5cm9oSGcyLW9rc241Um5oVG5sbVM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "neo-2026-08-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Q2 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVM3LWY1VThmWFRYSDBfc0ZoM01hckF6ZW40YzdkaEx0RGczdkZtY2M3T01GTVNZLUdWUGhQNGJhTWktZmxkVWxzOFcwRFM2TGFqaEc2Um5VUTlQUDU5U3ZtUEVVdTFJTVppQ3V2X1FibFBsWnlwLXdQbWk0OTFkdWFpOWtEc2dEZUE1TGt5VmFZNEV2ZTgwSW9sWW1TWlJEV0l1Sw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "asm-2026-08-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian Strategic Materials (ASX:ASM) Takeover Vote Puts Critical Minerals Stock in Focus - Kalkine",
+      "companies": [
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODNKZmNwUUlZaWpiMnFFcl83Wk1qNlZqZWcxWmxDS196UndKZmt3bEFaTE5xc21yMG51ZlhVbHE0MXpzVklpZDM3S0VLWHhubFZPRmNEekJheVBWUHE2Nkc2MGJwM0lGSDdrVVFGZXYxWTV2aXBxVi1vdlVQYTJ2Z0VveWV6NU9zRzk2V2F4U1ViM3loM1V6Yk53a2xLbGg0UTNfTi0yTWh0Q1Z0ZlBTTmktT2dUdkQtRl9OY2lFMU5Zdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asm",
+        "count": 3
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "iluka",
+        "count": 1
+      },
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 127,
+    "too_old": 151,
+    "gate1_blocked": 26,
+    "gate2_blocked": 12,
+    "passed": 35,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+      "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - Stock Titan",
+      "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus",
+      "Neo Performance Materials (TSE:NEO) Trading Down 9.1% - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Australian Strategic Materials、萊納斯、Arafura Rare Earths相關動態：「Why Are Lynas Rare Earths (ASX:LYC), Arafura Rare Earths ...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Are Lynas Rare Earths (ASX:LYC), Arafura Rare Earths (ASX:ARU), Australia...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Heavy Rare-Earth Push Could Put Australia at the ...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

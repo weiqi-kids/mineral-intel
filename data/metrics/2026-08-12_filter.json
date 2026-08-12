@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 26,
+  "gate2_fail": 12,
+  "passed": 35,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Ucore Plans C$60M Offering for Louisiana Strategic Metals Complex - Stock Titan",
+    "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus",
+    "Neo Performance Materials (TSE:NEO) Trading Down 9.1% - Time to Sell? - MarketBeat"
+  ]
+}
