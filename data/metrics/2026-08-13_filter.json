@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 28,
+  "gate2_fail": 13,
+  "passed": 35,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Ucore Rare Metals Inc. Stock Surges 6.78% as Trading Activity Spikes and Market Attention Builds - k",
+    "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

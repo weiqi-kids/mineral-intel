@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-13",
+  "date_range": {
+    "start": "2026-08-07",
+    "end": "2026-08-13"
+  },
+  "generated_at": "2026-08-13T09:04:57.670880Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lynas-2026-08-12-002",
+      "date": "2026-08-12",
+      "title": "Why Are Lynas Rare Earths (ASX:LYC), Arafura Rare Earths (ASX:ARU), Australian Strategic Materials (ASX:ASM) and Iluka Resources (ASX:ILU) Back in the Market Spotlight? - Kalkine Media",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 50,
+      "last_week": 48,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": -0.03
+    },
+    "china_export_control": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.5
+    },
+    "critical_mineral_policy": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hastings": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ucore": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "asm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "neo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 176,
+        "last": 194,
+        "change_pct": -9.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-07",
+      "event_count": 44,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 7,
+      "sentiment_avg": 0.21
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 32,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 35,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-07 ~ 2026-08-13）共 176 則事件，重點為「Why Are Lynas Rare Earths (ASX:LYC), Arafura Ra...」。礦業產業通用、關鍵礦物政策、中國出口管制為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Australian Strategic Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
