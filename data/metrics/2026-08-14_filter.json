@@ -1,0 +1,16 @@
+{
+  "total_raw": 352,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 28,
+  "gate2_fail": 12,
+  "passed": 35,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+    "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Ucore Rare Metals Inc. Stock Surges 6.78% as Trading Activity Spikes and Market Attention Builds - k",
+    "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus"
+  ]
+}
