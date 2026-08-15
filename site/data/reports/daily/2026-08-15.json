@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:18:24.503088Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Opinion: Could renewed interest in strategically critical rare earth elements finally make sub-sector profitable? - Winnipeg Free Press",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN05BVjc0RnFVX0JfQUlqdm4yN0UxTEJBYWR0dUR6TGlad1JkZXdsank4aDJoaC04ZXFnWVVqQTdQeXZrSHRaVExlYUgtRGxiaVhzV1o5R2dqeUJfenhTRVZpeWphVDdlUk1aUmdXWS1BcW9rS0VUWXpBYlJiVUY4ZHRMbG41MkQwbFRDSEtuUlJZc1ZCakl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 161,
+    "too_old": 132,
+    "gate1_blocked": 25,
+    "gate2_blocked": 9,
+    "passed": 23,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+      "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+      "Ucore Rare Metals Inc. Stock Surges 6.78% as Trading Activity Spikes and Market Attention Builds - k",
+      "Ucore Rare Metals Inc (HAM:U9U) Valuation - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為礦業產業通用相關動態：「Opinion: Could renewed interest in strategically critical...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Opinion: Could renewed interest in strategically critical rare earth elements...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
