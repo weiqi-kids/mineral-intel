@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:19:48.727670Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 184,
+    "too_old": 129,
+    "gate1_blocked": 22,
+    "gate2_blocked": 7,
+    "passed": 8,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+      "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+      "Ucore Rare Metals Inc. Stock Surges 6.78% as Trading Activity Spikes and Market Attention Builds - k",
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+      "BRIEF-Neo Performance Materials Q2 Adjusted EPS USD 0.55 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-16 無關鍵礦物產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
