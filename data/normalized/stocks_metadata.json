@@ -7,20 +7,20 @@
   },
   "lynas": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6772,
+    "latest": "2026-08-17",
+    "count": 6773,
     "history_complete": true
   },
   "north_rare_earth": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6574,
+    "latest": "2026-08-17",
+    "count": 6575,
     "history_complete": true
   },
   "iluka": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6772,
+    "latest": "2026-08-17",
+    "count": 6773,
     "history_complete": true
   },
   "energy_fuels": {
@@ -31,32 +31,32 @@
   },
   "arafura": {
     "earliest": "2003-11-04",
-    "latest": "2026-08-14",
-    "count": 5771,
+    "latest": "2026-08-17",
+    "count": 5772,
     "history_complete": true
   },
   "hastings": {
     "earliest": "2008-02-20",
-    "latest": "2026-08-14",
-    "count": 4676,
+    "latest": "2026-08-17",
+    "count": 4677,
     "history_complete": true
   },
   "vital": {
     "earliest": "2005-10-10",
-    "latest": "2026-08-14",
-    "count": 5273,
+    "latest": "2026-08-17",
+    "count": 5274,
     "history_complete": true
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-08-14",
-    "count": 1544,
+    "latest": "2026-08-17",
+    "count": 1545,
     "history_complete": true
   },
   "rainbow": {
     "earliest": "2017-01-30",
-    "latest": "2026-08-14",
-    "count": 2411,
+    "latest": "2026-08-17",
+    "count": 2412,
     "history_complete": true
   },
   "ucore": {
@@ -67,8 +67,8 @@
   },
   "shenghe": {
     "earliest": "2003-05-29",
-    "latest": "2026-08-14",
-    "count": 5686,
+    "latest": "2026-08-17",
+    "count": 5687,
     "history_complete": true
   },
   "neo": {
@@ -79,8 +79,8 @@
   },
   "asm": {
     "earliest": "2020-07-30",
-    "latest": "2026-08-14",
-    "count": 1530,
+    "latest": "2026-08-17",
+    "count": 1531,
     "history_complete": true
   },
   "china_rare_earth": {

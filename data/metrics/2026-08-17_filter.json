@@ -1,0 +1,15 @@
+{
+  "total_raw": 349,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 21,
+  "gate2_fail": 4,
+  "passed": 15,
+  "gate2_samples": [
+    "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+    "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+    "Ucore Rare Metals Inc. Stock Surges 6.78% as Trading Activity Spikes and Market Attention Builds - k",
+    "Neo Performance Materials (TSE:NEO) Given New C$55.00 Price Target at Stifel Nicolaus - MarketBeat"
+  ]
+}
