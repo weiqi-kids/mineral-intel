@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:26:23.320340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura's Nolans Offtake Book Keeps Growing (ASX:ARU) - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWExzeVd2ZGJvRnZxNk0zdXV6Zm5Ob1Itd1ZQNW5OT0VFdzNJVkFRVGxlY2pWZlNmYkdPWjlWcUxPTEZ6c0xKYVktWFNoV0QxdnRBX1BwNEJLamhsRlNkakhqLVF6ejZJMURGWjV6M0IxalNsX3c1ZVdzQlRXVEhlR2pBaV9jT204T0VMeGc3dkMyMFRvN3BIdGZYbVRGQ2ZUaVNjeEtsVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rainbow-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Insiders Of Rainbow Rare Earths Make A Tidy Sum Selling At US$0.20 - simplywall.st",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZjlpbldGR09NZFdWbEF0eUNQT1RqNjZXQnNPaDlkOWR4Q3BZSXQzZHhad2ZzNVllN0sxRkdUNXZzTHo0THVYbk5ITDYxSnM5ZVVxWGozR2tlOU5La3pQczJsc0Y3ZENORHVvcGdwTkJOOU1CRHZrQ3VpVHFwSVQxdVNteE9aODItcUlVR2U4ejdZQjNqdTFuWWdtSUgtQU9WdXRVczVNZWhqVmpJTVhNaUpSTldWaTA1YXBJYld2bUxkaEVJVkl1TjRMWlZqbXlMRElFaHJWR1V6d9IB3wFBVV95cUxQOVRCbTBjY2lreEtnUlVyU2F2NUpheDVQeG9TZ2d6bjFoRjZKWG11XzNteThQdXlsbTQyd3VjTzJHNHBPdktBOXRucDNrTU9QRXV3cVBKR2ZsQ1VRS0U0VDJXUTlpUVhGM2Q3ZnZsLUpRelV0V0lHbWtlUDRWc1dTZzJDQldGVm1pSnRKLTZ3eEhYOU4xWkFfRzNjbTBEUU9NcFdRQ3EtamoxSlJyLTctbGw1MnZXUFBOZHVDVmRkRkI4ZEdMRFZhbnRWMDdhSUJHMWt3M0haY0owVE1jaDZz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rainbow-2026-08-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Explore Rainbow Rare Earths (LSE:RBW) After Insider Activity - Kalkine Media",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVE3Z1lYYUZKRjRnU3RzT3R1TDh6a2hIdFB3eUUxWk9GNWNjRFk5V1RnS19lUm5KY0Z5ekNYUm9HbzNKT2dTRUxTaV9OTVFGWXV2djRUX1BYc3Y0VFRrNzhGTnNxdnpPbjY1VVBacDV0ektpdXFSdlFZYXFyT19qR1BIaEJNaXdiVXJDX0lWSWphelhhbDFlTUJSYWRZa1hqa3FvMnBFVjYwWFFlWU9F?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US boron: from critical minerals policy to domestic production - Mining Technology",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2lRWXlBVUxWUk5vRlZ0WXdUQzRhZElCUUdCMnMxWk9USFh5c0lKU3N5THZXNG5wTmxnZGtQRjNKQTlPN1lqUzRfQ19tbjc2TzhyYTNyMXBfUEFmdUZSTGgzYmp3UmY5RmFqYmVPVWpKaEViY3NHMElBT2k2S011YU9IbXkwVmdla3RmVVNmTmlKdFptN203V1FUYXVGaTdhSU9jc0o0Vmx0Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 166,
+    "too_old": 137,
+    "gate1_blocked": 21,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "B. Riley Securities Acts as Co-Lead Underwriter for Ucore Rare Metals’ C$69MM Public Offering - ABF ",
+      "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+      "Neo Performance Materials: The Scarcity Premium Is Becoming An Operating Business - Seeking Alpha",
+      "Why Neo Performance Materials (TSX:NEO) Is Getting Attention Today - simplywall.st",
+      "Australian Strategic Materials (ASX:ASM) Moves Into Energy Fuels Ownership as Rare-Earths Strategy E"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Rainbow Rare Earths、Arafura Rare Earths相關動態：「Arafura's Nolans Offtake Book Keeps Growing (ASX:ARU) - K...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arafura's Nolans Offtake Book Keeps Growing (ASX:ARU) - Kalkine Media",
+        "level": "green"
+      },
+      {
+        "text": "Insiders Of Rainbow Rare Earths Make A Tidy Sum Selling At US$0.20 - simplywa...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

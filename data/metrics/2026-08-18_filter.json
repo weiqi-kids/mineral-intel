@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 21,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "B. Riley Securities Acts as Co-Lead Underwriter for Ucore Rare Metals’ C$69MM Public Offering - ABF ",
+    "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+    "Neo Performance Materials: The Scarcity Premium Is Becoming An Operating Business - Seeking Alpha",
+    "Why Neo Performance Materials (TSX:NEO) Is Getting Attention Today - simplywall.st",
+    "Australian Strategic Materials (ASX:ASM) Moves Into Energy Fuels Ownership as Rare-Earths Strategy E"
+  ]
+}
