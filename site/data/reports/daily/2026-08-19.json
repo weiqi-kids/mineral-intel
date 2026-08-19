@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:27:07.803337Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-19-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Neodymium trades higher over past year despite monthly decline - Mining.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW1mMGd3eUtmVHFiWEZsNWxOV0pIbEVyTjJheTdxaWstMzc4TWRpZkhERWVCV2RpS1pkY3RQemdxclhZMTR2SXFxTXJDVnljNC0xVk44RndQcUFpTkZXTWlKSTNNS1JsMERSZUxVRGVIWFVWSm9vdjQyZHRueC1vbVJxb1gwSmpGeTB6OGtR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Is Arafura Rare Earths (ASX:ARU) Navigating Its Sector? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaU9Wb1o4X1NHOVRJZC1ZdlNyX3Z5bmtOckJTNWgyUXppNUJOT2ZxbXNaMFZuYzNSYl83c01ONVJnbTFWN0JzMXlwYnJ0Mzd5aXV3TTJ2VHdXUmM2VTVJS3ZsNVVfMkxlTTdRRHdkVV8wWVlBRGppOWtJVWd2OEdRa3N6OTNCSkpJb2pSMXk5UzFGQjlLRTdLNDZvUlhGV0syemQwRU5WaXltQTR3ZDlF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hastings-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Does Hastings Technology Metals (ASX:HAS) Matter Today? - Kalkine Media",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYU9GR0wwSDBob0x3X2tyQzVVNndweFZvajlDNmdVWXlmczdrX0dtT0RyYTJWNkRtVEV6QnB2MllRcmxOdXVBMk8tWUhmbzNMNC16eEtoLWFZdm9NeGo0b0ZCWjBpREJYMXpxZENSdjRnQkR1b3h3MTM3b3JrRjNqM0VMWFdnblFsQndTdTh6Tmp6THA4bjZ5TVJMa2xsZVphM3hock44SWVkbHN2VUE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asm-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australian Strategic Materials Acquisition Schemes Now Effective - Finance News Network",
+      "companies": [
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVpTTWhqc18wVmtWS2tJakMzS09QUWQ0bkVuUFNYQzR2SndsSGFKSC1wTzA1Wm1RaWJqOE9STlBrNmNoMlM1WENhand0MnhPYzFBdkVZVkFiZXFSdWwzSGpudzZmc3BDbktNNVdkdTRtSk80a012dEtMbElFRTBNYQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indonesia’s rare earth ambitions face low concentrations and costly extraction - PERHAPI – Perhimpunan Ahli Pertambangan Indonesia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUcwY25IMU5HTHVFRGM0MjFFVUNDdFBHQ3dnaGJ2SGFUZVlfTXh0Z2N0aFpBTlJnTUlRRHQteG0zbG1STkpYekFVUS1qc051WjE0UWNwLUlUb0htajIxakh5cUZEdHhvd3ZmaXZsWFFVMVBEczdWUWdqNHdpMFhMYWlMcEJPbnBmYzJTQVJIWjFEdzkwNXB1TlUwN2hmMzZnWmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 158,
+    "too_old": 139,
+    "gate1_blocked": 14,
+    "gate2_blocked": 8,
+    "passed": 30,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Iluka Resources (ASX:ILU) Could Become One of Australia’s Strategic Rare-Earth Plays — Here’s Why In",
+      "B. Riley Securities Acts as Co-Lead Underwriter for Ucore Rare Metals’ C$69MM Public Offering - ABF ",
+      "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com",
+      "Neo Performance Materials: The Scarcity Premium Is Becoming An Operating Business - Seeking Alpha",
+      "Why Neo Performance Materials (TSX:NEO) Is Getting Attention Today - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Arafura Rare Earths、Hastings Technology Metals、Australian Strategic Materials相關動態：「Neodymium trades higher over past year despite monthly de...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Neodymium trades higher over past year despite monthly decline - Mining.com.au（稀土價格、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "How Is Arafura Rare Earths (ASX:ARU) Navigating Its Sector? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
