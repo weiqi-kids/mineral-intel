@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 15,
+  "gate2_fail": 11,
+  "passed": 27,
+  "gate2_samples": [
+    "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+    "Arafura (ASX:ARU): Why does All Ordinaries context matter? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+    "B. Riley Securities Acts as Co-Lead Underwriter for Ucore Rare Metals’ C$69MM Public Offering - ABF ",
+    "Ucore Rare Metals Raises C$69 Million in Share Offering - marketscreener.com"
+  ]
+}
