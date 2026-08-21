@@ -1,0 +1,16 @@
+{
+  "total_raw": 353,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 29,
+  "gate2_fail": 11,
+  "passed": 29,
+  "gate2_samples": [
+    "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+    "Ucore Demonstrates the Flexibility of RapidSX by Producing 99.5% NdPr from Multiple Sources - Invest",
+    "Ucore Rare Metals Stock Slides 5.24% as Financing Overhang and Execution Risk Weigh on Investor Sent"
+  ]
+}
