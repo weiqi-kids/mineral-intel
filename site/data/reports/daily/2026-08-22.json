@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:19:31.131562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU slips further behind US in race for critical minerals - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeENyVVNXOU9ZdUl0MFJQWGlVcjlEc041b0t1RU44alpxTHVYQ3ZwcE5fZHVEMFNHUHVqaTdLZFdSYjdWODRJd011MFh0OUlOMWd2MGg3TjI0X1hsUm91TWt4T3JvRlQwZjVPanh4bkhnaGpqcllqTzZCWGRpUU9yQ05kdHY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "In US, rare earths extracted from coal mine wastewater - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0dPYWd0a0Y4NUpabzdiZ2lwOV95clV5Nkw1S3BaMUNBWFNQZGRpUkRGb3hwZFJzcVdjSERHdGFzYkxfME43VmV0anF4NlZjeDM1NHVSOWI2MnBPaU5rR2lCREt6N1l6TWRKWFN1OXBXMUdOdjAtakdtX1JOeVFoOHYxdWR6RFZjLTFjN0tlRzJBMmJvMHVqdVVjblV5MjV6Mk4td01zdzBMVWNDcThmZ25KMURMdGlMZ0owNHBzTmw4ZTBWSTNQeENhVEE5dkVFTlBrQV9kQdIB3AFBVV95cUxOZnpEaTg1aTZ1Z0ZmMS1LaTlncE8zYURLNWpJZVBQdG9PaExtOE1rV2M1X3JKSnB4UnhLMExSaktFYnRMMHdxX0E5MGNYc2U3ZjZ4RHlLR1J6enpGQUktcWpGcW1tc25SQ2JCODNadUQwZFFDY01yRTV4TFBtblBRTGJ0eFk5V21ZajFWN2lqcGpqMjE5em5weFBsVFdhQldWcW9uUHoyZUF6TzdhZENjTjNmT1kxM0pwUWpmZThNcDZMRkxIUDZyUDl5R05nZmFFR1ZYc2lUd0NXNHh1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 355,
+    "dup_title": 157,
+    "too_old": 136,
+    "gate1_blocked": 29,
+    "gate2_blocked": 11,
+    "passed": 22,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+      "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+      "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+      "B. Riley Securities Maintains UCORE RARE METALS INC(UURAF.US) With Buy Rating, Cuts Target Price to ",
+      "Ucore makes 99.5% rare-earth material from clay and bastnaesite - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為礦業產業通用、關鍵礦物政策相關動態：「EU slips further behind US in race for critical minerals ...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "EU slips further behind US in race for critical minerals - Financial Times（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "In US, rare earths extracted from coal mine wastewater - The Economic Times（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,8 +1,8 @@
 {
   "mp_materials": {
     "earliest": "2020-06-22",
-    "latest": "2026-08-20",
-    "count": 1549,
+    "latest": "2026-08-21",
+    "count": 1550,
     "history_complete": true
   },
   "lynas": {
@@ -25,8 +25,8 @@
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
-    "latest": "2026-08-20",
-    "count": 4888,
+    "latest": "2026-08-21",
+    "count": 4889,
     "history_complete": true
   },
   "arafura": {
@@ -61,8 +61,8 @@
   },
   "ucore": {
     "earliest": "2007-10-25",
-    "latest": "2026-08-20",
-    "count": 4723,
+    "latest": "2026-08-21",
+    "count": 4724,
     "history_complete": true
   },
   "shenghe": {
@@ -73,26 +73,26 @@
   },
   "neo": {
     "earliest": "2017-12-08",
-    "latest": "2026-08-20",
-    "count": 2182,
+    "latest": "2026-08-21",
+    "count": 2183,
     "history_complete": true
   },
   "asm": {
     "earliest": "2020-07-30",
-    "latest": "2026-08-20",
-    "count": 1534,
+    "latest": "2026-08-21",
+    "count": 1535,
     "history_complete": true
   },
   "china_rare_earth": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-20",
-    "count": 6637,
+    "latest": "2026-08-21",
+    "count": 6638,
     "history_complete": true
   },
   "etf_remx": {
     "earliest": "2010-10-28",
-    "latest": "2026-08-20",
-    "count": 3976,
+    "latest": "2026-08-21",
+    "count": 3977,
     "history_complete": true
   }
 }

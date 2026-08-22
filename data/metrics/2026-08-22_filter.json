@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 29,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+    "B. Riley Securities Maintains UCORE RARE METALS INC(UURAF.US) With Buy Rating, Cuts Target Price to ",
+    "Ucore makes 99.5% rare-earth material from clay and bastnaesite - Stock Titan"
+  ]
+}
