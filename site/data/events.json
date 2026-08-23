@@ -37,6 +37,24 @@
     ]
   },
   {
+    "id": "unknown-2026-08-22-003",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Who bears environmental cost of push for rare earths beyond China? - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXltUnhNbmo2SGdjVDlKRDhsNUxUYVZrT1FVcWR2aGN3dXdtTEtLbWp4R0NlMHh1YTVQSVFDdVlsMTdaVDBKdkhqbVQzUThhSXBvbHZ0T1R0Q1B4aTMyYlo2WVBQUUVnMmpOVUhCbm",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXltUnhNbmo2SGdjVDlKRDhsNUxUYVZrT1FVcWR2aGN3dXdtTEtLbWp4R0NlMHh1YTVQSVFDdVlsMTdaVDBKdkhqbVQzUThhSXBvbHZ0T1R0Q1B4aTMyYlo2WVBQUUVnMmpOVUhCbmhaWVBQTjQwdGpKdkRCMGJIaFpic2FZTTk2YmpMeXh2QTBwYk54ejlLcjlYcEFkN25McVlNV0dFODRzMkdEVjJSOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -498,6 +516,24 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGNpV1F4NHVhN3dRekRUd1UxVkhEQS1UZkZqMF9xQUJVcmJnbHdkeTZCSnk1a1FCYlZ2RThGUXVvNlZIR25xSjFockpkaEJCdHh1TE8wRmE4TUxweVBwRzRBXzdDWnNnX1JDejgzRHlHRG9FTF9PdWk3VzlhaXdLNzl5VnVIdlhXa0tDN2hlVGFzU0t3QXNPRlNXYmFEdk1a?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-026",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch Key Greenland Mining Project Is On Track, Says Critical Metals CEO - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZxVDZURlhma2RFMXlCTjFGWTdTdExHalhwNHpkNjBxR2tKeldBQ09pQkw1d2ZDS1NZRGE3ZjlPMWxRMk1QV0tNVnlGbGhRX19WQzFGMFhrN1FKSTAwcmZCMFU1dHNpRHljTllSb2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZxVDZURlhma2RFMXlCTjFGWTdTdExHalhwNHpkNjBxR2tKeldBQ09pQkw1d2ZDS1NZRGE3ZjlPMWxRMk1QV0tNVnlGbGhRX19WQzFGMFhrN1FKSTAwcmZCMFU1dHNpRHljTllSb2hxcEdwTGU1cnNqYXpBRXVSbEZPWkdmb3BKRlZkNVVBS1ZKV0xz?oc=5",
         "type": "rss"
       }
     ]
@@ -2425,6 +2461,26 @@
       {
         "name": "lynas",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZURuRzE3Vy0yOEFMelh5UnZJOTR5Um5VUEhSa3ROUkZkNW1aemhYSUFocTRmMnE4VUpnMW1qZGVuenE3Q2hDTGFCdUM5SVkxNEowOUFoQ0NMaFMzMjdRcGMxUmJkVm9UczFXZzdFTUwzQ0EtRDhndm5mWHNjM2V0SnFvQXI1dDhDRExTdXRyUXRCN2xmVm1iZ1pWckF0Y3Q1b0NPbzFlZWFJUmxEOWRTempzOHAzUUViWDFzT2N4c2RBemhxZUs2UWtkY0k2VmVKSXhCUFpaV1U4TWMyXy1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-08-17-026",
+    "date": "2026-08-17",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Malaysia: CSOs raise concerns over risk of Lynas’ rare earth supply to US Department of Defense contributing to human rights violations in Palestine; incl. cos. response & non-response - Business and Human Rights Centre",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTkZ4T2Y5Nk9ydHBZQ3lBb3dtVG1VSHMyeDFvVVV5bkZTSlFIVXVSalcyZkxGMnpIUENIWVBlSWZ5RzVtb2hMYi01SW0tN250M191R3R1aEtrNDNfdU9BUS1JU25IdHlVQXd6anExUk",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTkZ4T2Y5Nk9ydHBZQ3lBb3dtVG1VSHMyeDFvVVV5bkZTSlFIVXVSalcyZkxGMnpIUENIWVBlSWZ5RzVtb2hMYi01SW0tN250M191R3R1aEtrNDNfdU9BUS1JU25IdHlVQXd6anExUkJITGZHTnVOUkVZWVNLVk5FbnZ6ZU10aGFiZVJKXzRRVm0wbFBRSkRnRGhhakpzVS1vTl80cnBDZldtNHhrMkdXNnJERWVBZG11UktWODk4Mkx3MkozQTlhTDd2cnI0SkFtSm05YnpKd1h5T2NmaUQ3UVVMYTBOUUdBdXBFQTVEVE9JX2w5ZHpwSFRIeGxYRDFZTG9Fb0VpbU0wVUppZTNvNG9kUjA3amJkRFNJWXkxVm14MEszVmRtS3BOazdCb2lLZ3Q4RWxuSXVEZ2VDajQxQ2RnSmUyakljWkF2Mzl1WU44TVBldHRtY25MMnlBa3ZNNUI4QzlMOTB6SGM?oc=5",
         "type": "rss"
       }
     ]

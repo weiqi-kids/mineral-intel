@@ -1,0 +1,16 @@
+{
+  "total_raw": 354,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 27,
+  "gate2_fail": 12,
+  "passed": 3,
+  "gate2_samples": [
+    "Is Iluka Resources (ASX:ILU) Cheap On Its Half Year Loss And Sales Drop? - simplywall.st",
+    "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+    "B. Riley Securities Maintains UCORE RARE METALS INC(UURAF.US) With Buy Rating, Cuts Target Price to "
+  ]
+}
