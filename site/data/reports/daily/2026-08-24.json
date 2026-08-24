@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:38:59.780007Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Advances Mt Weld, Malaysia and Metal-Making Partnerships - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamtkX0MtUjZQbjFiNFJkX0pvUUFnV3RId3lOWExEWWtwMjdGX3ZoSWlwRy1RY0U0aWVENXV1eTNPNlUtS2thOUhxcktQU3pQRTM0RUlpN09EUThTNTNSajZSeUpLWGVXbWZKWWVhazdTMERkbjFEcFNMbmYwN0tvQTZ3MDJZSXlqd25kd2JCMThOMUczVzIwZmtKdmJudGpTcmpfV0w3QThPdktLTUxvcTdCdG94QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pakistan’s Mineral Corridor: From Buried Wealth To Industrial Power? – Analysis - Eurasia Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDFvR3dxaVdra3FKUjI3SGQxLVJiUTcxTEU2Q3UzT3ZFa1diblVtRWlIa01jMW1nLURyaGtNU0JsVDdBRTV2bmI5Tl9NOHVkOHBzdmY1TWx2aUNlTTB5WnlQSU9VUFRWYWs2MzRRSzE5cFVhWDZLVXl0elRIY0FZREc2ZDlTR1UwNzVpTEpIcDJRMzVNSGhDcTZ6eWRVX010Y1lLdE9jcHB5NjJzTW1QNU9ldzk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 174,
+    "too_old": 136,
+    "gate1_blocked": 25,
+    "gate2_blocked": 11,
+    "passed": 10,
+    "pass_rate": "5.5%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Is Iluka Resources (ASX:ILU) Cheap On Its Half Year Loss And Sales Drop? - simplywall.st",
+      "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+      "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+      "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+      "B. Riley Securities Maintains UCORE RARE METALS INC(UURAF.US) With Buy Rating, Cuts Target Price to "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為萊納斯相關動態：「Lynas Rare Earths (ASX:LYC) Advances Mt Weld, Malaysia an...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Advances Mt Weld, Malaysia and Metal-Making Partn...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Pakistan’s Mineral Corridor: From Buried Wealth To Industrial Power? – Analys...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
