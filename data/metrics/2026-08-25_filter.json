@@ -1,0 +1,16 @@
+{
+  "total_raw": 354,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 22,
+  "gate2_fail": 14,
+  "passed": 33,
+  "gate2_samples": [
+    "Is Iluka Resources (ASX:ILU) Cheap On Its Half Year Loss And Sales Drop? - simplywall.st",
+    "Iluka Balranald and Eneabba: funding, schedule and processing lens for mine planners - Geomechanics.",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Rises 6.99% as RapidSX Progress and U.S. Rare-Earth Strategy Fuel "
+  ]
+}
