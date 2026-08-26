@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-26",
+  "total_events": 16,
+  "by_company": {
+    "lynas": {
+      "count": 16,
+      "sentiment_avg": 0.27
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.3
+    },
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 353,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 37,
+  "gate2_samples": [
+    "Lynas’ Record Rare-Earth Prices Still Came Up Short - Finimize",
+    "Is Iluka Resources (ASX:ILU) Cheap On Its Half Year Loss And Sales Drop? - simplywall.st",
+    "Why Is Arafura (ASX:ARU) Moving Nolans Into Construction? - Kalkine Media",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Vital (ASX:VML): Why Is This All Ordinaries Penny Stock Back in Focus? - Kalkine Media"
+  ]
+}

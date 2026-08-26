@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-26",
+  "date_range": {
+    "start": "2026-08-20",
+    "end": "2026-08-26"
+  },
+  "generated_at": "2026-08-26T08:34:08.882938Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "neo-2026-08-20-010",
+      "date": "2026-08-20",
+      "title": "Neo Performance Materials Stock Faces Fresh Pressure After 2.82% Decline: Are Rare Earth Headwinds Building? - kalkine.ca",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 36,
+      "last_week": 30,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.12
+    },
+    "rare_earth_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "critical_mineral_policy": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 20,
+      "sentiment_avg": 0.22,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "vital": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "energy_fuels": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 159,
+        "change_pct": -15.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-20",
+      "event_count": 29,
+      "sentiment_avg": -0.13
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 27,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 4,
+      "sentiment_avg": -0.12
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 25,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 28,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 16,
+      "sentiment_avg": 0.27
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-20 ~ 2026-08-26）共 135 則事件，重點為「Neo Performance Materials Stock Faces Fresh Pre...」。萊納斯表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Neo Performance Materials",
+        "reason": "受稀土價格議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
