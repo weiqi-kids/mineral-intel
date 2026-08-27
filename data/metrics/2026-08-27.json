@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-27",
+  "total_events": 24,
+  "by_company": {
+    "lynas": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "arafura": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.05
+    },
+    "magnet_supply": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
