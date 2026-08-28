@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 17,
+  "gate2_fail": 6,
+  "passed": 28,
+  "gate2_samples": [
+    "All Ordinaries: Is Hastings Tech Metals (ASX:HAS) in Focus? - Kalkine Media",
+    "Could Vital Metals (ASX:VML) Be a Penny Stock to Watch? - Kalkine Media",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Rises 6.99% as RapidSX Progress and U.S. Rare-Earth Strategy Fuel ",
+    "Certain Common Shares of Neo Performance Materials Inc. are subject to a Lock-Up Agreement Ending on",
+    "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance"
+  ]
+}

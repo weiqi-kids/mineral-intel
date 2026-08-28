@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T18:41:21.851012Z",
+  "updated_at": "2026-08-28T19:49:20.490042Z",
   "quarter": "2024-12-31, 2025-06-30, 2025-12-31",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "萊納斯",
       "ticker": "LYC.AX",
       "currency": "AUD",
-      "ar": 44731000,
-      "ar_prev": 42624000,
-      "ar_qoq": "+5%",
+      "ar": 134513000,
+      "ar_prev": 44731000,
+      "ar_qoq": "+201%",
       "ar_period": "YoY",
-      "inventory": 176121000,
-      "inv_prev": 120576000,
-      "inv_qoq": "+46%",
+      "inventory": 227593000,
+      "inv_prev": 176121000,
+      "inv_qoq": "+29%",
       "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "mp_materials",
