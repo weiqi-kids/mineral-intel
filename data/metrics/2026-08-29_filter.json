@@ -1,0 +1,13 @@
+{
+  "total_raw": 354,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 18,
+  "gate2_fail": 2,
+  "passed": 14,
+  "gate2_samples": [
+    "All Ordinaries: Is Hastings Tech Metals (ASX:HAS) in Focus? - Kalkine Media",
+    "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance"
+  ]
+}

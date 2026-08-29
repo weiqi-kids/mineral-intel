@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:31:00.803198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inside Lynas Rare Earths and the race to build supply chains beyond China - CNBC",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUJ5dFJ2Wl9qNkNrT21nbzRtdVhTN05vakNpUGg3TTZSd0FSVnBKWTNDY05XS05hOHB6Yng0LTlIWUg1cUt1eFJPbk1DRGhNTWVUdGJRUE9QU0hCN1FUWkVmTktyanJwQW5ZR0JqUC1ETXFManEtNkpPQndYb251elBOZ29fUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Stock And 2 High Quality Undervalued Picks - Yahoo Finance",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHNaRGotS05QLWNFNklHaGJWQ2ZZQThSc0w5UnliZXdZVDRGN3JqNjRUbHYyWi1tMGRSWTZlYTMxRHFWMnBnSm5xMExnMkNxQ0hYbEZubUZSUFRVeDEtUHVzakFPTHNxOGx4RlZ3RTFIb21xVkJkb25NY2k4WlZFSjJlNkJkd3o2TjBKaXk1ekl4NmFl?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 178,
+    "too_old": 142,
+    "gate1_blocked": 18,
+    "gate2_blocked": 2,
+    "passed": 14,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "All Ordinaries: Is Hastings Tech Metals (ASX:HAS) in Focus? - Kalkine Media",
+      "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為萊納斯相關動態：「Inside Lynas Rare Earths and the race to build supply cha...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Inside Lynas Rare Earths and the race to build supply chains beyond China - CNBC（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths Stock And 2 High Quality Undervalued Picks - Yahoo Finance（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
