@@ -1,0 +1,12 @@
+{
+  "total_raw": 351,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 17,
+  "gate2_fail": 1,
+  "passed": 9,
+  "gate2_samples": [
+    "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance"
+  ]
+}

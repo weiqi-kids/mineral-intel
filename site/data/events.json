@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-30-001",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kachin Rebel Heavy Rare Earths India Access Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5PUWNWZGlyQVlibW1VNmhlWkxfUHlpb0JoMTEyU0NTUDFQQUItT3dUdlNCY1JYQUUzTXlUdWVIT0p1TlVicTQ3MWdlNnFwaGpQa3UwSkdzUWJmbnpDNlJ5ZzZObGw0QndialU5bmk3SX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PUWNWZGlyQVlibW1VNmhlWkxfUHlpb0JoMTEyU0NTUDFQQUItT3dUdlNCY1JYQUUzTXlUdWVIT0p1TlVicTQ3MWdlNnFwaGpQa3UwSkdzUWJmbnpDNlJ5ZzZObGw0QndialU5bmk3SXhERVZsMmhGeE5GVUE2bk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-08-29-001",
     "date": "2026-08-29",
     "companies": [
@@ -35,6 +53,65 @@
       {
         "name": "lynas",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHNaRGotS05QLWNFNklHaGJWQ2ZZQThSc0w5UnliZXdZVDRGN3JqNjRUbHYyWi1tMGRSWTZlYTMxRHFWMnBnSm5xMExnMkNxQ0hYbEZubUZSUFRVeDEtUHVzakFPTHNxOGx4RlZ3RTFIb21xVkJkb25NY2k4WlZFSjJlNkJkd3o2TjBKaXk1ekl4NmFl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-08-29-003",
+    "date": "2026-08-29",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths: Stronger Operations, But Costs Are Catching Up (LYSDY) (LYSCF) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkNPWlg5MWF4VXBzYUdWQWtUdzVrN3M0dWVBZHlBa1FIcmlhYzNVdUVsWVlKaDE4Szd5QmY4Z084b2NIMUFVXy1hc1pmMXl5SlZRZ0pnb0J0a2dlMkxnUlpNZEh1LU1DeTBlT2FYM2",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkNPWlg5MWF4VXBzYUdWQWtUdzVrN3M0dWVBZHlBa1FIcmlhYzNVdUVsWVlKaDE4Szd5QmY4Z084b2NIMUFVXy1hc1pmMXl5SlZRZ0pnb0J0a2dlMkxnUlpNZEh1LU1DeTBlT2FYM2ZHUHZOcjFxREs5NnlZNTAtTl83aTBwUjE1ZWxGc3I4SjNwZmE1VFR0Ri1uZmQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-08-29-004",
+    "date": "2026-08-29",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Surging Full-Year Earnings Could Be A Game Changer For Lynas Rare Earths (ASX:LYC) - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eW1hU19MRUFGVUY3YndnUXJwaGFsVUF6NEVPdXhDSWV1VFNkaXZkM2Y0LVFsQ3ZZUDFoalg3SURfVjBZOVlDVVNFNk5WMVU1RGI5NERpNGM?oc=5\" target=\"_blank\">Surging ",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eW1hU19MRUFGVUY3YndnUXJwaGFsVUF6NEVPdXhDSWV1VFNkaXZkM2Y0LVFsQ3ZZUDFoalg3SURfVjBZOVlDVVNFNk5WMVU1RGI5NERpNGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-005",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s Argentina Mining Push Goes Beyond Lithium To Critical Minerals, Rare Earths - ETV Bharat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMTZtYllHeFpFUkNEbTdUYjlGTWlrRGpxRE9ianlHWVlMUjBIdHp0VkZ2WmlqVERHMDlZb0E2dmFzOTFBRVQ3OE1sV2RRanJmOW10cGQ1U1AzQmpjTUVPc0ZtX0pxemlpNkVyRkdFZm",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMTZtYllHeFpFUkNEbTdUYjlGTWlrRGpxRE9ianlHWVlMUjBIdHp0VkZ2WmlqVERHMDlZb0E2dmFzOTFBRVQ3OE1sV2RRanJmOW10cGQ1U1AzQmpjTUVPc0ZtX0pxemlpNkVyRkdFZmZtdVlkcmU4WkVvU2E1ZHlmODBuYnFKbmpjVG1NU1F6dWJleEZaMEJ4RTdCd1haVjd4ZnZHZnhxSEswc0hpWWtnOWFabEYzakRqWnVjOXlLM05DR2wtTmd6U2Y2NFc2b29fUWdqVnItY3czY3Fw0gHiAUFVX3lxTE85Y0lIWkNFcThHdE9MQmlwTHQxQTNzNU5BbVQ5elYtUkNfdVd0TnpHajI4Rmd1Rk1KNU5kOTdZOXUyWGl5QkRtT2dEdGh6aEZaODFKcmM3bDI5NUlxOXRaTDFlOHhwUEdyam1kdjVMRjJ4dXEtR3Qyb0hJZ2NNOWJLaWktTldSRmNlQTU5YzljLWlVWXJIeVA1RERQSDR0VXBNVGlHYXp1N3cxclVqX3JmcXp2SjN2QTc4NW9FSW44QzBwakMtcEEzQ0pUTE54dEphazA4QnhUekJXaTRxbnhkcGc?oc=5",
         "type": "rss"
       }
     ]
@@ -559,6 +636,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajNRTWxfczF0LXhWcE9QYnZCUWJnaUJ1Sm4zUy05cXVxbEJBWFV4QVFQRWMyUDJuWFVpbERVYmJiQlRvNnpQc1NGUFZ3c3VObzQzNDBCNElmNHdjaGc3V0R1dlgwMzJybF8zbktNWWlkS0ZaT3FVRXczaGZIVUxSOXdaNkZJWWNWU0c2a1daeXFCR0tXNE9uRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-08-28-029",
+    "date": "2026-08-28",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Shenghe Resources (600392.SH) announced its semi-annual results, reporting net profit attributable to shareholders of RMB 887 million, a year-on-year increase of 135.24%. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFETE1pU0ctWmdQQUxyalRCRDEyVDZDM2Z4YWdwZHJsQ2VwWjhRc3dqTUVuV1M2YUJtcVJ1bVpSVmdETUVvNldGN1U5TE9UYlhDRmR1ZDZ5eHhLejc3TlBGTmdTcG1YelZKMHJKYX",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFFETE1pU0ctWmdQQUxyalRCRDEyVDZDM2Z4YWdwZHJsQ2VwWjhRc3dqTUVuV1M2YUJtcVJ1bVpSVmdETUVvNldGN1U5TE9UYlhDRmR1ZDZ5eHhLejc3TlBGTmdTcG1YelZKMHJKYXQtUnRkQTZGNzltdWl3RVVPQzJNaVZac3AtbFA2VG0zdWNyRVcybG51VXhhQUhjRlNQT0FxZ2loMzZQbnRHUTMxVUxCVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1173,6 +1268,85 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaHkxSERPVnJoNWRpOWM0Nm1zQzVzVGZYYVBucVAxSU53dWtpaHdnZVU2NGtZaDJOVlNTMi0weDdrMFdxbkFGRzlkNGtmSTZsOUZ4YUdUYi1zQmdQeWZKZFlUcGczcE1kOFFKWkp3VGVUYnJ6dFBkWkFNeEhibUdURXJrdHh3Q0JTTVl4VkFvMFh1aXlJY3RxMk1WRFI2bmt5Z2pyc0dEaFZna0lPLWJodEFFaHowVnE2VVM0UXp2aHM1eWFoTE9EdTlBSm9DTXQ0WVQxNmVrS2cxZGhFWlNnNG9WVVEySUVmWlV5ZzI3MGVIdHFVeWllUC14NWdDSW5ZbGJ4U1ItUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-08-27-034",
+    "date": "2026-08-27",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arafura Rare Earths: The Final Countdown to Nolans Construction Begins - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb3Jrcm9ubV9zeklKaUM0WVktYkdLamU2TTdCMWZoMlZRcmR0clFPcm1uZDFzMFJScjBDS1BEMUlhX053M2RLWmFCTzc0R3FyV2dFVklZaURORS1QQkxjQV8wazlLeWloUmxIaXNfej",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb3Jrcm9ubV9zeklKaUM0WVktYkdLamU2TTdCMWZoMlZRcmR0clFPcm1uZDFzMFJScjBDS1BEMUlhX053M2RLWmFCTzc0R3FyV2dFVklZaURORS1QQkxjQV8wazlLeWloUmxIaXNfejRWeERfUzZSdUNpRmloVklRV3dFRm4wakpSRXJJb1cxTXBYV0djRm9jNGQxLW13d2E2N1VIdVlvRTdxd3VhMHZWYnV5c0N5RVBrWW5hY2pJQWw5NGVsUFIyWHdqOFc4V08tbDdibUlaSXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-08-27-035",
+    "date": "2026-08-27",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arafura Rare Earths: Nolans Clears Its Last Regulatory Hurdle as Funding Talks Enter the Home Stretc - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmFnYjNZS3hhNm1Ib3VEWXh3TGxZSjlIMWl4cDFKZXhnSDI1b2huUDU5WTVaTmRYclU3YWg5TE83bnFVYXp3WnhrMDlON0xZQmtvYUNYWGx2RG5HOXBEMGVXeGJaTmQ5ZWhtQ1NHQk",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmFnYjNZS3hhNm1Ib3VEWXh3TGxZSjlIMWl4cDFKZXhnSDI1b2huUDU5WTVaTmRYclU3YWg5TE83bnFVYXp3WnhrMDlON0xZQmtvYUNYWGx2RG5HOXBEMGVXeGJaTmQ5ZWhtQ1NHQkRGRHQ2bGNERU9CRkpWYk1xeHVnRnZEdTRCeV96VFhOVlZqdUtURHgtdC1qR25CcURKVWJFZnc1LVVOaDhUbkJpVEJwUFFHQnM3WHpGM1FheFlnLVVLV3dsOExwMjVKQllHR05KWGU3ZGU0a0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-08-27-036",
+    "date": "2026-08-27",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arafura Rare Earths: A Supply Deal With India Arrives Just as the Market Turns Its Back - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLW9QX3dNSXZZWWJVU1hweVFBY3ZJU0taVFBFUjQ3Q0pMMVFIUzNFZ0pEaUY0MmZzcW5Dd3ZlWDFxcmJiRjFxaDNuRUw2QnJHdFhoaHA2bUJDTmdLY056QmxUWGJnQXhQVHlJNm92a0",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLW9QX3dNSXZZWWJVU1hweVFBY3ZJU0taVFBFUjQ3Q0pMMVFIUzNFZ0pEaUY0MmZzcW5Dd3ZlWDFxcmJiRjFxaDNuRUw2QnJHdFhoaHA2bUJDTmdLY056QmxUWGJnQXhQVHlJNm92a0FXalZKS2RBRnVndzlRbDZPd1dSN2lIOHJpLVoyZXJHNUc1a0FhU3M1c1UxNm42dEVTNmpjek5aaUZuUEpfeGE2eENweldJb2NqX1F4cVdSbGpzQlNFeXk3SEhQTTNnd3VQRmprQTZkOGgzQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asm-2026-08-27-037",
+    "date": "2026-08-27",
+    "companies": [
+      "asm",
+      "energy_fuels"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Fuels Inc. completed the acquisition of Australian Strategic Materials Ltd from Ian Gandel and others. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0wtQWhUYlVUZ0Y0ZURxV0NRVzRvUTQweTU0U0dOTjAtX3g2VkVYaHp4UjNDS1EzMmxPYWtOVGtwNkRsNHNGcjVEZ3JCTTl0RkZncG1PNUY2UDhFRzN2R1dPMUdjamRoeTNjVVNJcE",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0wtQWhUYlVUZ0Y0ZURxV0NRVzRvUTQweTU0U0dOTjAtX3g2VkVYaHp4UjNDS1EzMmxPYWtOVGtwNkRsNHNGcjVEZ3JCTTl0RkZncG1PNUY2UDhFRzN2R1dPMUdjamRoeTNjVVNJcExhVDBWMjlCVlhZTFBtRHU3d21HSTZFRWFHZlhfLTN5NWZRVW5majQzaUd1b2VlT2w0alZTQWk3XzhualEzbW9yRk1IMmh6X3ZKWEVRdlo4UzVObk9zbDhZY1ZrdmpheXpSekdfU1hWZFU0LXNCOTIxVFpUekNTeHc?oc=5",
         "type": "rss"
       }
     ]
