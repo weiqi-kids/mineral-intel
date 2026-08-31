@@ -1,0 +1,15 @@
+{
+  "total_raw": 349,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 18,
+  "gate2_fail": 4,
+  "passed": 28,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc (HAM:U9UA) Stock News, Headlines & Updates - GuruFocus",
+    "Certain Common Shares of Neo Performance Materials Inc. are subject to a Lock-Up Agreement Ending on",
+    "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance",
+    "ASX Says Australian Strategic Materials Will Be Removed From Official List - TradingView"
+  ]
+}

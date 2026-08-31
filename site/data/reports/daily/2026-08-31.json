@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:43:40.566620Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_fuels-2026-08-31-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's Next? - Yahoo Finance Australia",
+      "companies": [
+        "energy_fuels",
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE8wZGxCZXhuVzRtdmpLcWVFaTlkYUhDbGV4NlJkSDZlLVZqd0dLVzMtNG9vUzJKVnphU1Rtd3YyQzUySVBpOEhIOGZpYnZlVmk3UUNhY05MdWQ0Z3dHQzJMbXJ6R0JxbENFRm5fMGxtVjE5WWw1djlpNVVfMTRqN2E1LUVkZnlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_fuels-2026-08-31-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Australian Strategic Materials Removed from ASX Official List Following Energy Fuels Acquisition - Kalkine",
+      "companies": [
+        "energy_fuels",
+        "asm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3hPNnFrR0xSUG1MTHlVUzhWUjAwMTgtYTVaV28xUXRSR05KdEowX214TFN2YWp5bXAycFYyODhJU1hsOEpsV0p2ejVBNUJ5dlNQa3g1cWhBVW1TUEphODZPSTgxaDBNVnFUT3hOMWRKMDFDalJFUXVpQ3BBYzhTQ05BUzR5djZ6N3l6TTF3Y3ZZRTQ5WG9CNUpuMzZCWEsybUU3RW5hZ1lFb3lDRFpXZzVUejlIUmViLWFteWdWVllMZUNIMFNBaDlienREak9hYlJweQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-08-31-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas Rare Earths (ASX:LYC) Posts Record $977.9 Million Revenue as Strategic Position Strengthens - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTh3UHdPdVJndnR6YnhxSnJKcnlsUFhZTTRRSHQ0ZDNNLTRwTGswVnp5emJtYVpRVkZQWDdIZW5NVDFvcEx3T19ab2M1Njc1NDM1QnJETk1KU1B0aE1jZTkwczctSzE0Sm5sVWJVdUUzMGFMRjVvWGt2a05MZXg3QzZiZTRCaWQ0cGsyYzBoRFBObFlwWWF3M3E2ejdIajlwLVZoZlNwRVFMSGMtdDhKNjRuSHI0Ql9iSTBGM0htN3lnZmpYY0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-31-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Copper price eases nears record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.northernminer.com/news/copper-price-nears-record/1003894412/"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-08-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Lynas (ASX:LYC) Shaping Rare Earth Minerals? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3M5TlpOV1lOcEdQbzF1YzJzUGVRaEZ1WDZFeE5PZXM1a2JUdEdQM01DOFRCV1FlcUxGTDhINjdGbG0yb25lcTUxR044bVNnYVk1MUYtOWJPQlR1UkYtWmdrR21GSklOMFdPelF2clVQT0ZDMmFKeHVuck52ZTdfN2tQM0VsNVd3VlBmY1pJYlZ6aG5SRkl2RnJLY05ybnhWNlg1RA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "asm",
+      "to": "energy_fuels",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "energy_fuels",
+        "count": 3
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "ucore",
+        "count": 2
+      },
+      {
+        "id": "neo",
+        "count": 2
+      },
+      {
+        "id": "asm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 166,
+    "too_old": 133,
+    "gate1_blocked": 18,
+    "gate2_blocked": 4,
+    "passed": 28,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc (HAM:U9UA) Stock News, Headlines & Updates - GuruFocus",
+      "Certain Common Shares of Neo Performance Materials Inc. are subject to a Lock-Up Agreement Ending on",
+      "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance",
+      "ASX Says Australian Strategic Materials Will Be Removed From Official List - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Energy Fuels、萊納斯、Ucore Rare Metals相關動態：「Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's Next? - Yahoo Finan...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Australian Strategic Materials Removed from ASX Official List Following Energ...",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

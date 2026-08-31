@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-31",
+  "total_events": 25,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "neo": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "energy_fuels": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "asm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.06
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "asm",
+      "to": "energy_fuels",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
