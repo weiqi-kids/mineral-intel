@@ -7,20 +7,20 @@
   },
   "lynas": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6783,
+    "latest": "2026-09-01",
+    "count": 6784,
     "history_complete": true
   },
   "north_rare_earth": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6585,
+    "latest": "2026-09-01",
+    "count": 6586,
     "history_complete": true
   },
   "iluka": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6783,
+    "latest": "2026-09-01",
+    "count": 6784,
     "history_complete": true
   },
   "energy_fuels": {
@@ -31,32 +31,32 @@
   },
   "arafura": {
     "earliest": "2003-11-04",
-    "latest": "2026-08-31",
-    "count": 5782,
+    "latest": "2026-09-01",
+    "count": 5783,
     "history_complete": true
   },
   "hastings": {
     "earliest": "2008-02-20",
-    "latest": "2026-08-31",
-    "count": 4687,
+    "latest": "2026-09-01",
+    "count": 4688,
     "history_complete": true
   },
   "vital": {
     "earliest": "2005-10-10",
-    "latest": "2026-08-31",
-    "count": 5284,
+    "latest": "2026-09-01",
+    "count": 5285,
     "history_complete": true
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-08-28",
-    "count": 1554,
+    "latest": "2026-09-01",
+    "count": 1555,
     "history_complete": true
   },
   "rainbow": {
     "earliest": "2017-01-30",
-    "latest": "2026-08-28",
-    "count": 2421,
+    "latest": "2026-09-01",
+    "count": 2422,
     "history_complete": true
   },
   "ucore": {
@@ -67,8 +67,8 @@
   },
   "shenghe": {
     "earliest": "2003-05-29",
-    "latest": "2026-08-31",
-    "count": 5697,
+    "latest": "2026-09-01",
+    "count": 5698,
     "history_complete": true
   },
   "neo": {
@@ -79,14 +79,14 @@
   },
   "asm": {
     "earliest": "2020-07-30",
-    "latest": "2026-08-28",
-    "count": 1540,
+    "latest": "2026-09-01",
+    "count": 1542,
     "history_complete": true
   },
   "china_rare_earth": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-28",
-    "count": 6643,
+    "latest": "2026-08-31",
+    "count": 6644,
     "history_complete": true
   },
   "etf_remx": {

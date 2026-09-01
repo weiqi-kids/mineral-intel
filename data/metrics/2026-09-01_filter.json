@@ -1,0 +1,16 @@
+{
+  "total_raw": 346,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 23,
+  "gate2_fail": 7,
+  "passed": 31,
+  "gate2_samples": [
+    "All Ordinaries: Is Hastings Tech Metals (ASX:HAS) in Focus? - Kalkine Media",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Neo Performance Materials Inc. (TSX:NEO) Drops 3.30% as Heavy-Volume Selling Tests Rare-Earth Stock ",
+    "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - finance.yahoo.",
+    "Neo Performance Materials Faces Fresh Pressure as Rare-Earth Volatility Tests Investor Confidence - "
+  ]
+}

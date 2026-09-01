@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:55:36.959419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asm-2026-09-01-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Energy Fuels (ASX:EF2): ASM Acquisition Expands Rare Earth Metals and Alloy Reach - Kalkine",
+      "companies": [
+        "asm",
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFUzQ3pYU2RfanM2U3RzMlgzYzBhcmZiV0NENjNVWXd2bjF3QjhNc0JQbkZqdFAtc2VReWZYSGdKZFdHcjVpQWgtTHBJRmRiSWZMNEVkTURNa0RKZmlUS2hzbDM2emRrOUhEMmpMSU5Td1F5NGRwbHRkTG5VanJrampib0JpOU9pYlN6U0JJMG1WVUxqVldwN0RBQjdKeVZaVWp4eVBxeWg5UU4teWY1RlhR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-01-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Op-Ed: Venezuela mining revival threatens isolated indigenous peoples",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.mining.com/op-ed-venezuela-mining-revival-threatens-isolated-indigenous-peoples/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Lynas Rare Earths (ASX:LYC) in Focus as It Captures firmer rare earth pricing? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUNuV3UwRERnVTVhczdPRE1MWjFEQ05pTmgwc3lVM3I3SDJEaWZPSS1WaFprWGtheFBGMGROVEpCcG83NUpwYVAzRWttVGgtaGFMX3dHRW5JQTFTUUhobVRsZlB3TWRZRmpDRE9teXgzNFJxd0tGSW5oTXh3Vy1qSWtWY3luNHdOVG8yMWZONmtvcmtXOG1xVGV0MnlHUVV1QUlGbHN1aENEN1ZTeHdHN052dlVaczJobGVnTGM2N2ZxR1p0VDF6SzZ2eG1xWVcyeXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-09-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could Lynas (ASX:LYC) Strengthen Its Place Among Rare Earth Minerals Stocks? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemdpaUw3QXc1UjdhOWM2YWpfd3cyYmV4ZzNrSU5pa0dLQTVnOEJvQ0lZczkwRC1fN0dOM3ZIcUE3WlpHajBSVXV4UlR4SzczemlmYmYwTG13QWNqaUZCeDYtVFA0T0YxUnIwanBwcVljbV9OY2tla2pfQVpVM1VTTnNxMlVVT3VtSi1YTFVWWUNpUDVmbl8zVVFwTUJCc1lYS1M2RlJNLU5jb0YzczRmeG1zN1NIdi1DR1JOaUV1b1psTmtrT3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's Rare Earths Duopoly - ChinaTalk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZV9rTExjU1JXeXlpc3FhLXB3RjA0bVZHZUJEYklucnlSb0R1TjZHZFhtR0czT1NaSlVYUzdhcWdLM2tpT0xCejliQ2Y1bzJqbENGazZNQ192QnZad2w3bkVLdDVrUWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "neo",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 346,
+    "dup_title": 130,
+    "too_old": 155,
+    "gate1_blocked": 23,
+    "gate2_blocked": 7,
+    "passed": 31,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "All Ordinaries: Is Hastings Tech Metals (ASX:HAS) in Focus? - Kalkine Media",
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+      "Neo Performance Materials Inc. (TSX:NEO) Drops 3.30% as Heavy-Volume Selling Tests Rare-Earth Stock ",
+      "Neo Performance Materials (TSX:NEO) Dropped, So What Is Behind The Fresh Attention? - finance.yahoo.",
+      "Neo Performance Materials Faces Fresh Pressure as Rare-Earth Volatility Tests Investor Confidence - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為萊納斯、Arafura Rare Earths、Neo Performance Materials相關動態：「Energy Fuels (ASX:EF2): ASM Acquisition Expands Rare Eart...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Energy Fuels (ASX:EF2): ASM Acquisition Expands Rare Earth Metals and Alloy R...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Op-Ed: Venezuela mining revival threatens isolated indigenous peoples（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
