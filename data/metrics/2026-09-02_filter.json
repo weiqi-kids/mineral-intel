@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 20,
+  "gate2_fail": 5,
+  "passed": 30,
+  "gate2_samples": [
+    "Vital Metals managing director departs after two years - Cabin Radio",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Neo Performance Materials Inc. (TSX:NEO) Drops 3.30% as Heavy-Volume Selling Tests Rare-Earth Stock ",
+    "Australian Strategic Materials to Delist After Energy Fuels Takeover - tipranks.com",
+    "ASX Says Australian Strategic Materials Will Be Removed From Official List - TradingView"
+  ]
+}
