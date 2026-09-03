@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:24:43.875843Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths: Greenland Rivalry and Rate Jitters Cloud a Defining Week for Nolans - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2oxQThXeno4UVhidzNqYzYyYy1iM29jTHZPNi1tY2owSkQ1aUdfZnB4ak9lT1NzQXVQUnF2Ym5rVElkVWJwTDNFOFRLMUpCYlF1WVV4SWRyZFUwY2E4QXFHNUcyOENDUWxzaWZuSzRMdUYzOFZMemw3Y1Z6QVM2a3hjWVJrbzJNNVdvRE5nQXVKQmRBS0ZwX1Zwdm5YQ0hodm1EREt6bVc1VEN0WVhoWUcyellPM200blFYRHdkcWhDSDlrVkNjUkNhX052ZkJseTZfUm9FVk5EWXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths: Groundbreaking Underway at Nolans, But Macro Headwinds Cloud the Picture - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2czcVo1SGJHMTRxTXZJeHZMMWJtMUJzeUZGLTNrSEl6bWxNZDZvendpSGVZX2NfY2FHSzRCVFhaOVNhRDd0MmxadzJKb1F1dG9SUnoxUEVRamdMMTB6MHN4bUpuTDdpbUx2WFJaZGNHLU1VYmNJRTE5LVh0emZBd1d2YU1yTW44REtwRUtQMVhIN3RmaldEMnk1ODk5WDRfcVAzOFktN3BRVlAwUFh2UEpNTXBRdlREaVZuNVFIcHdlSWxFMEplcy04TzFVZGNw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SW US CEO chat: Ivanhoe Electric maps $1B debt path for Arizona copper project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/sw-us-ceo-chat-ivanhoe-electric-maps-1b-debt-path-for-arizona-copper-project/1003894574/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 96,
+    "dup_title": 33,
+    "too_old": 35,
+    "gate1_blocked": 11,
+    "gate2_blocked": 1,
+    "passed": 16,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Arafura Rare Earths相關動態：「Arafura Rare Earths: Greenland Rivalry and Rate Jitters C...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arafura Rare Earths: Greenland Rivalry and Rate Jitters Cloud a Defining Week...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Arafura Rare Earths: Groundbreaking Underway at Nolans, But Macro Headwinds C...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

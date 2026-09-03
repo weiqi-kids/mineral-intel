@@ -1,0 +1,12 @@
+{
+  "total_raw": 96,
+  "dup_title": 33,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 11,
+  "gate2_fail": 1,
+  "passed": 16,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus"
+  ]
+}
