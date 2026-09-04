@@ -1,0 +1,16 @@
+{
+  "total_raw": 343,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 16,
+  "gate2_fail": 6,
+  "passed": 56,
+  "gate2_samples": [
+    "Vital Metals managing director departs after two years - Cabin Radio",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Neo Completes Transfer of Sarfartoq Interest to Greenland Mines - Investing News Network",
+    "Neo Performance Materials Inc. (TSX:NEO) Drops 3.30% as Heavy-Volume Selling Tests Rare-Earth Stock ",
+    "Stocks in play: Neo Performance Materials Inc. - The Globe and Mail"
+  ]
+}
