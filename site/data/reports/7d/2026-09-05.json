@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-05",
+  "date_range": {
+    "start": "2026-08-30",
+    "end": "2026-09-05"
+  },
+  "generated_at": "2026-09-05T11:31:27.196710Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "energy_fuels-2026-08-30-002",
+      "date": "2026-08-30",
+      "title": "Energy Fuels Completes Australian Strategic Materials Acquisition - marketscreener.com",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 65,
+      "last_week": 65,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.03
+    },
+    "critical_mineral_policy": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "iluka": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "arafura": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "ucore": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "neo": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "energy_fuels": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "asm": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 186,
+        "last": 185,
+        "change_pct": 0.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-30",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 48,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 28,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 39,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 34,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 31,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-30 ~ 2026-09-05）共 186 則事件，重點為「Energy Fuels Completes Australian Strategic Mat...」。Ucore Rare Metals情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Ucore Rare Metals",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

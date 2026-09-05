@@ -1,0 +1,15 @@
+{
+  "total_raw": 348,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 20,
+  "gate2_fail": 4,
+  "passed": 33,
+  "gate2_samples": [
+    "Vital Metals managing director departs after two years - Cabin Radio",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus",
+    "Neo Completes Transfer of Sarfartoq Interest to Greenland Mines - Investing News Network",
+    "ASX Says Australian Strategic Materials Will Be Removed From Official List - TradingView"
+  ]
+}
