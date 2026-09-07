@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:51:01.859008Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-07-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Viridis places first major equipment purchase order for Colossus rare earths mine - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPem5iYjZQYWdPdEc1WktyWVRNaDUxWUdsbXZEWF9LYW9LSnNtYnZFbUlxVmVlQnU4VTVmOFFDQXBnb2ZTb3M0bWgtQ0VNMXpuZGVKN3JLY3o3dXczaDl3V1lKWUZmMGg2WEM1T3Z5U1VzXzhHeG8xUmFQNUR6RDJURHYxT1FFTW53azFPM2xmbjcxS1FiUHozT0lFRGJZaUZPWV96ZFhmNXhGU1k4dHh3Njk3TFoteGgxREprQ0NzbEUxM1NSRC1QUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): Why This Strategic Minerals Producer Could Matter as Supply Security Moves Up the Agenda - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZicFRzcEc3UG11X0lLWkR6Uk8xZUh4SHl2OVR2Zy1BTGJkRHVaYU90YnJOdnVSeWZ1UXd1NVhOQWZkMDNxZGppcFFzRWlHdkpQaENKSlRDZmxRU3lTeW9nVXFITEh0cjRqVFlLWEJBV2FCQW1IVlJfTUl5Z1Uzb2pNYWtUZlNybzh4dFViWEtseUNkOF9kLTVvTk9saThtQlE3YUY5WjktUzh2TjhNdnM0M3hZS3ozdUo0dzZBTWxON0ZMVUR0cFpTcWRHbHBZNjZJRXpFV3VuWUlpUkZ6cnNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Did Lynas Rare Earths (ASX:LYC) Fall Despite Strong Full-Year Results? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUdPWmx2bnZrNzN4bGN5MkZod2p2YnY5TG0yaWdYelN3NVRxZFZNaUpKcjNUNkVCVE5lR2w0Ri1tUk4xX3hpc1p6RlM0Qkc5enU1Z1duYVJKNHJaRE4zUkZGaHh4S3l2SUFzcWVUa3dtZlRYMTdFMEZ0TjRlaHFjNkxPVU0xWlVkMzBuSWNkWFluY05kQmtLelhWNURTNUNDcldob0JxNVZieVNWNTJoVWtfV3huVHM3b05qNHllVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-09-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia's Arafura Rare Earths is testing shareholder patience - marketscreener.com",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEdFOU5FSXVKemFOTU9MeGxMcFRpSVlWMExzaF95dy1Vc2lEOEJOc2VkWEZ3MkhqZThjMFNWUDV0YjZHZDVPMUIzNWdJUjdyQzFWU2I5bkJfZzFqN1ZQcGNxejNQTFpVUkpLbnF6RGdEbWdkd0thaTZrSDB6OXc0bmhBM3A5YURUTVJVME4wVnJIMGJ1emlnTU1Hdml4X2I4enlYb29SYWF4RVRXbDkwcm5OSmJRZUk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-09-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What’s Behind Arafura Rare Earths (ASX:ARU) and Its Nolans Rare Earths Project? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSTZDTUVkaU9YWl91NVhETW1YVFJvaTZnQTZyTkpWVGJNUFJ0bXFTN3FOb0pRQ1A4NURBa3pNOVdrTEQ3emZMdFM3UHlzNVBJYkR6TEdmNm4tblBqa2JOODk3S3RhXy1sNXVLZmZTX083dGpLTEEyWnNzZmpBVFZ2eDhZLTNuWXJBeTl0UWNpanozZ1BNRHlIS0NldGRzaXJ6Y0p2Z2NOVGRRWldfVloyMURDdkFrcDhra3V2Tk5XNmxrNXUyMDFNRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 8
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 166,
+    "too_old": 135,
+    "gate1_blocked": 19,
+    "gate2_blocked": 3,
+    "passed": 26,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Why Is Arafura (ASX:ARU) Setting Nolans Construction Focus? - Kalkine Media",
+      "Vital Metals managing director departs after two years - Cabin Radio",
+      "Ucore Rare Metals Inc Stock Operating Data - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Rainbow Rare Earths、萊納斯、Arafura Rare Earths相關動態：「Viridis places first major equipment purchase order for C...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Viridis places first major equipment purchase order for Colossus rare earths ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC): Why This Strategic Minerals Producer Could Matte...（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

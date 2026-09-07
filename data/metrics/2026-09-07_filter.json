@@ -1,0 +1,14 @@
+{
+  "total_raw": 349,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 19,
+  "gate2_fail": 3,
+  "passed": 26,
+  "gate2_samples": [
+    "Why Is Arafura (ASX:ARU) Setting Nolans Construction Focus? - Kalkine Media",
+    "Vital Metals managing director departs after two years - Cabin Radio",
+    "Ucore Rare Metals Inc Stock Operating Data - GuruFocus"
+  ]
+}
