@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-08",
+  "date_range": {
+    "start": "2026-09-02",
+    "end": "2026-09-08"
+  },
+  "generated_at": "2026-09-08T12:27:33.156907Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-09-04-015",
+      "date": "2026-09-04",
+      "title": "Value of top 50 mining companies surges by $357 billion after monster August rally",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 61,
+      "last_week": 91,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.05
+    },
+    "critical_mineral_policy": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.06
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "arafura": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "neo": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 4
+    },
+    "asm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ucore": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 6
+    },
+    "rainbow": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hastings": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 165,
+        "last": 204,
+        "change_pct": -19.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-02",
+      "event_count": 41,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 38,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 39,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 25,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 13,
+      "sentiment_avg": -0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-02 ~ 2026-09-08）共 165 則事件，重點為「Value of top 50 mining companies surges by $357...」。Ucore Rare Metals情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Ucore Rare Metals",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

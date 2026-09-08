@@ -1,0 +1,14 @@
+{
+  "total_raw": 353,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 16,
+  "gate2_fail": 3,
+  "passed": 25,
+  "gate2_samples": [
+    "Why Has Arafura (ASX:ARU) Won Significant Project Status? - Kalkine Media",
+    "Vital Metals managing director departs after two years - Cabin Radio",
+    "UCU Watch: What's Behind Ucore Rare Metals Inc.'s Latest Move - kalkine.ca"
+  ]
+}
