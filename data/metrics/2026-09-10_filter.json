@@ -1,0 +1,16 @@
+{
+  "total_raw": 354,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 8,
+  "gate2_fail": 5,
+  "passed": 43,
+  "gate2_samples": [
+    "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+    "Ucore Rare Metals Eliminates All Debt After Director's $8.5M Warrant Exercise - kalkine.ca",
+    "Ucore Rare Metals Clears All Debt Following $8.5M Warrant Exercise by Director - Kalkine Media",
+    "UCU Watch: What's Behind Ucore Rare Metals Inc.'s Latest Move - kalkine.ca",
+    "Neo Performance Materials is an “uncommon value”, this analyst says - Cantech Letter"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:33:20.716101Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-09-10-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas Rare Earths Shares Retreat After Record Revenue Result - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmlpM0RMWE5wZTRXaHlRaWluOWRja0hrVkFrT0NzLXhuZzVnWnBxR0c4S1NkdjJ0d1pPSTJEMnFBSGxjU3hnNVRhbzVRaHVVY1hvbkM1QmdVSkpqZHBLa0J1Y1dZaFNLYW5od3lJZm5sRjFVNjRRSGYyY0l2XzFLRVBLV3J2N2RES1RoMEs2Tm0zcGp0OTF5X19mZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Lynas Rare Earths Steadying Its Kalgoorlie Ramp (ASX:LYC)? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZE51LS1oRE91TG1jV3FILXcxejhsZVg3bzc1aGNLMGE3N3lJOVdTeTZvMDBGVTZNM2JZb3hSWEozdGIyeXY1VjdJNGNhckdCREh5SDdwdEJNU2RMS2M3ZWJtM3JWWGhibVpyXzM1SXJoTFVsUFp0NDJmRmZEd0thT0syMkhZVGZEQUdxLXdpZ3VOX29haFdqNW5IVnlqZHNyaFR0VzRubnpJazZNdld6YmpR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-09-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths: A A$1.4 Billion War Chest the Market Refuses to Believe In - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaE1KOHY1SFk2VlpLZVZCM2JLN0R6c2F3ZUFxdDZKdlRXNXRGdkRQaU5nZnZSQ0QzZ1I5T2VhdXo5V2xCbjJhWUI4NEtQQURTbjJIOHVuQVl0V0pXTXNENlRQS0NpQ2tpSGt5S2VVUTYtMWxoWlIzQ1VwTXZvaHlEa29IaUFwNGwyOG5xdi1WNXVycVlnSnhJUUZpUnlwaWViYTdZeUtTVUNXc2F5dDlPVmtKVXVJU0hTUVdFbjhhQ2NnWGxzWnFNLUltM3I3dTVjUzByTmNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-09-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Confronts a Cash Paradox as Nolans Build Kicks Off - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN0M5WDhqOWowV0xnNVo3dlRfZEFPVTFxVzdCcnRCbVFXQ1BDYU5FWlNZdmxYaEM5ZUhyeURZOE5sSlJCbGt0dlZzUEptM0UyWXdHam9XTnpqV2ZQREVjMi1MTGVjUHZ5WDgxTWNwaVppUEhLcVQ0RmVGV041Qm1ZQldrMVZEVnMyOGY4dl9rV21Cckd3c3hHN2lUVlBNb2laSUJfU2pYZjRtc0N3Z18xM2J3V1dzUk5kYk03WGNPS20wdC16X2tMS3J0SWh5MDZtSWZ0dU0tQ0xGZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Rare Earths appoints processing expert to advance Halleck Creek feasibility - Proactive Investors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY0sxT0tJbFYwWWtqbWs5WkFGRFJHaHN2OUJxcUxNanhNelZ4ODNjQ0ZFZnZTMm44TWw0M0YwblRqSTdvYm1fSC12d01uV05PTkRxd2tWLXo5aFBmSWNHUkdab2JLQUhwTGdXVlpEVUJUYTNQaGFyTDZFck53bWJwalZxTDBvN0JhWmdBWG1WeVFScW15VXpONzFTYXdPZXoxREdSZ1hXaTdnVjgxUlo0ZXozMFRoY1ZXd1EyODVPQVpDbUFTS1JQdXZkQVVnZnZUYUVSbWhMeTRldkhXLS1YenZRMWd3RHVpNTBUMVlB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 167,
+    "too_old": 131,
+    "gate1_blocked": 8,
+    "gate2_blocked": 5,
+    "passed": 43,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+      "Ucore Rare Metals Eliminates All Debt After Director's $8.5M Warrant Exercise - kalkine.ca",
+      "Ucore Rare Metals Clears All Debt Following $8.5M Warrant Exercise by Director - Kalkine Media",
+      "UCU Watch: What's Behind Ucore Rare Metals Inc.'s Latest Move - kalkine.ca",
+      "Neo Performance Materials is an “uncommon value”, this analyst says - Cantech Letter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Lynas Rare Earths Shares Retreat After Record Revenue Res...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths Shares Retreat After Record Revenue Result - Kalkine（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Is Lynas Rare Earths Steadying Its Kalgoorlie Ramp (ASX:LYC)? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
