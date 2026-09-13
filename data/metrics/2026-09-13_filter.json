@@ -1,0 +1,13 @@
+{
+  "total_raw": 351,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 14,
+  "gate2_fail": 2,
+  "passed": 15,
+  "gate2_samples": [
+    "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+    "UCU Watch: What's Behind Ucore Rare Metals Inc.'s Latest Move - kalkine.ca"
+  ]
+}

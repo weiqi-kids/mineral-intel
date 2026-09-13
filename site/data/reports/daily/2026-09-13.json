@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:00:18.314387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura's Nolans Build Starts Now, but Full Output Is Years Away - ad-hoc-news.de",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmVZS19xbW1fV1NOZzZWMlpVMUh0eGVpOWFwR3hIbWdyaEo5TTZkdXdOV2FxOU14ZXZoLS1NNjV0NDJDbkdTT3MwRFBQUVFkUlNwejNPZmtHMTcyZHQtRnpUcEZWU1NQQ0pRakoyd0RpeXVCTGdQbmlGeDk1aFdWUGFRS0dnV2JvSnFLbVFZMklYYUZXb05LYmZHUzduTTYtdlpLMjByZ0MxOXRWWExjRUs2MjJtUGFFZ3dkdG9kTGlQdjJrUmpyRDhRTXB4M0hK?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Medaro Mining Sampling Returns up to 32.99% Total Rare Earth Oxides, 16.5 g/t Gold, 23.7% Copper, 260.1 g/t Gallium Oxide, 0.31% Tungsten & 0.34% Cobalt at Bastnas Project, Sweden - Junior Mining Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPUFlNSHBxWnVSZlFtTzF5M0dLdWMteGQzX01iYTJhUGZEQWFvSXdCcVJYekZCV1ZGRVlmcmRTS1lROGRnU3kxRzgzU1VJQWVhVnZqUFIyLVpoeFpaVlNYVGNfQTdkTjFVNEZkd0VodjI0c2Q2N0pWVmFuNFBPWk9ZQXJoemZMSUMtRjJDY3ZBa2dsTzlGLVVtS0FZYm85eXBtMTZmNzBWLU9YLXU3b0N1UkE5MGZUS2pWVlpPU2ZZSVFVSkw1TmstSHlJRmZvVDByQUpRcjBKZVFDbkEzcy1LTnFMdmJ3VV80dGd2RlY2dnFNdlVSOGRLTHZEVU8wam1xTXFORzd4dFJ5VG5OcnRiajFYcmw4OFVlU3BGOVl3eUh1cmFQTG9GSGJmbDhFdXpaUTNIa25VT1NSZVQ2TXV6VWNaV21KMXlGN0lsUHRhWEZUSTkxczBsaUlReHJLUTRISFNOMkdpaVYyeGZfaWpvS0hXRVk4WnZhdm5j?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Africa Critical Minerals China Advantage Explained - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa29EMmxsbGNQUncteEEzTFczMkJBWVU3eWpXdFRrTlZRbVJCV25ubFo3Ym42T3VXQUI3eV9iWFhvLUVGRXlzeGh4Ulo4V0g4SkF3ZjkzYUpBczYxUU9NZnZ2UXlURlRVblJkbE03UzBOeXNLbGZhTU1icFVzWlhrbEpmOVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 174,
+    "too_old": 146,
+    "gate1_blocked": 14,
+    "gate2_blocked": 2,
+    "passed": 15,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+      "UCU Watch: What's Behind Ucore Rare Metals Inc.'s Latest Move - kalkine.ca"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Arafura Rare Earths相關動態：「Arafura's Nolans Build Starts Now, but Full Output Is Yea...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arafura's Nolans Build Starts Now, but Full Output Is Years Away - ad-hoc-new...",
+        "level": "green"
+      },
+      {
+        "text": "Medaro Mining Sampling Returns up to 32.99% Total Rare Earth Oxides, 16.5 g/t...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
