@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:36:51.216871Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iluka-2026-09-14-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "What Is Drawing Investors to Lynas Rare Earths, Iluka Resources and Nickel Industries? - Kalkine",
+      "companies": [
+        "iluka",
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlowdGdmVFRtaEQ3SlJYbmRBLUp0dkpEZ0lNbUFwcl8wNHktTVQ3blZTanI1R0F4Um1DM0diS2VXWnBFQ2lGbFV1YlFRaDdGVkpVVGJmZHlpMlVXMGktcEk0T1BHbE50Z3ZnN0gxLThJUmRiaS1nVzhBSE5sODR2dmpHQVNtZlhVZEhidl9FbE4waVpKeTZlbmVqZDU0XzB0NVl0eHV6UjY3UWFRdFFEZG5TV2hSOUI5S0Rj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-14-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Rare Earth Magnet Overcapacity and Supply Gaps 2026 - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDlIOXN2V0M5N1BkY3NNa25DUTZBUEVUTjZiY0hWamh2WDE2WkVuNHRBNFpzUVJpYnp3Zjd1Q1hMbkhSZzF5dmktcnRmVHVodXZ0Wk0zVzVPOWFocThJbnBESU9tX2NsaUVMMU44Q1NOem9OUWFFbmM0Y21BM3ZXdTBfaE9TSmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-14-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sponsored: Trekor Metals reports strong Q2 results as copper production ramps up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.northernminer.com/stock-markets-investing/sponsored-trekor-metals-reports-strong-q2-results-as-copper-production-ramps-up/1003894795/"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASX Critical Minerals Stocks in 2026: Why Investors Are Tracking Lynas, South32 and PLS Group - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPal9obDZPOXExRWRfMFNDUWxDTWtGQURhTHZ5U2Mta09oWFhVR2pxNXNtT0xHT25meFVaMlpmUGgzYUg4TWstU3FnYkdhRmZZRUxjem1SM1pxS1VQanFiWnkySzFiYTRYYWs3TU5TNEdXM0tPUGxQU1gtUzlFMmxvSi1PeUFxMWhGTG9JREtNd2djVjFMaFpJNEFmX2VIek1GZ2JIeDlQVWlLMnZWSjBac1lrSllIMnRTUTh5WHNOYXBaNnE5?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "north_rare_earth-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth Downstream Strategy 2026 - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTQ1RUVQb2pBTUZvUHBpandjeGdnUUxfRFRVSkVSV2pTeVN5YUtiMkxqb29IVm5wczZtVjRuRmJGaHFlMThoYkFsOWpOajJKeFdOWDZmR0RLby1JY01lSzRIelZZWTk2SHItSXNXNlN5a1UydzJrSnZyZzN4Ql82R3NSLXJmNG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "iluka",
+        "count": 1
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 172,
+    "too_old": 136,
+    "gate1_blocked": 15,
+    "gate2_blocked": 2,
+    "passed": 24,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+      "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為萊納斯、Iluka Resources、北方稀土相關動態：「What Is Drawing Investors to Lynas Rare Earths, Iluka Res...」。主要關注主題為礦業產業通用、關鍵礦物政策、磁鐵供應，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What Is Drawing Investors to Lynas Rare Earths, Iluka Resources and Nickel In...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "China Rare Earth Magnet Overcapacity and Supply Gaps 2026 - Rare Earth Exchanges（磁鐵供應、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
