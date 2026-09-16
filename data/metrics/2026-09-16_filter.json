@@ -1,0 +1,15 @@
+{
+  "total_raw": 331,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 14,
+  "gate2_fail": 4,
+  "passed": 22,
+  "gate2_samples": [
+    "How Is Arafura Moving Nolans Into Construction (ASX:ARU)? - Kalkine Media",
+    "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+    "Ucore secures additional $4.6M to expand rare e... - Pluang",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution"
+  ]
+}

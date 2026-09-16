@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-16",
+  "total_events": 4,
+  "by_company": {
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
