@@ -1,0 +1,14 @@
+{
+  "total_raw": 350,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 17,
+  "gate2_fail": 3,
+  "passed": 34,
+  "gate2_samples": [
+    "RANDY JOHNSON PROVIDES UPDATE ABOUT HOLDINGS OF UCORE RARE METALS INC. - Yahoo Finance",
+    "Ucore secures additional $4.6M to expand rare e... - Pluang",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution"
+  ]
+}
