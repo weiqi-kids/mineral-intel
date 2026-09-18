@@ -1,0 +1,14 @@
+{
+  "total_raw": 353,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 24,
+  "gate2_fail": 3,
+  "passed": 36,
+  "gate2_samples": [
+    "Arafura secures extended offtake agreement with wind turbine maker - Engineering News",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution",
+    "Ucore secures additional $4.6M to expand rare e... - Pluang"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:33:20.660244Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mp_materials-2026-09-18-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Exclusive-China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say - Myrtle Beach Sun News",
+      "companies": [
+        "mp_materials",
+        "shenghe"
+      ],
+      "related": {
+        "customers": [
+          "shenghe"
+        ],
+        "suppliers": [
+          "mp_materials"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZkVKc3BuMnZ6dGxBWWdoR2s5dEpZeHV1WldLWElUelIzWmljRmZhWWtJRDN0d25RS1lkeHFkZWRXdlduRHR3NEFlWEFwNkh0WE85aFhUVmxOaDBPUmNSTHVSUllVd3VLcnpvbkxIZDZMTk9PWEM2Mg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas (ASX:LYC) Expands Rare Earths Processing Across Multiple Locations - kalkine.com.au",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMF9DYmJsWVZZZDY5Z1MxSlVfUHE3OERKekVDQTVoaXU4UTJGU0FPLTFkRkJQOC00YWRZd2FsQmxGeUF6QWwtR0ZvTVhkVnZ2b2hkNXZfM19BYTZPM2dMTUR3WFR6cEJWYl9ST0djdFdCSDlldHA3VW1FU1JyRVo0WlVYR21YOUFpQ2RCTGItVW1kdHVGM09LcUM4MFk5WFZHb2pHemdPZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Expands Offtake Agreement With Wind Turbine Manufacturer - News and Statistics - IndexBox",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlQxS25oQXM2c0laRjlDWFlVTVYxZVBDMG85RTRhN0RGWDB4ZFVWSDhNclB2Tkw1bnM1NGlOVjRSY2xVZkwxSkZ6YjVxUVNpb0hoWE9hWklSU1BVNHJnLU83RVY4akwyX1BsWFBnbUFkMjNsNG52VC1WYzJ6Nm1XbVhqQzJ2VTdyd0F3LTJfSWk5WWx6X0VockN3UmNuU0x2ajdz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Extends Offtake Agreement With Global Wind Turbine OEM - TradingView",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWlxNzBCT2c2aFM4OXlib2tLLWNjSVlLa2ZSU1lUaGpJT0YwTUlHdk1TellidHdONmFYMzlqQWRCT25tUU5GSEVqZ1JEOVQ0clJxTzdHSWE5ZlB0bjVvTzRBTjROWW42QkhDc1VXTTBZT3h2aFl2ZUR3bzFkd1dYNlFzNlFxS0V1V0xLbnlCWXljQTFYRzFlT2hRQ1lLX3hucl8xYmhJc2s1ZzRZSFdzakZMTlFodUFzamhURDA5eXFscFdxcHlmakJGZUNMYnE0QVpFeWJCR2M0OU5N?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-09-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Arafura Rare Earths (ASX:ARU) Back in Focus After Its Offtake Update? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWRkMDh1bDlFamJUdWdiV1czZGc3UTVEWi1XbldrVng2MlB4Qk5PUnphRkpxQllROUlkVC1fWlN5bGtJSDhVdDRYTzB6clQ1ZHdlejU0ejQzcFR2eElsTTdfQWJxSUdFX3pWV1U5NnZWYXkycWZyeTdYRWVyQUpPR2R5MncxVTVaVzJsRy1Rek40aTVuR1pWTjNYYWJoYkhhcFZUV1FGUTZVUW5BYmh2Y1dpekoyU3M4OV81dUN6VUJxRmFHRnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 6
+      },
+      {
+        "id": "vital",
+        "count": 3
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "mp_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 153,
+    "too_old": 137,
+    "gate1_blocked": 24,
+    "gate2_blocked": 3,
+    "passed": 36,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Arafura secures extended offtake agreement with wind turbine maker - Engineering News",
+      "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution",
+      "Ucore secures additional $4.6M to expand rare e... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Arafura Rare Earths、Vital Metals、萊納斯相關動態：「Exclusive-China Rare Earth Group in talks to buy MP Mater...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Exclusive-China Rare Earth Group in talks to buy MP Materials shareholder She...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Lynas (ASX:LYC) Expands Rare Earths Processing Across Multiple Locations - ka...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
