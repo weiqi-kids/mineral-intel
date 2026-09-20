@@ -1,0 +1,14 @@
+{
+  "total_raw": 353,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 29,
+  "gate2_fail": 3,
+  "passed": 19,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - TradingView"
+  ]
+}

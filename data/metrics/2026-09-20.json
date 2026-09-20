@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-20",
+  "total_events": 6,
+  "by_company": {
+    "shenghe": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mp_materials": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "mp_materials",
+      "to": "shenghe",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

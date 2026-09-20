@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:47:30.278722Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mp_materials-2026-09-20-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "China Rare Earth Group in talks to acquire Shenghe Resources, putting MP Materials stake in focus - AL Circle",
+      "companies": [
+        "mp_materials",
+        "shenghe"
+      ],
+      "related": {
+        "customers": [
+          "shenghe"
+        ],
+        "suppliers": [
+          "mp_materials"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnBoYngxeXM3dnozZGdLRlpkV0lzMmZjZWNQbDZYSk9WUnVTRndqcTRHNVdtVnpIellXVi1HMHpDc0xBN1czQ3JVeWFmQzRsRkUtdE9TV01fR21VeVN0cGJZaHQxU3BXMDFQeGhrTEpneU1LdnBEc0ExUTRyQ0xLT0FnNXFlRkRNMGxqWGZXc3REbWlEb2Flay1SbU80b2ZPYXFQQnMzTE12V21FWHhhM2FweU5kVTFMS3dlUFNmUVVlbjZsOU1OQVo4bmwxUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mp_materials-2026-09-20-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "MP Materials Stock Falls 4.3%; China Report Reopens the Shenghe Stake Question - TechStock²",
+      "companies": [
+        "mp_materials",
+        "shenghe"
+      ],
+      "related": {
+        "customers": [
+          "shenghe"
+        ],
+        "suppliers": [
+          "mp_materials"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdk9sUy1PMlI0YVRwOVdMcVBTTnFuNHhBeGZLa1RIcXJ5Mkc4enlocnlEbGs0dFFOOTBJYy1PODBkb085czBvYWVQZ3hkcTBqYXI3WDBVUmo2c1pLOWF5UHI3M3dOTHpGX09pZy13ODM1cTVwTU9sVmtWckU0WTRmaDRqY2p4SDh6ckttbTJTUUVRNHp4ZUJJZGJJMlc1dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "shenghe-2026-09-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shenghe Resources Says Controlling Shareholder Has No Plan To Transfer Stake To External Parties - TradingView",
+      "companies": [
+        "shenghe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOGxNZDBKa3hzZFpuc3pWRl9qd09KWmZtWlU4SENobTI3X0h1VTZJSzhQeDJON0V4MlJZVHIxTDJFSk5DLXNleU1qNlVxT3F6TFhIak15QjZIOUE1di1ZOVlCYlZjMVA1c2dVWlh2LWFYVVdpSnF3aUwxSkhHVlR2cVJ3NXExTktZYnVUc1dXRnlHTTEzYTYtSjZHSUkwS2ZUWVBsaFpiQnU2NVZJd09iRjkybzh6M3ZkYkhtejFGUWR5Uk5hQmpySUFaUmhyZ3Vka3NXdHEwT2UtT0Q1R1FHdVhQMDhzUG85WkQ4S0wtbHBWTWdCTnlXbG1n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "shenghe-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Rare Earth Group Eyes A Controlling Stake In Shenghe - Finimize",
+      "companies": [
+        "shenghe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTdBaWV3RWF3b1NnejZRWXlSWDN1M2EyRksxN3B0NVIxTGQ1QTY4UnlIVWxZbzZGelFSWmpSQ3RLX21LMkJkODByRDdxQ3RINWozU0g3dXFsZWY3OFdzN2QwbnhkdVk2YmM5MG53Wm1CSjhJc3ltUUlOVmd4LXVHQmNUdC1mQ19aTmFIY2NBbWw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjM1QTJCUV8yVW85VFU5cEwtYnJaN2pzb3Iwdzl5UHFUWVMzYm54MmxxV0hHNnEwYmxxUjRyX0w3WHhtMU1BMkZTMFZKaWZxajJWelFYTWhldmhPQW03RVJJdU05QV95QnZOYWhKcmd6VUtrN1drU2c5ODdwdUNfa0t6TF9HXzVYQWwxcEo2NUV5NER2c2dfS05CQnJaa0M4ajBKVWUtV1prTGhEcUZR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "mp_materials",
+      "to": "shenghe",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "shenghe",
+        "count": 4
+      },
+      {
+        "id": "mp_materials",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 182,
+    "too_old": 120,
+    "gate1_blocked": 29,
+    "gate2_blocked": 3,
+    "passed": 19,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc. (TSXV:UCU) Drops 3.45%: Selling Pressure Persists as Investors Weigh Dilution",
+      "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+      "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為盛和資源、MP Materials相關動態：「China Rare Earth Group in talks to acquire Shenghe Resour...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Rare Earth Group in talks to acquire Shenghe Resources, putting MP Mate...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "MP Materials Stock Falls 4.3%; China Report Reopens the Shenghe Stake Questio...",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
