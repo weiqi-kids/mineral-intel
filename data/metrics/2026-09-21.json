@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-21",
+  "total_events": 28,
+  "by_company": {
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "north_rare_earth": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.02
+    },
+    "magnet_supply": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

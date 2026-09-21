@@ -1,0 +1,14 @@
+{
+  "total_raw": 355,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 26,
+  "gate2_fail": 3,
+  "passed": 39,
+  "gate2_samples": [
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - TradingView",
+    "Why Could Australian Strategic Materials (ASX:ASM) Matter Now? - Kalkine Media"
+  ]
+}
