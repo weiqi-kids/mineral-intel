@@ -1,0 +1,15 @@
+{
+  "total_raw": 354,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 33,
+  "gate2_fail": 4,
+  "passed": 31,
+  "gate2_samples": [
+    "What Comes After Arafura's (ASX:ARU) Nolans Green Light? - Kalkine Media",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - TradingView",
+    "Why Could Australian Strategic Materials (ASX:ASM) Matter Now? - Kalkine Media"
+  ]
+}
