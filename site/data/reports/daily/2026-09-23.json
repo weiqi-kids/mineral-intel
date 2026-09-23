@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:10:24.440390Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-23-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Jack-in-the-Stox: Greenland’s Rare Earth Opportunity Depends on More Than a Breakthrough - investornews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYTNpOURVOENPU09UZFpYWk03bWRVUzJ2MFdtQ2h2SjlNRFUxUERnTWFVcEo0MUdBZnlzamxXcHVoZUlOTGN2WjFFcmlQOGd4dFkza2gzUWp3S1o5Rm5nb0U5N29rRDFyaHhkemVlN1BMU1BxcWRwY2dYeVJReVM4Xy1WcVBnNURlSE1fWE1sRkVjRThjOEdFaWpmc0FVeDUwcTdnMUFUMWRESFNNNTBDUmt6SjV1NWVGWThadHRRbU5QQi01YmZXWUdVUko3RVg3bjcyNEt3bEJqZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-23-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S.-China summit will hinge on critical minerals - Maryland Daily Record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWlFPd0pqQzUwWHJOMUZHY21DNVZ3OXdidHM3aFdkVU9HVGh5QnZJR0ItUW1UMi04M2U2akhPeHItanl4Y2lYMm5iSGhqVWRYbm5ZNjhtV0RkYUdjVl85cmRpVWZkMmlKdDFQREJyTFBMU1hjRUp3MTBJajJUNUpxNFBzV2hDUUhONkxsR3kySnpHQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "neo-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Neo Performance Materials Stock Is Up 7.4% After Magnet Shipments Begin - simplywall.st",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRzFQREc5VndVOXhmbUpLaXY5U3dVc05PeU1CR1BKQWNiMVNINkJRSEUzQmdObVFQLXpQTGVXR2xfek5DZ0F4ajhDWS12ZnhNTFRfaFI4X1VncUNwNWdZVi1Dc1F1by1PSGZsMnh4WHl1UGZ0T3BrR3dBUC1zRVN1OVR1VXVtY0VBOWx6RlZPX0RkODdVRUd4YXRvMmo4UTdGRXE3T3dlb2ZOU3F5SDlFU1VwRUR4NlRuNktwTFp4UGY0cHZtZUstSzBNNGNkUkRMMDV1QkYwNlNEb3FmeUhzSmprUHFMMU3SAecBQVVfeXFMTUcxUERHOVZ3VTl4Zm1KS2l2OVN3VXNOT3lNQkdQSkFjYjFTSDZCUUhFM0JnTm1RUC16UExlV0dsX3pOQ2dBeGo4Q1ktdmZ4TUxUX2hSOF9VZ3FDcDVnWVYtQ3NRdW8tT0hmbDJ4eFh5dVBmdE9wa0d3QVAtc0VTdTlUdVV1bWNFQTlsekZWT19EZDg3VUVHeGF0bzJqOFE3RkVxN093ZW9mTlNxeUg5RVNVcEVEeDZUbjZLcExaeFBmNHB2bWVLLUswTTRjZFJETDA1dUJGMDZTRG9xZnlIc0pqa1BxTDFN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "neo-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "【SMM Rare Earth Flash】 Toronto-based Neo Performance Materials announc - Shanghai Metals Market",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnZNQlFkTWhveUNZNjhQN09PcnFlLXBrZldsZGxmc2FFRjFOaWJnUFFQWVczV1VGQmN3RklYZmFOZEZtd3p5aHJISjZBOWRVd0tWZG9haW5Fdm1pZnRGVExsTlh5OE5rUExvMEg2bzZzNE9UOUNBWXY4R19jSXhsdDVQVXBjOW1xU0JYa2RWbHhhZmt1QmxqTEt3UFpYZzBTSHNpQ1VPb2FvVTJmSW1kSnRlZXFFMWdBZzhn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "neo-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Inc. (TSX: NEO) Advances as Rare Earth Magnet Growth Strategy Strengthens Investor Confidence - kalkine.ca",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaE84VDBxaVYtN3hZYU5zR2NVbkxIb1VkdDZXS3h4SGhpRE9YN0dzdlFlbThmckowY3BVRjJrdmRaX3VUT2tjQTN6elhadHp2NzkyNm1QWks0SFE2aVFHS054eVo4QkFsbGEyZFlWZXBZVjllRURBcjVFbjJUQkUtcmdIUExjQU1fUjByVzR5VEJEci1iX3BHQWxzV2JST1NqVEEzUmtVM2lDVHFFZjVnd20zRU9ZZXUybm5uZEY1eGJtUm1DNWhOMWFCZmJrU1A3VHN2OGx5OHI0V0xvZVlv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 3
+      },
+      {
+        "id": "vital",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 142,
+    "too_old": 139,
+    "gate1_blocked": 27,
+    "gate2_blocked": 4,
+    "passed": 42,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+      "Why Could Australian Strategic Materials (ASX:ASM) Matter Now? - kalkinemedia.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Neo Performance Materials、Vital Metals相關動態：「Jack-in-the-Stox: Greenland’s Rare Earth Opportunity Depe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Jack-in-the-Stox: Greenland’s Rare Earth Opportunity Depends on More Than a B...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "U.S.-China summit will hinge on critical minerals - Maryland Daily Record（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

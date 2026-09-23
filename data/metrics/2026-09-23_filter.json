@@ -1,0 +1,15 @@
+{
+  "total_raw": 354,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 27,
+  "gate2_fail": 4,
+  "passed": 42,
+  "gate2_samples": [
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+    "Why Could Australian Strategic Materials (ASX:ASM) Matter Now? - kalkinemedia.com"
+  ]
+}
