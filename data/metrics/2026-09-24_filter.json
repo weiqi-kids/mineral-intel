@@ -1,0 +1,15 @@
+{
+  "total_raw": 349,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 24,
+  "gate2_fail": 4,
+  "passed": 45,
+  "gate2_samples": [
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials Inc. (NOPMF) stock price, news, quote and history - Yahoo Finance Singapor",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

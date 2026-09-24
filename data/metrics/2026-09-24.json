@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-24",
+  "total_events": 18,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rainbow": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "neo",
+      "to": "rainbow",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
