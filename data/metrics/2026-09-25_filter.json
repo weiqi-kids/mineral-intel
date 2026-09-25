@@ -1,0 +1,16 @@
+{
+  "total_raw": 347,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 23,
+  "gate2_fail": 8,
+  "passed": 32,
+  "gate2_samples": [
+    "Vital Metals Says Avalon Alleges Cheetah Breached Co-Ownership Agreement - TradingView",
+    "Vital Metals Provides Update on CAD$16.8 Million Arbitration Dispute - Finance News Network",
+    "Rainbow agrees Phalaborwa offtake framework with Neo Performance - Yahoo Finance",
+    "Rainbow–Neo Phalaborwa offtake: project economics and flowsheet notes for engineers - Geomechanics.i",
+    "MP Materials Rises as Beijing Moves on Its Chinese Shareholder - GuruFocus"
+  ]
+}
