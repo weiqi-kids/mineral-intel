@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:08:50.865951+00:00",
+  "updated_at": "2026-09-26T12:36:24.384061+00:00",
   "companies": {
     "mp_materials": {
       "name": "MP Materials",
@@ -10,61 +10,61 @@
           "holder": "Hancock Prospecting Pty Ltd",
           "shares": 14861212,
           "pct_held": 8.34,
-          "value": 732657740
+          "value": 725673009
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 14737381,
           "pct_held": 8.27,
-          "value": 726552872
+          "value": 719626341
         },
         {
           "holder": "State Street Corporation",
           "shares": 7773746,
           "pct_held": 4.36,
-          "value": 383245671
+          "value": 379592031
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 6936364,
           "pct_held": 3.89,
-          "value": 341962739
+          "value": 338702666
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 6823168,
           "pct_held": 3.83,
-          "value": 336382177
+          "value": 333175305
         },
         {
           "holder": "Shaw D.E. & Co., Inc.",
           "shares": 5828919,
           "pct_held": 3.27,
-          "value": 287365702
+          "value": 284626125
         },
         {
           "holder": "Morgan Stanley",
           "shares": 4772611,
           "pct_held": 2.68,
-          "value": 235289718
+          "value": 233046603
         },
         {
           "holder": "Van Eck Associates Corporation",
           "shares": 4565313,
           "pct_held": 2.56,
-          "value": 225069927
+          "value": 222924242
         },
         {
           "holder": "UBS Group AG",
           "shares": 4322785,
           "pct_held": 2.43,
-          "value": 213113297
+          "value": 211081599
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 3537603,
           "pct_held": 1.99,
-          "value": 174403825
+          "value": 172741160
         }
       ]
     },
@@ -90,61 +90,61 @@
           "holder": "Van Eck Associates Corporation",
           "shares": 19495526,
           "pct_held": 7.36,
-          "value": 220689348
+          "value": 221274227
         },
         {
           "holder": "Mirae Asset Global ETFs Holdings Ltd.",
           "shares": 17148614,
           "pct_held": 6.48,
-          "value": 194122305
+          "value": 194636775
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 15665570,
           "pct_held": 5.92,
-          "value": 177334247
+          "value": 177804225
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 14884021,
           "pct_held": 5.62,
-          "value": 168487113
+          "value": 168933644
         },
         {
           "holder": "Alps Advisors Inc.",
           "shares": 9710888,
           "pct_held": 3.67,
-          "value": 109927249
+          "value": 110218582
         },
         {
           "holder": "Morgan Stanley",
           "shares": 8830755,
           "pct_held": 3.34,
-          "value": 99964143
+          "value": 100229072
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 8736940,
           "pct_held": 3.3,
-          "value": 98902158
+          "value": 99164272
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 8631120,
           "pct_held": 3.26,
-          "value": 97704275
+          "value": 97963215
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 6414737,
           "pct_held": 2.42,
-          "value": 72614820
+          "value": 72807267
         },
         {
           "holder": "American Century Companies Inc",
           "shares": 4226355,
           "pct_held": 1.6,
-          "value": 47842337
+          "value": 47969130
         }
       ]
     },
@@ -157,7 +157,7 @@
           "holder": "Douglass Winthrop Advisors LLC",
           "shares": 10000,
           "pct_held": 0.01,
-          "value": 25499
+          "value": 24800
         }
       ]
     },
@@ -170,7 +170,7 @@
           "holder": "Ancora Advisors, LLC",
           "shares": 400,
           "pct_held": 0.0,
-          "value": 12944
+          "value": 12955
         }
       ]
     }
