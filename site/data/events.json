@@ -91,6 +91,43 @@
     ]
   },
   {
+    "id": "unknown-2026-09-26-006",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ex-China Rare Earth Supply Chain Tracker 2027 - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkdXVlBpZE5jVWNxeVYyMzA3X2tubjVRWUdsYkJjSTlscDdTWEs3Q3FVdEgzTzkzd2ZLR1hCdTZHNDdXdXZmbmFoMUx2MXdxZmUzNTducThMd01wZDRjRS1maldNcmhfVVY0YkxpMk",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbkdXVlBpZE5jVWNxeVYyMzA3X2tubjVRWUdsYkJjSTlscDdTWEs3Q3FVdEgzTzkzd2ZLR1hCdTZHNDdXdXZmbmFoMUx2MXdxZmUzNTducThMd01wZDRjRS1maldNcmhfVVY0YkxpMk1JRTMzcmRGbXk2V3BmV09ZTENmYVlXR2pjV1g1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-007",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wunti: No Country Can Secure Energy Supply Alone, Critical Minerals Require Global Partnerships - Arise News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMV9XWGNxYlNJZ2Q1YjNVT3BIUW5SNGxVc3dwVjYtNnNadDJScFBhOEhVc1BSTkpPcGtDSURHRDFpWXZ3TDlncm1kWno0WF9LYXRTTFJPYzltTG1yQnQ5dkZaR0t3OHBLelhIOG9BTE",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMV9XWGNxYlNJZ2Q1YjNVT3BIUW5SNGxVc3dwVjYtNnNadDJScFBhOEhVc1BSTkpPcGtDSURHRDFpWXZ3TDlncm1kWno0WF9LYXRTTFJPYzltTG1yQnQ5dkZaR0t3OHBLelhIOG9BTElIVGl6OG5YUDVOZVFQeXhNTnJGV3M3N3c0S2RJV2VWSDFCQWRBZDlncnBZd1ZCbmJEM2NvdUllS2kxMGVHUGJ5Z2dlTGRqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hastings-2026-09-25-001",
     "date": "2026-09-25",
     "companies": [
@@ -521,6 +558,45 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JRmQzMGpUUlhCN09wRDNQaDRybjUzZkpISW9tSVpWZV8zSWVfOHRJTXpxTUJNNDU5aXdOSHlfWWJDRHNvUGgwZlNESGlvdlpObW5kUnhJT2YwWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-09-25-024",
+    "date": "2026-09-25",
+    "companies": [
+      "neo",
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths Signs MoU With Neo Performance Materials for Technical Support and Offtake - indexbox.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWI0b04tVjJNdHNXOFhldEpSMTJBSWFKS2RDckRCd2QwN2x6cDhGUDE1WEFxaXM0QThWUUkyT2R4Z1p0VnlBU1dXWExBb3J2VlJ0ODltcGxzT1hNb3h0WXNZUmRjbkM2V2ozOUxWQn",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWI0b04tVjJNdHNXOFhldEpSMTJBSWFKS2RDckRCd2QwN2x6cDhGUDE1WEFxaXM0QThWUUkyT2R4Z1p0VnlBU1dXWExBb3J2VlJ0ODltcGxzT1hNb3h0WXNZUmRjbkM2V2ozOUxWQnhJd0M2YnlrVEE2OE13U2ZGTF9mSElFVlBBcXQ0VU1MUGQ0a1VzUHo0VkxzNktPNVkxZXlIb1NSbmpKYWV3RUFla2lqWFduTGZiZUFmTmNhODBhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-025",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare-earth mineral finds near border will ‘bust’ China’s monopoly, land commissioner says - newsnationnow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3NXRW9qR0EtaEZVMXJHSFZJRWFJT29hZVRRYnYxNk5SQ254MHpTRFdRcUNmeTJTN052WENJUGlSV3VpSlh3aFc2d0JqOTNxU3dsemo1VXBCelkwZ3RlQjh4SGphc0JDQ0NrY2NOak",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3NXRW9qR0EtaEZVMXJHSFZJRWFJT29hZVRRYnYxNk5SQ254MHpTRFdRcUNmeTJTN052WENJUGlSV3VpSlh3aFc2d0JqOTNxU3dsemo1VXBCelkwZ3RlQjh4SGphc0JDQ0NrY2NOak5SSWxpY2RURnNjTDB6UzVndGpSb3VKTnRzZ2NXY29tUHhmTk1ZSVA4UE1qdUJadHg3Q3k5WnVJWG5zUmRWdWNkWmlOa05SZUpqaEhnMkFMNklzd9IBxwFBVV95cUxPdFQzMEJkbHByYkEtemx0ZWkyUG9DZDZRcVhseWRlT01qbkx2ajQxdmc0X3FhdzhtQW0zdVNET1I4Z2ptaFVJbkFtUzI1bjBLY2lBOG1oeWtjQTh6Yzc3OENXamxqdXFKNHZBZmxfYkNweWI0M3dmZGNPQ01wbjZuUDl6THMybjNBSjhrQVZ2dHdxN0U2VnZOdjVyb2YybTYwNURqa2hDcHM1THBNRlp3VnI4R29ZRFdKSzJ6YzBLQVMyS0tNUDQw?oc=5",
         "type": "rss"
       }
     ]
@@ -1209,6 +1285,103 @@
       {
         "name": "neo",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTjdacWpWd3BhcElrc0o0by01bUJDbXRsc2VWRG1rNnRJMHZWbEN6TDJRczA2S3dSQWlUYW4xSnJLRjlDa1pPX2pMaUM5TWp4ckpickhTcDMwcVVmZkQ5ODl5QVNIbHdNaDgxNGhQM1AtcG0zTWtfczctT1BlMGZldllEQ3VORU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-09-24-036",
+    "date": "2026-09-24",
+    "companies": [
+      "neo",
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths names Neo Performance Materials as new technology partner - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZll1U080TTRCR2VFdjdKOGo4MWcxVHVkbVNqVlg2V05fSmJGZlpYVk5acjZuMEo4YWRlUmlGZTNKOVBFOFF1QlFMend5aDFaREFQSUlYWHpjYklUanNZMk80V2d1NXdXcUl5QlBod0",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZll1U080TTRCR2VFdjdKOGo4MWcxVHVkbVNqVlg2V05fSmJGZlpYVk5acjZuMEo4YWRlUmlGZTNKOVBFOFF1QlFMend5aDFaREFQSUlYWHpjYklUanNZMk80V2d1NXdXcUl5QlBod0dtSkZkVktQR3poZ3Nsa2R0bFZDMHY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-09-24-037",
+    "date": "2026-09-24",
+    "companies": [
+      "neo",
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths Signs MoU With Neo For Technical Support On Final SX Circuit - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWkdESmZQaU9uOWNpeHVoeGNLaEtMZTlXXzhpaDhkSzQ5ZnhEYmZYQkNqX2Q5d09MLURWbUVRSmJBLWFHVkZ1TjdXTE5LMllrUDFKVWJVN25yd3dzVzVwWmwyVEZPcGZfQm1fZmlULW",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWkdESmZQaU9uOWNpeHVoeGNLaEtMZTlXXzhpaDhkSzQ5ZnhEYmZYQkNqX2Q5d09MLURWbUVRSmJBLWFHVkZ1TjdXTE5LMllrUDFKVWJVN25yd3dzVzVwWmwyVEZPcGZfQm1fZmlULWd6WHJOOWUxcmFJMHFYWVBSQ09FUE51c3FzbkZTRWV2WUdxQ1FBWWFHT0NHcmY2NjUxTlpsbmhaanJMY3FRemdwQ1d5WkJYS0hhZHRJUzN5ejJpMmdneDVPSkVQb2RUSFdGLUFqbzVzaGtXXzhQaEI5bEdIQV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-038",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How US blindly ceded its rare earth dominance to China - asiatimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmFTVzZTSEJ3bDlEbExQeF95Z29lOXE1TDMwTUtnR3dVVlA4YzVxbThiZ1kwTUJZS09Cd3hfdy1FSlZtaTA4ZTh0T3UwbmpHQ3NrM0lUeGpmSmdGTVk2S2MwLVl2RndCeGNfZ3BGM2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmFTVzZTSEJ3bDlEbExQeF95Z29lOXE1TDMwTUtnR3dVVlA4YzVxbThiZ1kwTUJZS09Cd3hfdy1FSlZtaTA4ZTh0T3UwbmpHQ3NrM0lUeGpmSmdGTVk2S2MwLVl2RndCeGNfZ3BGM2NoU1p2YWtJYlZ6VjZQVFMteGUybUkyYjE3dC1ZUk9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-039",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's rare earths dominance to overshadow Trump's talks with Xi - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBNcDhQbjZ1eUhlS1FRS0poeU53T0ZfZWN3c1d4Z1NFa0ItMm84bUZvQlp2ODc1ZGQ4S0hGbG85cUNmam5vUGctS29hOWE4SWVDUlh0NHIxbDJVVkhFU0xILUhEb256TG9VaFZwWk",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBNcDhQbjZ1eUhlS1FRS0poeU53T0ZfZWN3c1d4Z1NFa0ItMm84bUZvQlp2ODc1ZGQ4S0hGbG85cUNmam5vUGctS29hOWE4SWVDUlh0NHIxbDJVVkhFU0xILUhEb256TG9VaFZwWkN0TEVQU0dHQzlteVkyT2VTcExNRlNYVFNFVl9QeDdBRGdRUzdDbm93V1lxSW5wT1lRazJyYlZER3l4dDBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-040",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USA Rare Earth Is Breaking Ground on Its $1.2 Billion South Carolina Facility. Is It Time to Buy the Critical Minerals Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1c0NEh1eUVOLVVNak9fRGxsdHZ1eU5SV2FxZ3Jiakw1Z21IYW42X1EyT3k2UkxvZTNkYXliT25wb1FlYlBla1ZlTS1yd2VMNExiRVRUY29uMktCdXF0UER1dDkyVjBCS1pYVzdkd2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1c0NEh1eUVOLVVNak9fRGxsdHZ1eU5SV2FxZ3Jiakw1Z21IYW42X1EyT3k2UkxvZTNkYXliT25wb1FlYlBla1ZlTS1yd2VMNExiRVRUY29uMktCdXF0UER1dDkyVjBCS1pYVzdkd25QUHpzUHFyd2lxMDZuOC13SktJa1o0bTlQcjZ2bGsxRXlYeWdtaEJNRG8tWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3609,6 +3782,43 @@
     ]
   },
   {
+    "id": "unknown-2026-09-21-052",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FM spokesperson responds to whether Chinese, US leaders will discuss in Washington China’s rare earth export controls to Japan - globaltimes.cn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE52S200dlB4X0pxR2YtcUNQRFdKd2ZsZ0QyXzREMUZOdWRjME82U3l6Rm01aFYzT3MyeG0xM21RNWFGVklOZ1VZT2JVNFlCRlFMLUFpbmVYd1ZsSGpTdUZDVUNR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52S200dlB4X0pxR2YtcUNQRFdKd2ZsZ0QyXzREMUZOdWRjME82U3l6Rm01aFYzT3MyeG0xM21RNWFGVklOZ1VZT2JVNFlCRlFMLUFpbmVYd1ZsSGpTdUZDVUNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-053",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare earths force Trump to be less hostile before Xi summit - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFphSHItaWdVSWxGblBnWkpyZG41QTNocklrZEZ0aS10YUhud096dVc3SzFJaTRDUlVIQ05hQ3pwSEZzWjY0MU03OGJWMzVHU2xxcUhsS201WXdOaThkVU41NUVBYnlZc3lsbmZ6U1",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFphSHItaWdVSWxGblBnWkpyZG41QTNocklrZEZ0aS10YUhud096dVc3SzFJaTRDUlVIQ05hQ3pwSEZzWjY0MU03OGJWMzVHU2xxcUhsS201WXdOaThkVU41NUVBYnlZc3lsbmZ6U1FiQXAzdmlhRnNFUXYzdzFrQWdhRU9RZUpETUtqOVRHU3hVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "shenghe-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -3845,6 +4055,66 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2lNdzNOMzJtOUhFQ3I1YzRYTEdVenJuOVg1RXpoV0RFZUU5bmhJRG9qMENHdUJOWVhCQ1pVSm51OUNWWWlrZ3g5b0hWcWQ5SWFNVTRPcGxacXRfUElHenlnVm01UGVaaExjQXRLMGpKMnJPcTFWNkZ2dUQ2Z0pXSkJuQXNBeEZ3NXpad3htbkdtUXJQc1hrZFRVQVJMSlEwT0wyUGdZWHJvTlJDa21teGFFSlRLak1lNzFxedIBvAFBVV95cUxNNzNQOUVxZXowak5RaEViRGZKTzA3QWM4YXA0TWoxTlRhRU9QUW1CVm5HSFhtZjVsUkdwQVh2aEJOekhjSHRyNzVudVM1a1p4YzJBVUNyblJNNVZpT2tweDNZZEd3dkNBdEJ5RUV3N01XZWVZRnZvcHdBdHFLWVNzLTNmYXFvQXlTX0JYVXJQNWFYenNLZHNUYVJYMGVuY3NuMU90YXoxeDJPRDl3VTRudlZhTUtuaE9wTlRDbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-09-20-014",
+    "date": "2026-09-20",
+    "companies": [
+      "shenghe",
+      "mp_materials"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say By Reuters - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0N6bXloMERkSnVDRlM2by13NTJNa01fLURiMDM3bndXV3hRV2oyWmRpTlJsVDd2N21IUHV0eXZ5SHA3VExtbW4zTU9ycTRhS2JtbEJxUFd0SGFXaU5LMEFJNEZhbW5UTHF4bFhCT0",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0N6bXloMERkSnVDRlM2by13NTJNa01fLURiMDM3bndXV3hRV2oyWmRpTlJsVDd2N21IUHV0eXZ5SHA3VExtbW4zTU9ycTRhS2JtbEJxUFd0SGFXaU5LMEFJNEZhbW5UTHF4bFhCT0RlYjUyU0NMRURKSHNjaDRHOWhXME04WWxpMVZzaDlETUs2Y251NVcxVnktSDJZZy13NmRQU0VUVmdKMVZTbVBDdnJfaXFDaGdrOC1HTTdMcmthVzlaWHkzWlJITVhQWEJ1cE1kTnpRNmdDQUJMTUtESXF2REk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-09-20-015",
+    "date": "2026-09-20",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shenghe Resources Says Controlling Shareholder Has No Plan To Transfer Stake To External Parties - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOGxNZDBKa3hzZFpuc3pWRl9qd09KWmZtWlU4SENobTI3X0h1VTZJSzhQeDJON0V4MlJZVHIxTDJFSk5DLXNleU1qNlVxT3F6TFhIak15QjZIOUE1di1ZOVlCYlZjMVA1c2dVWlh2LW",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOGxNZDBKa3hzZFpuc3pWRl9qd09KWmZtWlU4SENobTI3X0h1VTZJSzhQeDJON0V4MlJZVHIxTDJFSk5DLXNleU1qNlVxT3F6TFhIak15QjZIOUE1di1ZOVlCYlZjMVA1c2dVWlh2LWFYVVdpSnF3aUwxSkhHVlR2cVJ3NXExTktZYnVUc1dXRnlHTTEzYTYtSjZHSUkwS2ZUWVBsaFpiQnU2NVZJd09iRjkybzh6M3ZkYkhtejFGUWR5Uk5hQmpySUFaUmhyZ3Vka3NXdHEwT2UtT0Q1R1FHdVhQMDhzUG85WkQ4S0wtbHBWTWdCTnlXbG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-09-20-016",
+    "date": "2026-09-20",
+    "companies": [
+      "shenghe",
+      "mp_materials"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Group in talks to buy MP Materials shareholder Shenghe Resources, sources say - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZy1CUDQyT0lSZktEUkdhaE9BWlJrQkdMcHV6bTExZVllNkdfV3gwbmFKOXp4X0NCdDA1a0w1MF9CZ1BFYlNidlJwSTB5enQzRFpCY1Y3MW43TXJRaUUtc2ZFWVlzSzliaE0waU5ZaF",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZy1CUDQyT0lSZktEUkdhaE9BWlJrQkdMcHV6bTExZVllNkdfV3gwbmFKOXp4X0NCdDA1a0w1MF9CZ1BFYlNidlJwSTB5enQzRFpCY1Y3MW43TXJRaUUtc2ZFWVlzSzliaE0waU5ZaFVUbzBmSHY4MWpNTWlKX29pV0xNMUxrTG5YRFdBT3JNcHNrMk1XREVUZ3pvUy1NZUVpbHdKUmg0Q0xZakNGY0ZpRHl2TzM3NW0wem9pdnM2STE2SmZtT0JOSHNIM1V4RWN4NzY3bWxWcEtjX2tTQlZ0eWhuMUZUcGlxd0gxei1zdWRVXzhiU2c?oc=5",
         "type": "rss"
       }
     ]

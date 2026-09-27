@@ -1,0 +1,16 @@
+{
+  "total_raw": 353,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 23,
+  "gate2_fail": 7,
+  "passed": 14,
+  "gate2_samples": [
+    "Vital Metals Says Avalon Alleges Cheetah Breached Co-Ownership Agreement - tradingview.com",
+    "Vital Metals Provides Update on CAD$16.8 Million Arbitration Dispute - Finance News Network",
+    "Bruce Campbell's Past Picks: Cavvy Energy, NEO Performance Materials & Kraken Robotics - bnnbloomber",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
