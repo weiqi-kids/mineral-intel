@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-29",
+  "total_events": 19,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "mp_materials": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": -0.06
+    },
+    "critical_mineral_policy": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "magnet_supply": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lynas",
+      "to": "mp_materials",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

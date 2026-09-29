@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 21,
+  "gate2_fail": 11,
+  "passed": 29,
+  "gate2_samples": [
+    "Vital Metals Says Avalon Alleges Cheetah Breached Co-Ownership Agreement - TradingView",
+    "Vital Metals FY2026 Report Highlights Tardiff Scoping Study with US$445M NPV and A$12.47M Capital Ra",
+    "Vital Metals Reports Tardiff Scoping Study NPV of US$445M and A$12.47M Capital Raise in FY2026 Annua",
+    "Vital Metals Lodges Final Director's Interest Notice for Andrew Nesbitt - kalkine.com.au",
+    "Vital Metals Submits Appendix 4G Corporate Governance Report for FY Ending 30 June 2026 - Kalkine Me"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:30:08.416671Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-09-29-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Gina Rinehart Rare Earth Loss: A$680M Paper Loss on MP Materials, Lynas - News and Statistics - IndexBox",
+      "companies": [
+        "lynas",
+        "mp_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnFvZEpjR2FOSUZpa29kNW94cDQ2b2RjWTBJR1pNYTYzNm9GdEpsYmFHbS1hX2E5NHBySExHdTVYWksyWTh1NS1mRnpHWmp0eEdWVWpzR1A4QnJpeUlCU2swb2JVWFVMY0w2aHBNX3lZVFA1Z3Y2aGtqaFRWVHl0Nl8wSk8zYXN0ZkZfOHFLOWZFczMtd0YtVG85aFN1WVVGNlZFemlWOVNNcEZLUFVoUHE2YjhwS0ZDWDAtMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-09-29-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Rinehart’s rare earth stakes take $478M paper hit",
+      "companies": [
+        "lynas",
+        "mp_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/rineharts-rare-earth-stakes-take-478m-paper-hit/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rinehart’s rare earth stakes take $478M paper hit - Mining.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mckFkVGFLclRmZWthOFJ2UEhFN0pSekZKMmZLQ0x2cnR2Z1l1UGpBWWVDV0xrZ2dXYnlDM2YxM3U5cVlkNmZzTER3UXplRnRNTTFPZUFDWkwxQ01uWTJkaHNGX19FVEhyY1lxRmhHejBxZDBKMG5rc2g1aw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ACREI 316 Members China Rare Earth Ecosystem Explained - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlaS1DYUs2bUNKRFBlLWxFNDZidE9ZZjVKZ1d2eGJKcV83T3BiUFRHZE9pMkpwSXF3LURzNnFHTW5SVU5DRVVFRnZSWVVwVEk0Nm1tYTZrdmJxRlczN0MwQWs4U2VYZm1LU2x6eko3UkVPMUk5dnJxMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-09-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura continues falling. Buy the dip or switch out? - Livewire Markets",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlJVWDgwTmhhUWVwdEUtTmlyeTVsMUhPc3NaMWpPZDdnRlZQN3dzSXpVbGhSejVMd05xblV2N0dwbXpIc01IdnZZdHlXd0J2TVFEcGdVQ2xZX1h3aWMtaXBOci0zNnZnN0duUjIydnZKeXo4ZGMwUlh6VXdRdG14MWJmNXF4cEl5eXc1dkVWOHdIcTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lynas",
+      "to": "mp_materials",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "mp_materials",
+        "count": 2
+      },
+      {
+        "id": "neo",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 172,
+    "too_old": 118,
+    "gate1_blocked": 21,
+    "gate2_blocked": 11,
+    "passed": 29,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Vital Metals Says Avalon Alleges Cheetah Breached Co-Ownership Agreement - TradingView",
+      "Vital Metals FY2026 Report Highlights Tardiff Scoping Study with US$445M NPV and A$12.47M Capital Ra",
+      "Vital Metals Reports Tardiff Scoping Study NPV of US$445M and A$12.47M Capital Raise in FY2026 Annua",
+      "Vital Metals Lodges Final Director's Interest Notice for Andrew Nesbitt - kalkine.com.au",
+      "Vital Metals Submits Appendix 4G Corporate Governance Report for FY Ending 30 June 2026 - Kalkine Me"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為萊納斯、MP Materials、Neo Performance Materials相關動態：「Gina Rinehart Rare Earth Loss: A$680M Paper Loss on MP Ma...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Gina Rinehart Rare Earth Loss: A$680M Paper Loss on MP Materials, Lynas - New...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rinehart’s rare earth stakes take $478M paper hit（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
