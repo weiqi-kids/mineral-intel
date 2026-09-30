@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-30",
+  "total_events": 14,
+  "by_company": {
+    "north_rare_earth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hastings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "critical_mineral_policy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
