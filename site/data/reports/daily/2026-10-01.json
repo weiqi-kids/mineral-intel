@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:58:32.355908Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-01-030",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Rare Earth Export Controls Machine Learning Early Warning - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "china_export_control",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdENNZXNNNVlYbUhFSGlMbE9Ra19fNVlBZ29qenZmUmRWSXZTV3Y5eTlYTG8ybmZGSERoTE9BaUVHQkZzMVkzOW5DZm1OdWdpaVVFNmhIbjJNalZnbEM4NlltWGFnN3N5R3djb19pZ0FobGpSbXdDQmRXME12cnpmT1hJUnlfMHN0eUxV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-10-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal - WSJ",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeHl4XzhwNmR0Q3VSUG5XX01wTzFhS3l6QjFGZXpjdlMxNjdUZXZLZkRHM1YyazlJdDRpR3VRSGtRTVlGb1czQkhpaGFjUE1aMWdvU3NWNjl4YWZPa1AxNll4UDNjUFFTSFU4WkluYXc0SzVNaW1LOWwyWUZ0UzR4YmlOaVZ5MGQzV0pFWDhlVEMwdVNzZVhvWUo0T1FTZ1cweEc0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths to buy Meteoric Resources in $672M deal (LYSCF:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVBza0hWU25tTVQtU3BwTzlaZU9LS245YlV2eHpqLW5sTmFwdXUxOWF4UHZfWWpTX1Z6djVNWi1yZDF3NjVEZlRQQ3ZCV29mV0tlLXlNR0YyZ1l2Q0RBVzJQSDNyaHlSa3lPOGRXbzdlRzI2ZlF1elJ0QUpOQTVPd1lpaFd5Q1FHWWlyUG0zazNXSUJJMExqenlR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-10-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gina Rinehart Backed Lynas to Buy Rare Earths Miner Meteoric - Bloomberg.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQak5FWDhZcVhGa0ZQMDlJWlpHTURLaWN5ZVduN0JsR0xnNE9iVk5tTWZsZ1doNzRZd0NzLXNCaUxNMGM3Yk9oT0FybFdlZ20yQ3NQekpkdmpZbWJCLXdpaXk4Tk0tNmJNcXZqS2NCVDZpLTB0S2RoUWtfbV8wS1lpZkRFNGRvNHRvaWVuYnVTN0VsUHhrUFVQQXg5dUJYZ21YeU5fb3Y3ekVMc1lsVzlaLQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-10-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas to buy Meteoric for $968m to secure Brazilian rare earths - AFR",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGQwVWJQVUQ4NzVxZENkTHdvZXU5blJud1ZYZ1d2aUlCWk9sN05JVEp4WjBsRVp5eFEweTZ4OFlYTzNubjM0WUVtVkxaRklfTnlKQ3R1WG5JOGpOal8tNDRQTFkxNzl4djBYV1NZelZzWnM1eGhQU3BKU3VxeUtzZXZkbXJSdlNXXzBDajIyaWRtam9rVzNoREszM1N6dmVwLUFBZ0pwVFEybzR4ZWI5M2cxc1FhRXdRRGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 13
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 352,
+    "dup_title": 138,
+    "too_old": 123,
+    "gate1_blocked": 23,
+    "gate2_blocked": 13,
+    "passed": 55,
+    "pass_rate": "25.7%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Why the market is selling Lynas on its $1 billion Meteoric takeover - Market Index",
+      "Australia's Lynas looks to Brazil with Meteoric Resources takeover bid - Nikkei Asia",
+      "Pretax income of Vital Metals Ltd – HAN:VJF - TradingView",
+      "Vital Metals Submits Appendix 4G Corporate Governance Report for FY Ending 30 June 2026 - Kalkine Me",
+      "Vital Metals Reports Tardiff Scoping Study NPV of US$445M and A$12.47M Capital Raise in FY2026 Annua"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為萊納斯、北方稀土、Rainbow Rare Earths相關動態：「China Rare Earth Export Controls Machine Learning Early W...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China Rare Earth Export Controls Machine Learning Early Warning - Rare Earth ...（中國出口管制、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths to Buy Meteoric Resources in $672 Million Deal - WSJ（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

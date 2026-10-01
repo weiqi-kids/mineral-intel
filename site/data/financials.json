@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T14:28:25.152244Z",
-  "quarter": "2024-12-31, 2025-06-30, 2025-12-31",
+  "updated_at": "2026-10-01T14:58:29.392372Z",
+  "quarter": "2024-06-30, 2025-06-30, 2025-12-31",
   "companies": [
     {
       "id": "arafura",
@@ -37,23 +37,6 @@
       "quarter_date": "2025-06-30"
     },
     {
-      "id": "china_rare_earth",
-      "name": "中國稀土",
-      "ticker": "0769.HK",
-      "currency": "HKD",
-      "ar": 585672000,
-      "ar_prev": 418613000,
-      "ar_qoq": "+40%",
-      "ar_period": "YoY",
-      "inventory": 259457000,
-      "inv_prev": 203068000,
-      "inv_qoq": "+28%",
-      "inv_period": "YoY",
-      "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2024-12-31"
-    },
-    {
       "id": "energy_fuels",
       "name": "Energy Fuels",
       "ticker": "UUUU",
@@ -78,11 +61,11 @@
       "ar": 266800000,
       "ar_prev": 268100000,
       "ar_qoq": "-0%",
-      "ar_period": "QoQ",
+      "ar_period": "YoY",
       "inventory": 732000000,
       "inv_prev": 839400000,
       "inv_qoq": "-13%",
-      "inv_period": "QoQ",
+      "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": false,
       "quarter_date": "2025-12-31"
@@ -160,17 +143,17 @@
       "name": "Pensana",
       "ticker": "PRE.L",
       "currency": "GBP",
-      "ar": 27529,
-      "ar_prev": 36413,
-      "ar_qoq": "-24%",
-      "ar_period": "QoQ",
+      "ar": 39817,
+      "ar_prev": 34756,
+      "ar_qoq": "+15%",
+      "ar_period": "YoY",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2024-06-30"
     },
     {
       "id": "rainbow",
@@ -178,15 +161,15 @@
       "ticker": "RBW.L",
       "currency": "GBP",
       "ar": 377000,
-      "ar_prev": 371000,
-      "ar_qoq": "+2%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "ar_period": "QoQ",
       "inventory": 1000,
-      "inv_prev": 1000,
-      "inv_qoq": "+0%",
-      "inv_period": "QoQ",
+      "inv_prev": 718000,
+      "inv_qoq": "-100%",
+      "inv_period": "YoY",
       "inventory_applicable": true,
-      "alert": false,
+      "alert": true,
       "quarter_date": "2025-12-31"
     },
     {

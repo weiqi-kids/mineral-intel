@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-01",
+  "total_events": 30,
+  "by_company": {
+    "lynas": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "north_rare_earth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rainbow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": -0.05
+    },
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
