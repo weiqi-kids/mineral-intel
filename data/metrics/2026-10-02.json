@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-02",
+  "total_events": 11,
+  "by_company": {
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "critical_mineral_policy": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
