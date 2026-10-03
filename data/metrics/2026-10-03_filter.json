@@ -1,0 +1,16 @@
+{
+  "total_raw": 354,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 23,
+  "gate2_fail": 12,
+  "passed": 17,
+  "gate2_samples": [
+    "Why the market is selling Lynas on its $1 billion Meteoric takeover - Market Index",
+    "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+    "Vital Metals Reports Tardiff Scoping Study NPV of US$445M and A$12.47M Capital Raise in FY2026 Annua",
+    "Vital Metals Submits Appendix 4G Corporate Governance Report for FY Ending 30 June 2026 - Kalkine Me",
+    "Vital Metals Lodges Final Director's Interest Notice for Andrew Nesbitt - Kalkine"
+  ]
+}
