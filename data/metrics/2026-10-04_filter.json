@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 23,
+  "gate2_fail": 13,
+  "passed": 9,
+  "gate2_samples": [
+    "Australia's Lynas looks to Brazil with Meteoric Resources takeover bid - Nikkei Asia",
+    "Why the market is selling Lynas on its $1 billion Meteoric takeover - Market Index",
+    "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+    "Vital Metals Reports Tardiff Scoping Study NPV of US$445M and A$12.47M Capital Raise in FY2026 Annua",
+    "Vital Metals Lodges Final Director's Interest Notice for Andrew Nesbitt - Kalkine"
+  ]
+}
