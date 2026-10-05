@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 19,
+  "gate2_fail": 7,
+  "passed": 29,
+  "gate2_samples": [
+    "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc Share Price - UCU, RNS News, Articles, Quotes, & Charts (CVE:UCU) - Proactive ",
+    "Diluted shares outstanding of Ucore Rare Metals Inc. – HAN:U9UA - TradingView",
+    "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada"
+  ]
+}

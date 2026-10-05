@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:39:53.154488Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "neo-2026-10-05-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Neo Performance Materials Stock Under Pressure After 4.68% Decline — Is Rare Earth Momentum Losing Steam? - kalkine.ca",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONnBGXzFIVUxiSndyYnFaQ1M3MF9QTWVOTW9nekFuQlg3a3l1LTJjQXBrNmlHOEt3U3RZTWNNMWVfNjh3MzcxWnRFWV9DY2dpY0d4dXhMRzV5UmZacDBXQ2tJX3pzOU04ZTVKbkRBcmMtWHdlcDV2bTFzMDlkT3pHb2xCNU5iUlExS3NrTUxpeWw1RDUteVNvbTBGM0drdnpPcHNwei0xZm5meHY5Z2hoOFZHV0tKNUdyOGlsRXVWQ1B3VHhWel8xMUJFdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arafura-2026-10-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Will Arafura (ASX:ARU) Close Its Nolans Funding This Month? - Kalkine Media",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFJMcUVHZjVMZnFxM2Ywcjhnekpkb242YWpCQlJvVTFnN0k2OFRDbnVtSkxsSklOSjRZWHRNaTNqczJHQ0pTc0tNRkRrUV9SQk9rcTVaRXhjelJHM3lnYVhramdSZFRHMFk0OUF0MTZUeWFldl9vdDJKTElQLXdjZXppUzg5SEZzY2tSUGl6NllVSThpLV9tUEdwRzQ2bFJ0WG9pa0hBcDBmZUhjR2o4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vital-2026-10-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vital Metals (ASX:VML) Rises 5% as Rare Earth Strategy Returns to View - Kalkine",
+      "companies": [
+        "vital"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGxPbVVKQ1hvMjZyMS1MRnNxNW9URVVZdmt5dnJubjgzY2Y5T0Rma0VfQ0RTS1JPVVVLYmFFZUl5a3JLanR4VjZDQmdLVzdnM01tTXFwaWNDLU0yYkgyVlJjUmpWN1poMGU4N2JxN1BoaF9QdTRYaEIxSGh0a0NBTXhvMmFFTXVXMEV6Z0ZySS1aVlRmbnEwdGI3eHlGZmIzLXQ4ZDNsSnFpTk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "neo-2026-10-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Narva Magnet Plant Commercial Output - Rare Earth Exchanges",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanh5c2FjRHFrNDlONjZOajlORTNjcFRZWGdoOG8xZU0zcnlmWkFjazF2VG1Cb1FLeEJ0Tmk1dzlIZ25OMGhGSDJqUVJiR2xnemN3RkVGeDVPUmNUaGRxOFR3WGM3VmFQLUczMmFwUW9DWmlmckVNbXNMWXB4Tnp0SXl3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto, Founders Factory back five mining startups",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/rio-tinto-founders-factory-back-five-mining-startups/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "vital",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 169,
+    "too_old": 134,
+    "gate1_blocked": 19,
+    "gate2_blocked": 7,
+    "passed": 29,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+      "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc Share Price - UCU, RNS News, Articles, Quotes, & Charts (CVE:UCU) - Proactive ",
+      "Diluted shares outstanding of Ucore Rare Metals Inc. – HAN:U9UA - TradingView",
+      "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Neo Performance Materials、Arafura Rare Earths、Vital Metals相關動態：「Neo Performance Materials Stock Under Pressure After 4.68...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Neo Performance Materials Stock Under Pressure After 4.68% Decline — Is Rare ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Will Arafura (ASX:ARU) Close Its Nolans Funding This Month? - Kalkine Media",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
