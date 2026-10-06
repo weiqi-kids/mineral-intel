@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:37:41.681369Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-10-06-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas Rare Earths (ASX:LYC) Shares Fall Over the Year Despite Record FY26 Revenue and a Return to Substantial Profit - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2xhdDhtRzVucjY4WGhxZGJfdTJGWFJkV25aVzhXMVlMU3RPQWhrb1ZjbUpXS1lVNDZEZ2VyYWEyUVRKOEJNOEtCUEtmQmpIZjF3Q2tuX0RWNFdkcmRXaWl4eW82UjAyWko2ZnBEX3hRTzBvZjhqcTNaTTVETjc2cEFBZHFvSEFYOTVvSm1pUWZObU1OWkhCSHBkY1ljMmpHeVZIRUtQOXFvU3duelZqS3ZsZHJYU2JlbmkwQ1hCRmg2V3UtcjlnSktFZC1GaG9MZFZaWnlVMkY3b2ZsZ0ZFSFctUTcyeXUzeExSUldFOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rainbow-2026-10-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As US interest builds in Phalaborwa, Rainbow Rare Earths eyes American listing - news24.com",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkY2VjVFLTI1LWI2VGZjWV8tYmxCME1mVDhXTDVWZXNXckxYdWo5ejdmdzhVaWdPTndfT2pQNTEyVFQ5TC1waFM1TFFLWHRHamZUWjhwcUlnOUNoTm5vVGM0RlhPcjhSYnZHMzE3eldTMjA2RzYyVTFScncwakQzaDFPZERTeDJnckp0UXJPdVpZbE9iS0duNjdKLVBVbDZ1cHBmTGZIejdZSzdaMHNrWGJGakx3TWlZQ2ZWYzdjOUtFck0wR2pSbVMwd0R6RDhfbUZJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nuvau sees lower capex for Matagami",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/nuvau-sees-lower-capex-for-matagami/1003895467/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Greenland Approves Tanbreez Rare Earths Mining and Closure Plans Through 2050 - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkc3U3lEM2dBMERCby1MMFBtS3FsVW9KUmNHWkFaSG1TcE9fRWxEcmlDQ000UlRpRjhXMkhiUmdGTmkwQ3JId08zMWd6ZGFZaWlCMkpMLWQ5VXIwaFc5TDN1OTA5RU1BdkJOQlBxcDY2TGEtc3B0YTBmclNOMDNvU2JFVjBzdi1acGNCenpkVGgxRjc2d3BJYkx0T2lBcFNYTWdQd1pmVWcyeEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BCM acquires inputs company to supply US$74 million rare earths project in Brazil - BNamericas",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEx4RFVjWlRsSjdsb2xpc3BQd3RPY0lZOG9IaEoxY0ozdWl1anptUDMyb2pGdURTOXF3T2VUSktBaUpzQU1KN3JxdGwxWGI2SGZMUTBBamsyVWNvYk1UZnhjc0thM1VLekRxYjVwWDdzSlBjbEtITEFERzBQbUVIT3EtN3NMVWtPM2ZGZ3BNY0JYMzJwOV9MSkpqejRQc0lmYm5xeXdhS01tS3h6b1JodnZVZGNYZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 173,
+    "too_old": 130,
+    "gate1_blocked": 20,
+    "gate2_blocked": 5,
+    "passed": 30,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+      "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Diluted shares outstanding of Ucore Rare Metals Inc. – HAN:U9UA - TradingView",
+      "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc (U9UA.DU) Stock Forum & Discussion - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為萊納斯、Rainbow Rare Earths相關動態：「Lynas Rare Earths (ASX:LYC) Shares Fall Over the Year Des...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Shares Fall Over the Year Despite Record FY26 Rev...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "As US interest builds in Phalaborwa, Rainbow Rare Earths eyes American listin...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
