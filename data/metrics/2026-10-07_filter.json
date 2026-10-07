@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 23,
+  "gate2_fail": 6,
+  "passed": 21,
+  "gate2_samples": [
+    "Is Arafura (ASX:ARU) Nearing Nolans Finance as Shares Slide? - Kalkine Media",
+    "Free cash flow per share of Vital Metals Ltd – HAN:VJF - TradingView",
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Forum & Discussion - Yahoo! Finance Canada"
+  ]
+}
