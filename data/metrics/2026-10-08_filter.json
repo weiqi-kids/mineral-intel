@@ -1,0 +1,15 @@
+{
+  "total_raw": 355,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 22,
+  "gate2_fail": 4,
+  "passed": 38,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Forum & Discussion - Yahoo! Finance Canada",
+    "Neo Performance Materials (TSX:NEO) - Stock Analysis - Simply Wall Street"
+  ]
+}
