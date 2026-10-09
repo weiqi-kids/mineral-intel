@@ -1,0 +1,15 @@
+{
+  "total_raw": 358,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 26,
+  "gate2_fail": 4,
+  "passed": 27,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Forum & Discussion - Yahoo! Finance Canada",
+    "Neo Performance Materials Stock Falls 8.46% as Market Uncertainty Raises Downside Risks - kalkine.ca"
+  ]
+}

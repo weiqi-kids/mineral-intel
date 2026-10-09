@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:50:25.448809Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-09-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UK scientists turn to biology in search for cleaner lithium",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.northernminer.com/news/uk-scientists-turn-to-biology-in-search-for-cleaner-lithium/1003895598/"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-10-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Lynas Rare Earths (ASX:LYC) Overpaying for Brazilian Clay? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBBaWJJaFJKcWQzc2ZfbE13X2k1c3hESVRNLWVLLW9qaVprQ21YLVpMcXJUdUpkYUtjY0VxaFlWVkRBQjB3RHN6LWg5TkNWZVh5dHNsMS1Wb25lNkpLOHMyckplQWRRcndpUk5mYlIzOHlseGx1bFIzQ0stNTBXTUZyRGt4Y09EaWNBUkhUS3BIMWdaSGp6NUV6VkIzVEE2OXRXdVNQRnhRbjhncHZ0OGln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-10-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Did Arafura Rare Earths (ASX:ARU) Extend a Binding Offtake Agreement With a Wind Turbine Maker? - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0hvQ1dKRGhKMW0xRWxyWU1nZ3kxRTl6ZllWckJidWRqV1ZMZjRmTDBoVDVLQ2k2VTNjMm8takxXVFkxRnU5Znd4YmhUZTEtWEVDSGVLQk82eDFqZGRZOWlJUjBhMlc1WHR4eUlVX0IwTTlTTC1PbWFZY0NHbnVhSEg4cGx1TDhHekxyVlVubU5WMnlUTG5kajlzYXVqcGVaLXRNWmxxd3lmWWpNTzNPTXZnYXdFbWNHR1JlaTA4Nk5yOG1GX0pQcTRoR0g3WFBsdVJpdEVhbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arafura-2026-10-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Lays Nolans Foundation Stone as Market Frets Over Three-Year Build - AD HOC NEWS",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdVNOSlVSREFLanpjUGN2UW1Xd0ZOM3lwQzhNMnhkVzJOaFVIdUFIUnFOcVBlQmUzZHpnNGhENTBrQXFJdWZHSTFad09GWXA2OFBnc1JuNGllbGZIeGxEc1Z5SU9mWnJVYkxoR3QzdlU5SjEyaThRam4xZlgtNFFyNDJPUnpyN0s3WmZ1WXRMTUxLRy1DUkRHdjF6V3pUMDBiT1pDY2tvTV9hUjJ3TGk1U1JSdk1pUTB0Umh5QXJMbGJTRnRZaVZNUEdmNWpyRFlsdGlIUmliaGk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-10-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nolans breaks ground as Arafura faces next investor test - Australian Resources & Investment",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWtWRUFfREdqeno3ODI2ZjFjQVZLeU9jSUFncEg1QzM2X2s5cUdlNGlOUFF3SUtlTTRSWUVHOVhIdWRMNW1ETXM1R2h6RFVjSkQ1M3FjOUtfRXRxR2FLaXppYnNjbVQxVUM2a3BXRm1jLVl2NWFfbkd0aGtsOGVrSElwS2ljejRHLW5Bdkl6WTVFQVA1cUJHSktJYm1vUDNCTGRvbWhFWmN4cEI3TWRMWUxqVHRfVGFpZEE1dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 4
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 174,
+    "too_old": 127,
+    "gate1_blocked": 26,
+    "gate2_blocked": 4,
+    "passed": 27,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc (U9UA.DU) Stock Forum & Discussion - Yahoo! Finance Canada",
+      "Neo Performance Materials Stock Falls 8.46% as Market Uncertainty Raises Downside Risks - kalkine.ca"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Arafura Rare Earths、萊納斯、Hastings Technology Metals相關動態：「UK scientists turn to biology in search for cleaner lithium」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK scientists turn to biology in search for cleaner lithium（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Is Lynas Rare Earths (ASX:LYC) Overpaying for Brazilian Clay? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
