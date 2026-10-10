@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 23,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc (U9UA.DU) stock price, news, quote and history - Yahoo Finance UK",
+    "Ucore Rare Metals Inc. Faces Renewed Selling Pressure as Bearish Momentum Raises Correction Risks - ",
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc. (TSXV:UCU) Climbs 2.72% as Positive Momentum Draws Investor Attention - kalki",
+    "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada"
+  ]
+}

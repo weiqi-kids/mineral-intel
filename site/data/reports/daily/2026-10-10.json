@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:08:07.743703Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "north_rare_earth-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth Q4 2026 Concentrate Price Explained - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlhJaUl3bHlIaUliMFNsa3J3YW1NQU9vVkphZG1tM2UtdXZ5UHJ3MjVMeHhaQl8tMmtjQ1JMOHo2SzJ0UXk2TnA1WEtlSVk4elJiMUhPMFlZUnhVNVo2aENjZXJKMmstZURNT0xMengwZXdhc2dpUjFYaC03YzJvOWtOaWs1bGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Baotou Rare Earth Exchange National Pricing Push Explained - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOENpcGlvNlhHYlVvOS1OeFZvTXNrZ1g4dXJWYjUwZEhVSUFBZ0NzMEZaUEd0YkthV2FJQmo0Z1NVRTJwNzAtallmZndDZ3k3Q19FNHhsczZHM2tsVjlQdVBsMWhoUC1GZWJYczdSd0RKNGdPOXRTNFhCZW9PNDlXOQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "north_rare_earth-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth Expansion Materials 2025 - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlBWczdobFJSUkhlT0dqVXZpYXp6SmhyUUR4dVRjQWs3WVZuT0JGcENwX3JHa0FQenBQbEVFVmY3QTRhc2VpN0V6S3BXdUpUN0pOSm9JRDNFdzFrUHR6Tk9uaTBEZHNxdWh1ak9yYjFlTVA2UXl0dHhvZzloUGRMQUNac20wUTdSdmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Earth Supply Chain West vs China Progress 2026 - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3UyYTI1MWNWaUZFbXR6TW16dC1YajZZQVJKUXlZQVdpSVBLX2FSbF9Gby00TEhSMTFGQ1lBd1JZRFYyUnZkQzlhMEZkb2VOTkFTTkhDNTV5YmVETkgyRGRuQ0tfT2N6NWhXYXBjNEp2b3JOYUZKUW0zSzMzcGFnaU1n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 179,
+    "too_old": 130,
+    "gate1_blocked": 23,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc (U9UA.DU) stock price, news, quote and history - Yahoo Finance UK",
+      "Ucore Rare Metals Inc. Faces Renewed Selling Pressure as Bearish Momentum Raises Correction Risks - ",
+      "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc. (TSXV:UCU) Climbs 2.72% as Positive Momentum Draws Investor Attention - kalki",
+      "Ucore Rare Metals Inc (U9UA.DU) Options Chain - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為北方稀土相關動態：「China Northern Rare Earth Q4 2026 Concentrate Price Expla...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Northern Rare Earth Q4 2026 Concentrate Price Explained - Rare Earth Ex...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Baotou Rare Earth Exchange National Pricing Push Explained - Rare Earth Excha...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
