@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-12",
+  "date_range": {
+    "start": "2026-10-06",
+    "end": "2026-10-12"
+  },
+  "generated_at": "2026-10-12T17:11:30.682196Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mp_materials-2026-10-07-012",
+      "date": "2026-10-07",
+      "title": "DFARS 2027 Rare Earth Compliance Lynas MP Materials Ranked - Rare Earth Exchanges",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 92,
+      "last_week": 91,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.04
+    },
+    "critical_mineral_policy": {
+      "this_week": 9,
+      "last_week": 15,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "magnet_supply": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lynas": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "rainbow": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "arafura": {
+      "event_count": 17,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "hastings": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "north_rare_earth": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "neo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 162,
+        "last": 208,
+        "change_pct": -22.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-06",
+      "event_count": 20,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 27,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 33,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-09",
+      "event_count": 32,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-10-10",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-11",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-12",
+      "event_count": 36,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-06 ~ 2026-10-12）共 162 則事件，重點為「DFARS 2027 Rare Earth Compliance Lynas MP Mater...」。礦業產業通用、關鍵礦物政策、磁鐵供應為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊納斯",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Rainbow Rare Earths",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Arafura Rare Earths",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

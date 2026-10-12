@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:11:30.564983Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-10-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas unveils plans to build Brazil rare earths plant - Mining.com (LYSCF:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnNWd1lWZGJQZXVVbldHcHNOZXl0aFBfN0hqN20xYXBjMmJlLUNvMk8wcW10a2RZM1ZXTFZEYkNYMXdYMnM2X3RsV1U2WWhmMjVETWpEODlHQ0FMd2hVQjQyNVQzMVZXaE5IaUpQNTNrMjl1Wk5CdHZMWkt4eWtoX3hsd2VnS2w3cHJONHdLelBEUkw1QVg1QnVucGQ5TEFCbjJpN3NB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-10-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Proposes Rare Earth Separation Plant in Brazil's Minas Gerais - IndexBox",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHE3d3dNeGxHc2RGd2NDX3ZwRUFqRkJ1c0E4WDRSRnV3X1JGbHl3anowYkxNdlNQWW0yeWlsS2lZZzdUMEZGeUVnSUh2ZEEzOF94VzBGdXhDMHpGUDV0SGE1UmN6MHdPM0VSQk5fWmVoYmdCdTNYckNpeUpfdE1CYUF0NFJWYVFkVFJHNzVMMEVjWW0yanFDUkZ1V2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-10-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas plans Brazil rare earths plant with state support - Mining.com",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzl6Q2xTcXJXeC1mX3lCMFF0VE90WmlIUlJsemd3YUNjWUM5dnltckM0M215QmVvMmtqbnFuX3hReW9mX0ZDMlN5M1ZQVDhzV3l1V1BnTjJxaGZVS1FxY252ekpoR2licHlWSVRvbHRfMEJmMzRYSjRYcmZHOTYyMFh1NVM4QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-10-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Brazil Separation Plant Meteoric Deal Explained - Rare Earth Exchanges",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmRKUGJSZDlOQ09iby14dE40XzlmdUtBWEtIZ1ZrdDRka0J5RUxUMVctWTJycVFuU0RQd0xoTjhPNVJ4NGNtMzdTZFF4d2drOUdlcExjcjNIUXRLX0J6QjB4Q24wR0RWZjQ3YTBwZ0FjNU15RXppWjNldlpyZkJ3bDM0SEJTdGRJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "north_rare_earth-2026-10-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Sees 9-Month Net Profit Up 135.0-138.8% Y/Y - TradingView",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRjFUSkdmT1dYWVE1UzVYdWVzTDdDalM3NXlBNThqWG94WWt2VWRONXU4SGxMbzZXTnVVRVFfSzJ5ZU5yclNEMFRMNEZxTk1nMllNdnVHQkNvbDJVWlY2cnhKekhaVzhZSmRNYVN1U0xjUkFLM25OZzZYTHpkZmpGVzgzRVJlR2pmcWk2cWI4SV9US1FIT0ZUMjVmdUFHTmhFZ0xfNGh0cmJLSk92VDhUbC1XUGtYTXdxWFdVeEVlSUkxeW9uX1UxTG00ZEpDYnhBNVBJOUNKZEE2dzJIZHNxeTlfSmpSN1NFNUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 10
+      },
+      {
+        "id": "lynas",
+        "count": 5
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 5
+      },
+      {
+        "id": "neo",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 160,
+    "too_old": 123,
+    "gate1_blocked": 20,
+    "gate2_blocked": 8,
+    "passed": 42,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+      "Ucore Rare Metals Inc (U9UA.DU) stock price, news, quote and history - Yahoo Finance UK",
+      "Ucore Rare Metals Inc. Faces Renewed Selling Pressure as Bearish Momentum Raises Correction Risks - ",
+      "Ucore Rare Metals Inc (U9UA.DU) valuation measures and financial statistics - Yahoo Finance UK",
+      "Ucore Rare Metals Inc. (TSXV:UCU) Climbs 2.72% as Positive Momentum Draws Investor Attention - kalki"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為Arafura Rare Earths、萊納斯、北方稀土相關動態：「Lynas unveils plans to build Brazil rare earths plant - M...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas unveils plans to build Brazil rare earths plant - Mining.com (LYSCF:OTC...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Proposes Rare Earth Separation Plant in Brazil's Minas Gerais - IndexBox（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
