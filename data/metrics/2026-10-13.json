@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-13",
+  "total_events": 20,
+  "by_company": {
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "north_rare_earth": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.03
+    },
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,80 +1,80 @@
 {
   "mp_materials": {
     "earliest": "2020-06-22",
-    "latest": "2026-10-12",
-    "count": 1585,
+    "latest": "2026-10-13",
+    "count": 1586,
     "history_complete": true
   },
   "lynas": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6813,
+    "latest": "2026-10-13",
+    "count": 6814,
     "history_complete": true
   },
   "north_rare_earth": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6609,
+    "latest": "2026-10-13",
+    "count": 6610,
     "history_complete": true
   },
   "iluka": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-12",
-    "count": 6813,
+    "latest": "2026-10-13",
+    "count": 6814,
     "history_complete": true
   },
   "energy_fuels": {
     "earliest": "2007-03-19",
-    "latest": "2026-10-12",
-    "count": 4924,
+    "latest": "2026-10-13",
+    "count": 4925,
     "history_complete": true
   },
   "arafura": {
     "earliest": "2003-11-04",
-    "latest": "2026-10-12",
-    "count": 5812,
+    "latest": "2026-10-13",
+    "count": 5813,
     "history_complete": true
   },
   "hastings": {
     "earliest": "2008-02-20",
-    "latest": "2026-10-12",
-    "count": 4717,
+    "latest": "2026-10-13",
+    "count": 4718,
     "history_complete": true
   },
   "vital": {
     "earliest": "2005-10-10",
-    "latest": "2026-10-12",
-    "count": 5314,
+    "latest": "2026-10-13",
+    "count": 5315,
     "history_complete": true
   },
   "pensana": {
     "earliest": "2020-07-06",
-    "latest": "2026-10-12",
-    "count": 1584,
+    "latest": "2026-10-13",
+    "count": 1585,
     "history_complete": true
   },
   "rainbow": {
     "earliest": "2017-01-30",
-    "latest": "2026-10-12",
-    "count": 2451,
+    "latest": "2026-10-13",
+    "count": 2452,
     "history_complete": true
   },
   "ucore": {
     "earliest": "2007-10-25",
-    "latest": "2026-10-09",
-    "count": 4758,
+    "latest": "2026-10-13",
+    "count": 4759,
     "history_complete": true
   },
   "shenghe": {
     "earliest": "2003-05-29",
-    "latest": "2026-10-12",
-    "count": 5721,
+    "latest": "2026-10-13",
+    "count": 5722,
     "history_complete": true
   },
   "neo": {
     "earliest": "2017-12-08",
-    "latest": "2026-10-09",
-    "count": 2217,
+    "latest": "2026-10-13",
+    "count": 2218,
     "history_complete": true
   },
   "asm": {
@@ -91,8 +91,8 @@
   },
   "etf_remx": {
     "earliest": "2010-10-28",
-    "latest": "2026-10-12",
-    "count": 4012,
+    "latest": "2026-10-13",
+    "count": 4013,
     "history_complete": true
   }
 }
