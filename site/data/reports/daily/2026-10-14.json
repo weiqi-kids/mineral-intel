@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:13:10.540406Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mp_materials-2026-10-14-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Critical Metals Rises 4% on Trump's Greenland Mineral Exploration Plan; USA Rare Earth Declines 3%, MP Materials Slips 2% - 24/7 Wall St.",
+      "companies": [
+        "mp_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR1ZZcTFyOUZjamdyZlNqTm9OemE3SEhCcUsyVm5DWGhyNW1jaWI0SjlGLXdrY0ZmT044Tnl6TzNjeWVMbnFtNjBfYlNlLXlzdUdnZ3dEQ0NDU3lyYlFVaTN0Q1g0UlNXWk9HTEZaYVluck9lSlBBTi14RFpUUkloUUhucXF5VUJqU1lBVWU3WmxDM0lJaDFtUnZSYV8wNWxXbUdCX0luUy1HVDYtMWxXNjlMRW1rSVJFbkFkMVNGV2l5QU5ucU50dzVlWS1ySlhqdXhZZ1B3UjZWVkpNMlYtQ3UyeTZzX0VnUDdRYWEzMHY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Re-Releases Amended 2026 AGM Shareholder Letter With Corrected Registry Link - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVJSSFllaVliM21Pb3h0VDJFSXgyXzBxUVNnU0N3ZGgzV05XS3lySE1VV1FtLVVxZWszWDFoNFNaaTRKU1lhNE5UY09qcVFHZ1ZPYmt2dkRvenBJU2s0QnFYSS1RVFA5UnRDa09hb2NkMUFNa1NNQ1lEYU1WSjhZcEx0Q1pEQXpVTVlWVlVoZUsyZVY5eTJGX2NfQklvV0QtX1pWN3daU1JHdFJQVDdqV3ZNYkl1X2x2V1FyU1BZMG5MQjdOcldsSFZlSG42N1ppekE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-10-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Non-Executive Director Grant Murdoch to Retire at 25 November 2026 AGM - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1ItZE5hYUFveWJIc3c0dllmV0RLZVBtSE1qaVZOQktTZFQ0STRXSGhqeDdhWkVXemZFbEliRHhZWHpwNFhDcXZtT3FNNE1EQkRDSkZuUmRaN0FuOG5qMzhWS2NJTDNxUDJfN0I2ZXlYN3RORktpbXNjNDctd3pZNVhuSnFkRkJQWTFEem4yMmlPbHZHLUpjeHZlcEpkNDkwREZWUHo3dVVabGJULU1MNGNVXzB1UlQtTzNLa2dXSWtxWkJCNzlXLVh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "north_rare_earth-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fujian Longyan Rare Earth IPO Firm Backed by BYD and China Northern Rare Earth - Full Details - 36Kr",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMQkNCQTRwLUpJN3h2RUpGZTc5TW5tbWdkTmRyMmZfblRIUC15ZVBWclJFYlpNcXY0cm5Nc21jd1FLb1ZiLVc2b1JZVzFSS2ZzSDZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-10-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths: Nolans Build Begins as Sector Sentiment and Index-Linked Pricing Set the Terms - ad-hoc-news.de",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFFDbjB1cGxiaVVqbk54UkMxQnNOYVB4c2hQUjNaekc5bVlzRXFvakk4cmlIU0hrd1BGWjRGaVlLR1Jqc2VaYUFLNi1jSHlJdnNJVUljV1psam5HWldtR2JfeE9TZG5WaGg0RGZzVHlTVlN5b3VqWXNkYTFFWFZLN0VGRUJMdWY4cC1ic1hCVGR4cE9oS2gwRDFuRnNKbUIzRVNEaGM0YjN5MjVlUE5YSXZsTTFXRTdnSlptRkRPbVlFYlFBdzg1WVR4el94Q1hX?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "neo",
+        "count": 2
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 180,
+    "too_old": 121,
+    "gate1_blocked": 18,
+    "gate2_blocked": 10,
+    "passed": 25,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+      "Ucore Rare Metals Inc (U9UA.DU) Income Statement - Yahoo Finance - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc. Faces Renewed Selling Pressure as Bearish Momentum Raises Correction Risks - ",
+      "Ucore Rare Metals Inc (U9UA.DU) valuation measures and financial statistics - Yahoo Finance UK",
+      "Ucore Rare Metals Inc (U9UA.DU) options chain - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為萊納斯、Neo Performance Materials、北方稀土相關動態：「Critical Metals Rises 4% on Trump's Greenland Mineral Exp...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Critical Metals Rises 4% on Trump's Greenland Mineral Exploration Plan; USA R...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths Re-Releases Amended 2026 AGM Shareholder Letter With Correc...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
