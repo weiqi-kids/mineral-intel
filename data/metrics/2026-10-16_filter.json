@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 19,
+  "gate2_fail": 11,
+  "passed": 35,
+  "gate2_samples": [
+    "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+    "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Income Statement - Yahoo Finance - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) valuation measures and financial statistics - Yahoo Finance UK"
+  ]
+}
