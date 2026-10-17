@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:54:11.960001Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Greenland’s Parliament Votes Unanimously to Ban Seabed Mineral Mining - NAI500",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1NwU0FBM3ZPTjV2ZDd5Yks5a3pOY2p6aE5leFpIWWRRQkNGaE5WZnlmN0VwbFhFNDNoXzRPUHBVUVJjVFBXaFhKdmlnNFRnTVZXWnZzU3dtMTg0aTc1emx4Q1hQaGhuVVBFd3pRTjl1YWQzWjYwem40WVlpTXo0YzlZWDE0Rjkyb0pQRGhmS1R3Q1MySUFHV3RBSHlCY0ktdkNv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 355,
+    "dup_title": 193,
+    "too_old": 118,
+    "gate1_blocked": 21,
+    "gate2_blocked": 8,
+    "passed": 15,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+      "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK",
+      "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc (U9UA.DU) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc (U9UA.DU) Income Statement - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為礦業產業通用相關動態：「Greenland’s Parliament Votes Unanimously to Ban Seabed Mi...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Greenland’s Parliament Votes Unanimously to Ban Seabed Mineral Mining - NAI500（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
