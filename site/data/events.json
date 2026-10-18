@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-18-001",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saving Earth vs rare earth mining - The Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0RkYm1mVGRYdElpampNSXo3aERGdVlyUERVanZxZHY2cTRuaEhoS2stclRZVGxXbW90TXlsZXFoNFpxWEdCTlVINjdMWDRWZVhGN3NVdWdUQmFDSXp3aVBzZ0l4cnR0VmE5dWMxSk",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0RkYm1mVGRYdElpampNSXo3aERGdVlyUERVanZxZHY2cTRuaEhoS2stclRZVGxXbW90TXlsZXFoNFpxWEdCTlVINjdMWDRWZVhGN3NVdWdUQmFDSXp3aVBzZ0l4cnR0VmE5dWMxSk8zUXp0SnFRd0NBSXpmc2c1RUFrXzJkTVYzZkgwbWlaSkd1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [],
@@ -13,6 +31,66 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1NwU0FBM3ZPTjV2ZDd5Yks5a3pOY2p6aE5leFpIWWRRQkNGaE5WZnlmN0VwbFhFNDNoXzRPUHBVUVJjVFBXaFhKdmlnNFRnTVZXWnZzU3dtMTg0aTc1emx4Q1hQaGhuVVBFd3pRTjl1YWQzWjYwem40WVlpTXo0YzlZWDE0Rjkyb0pQRGhmS1R3Q1MySUFHV3RBSHlCY0ktdkNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-17-002",
+    "date": "2026-10-17",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths (ASX:LYC) Could Be 1% Undervalued After Caldeira Project Move - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdlNtUktvUkFjd0l5WnY2ajJqVnMyRklyQ28ya1RoY2RFMTNqYmpPTFFpSnIyMUgwMW5rZzlwMjBTemRaU211aHNTOWxBT1dHSXJGUUZDdlU4UXV2MEl1dXZEOVFWMEhnYTlUdE9kX1",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdlNtUktvUkFjd0l5WnY2ajJqVnMyRklyQ28ya1RoY2RFMTNqYmpPTFFpSnIyMUgwMW5rZzlwMjBTemRaU211aHNTOWxBT1dHSXJGUUZDdlU4UXV2MEl1dXZEOVFWMEhnYTlUdE9kX1RLc2g1c3NoSXdmM3gxbnFEbUJfOUJuX0l6cFZEZ3pFOURJVDY2S2doRDJMOTQ5MEU4NzliWWVfb2puYlFkX1kweXlfd0hvSFdxZHF0QTF2ek5Kdm0wanBGU0pTc01OSTdCVWk1dFdRVdIB3AFBVV95cUxQVTN1bU1Zdmwzb2tXVkV1RG9uVk9rd0tqZUVNd0lEN2dPanpYNU9PMHlnd0ptMGxxWDVJODRSWXJwdzRVUXg3dWNDdVh3MS1ZdmVudVFiZnJtdmVWcUlkRFlicDFwOVpfV3Jha09LTlQ4OS1WOS1yNmJXdXd2VThIRkhmajlILWZEcGMyTzQyODhrZjVtLWpwZEVYMkM5STZtN0dMTzB4c2ptbGRmTzhaZmJSVnJJb096bkdWLVRTZmZJdmJYejkzal9jOE8zRUtoUTRQbDVka3pXYmJE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-17-003",
+    "date": "2026-10-17",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths stock faces November 25 AGM date - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tyNHBjTUVKb0haczYyWlJOQ2t0YzBqcjE1c3hGNll0UDZiQWp5SW5CZUlxWHVGY2h6aGl1a2trd01uYUdUTWdiM2M5Yjl3bElNX1BidkZTamJQaUl4bEZqTHhoS0MxMXdtQk9CNH",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tyNHBjTUVKb0haczYyWlJOQ2t0YzBqcjE1c3hGNll0UDZiQWp5SW5CZUlxWHVGY2h6aGl1a2trd01uYUdUTWdiM2M5Yjl3bElNX1BidkZTamJQaUl4bEZqTHhoS0MxMXdtQk9CNHVCZkZrRUN4UHlxejJYdE1rOUMxUE5JaXViQS1vb0lTRFBHbEJVV2lOU2RGcDA5ZGF1UDRhRHotYjdhVUJNM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-10-17-004",
+    "date": "2026-10-17",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Total non-current liabilities of China Rare Earth Holdings Limited – MUN:RAE - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWgzR1pPSjRlVkV0b0sxMmxEVWpyS2NwNDNjQWNpdUJreWRoU1JfUWJ5ellzVXBPU0JiR2pjejhsSVJST045R09ZX2JQeldOcW5EWGhyY0UzVUREUkEzWUp2VVc5ZWpoekdPdzdMZ3",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWgzR1pPSjRlVkV0b0sxMmxEVWpyS2NwNDNjQWNpdUJreWRoU1JfUWJ5ellzVXBPU0JiR2pjejhsSVJST045R09ZX2JQeldOcW5EWGhyY0UzVUREUkEzWUp2VVc5ZWpoekdPdzdMZ3djRjZRYWpEZUFUVDZPMU5pQUttWWNzWXF6ZlVuaEJIa3dBaGU2d2g4WnQyZk40OXk5?oc=5",
         "type": "rss"
       }
     ]
@@ -403,6 +481,24 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreUl6bkYwNWxydFNxVzVHbFhXNThPZU52WlRJcWpTVG8weEQwdmlLREZZMjljQkppRWNYTVV6VzdzWVphYThVRTFkcUdOd0xfd2JSRER5bWwwSWdsZ0lLNi1jd3dfRWI5YzZ3dmE3dmw4U0hDMk9BbTZxa3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-022",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Five Reputable Rare Earth Manufacturers China 2026: Boosting Adva - The National Law Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2JkbUhhb1RhWl8wS2xKSEhtNFVOWVNGaVpaeUt2Y3B1OUpUUmRpZ2NsVXp1Vktwc0pCd0V0RjEzYnVmcS1OSFh3SkMwczg5RFlqc0RtVTZhT3h0eEVmS3M4VXZQejVKOHUxbW9jQU",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2JkbUhhb1RhWl8wS2xKSEhtNFVOWVNGaVpaeUt2Y3B1OUpUUmRpZ2NsVXp1Vktwc0pCd0V0RjEzYnVmcS1OSFh3SkMwczg5RFlqc0RtVTZhT3h0eEVmS3M4VXZQejVKOHUxbW9jQUVqQjhmU1dZNDJaM2VlT01rZnY1ZnN0M0RWVWhVQ3lTRk5GX0k0VVUxcXlfMDNLYS1Sa08ydFJkNEh3bFNuV0FXMlJn?oc=5",
         "type": "rss"
       }
     ]
@@ -1763,6 +1859,26 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5seV9tNFFsXzUyN182WUw4dzAyTEt1Y0Y0Wmd4WGxDSEQ3SFY5Vk9UYW1sZk80eVg3OVZOeVdtY1VCNktUX3VUNkJsajNYU0xfLThPX3dlVE8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-10-14-036",
+    "date": "2026-10-14",
+    "companies": [
+      "neo"
+    ],
+    "topics": [
+      "critical_mineral_policy"
+    ],
+    "impact": "neutral",
+    "title": "Neo's European Separation Facility Named a Strategic Project Under EU Critical Raw Materials Act - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFaaGRaSlB4MVlBN19tRmhBMzJVSU9LaUx1WElPQ1ZfbThaTkg5R2lWNU1pQmlORnlzWThyRjZ6Q1pnaE02c1ZBSHZqV1hrbThDOGFsX3A1RHJUSUNidE1qaE1yS3FhMW9ZRDN5V3",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFaaGRaSlB4MVlBN19tRmhBMzJVSU9LaUx1WElPQ1ZfbThaTkg5R2lWNU1pQmlORnlzWThyRjZ6Q1pnaE02c1ZBSHZqV1hrbThDOGFsX3A1RHJUSUNidE1qaE1yS3FhMW9ZRDN5V3dXanJQZUJNS0NrNXJWZEJ3MnRXelBKQi1wZ0o4akY3ZmN6TXN4MFR5a1FvMnduUlkwRFk2SWVzTjZrVzRIdVh6Vm4xVkMzY3VZekpqU29peVk?oc=5",
         "type": "rss"
       }
     ]

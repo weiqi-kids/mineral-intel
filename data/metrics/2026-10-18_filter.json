@@ -1,0 +1,16 @@
+{
+  "total_raw": 355,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 22,
+  "gate2_fail": 8,
+  "passed": 6,
+  "gate2_samples": [
+    "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+    "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK",
+    "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Income Statement - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
