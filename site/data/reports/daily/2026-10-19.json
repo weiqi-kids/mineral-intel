@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:10:24.538864Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Focuses on Processing and Supply Chains - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmRBbkloTDJaT1dKY1I4bkJNdmdLbHVlTzE4RkV4OTdrVGNVZ1VneUExRjdmVjd1eXBsQVA4cDVzcUdUbjFwb25qV05FZWFKWjFLajJLbmU1YXpodl9aUC1tYmRfWGJVNmdMS3lPSnhTUW9VOU13QThRNjh2U3ZMcjYwUks4X1FlMkU1cUtvMTVHZmZ3cmNSeWN6TVRxODZ2?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Rare Earth Price Manipulation Study UWA Findings - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "rare_earth_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbllBdHhtSTZGYlk4ZHRsbmF3WmVuYTVfSVRobmxXQXdHTUF4UThYVVg5T0RraVRrUWxHbHN4V3dpM0JXOW1pU1ZNRU9zbm1adUlrRTRlcG9fOVBDeGRZa3BxOXQ2Uld0bnNENFF4a25jc0hvTE94OFZBV09RTkxINzFlQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths to Publish Q3 2026 Results on October 29 with CEO Briefing - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdE5ZcVdtblNTQUJObU91aUs0NFlWZDM5SmxSeklTNHhycjk3LWRuQnhfa1V0WFlOaHRDYkdPTHlqSXhfVWVGYXV5ZHZsZHZ0Umo2VWU4emRxalJDeTAtZm02ZldLakxrV3ZBX0pZNnMxNWFmVVRBUDdXVUw3YU9UeWZsNEdyNV9mcGg4S1pPY05MV29NZUl0SEkwMXBFdXdqbmRJSmRJV1JERkZxMUkyRFVqVmx2Q09jYXhtdHZOZ00?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "shenghe-2026-10-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shenghe Resources to Divest Majority Stakes in Rare Earth Smelting and Separation Units - News and Statistics - IndexBox",
+      "companies": [
+        "shenghe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFpJUkdSUzR4TTZveE00QmpyYmJMV2tPM3JHSGJ6UE44dXZyNW5NUlRKQWl6c1o1VUJFZW1rZll5VkNLTk4tUkxvLTBTSklESWdqdlU1ZDFWT3hSMWtsOWhnNlRpWjNJV3dfbXU1UGNpOEJieFZJczhQWTF4cEpiTXN3NzRaUXZyZU1Qekg0MFpLT2ZfQ0NBdnNNakVYTVhKaWpTLWFiUS1tMmhPQVNjNlBiYVRtQ1BwTEZxUlRnNWZxbWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arafura-2026-10-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Ties Up 850-Tonne NdPr Offtake as Nolans Build Enters Earthworks Phase - ad-hoc-news.de",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlZsUnJNRTlSMGltNXVhZUhVREgzRjJBcnF3OWJyMEkySW1jWlNob2tkQ1Bsb3JaMkFZcUVZby1vRFJKN2pWWDZ6STFzR25NaDlOMkFxUVF1Q2ZWWmwzRzhHSktMRGtUNGo0TTRQdG1ZeVBFM3N5WWUyMXV0Q1ZZbHc4cTdzWDhURTI5cVA5eTNyTjIzQjhNTmNVYXNZbV9TbEFzam13QUMxLVZyYzRtNHFFa2FiRC1UUkJpdnl6U2FvRF80Vlp2RW9Ua2hoZ2V1ck5sRTgwMkpsdVRHWHYxSG1pQ2dNT1lPTzZ0MHR0eDF5VUx1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "shenghe",
+        "count": 5
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "vital",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 354,
+    "dup_title": 186,
+    "too_old": 111,
+    "gate1_blocked": 25,
+    "gate2_blocked": 13,
+    "passed": 19,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Vital Metals Notifies Cessation of 6 Million Options Following Expiry and Lapse - Kalkine",
+      "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK",
+      "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc. Faces Intense Selling Pressure and Downside Correction Risk Amid Cautious Mar",
+      "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為盛和資源、萊納斯、Arafura Rare Earths相關動態：「Lynas Rare Earths (ASX:LYC) Focuses on Processing and Sup...」。主要關注主題為礦業產業通用、稀土價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Focuses on Processing and Supply Chains - Kalkine（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Rare Earth Price Manipulation Study UWA Findings - Rare Earth Exchanges（稀土價格、礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
