@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 38,
+  "gate2_samples": [
+    "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK",
+    "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc. Faces Intense Selling Pressure and Downside Correction Risk Amid Cautious Mar",
+    "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc (U9UA.DU) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

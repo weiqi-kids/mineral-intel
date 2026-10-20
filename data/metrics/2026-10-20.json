@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "total_events": 16,
+  "by_company": {
+    "lynas": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "rainbow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shenghe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.12
+    },
+    "magnet_supply": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
