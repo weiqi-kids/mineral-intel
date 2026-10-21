@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:20:50.119010Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Lynas Rare Earths (ASX:LYC) Eyeing a Brazil Plant? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2ZBczNPSWRaaE04Z2lsSWpqd1pMNEEtdFRDeW1XclhwbmNLX3JnTnpCNzYwdWJFSUtRSUxxYnlWblV0VmJfbkljc2hYeF9jeUpQeVFjODM5VW1VZmp3NzVxanpua0tzX044WlFDQXdwczdxalpYSXRWZWpfdHRKTC14OWZib3Z6RmdsNHZXSlRPcFZ1UEdrSWxlN2VaM2ppQXJHWnpEbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Details Meteoric Acquisition and FY26 Results - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYm16UVc3eDFYVW44eGdvdE9ncU10VVJIcTg4SjRaTnZGa3JfTkRCR1NTT3daX3B2UHF5bXY0UlBCWThHa0VYWGtwQ01qM3VGdEtxSUtPX3hpMENfTElzRnEtMHhYb0lNQnNFQnF3YnNUdE91SXFGbndlUXFadnpsRXBfT1pDRnpUcE9tTHhPRzR1M3h5ZExSdk1fbXIzV1N2ZGRpVE56SEU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US-China failed deal boosts Australian rare earths - Australian Resources & Investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi1tbWlZbGItMDMxRUxwYktFbVEteTZIVmpvN1VzN2tHaGdLX3dncEtWblQ2R2RUYkJkNjYzS09zLUdsQkI3ZncwWU1pMkJLS25mNm9rUDZQcEhWeVlGWHhVc2c4Mk1JMWxlU29GUnhacHdsQktfQmdnWmpyWGlZS25idUxhMGlsV0JiVlBrM3c5U1Rrek13aGVsQ3otOGlsUGxTcmtR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rainbow-2026-10-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rainbow Rare Earths Raises £11.1 Million as Phalaborwa and Uberaba Projects Advance - Yahoo Finance UK",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGItUU55RUlicUhjQnZsaGpVY0RjdUhtd0RpcndCb2NqSVhhWkpKb0RnSHMwZDh6Z3ZCcjR1UV8xb1FYLTh0RGRHdkV4V281X0Z3bnJBdTV3a3dwOWt0ZFJFOEMxMVIybS1nd1RKNW1ad2hVMXRRa0NJT0ZfWVBKNzF0bm4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rainbow-2026-10-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rainbow Rare Earths highlights fundamental shift in attitudes toward critical minerals - Proactive financial news",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZG15THJDd3pfZDVsQmNVUUJLUVJmTC0tRW1wYkxtM0JQNlpYd2MxZEFSUEYyalpUeW9oTHVHN2pweEVZMTlsclBrQVQzakVmc3BKRDNOdzF3ZmlGUHN1eE1ZUld5OURwS2dmdU1EMzNGQ3VZbVllRW9HSlItTGNsZ3luMERMam1MV2V2UlBndC0xRjdwYnFpNjhtQnd5Z1ZfQkoxeU9Rc0MxN2tYQWdiVzU2V2hMYVJ3a3FBWHFkdl9hd3FWNmFFaW1fQXNKVmhuVXBUR0RHN0VsRW5GQkxpV1dIY1hVd1FSdlJ3ZWFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 8
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "china_export_control",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 166,
+    "too_old": 106,
+    "gate1_blocked": 21,
+    "gate2_blocked": 14,
+    "passed": 41,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Vital Metals Addresses ASX Inquiry on Price Surge and Trading Volume Spike on 21 October 2026 - Kalk",
+      "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine",
+      "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc. Faces Intense Selling Pressure and Downside Correction Risk Amid Cautious Mar",
+      "Shenghe Resources will Mehrheitsbeteiligungen an einigen Geschäftsbereichen verkaufen - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Rainbow Rare Earths、萊納斯、Neo Performance Materials相關動態：「Is Lynas Rare Earths (ASX:LYC) Eyeing a Brazil Plant? - K...」。主要關注主題為礦業產業通用、中國出口管制、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Lynas Rare Earths (ASX:LYC) Eyeing a Brazil Plant? - Kalkine Media（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Details Meteoric Acquisition and FY26 Results - K...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

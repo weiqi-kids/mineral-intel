@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-21",
+  "total_events": 18,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rainbow": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

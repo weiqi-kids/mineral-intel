@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 21,
+  "gate2_fail": 14,
+  "passed": 41,
+  "gate2_samples": [
+    "Vital Metals Addresses ASX Inquiry on Price Surge and Trading Volume Spike on 21 October 2026 - Kalk",
+    "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine",
+    "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc. Faces Intense Selling Pressure and Downside Correction Risk Amid Cautious Mar",
+    "Shenghe Resources will Mehrheitsbeteiligungen an einigen Geschäftsbereichen verkaufen - TradingView"
+  ]
+}
