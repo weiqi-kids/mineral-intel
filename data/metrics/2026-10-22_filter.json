@@ -1,0 +1,16 @@
+{
+  "total_raw": 353,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 16,
+  "gate2_fail": 15,
+  "passed": 55,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc (U9UA.DU) cash flow - Yahoo Finance UK",
+    "Ucore Rare Metals Inc. Faces Intense Selling Pressure and Downside Correction Risk Amid Cautious Mar",
+    "Ucore Rare Metals Inc (U9UA.DU) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+    "Shenghe Resources will Mehrheitsbeteiligungen an einigen Geschäftsbereichen verkaufen - TradingView",
+    "China's Shenghe Resources to sell control of four rare-earth smelting units for 1.8 billion yuan - B"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-22",
+  "total_events": 26,
+  "by_company": {
+    "lynas": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "north_rare_earth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "hastings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
