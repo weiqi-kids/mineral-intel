@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:22:59.343788Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "north_rare_earth-2026-10-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Co., Ltd. Class A Estimates – SSE:600111 - TradingView",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hUkVXOVl3NnVhRGd6d25mM1ljOHZ6cjlSMGNaTVpmMy0tVWxKci1zNGE5dnhoeGE2WUlQcGExMHZhaXc5Y1ZIaFJtcEF6eWJ6WTVJLVVPYlNpNFVQRkE3Z2daLUdycU5vMFJiVlNReXNFMTE3XzdF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Turkey break into the rare earths game? Chinese scientists map Kizilcaoren to find out - Firstpost",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjZCQi01aGtVQlZfQXhCOEthNVJPY1FyeXFTVDhNdU50dFBMVEtNaXFFS1YtMkFjV0VaM3Ixay1aTlNObHRKNUZsbkNaVDNMbEZMOFA0LVdtWk9WNE8waHVWUkF4eUQxbG05cUl2V3lpNHZEOHFRNkdaaVFtUnZrd0NxWmVmNVJ0aHkyd1R0Mzk5d3JrSEx2Y3RiMnZ6aEI0aVlhYkltRDNEYjIwZ01RVjVXeVpHaU5CWXNaR1ZqTlZBMlRZVk94U2RNdW9IY1J00gHWAUFVX3lxTE9lUnQyMmVXZ1h2cDMwMWVKNzJKakZ5MnBPMVJVNzV5d1RDaFIydmI5QUxaclZrVXdPZFBBOXRwVm1DemJPRmNleF9YSDVpS3luSlgycWxyUGoyd2pORzE3TFNHSEJ3YWotTEV0ZWpjTTJZZWNITlY5VzZHblVaYjc0OV9rLV9wY3NZMXhfc2FxMUZtaWE1MG5xeS1RbXp4QWRJcXFod09SN3ZEQlJZSURocm9lUURNYVpNNW9fVTlTdjcwZElXWUtSMHloa2piNGhkMVR5SVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 353,
+    "dup_title": 178,
+    "too_old": 109,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 23,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Vital Metals Ltd Estimates – FWB:VJF - TradingView",
+      "Vital Metals Discloses Lapse of 2,400,000 VMLAA Options on 19 September 2026 - Kalkine",
+      "Vital Metals Addresses ASX Inquiry on Price Surge and Trading Volume Spike on 21 October 2026 - Kalk",
+      "Vital Metals Amends Final Director's Interest Notice for Lisa Riley, Correcting Options Expiry Date ",
+      "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為北方稀土相關動態：「China Northern Rare Earth (Group) High-Tech Co., Ltd. Cla...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Northern Rare Earth (Group) High-Tech Co., Ltd. Class A Estimates – SSE...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Can Turkey break into the rare earths game? Chinese scientists map Kizilcaore...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
