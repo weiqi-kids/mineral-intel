@@ -38,6 +38,43 @@
     ]
   },
   {
+    "id": "unknown-2026-10-24-003",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's Northern Rare Earth posts 136.55% jump in first-three-quarter net profit, with single-quarter growth accelerating over 40% sequentially - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1mMU00VHRWNEZNd2FaWnJlVS00YUJ2VHQtc3AwdFF3Z25HYkJKQjVMQ05TbXNNSDZ0ektzYlAzMXdCMlFJSmp4U3NWaE91ZEh1al81SnZqclpiZ01CekVHOEZ5REpERHRLajVmMk12dn",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mMU00VHRWNEZNd2FaWnJlVS00YUJ2VHQtc3AwdFF3Z25HYkJKQjVMQ05TbXNNSDZ0ektzYlAzMXdCMlFJSmp4U3NWaE91ZEh1al81SnZqclpiZ01CekVHOEZ5REpERHRLajVmMk12dnJWX0JOQnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-004",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Online Platform Puts Australia's Critical Minerals Future Under the Microscope - AZoMining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tWWVCYUR0UVFnSUpFZjd0NjQ3QlVneUxUYjNNRkp5c2JxWWhWTk55QXRKM3F2TlU4SHB5VGEzZ0JpOWV5ZEQ5aXZGVTFTZ05pMF9GbWV6RGo5Ujdx?oc=5\" target=\"_blank\">New",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tWWVCYUR0UVFnSUpFZjd0NjQ3QlVneUxUYjNNRkp5c2JxWWhWTk55QXRKM3F2TlU4SHB5VGEzZ0JpOWV5ZEQ5aXZGVTFTZ05pMF9GbWV6RGo5Ujdx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-10-23-001",
     "date": "2026-10-23",
     "companies": [
@@ -621,6 +658,44 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmk4QjFka2xrVXpDR3RpbkdSOXhZX0kwQXJEclNndGlxa29RVVNQOS1oQl9WcFdVWkdwd1VDd3ZPOXZKRXpXZ0NjRmRTZjdGYjJaZjc5TGhNQ2VIX2NJTGJlX2NjQVVFUFBLSzhWZGdhelFXT1U2c2stVnhfVnRhWjVTeTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-23-032",
+    "date": "2026-10-23",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths Limited Estimates – BMV:LYC/N - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1GZlAyUUF6WUNNaEdyR2gtLXB4ZW5fV3ptaVd4bnZWZHN3cWdJbUlIQk02bXZVb01QQk4xX0lrQ2xibmI1Wk5HUGxwOGJETWhnd3oxbFprNzFYOWoxSm1yUGlINWJHYWFqUGNGY3FvWk",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GZlAyUUF6WUNNaEdyR2gtLXB4ZW5fV3ptaVd4bnZWZHN3cWdJbUlIQk02bXZVb01QQk4xX0lrQ2xibmI1Wk5HUGxwOGJETWhnd3oxbFprNzFYOWoxSm1yUGlINWJHYWFqUGNGY3FvWkUtNC1VRXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-10-23-033",
+    "date": "2026-10-23",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Limited Estimates – LSX:A1H79R - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMFkzODFaT2RrWXFTTXJLMGNsZFZFUmFIR2trYU5VVFBjdEdCcWZqaEpFR1hkMGUyVTNubU5keG5YVGZ1b1VNU25WV3JOTDhpLVR1NWJJN3NjUmNIdGpJNm1WV3JYMlc1bG52TXZrR3",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMFkzODFaT2RrWXFTTXJLMGNsZFZFUmFIR2trYU5VVFBjdEdCcWZqaEpFR1hkMGUyVTNubU5keG5YVGZ1b1VNU25WV3JOTDhpLVR1NWJJN3NjUmNIdGpJNm1WV3JYMlc1bG52TXZrR3ZobFBLd2lv?oc=5",
         "type": "rss"
       }
     ]
@@ -1384,6 +1459,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFg1RkVmdUpISC1BTkxoY0Z1TDVUY3huU2JGR2YxNWtDY0Q4SmVWUzVTSFZoS3NFbjRkUUtyTENULVc3SmN5TTY5RFJsM1ZPeVpnLTBrUlBoRUVwdGxWNC1MUUtZSTFkQy1qNDJtU1JoUEZUZHNCWDQ0SGt1QnBLSk8tYTVOVldGV3B0MWhZbkh1dUZFWkVoZFM3SjIzb2VZVWZkcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-042",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC seeks factory-equipment alternatives to thwart China’s rare earths grip, sources say - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE94aTM3NmpYM2RxaTdEZEY0SnBVS0NDWDA5bkU5X2ItWFdhbDhrVWpnVi1WMVRLN1E1ZVFIVkwwVmc4NlBFLTNKWkswbUNxVzhTOG12a1pxYk5LLWs2ME9vTzJ1TmRXeVBENXRoM0JhRz",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94aTM3NmpYM2RxaTdEZEY0SnBVS0NDWDA5bkU5X2ItWFdhbDhrVWpnVi1WMVRLN1E1ZVFIVkwwVmc4NlBFLTNKWkswbUNxVzhTOG12a1pxYk5LLWs2ME9vTzJ1TmRXeVBENXRoM0JhRzNLUzFzQXI5ckdtNFFNZw?oc=5",
         "type": "rss"
       }
     ]
@@ -2199,6 +2292,27 @@
     ]
   },
   {
+    "id": "rainbow-2026-10-21-044",
+    "date": "2026-10-21",
+    "companies": [
+      "rainbow"
+    ],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths highlights fundamental shift in attitudes toward critical minerals - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOemdFSkhpSklNbUZoLW83ZlI1RU4tZkNQYXJyc1B1eFY3UFc4eFNMdWwxSzJCdGFaakx2U180eHhvRGEyQUh2QUJXdjIyLUpjRHF3WUdIV2xnSjF4dy05SzZ1WS1OalU4UlY5ODlXbj",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemdFSkhpSklNbUZoLW83ZlI1RU4tZkNQYXJyc1B1eFY3UFc4eFNMdWwxSzJCdGFaakx2U180eHhvRGEyQUh2QUJXdjIyLUpjRHF3WUdIV2xnSjF4dy05SzZ1WS1OalU4UlY5ODlXbjdyLTB1UjhWT3BlVHAwMFROQzFTSlNLTnduRU5TSkVFWDdVbmJOVGhMSkNCZ0J5Y1Rq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -2960,6 +3074,46 @@
       {
         "name": "neo",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblYxcWx4R09UZVF2VHYzN0l4NDM3SjFGa0JYQjVoQ05kZHRJZ2xVZkpHeTBVTmx5Z0I1SDEtMjhuQkNJdG9NSUhCNHV3WVNWM0NnY3YyLW04b0MtV1NzV3JKTkJfd0tqQWtlUUs5RFQ2VXh6eUVmQUpkWldETDczUG9ISjNrNV96OFljMVVwMjE5Z3liYVVieEVNc3pWd3g1eFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-10-20-042",
+    "date": "2026-10-20",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shenghe Resources Plans to Sell Subsidiary for Over 1.6 Billion Yuan, China Rare Earth Group to Take Over the Transaction - eu.36kr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUnlFQVdDb0tKVVBwY3pIM29BR29pZVFrSU9FVG84d2pmMy1jR2lpZDBOelVqaFZDbkxzZUhvZjh3UmtNWmNqZTc3LVpESmx3WDMw?oc=5\" target=\"_blank\">Shenghe Resourc",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUnlFQVdDb0tKVVBwY3pIM29BR29pZVFrSU9FVG84d2pmMy1jR2lpZDBOelVqaFZDbkxzZUhvZjh3UmtNWmNqZTc3LVpESmx3WDMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-10-20-043",
+    "date": "2026-10-20",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Holdings Limited Announces Board and Committee Changes, Effective October 18, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQek5LdC1TY2xnWlNLVFoyVFhHeWdadUE4dTV3NWFJNy1uMEl2SmJwV0RvQUxsRUZLN1JRTnRsdlQ5bjBoMWtDNG5GR29NQkRrQ1F0UDRySFB2am1ycUIzUVMwZDFzTjR5cFpyclpKRz",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQek5LdC1TY2xnWlNLVFoyVFhHeWdadUE4dTV3NWFJNy1uMEl2SmJwV0RvQUxsRUZLN1JRTnRsdlQ5bjBoMWtDNG5GR29NQkRrQ1F0UDRySFB2am1ycUIzUVMwZDFzTjR5cFpyclpKRzI2WldyYUNwX3ljdFRoUVdFU1lhV3NOQ2NHdGpFN2VZTXoyVFFDSDBwU2NhNGdrRmhUWTBpMTlGaTBoR0VXQ2lVZGJ4a1hYc2FWYlN1Y2MxdGVCaU5RNVdhV0txVnRhb1NLVE95ZnBHTDJWVm9DYktaSU5EVFA?oc=5",
         "type": "rss"
       }
     ]
