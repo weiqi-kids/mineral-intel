@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 18,
+  "gate2_fail": 16,
+  "passed": 19,
+  "gate2_samples": [
+    "Vital Metals Ltd Estimates – FWB:VJF - TradingView",
+    "Vital Metals Discloses Lapse of 2,400,000 VMLAA Options on 19 September 2026 - Kalkine",
+    "Vital Metals Amends Final Director's Interest Notice for Lisa Riley, Correcting Options Expiry Date ",
+    "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine",
+    "UCORE RARE METALS INC (UCU.NE) Analyst insights, Price targets and Recommendations - Yahoo Finance -"
+  ]
+}

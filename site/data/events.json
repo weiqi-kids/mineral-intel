@@ -1,5 +1,323 @@
 [
   {
+    "id": "lynas-2026-10-26-001",
+    "date": "2026-10-26",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths (ASX:LYC): FY26 Results, Rare Earth Production and Brazil Acquisition - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWC1KQ0tfczlHYXpybDJhYjlxQjBZZ3lrejBhWW53TDdzN25iX2dJaHh2cnIwTTJpVE5kS3hNR0U2aEhTclNoQlp0T29JaFNZU2h2eXdoZi1fX1hJUUFCWG9BSmNIcEo1a2tESWRwaj",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWC1KQ0tfczlHYXpybDJhYjlxQjBZZ3lrejBhWW53TDdzN25iX2dJaHh2cnIwTTJpVE5kS3hNR0U2aEhTclNoQlp0T29JaFNZU2h2eXdoZi1fX1hJUUFCWG9BSmNIcEo1a2tESWRwajNhZDlpcG1JRWNONFdlME51UE5rdC1yMzBleE1iWUFhVW5sbUZycWZUWUM0REtsZnVKay1HRENGck1oM2Nic3VTaTFNbXdkb2h6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-10-26-002",
+    "date": "2026-10-26",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arafura Rare Earths Limited Estimates – ASX:ARU - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5vUU5UWWRMandKVHptQjk1Z0R6TmtNdVlCTUtTQVlvQXVacDZiRVdwMFdaS3hMa3ZFNWU0NHZwby1GLVZrd01wRWtxRDJ3Z1pHcFotdFNPd2tZc200VHVkUjEyTDZvRjh3b2dhSHhqY2",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vUU5UWWRMandKVHptQjk1Z0R6TmtNdVlCTUtTQVlvQXVacDZiRVdwMFdaS3hMa3ZFNWU0NHZwby1GLVZrd01wRWtxRDJ3Z1pHcFotdFNPd2tZc200VHVkUjEyTDZvRjh3b2dhSHhqY2JONm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arafura-2026-10-26-003",
+    "date": "2026-10-26",
+    "companies": [
+      "arafura"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gina’s rare earth miner Arafura backs EU FTA - The Australian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb0dIM2tGazR6dnQ4WHJvRkdrdnpYUVZZOWdpdVo1YXVxcUVtTHhYNVhPMVZhSVRuQ2V3Sy1tYlJ3Vk9Pa0dLY0V5RUNfUFdVWkNndDk5SVQtbjZmOU1YR3FqSjFLMU9oWWxSdmY0OW",
+    "sources": [
+      {
+        "name": "arafura",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb0dIM2tGazR6dnQ4WHJvRkdrdnpYUVZZOWdpdVo1YXVxcUVtTHhYNVhPMVZhSVRuQ2V3Sy1tYlJ3Vk9Pa0dLY0V5RUNfUFdVWkNndDk5SVQtbjZmOU1YR3FqSjFLMU9oWWxSdmY0OW1mZ2ZtSEdmT3pnWXVQX2tOWEppcHdGVWdTTzdWY2VXZHNnNmZsSU4tMFBsb21mQVZ0bW1uRUNENTNMM1ZkSXVsN0xpazVrSmhMMW5aQ0FJVDVMV1JfSGdCdFY0Rm83MmlpVGE2M1Z5clZnYmtMMVlHaFc5OV9xYzRheVpKaGN5TUVPY1AwX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-004",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs",
+    "summary": "Foreign miners face tighter scrutiny as Brasília pursues domestic processing and resists Washington's trade pressure.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-005",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Buried sediments prove Romans mined gold in Pyrenees",
+    "summary": "Researchers have dated a vast hydraulic mining complex in Catalonia, revealing how ancient Romans extracted precious metals.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/buried-sediments-prove-romans-mined-gold-in-pyrenees/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-006",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Strike curbs output at Canada’s largest copper mine",
+    "summary": "<p>Teck Resources (TSX: TECK.B; NYSE: TECK) is operating its Highland Valley Copper mine in British Columbia, Canada&#8217;s biggest, at reduced capacity after workers went on strike Saturday, the com",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/strike-curbs-output-at-canadas-largest-copper-mine/1003896047/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-007",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU weighs mirroring Donald Trump in securing critical minerals - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkh2ek1Gc3lfdzhmdi1xc25PbEt1UHVLMjdXeHN1V1BuLTR3RHhLVDhhWFAxZXdCM3ZrYXA1c05CX1hrTkZabEt2eGUxSGRfQXRZWGdCTFNIZl9iMnVNT3c4UTFoMTZyZmRoTlMxZH",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkh2ek1Gc3lfdzhmdi1xc25PbEt1UHVLMjdXeHN1V1BuLTR3RHhLVDhhWFAxZXdCM3ZrYXA1c05CX1hrTkZabEt2eGUxSGRfQXRZWGdCTFNIZl9iMnVNT3c4UTFoMTZyZmRoTlMxZHJRSzFRSlo4dzV4UkhPRHNtekZGS3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-008",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHQyLVZpX0ZvU3pYaVVibFAwb0FhMmJvOG1DZFZxaFYtZ3JycjBKSklmR2RiaVd4cDNCdXBqVFE1U2RaQUk3UDBzQmYxSldGMWo3SXBKTWhvdlIxTmoxYTNQT2FCZzVRNHBQamRrdn",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHQyLVZpX0ZvU3pYaVVibFAwb0FhMmJvOG1DZFZxaFYtZ3JycjBKSklmR2RiaVd4cDNCdXBqVFE1U2RaQUk3UDBzQmYxSldGMWo3SXBKTWhvdlIxTmoxYTNQT2FCZzVRNHBQamRrdndaMW9kcndZV3hoZUdUQVhDd09tMjI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-009",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cobra Resources declares solid maiden MRE for rare earths project in South Australia - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORnF4c0pUZXpTaEFfbTNwRUxTQ0k0TkNQdFAwMXFrd2lYQzBkdV9GSHlIR1NZV2Z3Z3FmNGRaMlc3c2IwM2FUcC1CT2tsZUFSa0ZuZWg1Z2IzQjhodG9QM3hzMFdGZ2c4M2JFYmhyZ0",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnF4c0pUZXpTaEFfbTNwRUxTQ0k0TkNQdFAwMXFrd2lYQzBkdV9GSHlIR1NZV2Z3Z3FmNGRaMlc3c2IwM2FUcC1CT2tsZUFSa0ZuZWg1Z2IzQjhodG9QM3hzMFdGZ2c4M2JFYmhyZ0I5MUcyWUplcWdjN05HdHZmVXg5T3VRNnk0WE5DMG0xelkyVU9tOFNSTXlXcTZwMXJZdmVuRkdDR1JCRzh1bjVsNEJtbDFHNUlGNXRwTVpHQjE3TU53enMwOE5JZ0Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-010",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU weighs equity stakes in critical-minerals projects to curb China reliance - MiningMX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTFFRjFNTkRmdDUxT0Nra0txWF9ZSmNsa3FyWFluNU1KVXctVENlSzVfZm9LQkpvN0VvRHJRTVc3cWZNQjFhNDZvNVVkYU9vZzU5NmJQaFlxaXRmTVVVUzExdWZkMFFJb01jY3RYeH",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTFFRjFNTkRmdDUxT0Nra0txWF9ZSmNsa3FyWFluNU1KVXctVENlSzVfZm9LQkpvN0VvRHJRTVc3cWZNQjFhNDZvNVVkYU9vZzU5NmJQaFlxaXRmTVVVUzExdWZkMFFJb01jY3RYeHpLMnJtZFZfQmZqV0xuRU80RHFRUndVdWNISzltVHppWHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-011",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASX Rare Earth Stocks Trade Lower: Details on Basin Energy, American Rare Earths and Bayan Mining - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXF0U2w0NjJlUGZmamxRZU92dy1xZDVvcDM1T0JGQjVJSHEyYkpsN1AtMURTVXVPQmRqYzJwOVBqTFFVS2Z2SG1VdEpFcHZGUHBKekJYWWcxc3huOWp0TzMxM0h2X2RqMkJCQjZoQl",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXF0U2w0NjJlUGZmamxRZU92dy1xZDVvcDM1T0JGQjVJSHEyYkpsN1AtMURTVXVPQmRqYzJwOVBqTFFVS2Z2SG1VdEpFcHZGUHBKekJYWWcxc3huOWp0TzMxM0h2X2RqMkJCQjZoQlhpSVpiMmlYd1dDcGxXWWlscTVNTE90eXRQS3ZHOERMdXZVaFF1UWhWR0ZMdlNnWGhraFVHdl9PSHIxRzdTcEJkbDJVNVRmNU1xLUZQaVNZbWstVEsyNXJwcXBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-012",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare Earths Spotlight: Red Metal (ASX:RDM), Lion Rock Minerals (ASX:LRM) and Brazilian Rare Earths (ASX:BRE) Update the Market - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWThzWGFnOEgtNzlnTkJURnBIWE0wdkJ1em5jOTg2cEoyRnhqTGdzSlBnZUNNNWZGVDJtMUp4ZUtSQ3ZydU9ESDBvOE80bHE1cENYUHRBR3owVExLd0wyV3lQcGRva2dvMWdKVmIwZ2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWThzWGFnOEgtNzlnTkJURnBIWE0wdkJ1em5jOTg2cEoyRnhqTGdzSlBnZUNNNWZGVDJtMUp4ZUtSQ3ZydU9ESDBvOE80bHE1cENYUHRBR3owVExLd0wyV3lQcGRva2dvMWdKVmIwZ2dPMHRvOE5pc0ZVZ2w1UFBpNVo2ZGcyVXU5SEpWM3Y0M2FhbjZzTmRoeE1ZZTJLSEVHbGhTNnI2WDdvVnJMRnByRFNRanFLczllcVJDVDIzSEItYThIMlZZVEEtc2RJUnR3bmpIaE83bVlGVXQySGRlZEhOMW5qN3NBODFycUx6dG9Zdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ChartWatch ASX Scans: NAB, Pro Medicus, Lynas Rare Earths, Elevra Lithium, Paladin Energy, PLS Group, Rio Tinto - Market Index",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaHg0YUVvaVJaaWZFWi1xZGZ3eXE0Z25sV2NNTFczcEVjenRIaV9VOXJFanhKbnNfM25EU0YtMHpWaGxwbl9WSlJIa2ozeXhOZHdId3JBZHFlUXEzejZnNC12aTJ5LVk4bjdfNE5GRD",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaHg0YUVvaVJaaWZFWi1xZGZ3eXE0Z25sV2NNTFczcEVjenRIaV9VOXJFanhKbnNfM25EU0YtMHpWaGxwbl9WSlJIa2ozeXhOZHdId3JBZHFlUXEzejZnNC12aTJ5LVk4bjdfNE5GRDFIdXhkTEVUZ0F4cUxqY0JscW5qMnBHVVNVbHVtdFByUzc5ZXVfaFR3N083LVRxMGFQdVRLaDZUaDQ2azRYbzRyMW04bi1zS3BpSFhWNmNtSHRNUExPSzRiTlVZdG5PMXpXc095ZjVlNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth Approves Executive Pay Reform as Nine-Month Profit Surges 136% - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU25fcHpVS2dTWC1HdXNWUE9KSXNjZmM5UlpFVnY5Q0I2WDNDRmJfWE0zOGJ1LTU2RHZEWnU2ZDdrSnhuczVSbmlDWEI5STcyUU8xT0JveGhVdG1ialYzSV9zbEk2Nnk5M2ozaVlfZW",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU25fcHpVS2dTWC1HdXNWUE9KSXNjZmM5UlpFVnY5Q0I2WDNDRmJfWE0zOGJ1LTU2RHZEWnU2ZDdrSnhuczVSbmlDWEI5STcyUU8xT0JveGhVdG1ialYzSV9zbEk2Nnk5M2ozaVlfZWhJeDlzLXExOTZHR0ttaG1uaEdDU1ZocVphZ2Nj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Argentina mining footprint smaller than it looks",
+    "summary": "Equity-based calculations put Beijing's share of approved mining investment at 9.2%, with new lithium projects poised to lift it.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/chinas-argentina-mining-footprint-smaller-than-it-looks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pakistan’s Rare Earth Opportunity: From Geological Promise To Strategic Power – OpEd - Eurasia Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHR4bk9BeEtfbjRHcFc2Qkd1VkNlQzZKQWZGbmRTeVJ3bTBGejZ1YVBTeDdidXh1XzRiWU1RNkhUd0g5aTJyc1psNVB5NnpXWUJ6b3huR2RCWmw0eTQ1UlRpalU4NU4zbFFaX1NpMk",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHR4bk9BeEtfbjRHcFc2Qkd1VkNlQzZKQWZGbmRTeVJ3bTBGejZ1YVBTeDdidXh1XzRiWU1RNkhUd0g5aTJyc1psNVB5NnpXWUJ6b3huR2RCWmw0eTQ1UlRpalU4NU4zbFFaX1NpMkdNQTY3SVFOckNzVW10c0hYUV9pQm5lTHRHcmlsQUZ5Q01DbWxvQUM2Zm01RFNfdFhNS0pZeDBxVURObG56bHZ6cU9SLVY5S0pybGVpUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "magnet_supply",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Western Rare Earth Magnet Supply Chain Gaps Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQd24wMkREWG1FekZOTHNhY2JJVGdPa0JqT1huLS1vclZiRFZjTDRQRE5FendURUlHZEMyVTRCdzUtdV9oNUl3X1QweHkyeUdlWW8zRTZRTDMwbl9CM1pfTmt0VU1MMlV0dGFOMHBuNG",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd24wMkREWG1FekZOTHNhY2JJVGdPa0JqT1huLS1vclZiRFZjTDRQRE5FendURUlHZEMyVTRCdzUtdV9oNUl3X1QweHkyeUdlWW8zRTZRTDMwbl9CM1pfTmt0VU1MMlV0dGFOMHBuNGpsRlBOOG9KTkZIeHlhUzFxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "north_rare_earth-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [
@@ -696,6 +1014,26 @@
       {
         "name": "hastings",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMFkzODFaT2RrWXFTTXJLMGNsZFZFUmFIR2trYU5VVFBjdEdCcWZqaEpFR1hkMGUyVTNubU5keG5YVGZ1b1VNU25WV3JOTDhpLVR1NWJJN3NjUmNIdGpJNm1WV3JYMlc1bG52TXZrR3ZobFBLd2lv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-10-23-034",
+    "date": "2026-10-23",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth Profit Surge 2026 - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEpFZ3pZM1BtSl9OUkhwNEstaThMdl9hTnZyVElHNVNvZ1pCNTRpTE5PbDZVQmd6NVJMaEc1SHJDSldiZkJUTDN4ZlRtRVB3XzVSRjNvWUlfLXJmbFdZR0twcEo0SHdQalo0blFZcm",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEpFZ3pZM1BtSl9OUkhwNEstaThMdl9hTnZyVElHNVNvZ1pCNTRpTE5PbDZVQmd6NVJMaEc1SHJDSldiZkJUTDN4ZlRtRVB3XzVSRjNvWUlfLXJmbFdZR0twcEo0SHdQalo0blFZcmtSSmFLU01xSVNZQlNIX29NaA?oc=5",
         "type": "rss"
       }
     ]
@@ -2308,6 +2646,24 @@
       {
         "name": "rainbow",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemdFSkhpSklNbUZoLW83ZlI1RU4tZkNQYXJyc1B1eFY3UFc4eFNMdWwxSzJCdGFaakx2U180eHhvRGEyQUh2QUJXdjIyLUpjRHF3WUdIV2xnSjF4dy05SzZ1WS1OalU4UlY5ODlXbjdyLTB1UjhWT3BlVHAwMFROQzFTSlNLTnduRU5TSkVFWDdVbmJOVGhMSkNCZ0J5Y1Rq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-10-21-045",
+    "date": "2026-10-21",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Media Advisory - Neo Performance Materials Inc. Third Quarter 2026 Earnings Release & Conference Call - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd3pyXzZTOVhzdkhheFRjc3FEaVlPRkxFdmxBYWxicVpTNWpOd0lHY1RJYTNEbjZFZkl5YlhfanBxaTVrSkc1aVh2S0lvX0loMTl2T2JWNzhvbVZSZFkwSTJ4YjE3RnVmc3pyTE1XcF",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd3pyXzZTOVhzdkhheFRjc3FEaVlPRkxFdmxBYWxicVpTNWpOd0lHY1RJYTNEbjZFZkl5YlhfanBxaTVrSkc1aVh2S0lvX0loMTl2T2JWNzhvbVZSZFkwSTJ4YjE3RnVmc3pyTE1XcFNiemk5aU51cjBEb1phN1g2Nk9KZFNGcEV3ZXNzT2h4V1JNWGlnTk5zdVhvWDhGc0RkbUE3RkdWQ2l0eTFWWjh5N2duRzdoc3VPVFRwaDR4MXRMS0V1UWk3bHE2cTJ3bFV2cTgwdF9SQTZrV1RLUUJmOV8wSnljMTZXU3NZY3hB?oc=5",
         "type": "rss"
       }
     ]
