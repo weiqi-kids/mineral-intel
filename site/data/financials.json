@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:43:32.817492Z",
+  "updated_at": "2026-10-27T13:49:45.412827Z",
   "quarter": "2024-06-30, 2025-06-30, 2025-12-31",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "Rainbow Rare Earths",
       "ticker": "RBW.L",
       "currency": "GBP",
-      "ar": 377000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar": 0,
+      "ar_prev": 377000,
+      "ar_qoq": "-100%",
       "ar_period": "QoQ",
       "inventory": 1000,
-      "inv_prev": 718000,
-      "inv_qoq": "-100%",
-      "inv_period": "YoY",
+      "inv_prev": 1000,
+      "inv_qoq": "+0%",
+      "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "shenghe",

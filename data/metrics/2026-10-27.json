@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-27",
+  "total_events": 16,
+  "by_company": {
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "energy_fuels": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": -0.03
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 335,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 19,
+  "gate2_fail": 4,
+  "passed": 33,
+  "gate2_samples": [
+    "Vital Metals Amends Final Director's Interest Notice for Lisa Riley, Correcting Options Expiry Date ",
+    "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine",
+    "Neo Performance Materials, Inc. Estimates – TSX:NEO - TradingView",
+    "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

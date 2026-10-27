@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:49:50.190243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-10-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): How FY26 Rare Earth Production and a Brazil Deal Shape Its Expansion - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzlSUTVLaHFWZVhCSHpHVW91QmMyZVVlRE5WTHhkNTBTVG1sWjcyWlZIT29Nd2xiUGNNeFNSS0dUQnRHUDhZRDc1X0tVdV9yTWpjd0RDVEpJa1JkaEN4dUw3Q2NDWFRhdDY0bE52cEdTdHNWYWxWTTVBdlhoVjZ1N0dsZVBTZXFJMjVORVlZNjlFM3JsSERwbHg2TDB6RVVxNjQzaklmREZhQzNHaGZ5VzdVNU16MWIyLVdtWFl0VXlnVnJUdUJr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Rare Earth Tactics Reflect Market Power, Not Manipulation, Study Finds - AZoM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTnJzRHZ1S0tLVlRkQVlydzdWZmtpbmxuSjhBS19IbmlkR1FvWWIyUGpLQzU1Zjh6RjFzQTBMMjA2NU9kaDdYcjVHSUhRakZ6X1gtbWZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "iluka-2026-10-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Iluka Resources (ASX:ILU): How Is Its Rare Earths Refinery Progressing Alongside Mineral Sands Operations? - Kalkine",
+      "companies": [
+        "iluka"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2pWRzZPVzFSaC1XaUNtUGk5TDhjd25BYTZoQzVLeVd2enBXbmNlUl9GMURWMGJhM1ktUWNwZm1MeVk2aEwtcThCSWlqU1RTaElkUVFxRHNkdXB5dmNuVkVVS2RyVGtJUk54aUdxX21XOWpfZFRGRWpWQ1FkN3hHNzZ4SG5yTE9jUEp3YjZKZkF0enJFclhOczZrY1lLaTdnMmJYVzFEVi1UZjdiNHVmYmlneGxvS1pqb1NfRVd0SHRYRm9iODEtRWtZOGpreFVtSkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ucore-2026-10-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore Rare Metals Inc. (TSXV:UCU): Bearish Momentum Deepens as Rare Earth Processing Risks and Market Uncertainty Weigh on Shares - kalkine.ca",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjBMWjF2RldyUTVVVGJFX2V0S3Y1Vmd4czg4YVMyMWtNY3hRNjFFaWR2SmlSQkxXZkFramg3TVhDVnNDakpWMVd3NG80a0t0bGZqc1VzX2YtNjJ3QVJoWmdMZG1EdWdfYVB4TGNhNFZXZ0VhVEtxUGtGOER1VnlOcjkxLUhrNzIzVGN3WHQ1VjVkd3pTS0kyRVBzUF9MeGxWQjZxMFN3cDdOdFRHYnRIcVhpWkJPdjhaclFwZTlndXA2OThacnNfQVhHamNfQkJFbnRsUkkzTjUyM1BrZm5WejVkYW5BbVY1NGUw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "energy_fuels-2026-10-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mine-to-magnet develoepr Energy Fuels secures Australian gov debt for first rare earths mine - Mining Weekly",
+      "companies": [
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2tTMDdDc0FzVzYtNnpRSlNNZFlWTHR1dUVpYnBmUlZxQ1F4TThoSlU4Wk9PWV9jaVhJYkVHOVRxR2FpM1hNTkVZR0JDX212WG9OU18zczYxV1pIN09ac213M3dVSThKVHAwTTFtUlJQOFkzd3FTdmpYSXpFQm1EQXY4UXVNRDkxYUhYR1dIRF9VLVphM0dsVjRSaTJibmNsVW5Ta0Y1a0EzTVZENXBMemZjTTh3OWVwZ1I2emNfWmU1THEtcm9qNGtUMDUxd29GQ2cwN1BuNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "energy_fuels",
+        "count": 3
+      },
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "iluka",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 160,
+    "too_old": 119,
+    "gate1_blocked": 19,
+    "gate2_blocked": 4,
+    "passed": 33,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Vital Metals Amends Final Director's Interest Notice for Lisa Riley, Correcting Options Expiry Date ",
+      "Vital Metals Responds to ASX Price and Volume Query Over 21 October 2026 Trading - Kalkine",
+      "Neo Performance Materials, Inc. Estimates – TSX:NEO - TradingView",
+      "Neo Performance Materials Inc (N14.MU) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Energy Fuels、萊納斯、Iluka Resources相關動態：「Lynas Rare Earths (ASX:LYC): How FY26 Rare Earth Producti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC): How FY26 Rare Earth Production and a Brazil Deal...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China’s Rare Earth Tactics Reflect Market Power, Not Manipulation, Study Find...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
