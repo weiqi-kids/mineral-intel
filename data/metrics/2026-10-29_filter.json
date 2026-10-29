@@ -1,0 +1,16 @@
+{
+  "total_raw": 345,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 18,
+  "gate2_fail": 5,
+  "passed": 42,
+  "gate2_samples": [
+    "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+    "Vital Metals to Hold Annual General Meeting on 30 November 2026 with Director Election and 10% Equit",
+    "Vital Metals Discloses Lapse of 2,400,000 VMLAA Options on 19 September 2026 - Kalkine",
+    "Vital Metals Amends Final Director's Interest Notice for Lisa Riley, Correcting Options Expiry Date ",
+    "Ucore Rare Metals Inc. (UCU) Expands SMC Team; Targets H1 2027 Startup - TradingView"
+  ]
+}
