@@ -1,0 +1,14 @@
+{
+  "total_raw": 346,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 19,
+  "gate2_fail": 3,
+  "passed": 29,
+  "gate2_samples": [
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
