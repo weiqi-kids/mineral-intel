@@ -1,5 +1,43 @@
 [
   {
+    "id": "china_rare_earth-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Holdings Limited (0769.HK) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE00QWFSR01Id1NEbDNrM0pQbFBzcEN0NlJlbzdrM0R6Xy12dVZ0Vk1NZWlYZ3hfdkRLaFpTeFYxek5pTlI1bnJHMldCRGFzNVdJYWc0bUdxYzZZR3BqaE5DQ2Rsb1VZZw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00QWFSR01Id1NEbDNrM0pQbFBzcEN0NlJlbzdrM0R6Xy12dVZ0Vk1NZWlYZ3hfdkRLaFpTeFYxek5pTlI1bnJHMldCRGFzNVdJYWc0bUdxYzZZR3BqaE5DQ2Rsb1VZZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
+    "summary": "Former Anglo American chief says slow technological progress and lengthy approvals threaten future mineral supplies and growth.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -105,6 +143,122 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDAzWVFRRDNGX1FYLWU3SGtqX25maXRkZEliMjJoOUpnMk1fZER1VnhLRHRGZnJMSEJTNXpYeWk0eHM4Nl9EOHFLbDN1YXNBV0ozbElXMGFZS0lvZ3B5SlhQUEV3WktBNlpGT1N4dlZBaERBaFQxZDBoT3U0NUFSME1wWDA5N1d3Smh2dU95WFAyRS1kcmUzRFZpeURDeDh0anc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-31-007",
+    "date": "2026-10-31",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lynas Rare Earths Revenue Growth Valuation Analysis - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUm9RS2k5S1h5TmdqNzdVYWt5dDd1QXAwMUFZZDM2a0xuam1DdmxES0t3Z0dnQUpDc09GaFlDMUduWE9kdjJ0eEc5LU5QR2Vha3ZMTlRrOV9vWkFwU196Wk9ZamRfOGJHQ3Q3NUVkdX",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUm9RS2k5S1h5TmdqNzdVYWt5dDd1QXAwMUFZZDM2a0xuam1DdmxES0t3Z0dnQUpDc09GaFlDMUduWE9kdjJ0eEc5LU5QR2Vha3ZMTlRrOV9vWkFwU196Wk9ZamRfOGJHQ3Q3NUVkdXNScXN5Y3BOUU5XRkI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-008",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "22nd International Rare Earths Conference Seoul Recap - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTZNdFBScHA4SGdiUEp1d0tqMVMwdTZGbUJFbHl1dFRTYXFpYnhJbzF0bWhQUElndEViU19qQnlYdVQxUG5tdXFtRnp6a0VnSERPWDNlVEZDZDFOMzVmeHVTRGZzejAzSkVsbzJadT",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTZNdFBScHA4SGdiUEp1d0tqMVMwdTZGbUJFbHl1dFRTYXFpYnhJbzF0bWhQUElndEViU19qQnlYdVQxUG5tdXFtRnp6a0VnSERPWDNlVEZDZDFOMzVmeHVTRGZzejAzSkVsbzJadTAzY1hzOWpydFhMb0NiaEcwOGpNd1VuZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "neo-2026-10-31-009",
+    "date": "2026-10-31",
+    "companies": [
+      "neo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Neo Performance Materials Inc. (NOPMF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwSHl0R0NsTTJvdVNWVmNJNWRoSmN0ajNJVW1BcU9EVVhlV05YZ0tDa3pVOWdQTVhfUXJnbzVNa2RzNGVDLVFRTVJibGlNakZ0dTdnbnhTOXR6WFljTDJKZXRISQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "neo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwSHl0R0NsTTJvdVNWVmNJNWRoSmN0ajNJVW1BcU9EVVhlV05YZ0tDa3pVOWdQTVhfUXJnbzVNa2RzNGVDLVFRTVJibGlNakZ0dTdnbnhTOXR6WFljTDJKZXRISQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asm-2026-10-31-010",
+    "date": "2026-10-31",
+    "companies": [
+      "asm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Australian Strategic Materials Gets Right About Rare Earth Manufacturing - InvestorNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUkl0UnBQNXJ0N3hJNnQ2djMzMW1Ld2lWUm5VS0VxcGI5cW0zbTJzdmNPeHlQOFR5MGRPN2ZxcUNUV09TNmN0REJhTUU1YnFoU3IxZEtIT3ljWDRLRVJkajVDX214ZDhMdEVVUU4xTz",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUkl0UnBQNXJ0N3hJNnQ2djMzMW1Ld2lWUm5VS0VxcGI5cW0zbTJzdmNPeHlQOFR5MGRPN2ZxcUNUV09TNmN0REJhTUU1YnFoU3IxZEtIT3ljWDRLRVJkajVDX214ZDhMdEVVUU4xTzFrUUpOMmFvWWRVamNpdzBieENWQWhvUmg5RGV5ZUZSLWNLZjZHeFVydDktUk1OMlBMTDB2UXRZVGhNbjBfcGdmbG5CRDFsWVAzVWVsN09kUzZXbERQVFJpVnhybmFlRkZsRFREZzVkekY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-10-31-011",
+    "date": "2026-10-31",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Holdings Limited (0769.HK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zelZVd2ZHMkgta19oUXlKeFVzbmFyeEhlZkYybzRLY1JSS0I0Zlc1OVJKNVBYXzh3aU9pQ1NVSXhITE5MRC1aaDdFY1NPd3NjWkloWGg1c2pvM2puN3MyRzdla3hMUQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zelZVd2ZHMkgta19oUXlKeFVzbmFyeEhlZkYybzRLY1JSS0I0Zlc1OVJKNVBYXzh3aU9pQ1NVSXhITE5MRC1aaDdFY1NPd3NjWkloWGg1c2pvM2puN3MyRzdla3hMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-10-31-012",
+    "date": "2026-10-31",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Holdings Limited (RAE.F) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE50aGQ2T0xWUndOWFlQTFE5M2VnNzJNelU1U3hMRnpZMVdjUjE0MldWaDQ3aEtxQmwzcGtpY1E2VkpYVEx6OV9uNkFHUEhSRENnNGlTMmh4eHg1LWlRT2cwaWdqTQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50aGQ2T0xWUndOWFlQTFE5M2VnNzJNelU1U3hMRnpZMVdjUjE0MldWaDQ3aEtxQmwzcGtpY1E2VkpYVEx6OV9uNkFHUEhSRENnNGlTMmh4eHg1LWlRT2cwaWdqTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -476,6 +630,42 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkdlZ2Rmcy1iWGZhUW5iNk1CQ1JMcFdmWWNpZVBGSzVhZF9JOWFJR3g2S1JTTVpsR0VyMlZubU1mUVJoSlJ3NVYtN2JtbU5fOFcxdW1CVXh5cVNsZ2JwSV9rWVRjOVJBaU5ydHlTRzdYME9tclRXbU5ld0l4clQ2Y2tLUFZ6SXJyT0ppVDRMbWhOaXluZmNkTXAwOXBDMV9CQUVrU0ZFMk1OMTlS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "shenghe-2026-10-30-021",
+    "date": "2026-10-30",
+    "companies": [
+      "shenghe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Shenghe Resources (600392.SH) announced its financial results for the first three quarters, reporting a net profit attributable to shareholders of RMB 1.126 billion, a year-on-year increase of 42.94%. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWk5VlN1R0s5TXlHaGVITHE0VE5EUGhuRkRER09Rb2tZeW5FYk9EaVh1VXRMbzBrWllQamtoTU1wMEFSOGpJaWJNZHJ3c2VPdXZCeVlfTDVTMU1WSzFmOXdYZkF2OFZiRU1uY0FBU3",
+    "sources": [
+      {
+        "name": "shenghe",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWk5VlN1R0s5TXlHaGVITHE0VE5EUGhuRkRER09Rb2tZeW5FYk9EaVh1VXRMbzBrWllQamtoTU1wMEFSOGpJaWJNZHJ3c2VPdXZCeVlfTDVTMU1WSzFmOXdYZkF2OFZiRU1uY0FBU3lGME5YVEJyTmU0M0NfcV9oOVRPRkNabjd0MjJ1SG1vM19iTXhVb3JpaFpEZkloTWVQSEQycXJ6emRzSmhYN2s4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-022",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$70 million rare earth mining education fund unveiled in Exeter at Phoenix Tailings - Seacoastonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWE3cjZCbmhpbWtaelU1S3pXZWFXelBoaVBRekJHMFk0U2xaSXB3Unc5NTE1TTBVOEJPV19oRTBKSG1Gd1oyNV8tRG1hQ0tTa0ZXeGE2Zk9FTU96T053VS1aZkhSQjZ0MHowbEI5U2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWE3cjZCbmhpbWtaelU1S3pXZWFXelBoaVBRekJHMFk0U2xaSXB3Unc5NTE1TTBVOEJPV19oRTBKSG1Gd1oyNV8tRG1hQ0tTa0ZXeGE2Zk9FTU96T053VS1aZkhSQjZ0MHowbEI5U21wZG5DSDEzQWE2VXBXajVxWlU4ZHNmOFBQSlhEUHVtNURGYW1zUG9XT015ajFyY2djNHo1MEVTLXlnd1ZaTkQ3M1hYbHhWMXlQWWE3bU5JZEN3WG52UW1oem9wQzNYQzNsMk14Wm8xUTRXaGc?oc=5",
         "type": "rss"
       }
     ]
@@ -1320,6 +1510,26 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWNYdWpaODNqS002R2lmNUl4VFZhVkpWLTd3bC0tZXZZb2M4YVhSUFJEb3NzQzVwVWVmUTF0V0E3aFc0dlQzT3ljb0NTZWs2VHlMMlJtSkYxTm9xdTExSXVKQVMwd1NNSkIyMU9vYXY3ZHRSb1VHcVhHZnlSbHBJS0luc0pNU1JXYU9RRHM4a3JKTVB4Y0VxNXdfdGFuWEJ2R09GSWgwaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-10-29-046",
+    "date": "2026-10-29",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lynas Rare Earths (ASX:LYC): NdPr Production Sets Quarterly Record as Sales Rise - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOejkzTUdVWGdMNHd2aWwybFpQOFJ4RW5Vb05yQ0xCUUFHckFHbUlGXy0xYnBJYzhTRjUyVWhocGRNc3VlbERNZWFmYWdqTThBR1FoZ1FVUVExOVNZRmR2eEMzMjNwc3JFLWJzclEyLT",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejkzTUdVWGdMNHd2aWwybFpQOFJ4RW5Vb05yQ0xCUUFHckFHbUlGXy0xYnBJYzhTRjUyVWhocGRNc3VlbERNZWFmYWdqTThBR1FoZ1FVUVExOVNZRmR2eEMzMjNwc3JFLWJzclEyLThPSmpWVDZpcmZPUHo5bTAzbHJhd0hoR0lEdEd2QWNWQ0poLTVfTVFJRHBUMmN3WDA1MmR1S0s3M1Qxd1VBWTF5dA?oc=5",
         "type": "rss"
       }
     ]

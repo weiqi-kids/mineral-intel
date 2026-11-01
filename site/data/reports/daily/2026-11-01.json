@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:39:32.404591Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "china_rare_earth-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Rare Earth Holdings Limited (0769.HK) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "companies": [
+        "china_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00QWFSR01Id1NEbDNrM0pQbFBzcEN0NlJlbzdrM0R6Xy12dVZ0Vk1NZWlYZ3hfdkRLaFpTeFYxek5pTlI1bnJHMldCRGFzNVdJYWc0bUdxYzZZR3BqaE5DQ2Rsb1VZZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "china_rare_earth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 176,
+    "too_old": 132,
+    "gate1_blocked": 11,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為中國稀土相關動態：「China Rare Earth Holdings Limited (0769.HK) Seasonal retu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China Rare Earth Holdings Limited (0769.HK) Seasonal returns chart - Yahoo Fi...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cutifani warns mining sector’s failure to innovate opens door to takeovers（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
