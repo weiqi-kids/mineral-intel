@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:37:50.248460Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-11-02-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lynas Rare Earths (ASX:LYC) Hits Record Prices But Sells Fewer Tonnes — and Two Plants Are Closing Soon - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNE1zaFB6d0dsNGpvQ3ViMG9yY2d3MHZSUGYtM1RONEpLdkg3OEFFelZKWXpJYUJtQjhVMHJ3ZVQxZ01WTU5OQUFxZ3hwa3lsNzNGcGQ0RDVzNmVpXy1OeHdSTzB2Wm1UWDltNElXczBWaWo0VXl5eHMxejZ0SEYybTRFTGNqdDdiak5fTmF3X1JLQmtpRDJxUXhBMGVPNjhIeVJETUtVOWZELTRxSkROUFY5N3NtWjZOV0ZJQ0RNODBKX1lLWXJkTHVjbWNiZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "north_rare_earth-2026-11-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth 2026 Science Awards Explained - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenptalVacnRSVUJONjhOUDM4N3lTVGwteFp2bHdyaHM2RV84Rk9fRk5PUXlEaDFhYnBnX1Y5TmVMdHRYMENDX1hjbzdWa29nQU9zMElkdjlRV1lPMmdRWGRLUEFZbHdZMTVXYzJUbFBtSjRSQTliekpZZ0tKbUFuQ1ctWXJsazJkYWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-11-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths Limited (ASX:ARU): Nolans Construction, Cash and Rare Earths Project Milestones - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcllFVmdUa3hCOW1SdzRwQ1VLYzU4NkFORGlaYnZYdDN0QVNRSTU5S0JzQTgzRmNqTGpSWlRzUi03RHpNcTFKTWhZc3BNRHpKMVBSeVcweWxvdklxMmI3Z0dKdEQ1U1VWdmwwYzc0ck5IeGdjSlB4ZFU2anRuYWpjUDdhWEhTaWdhWGd0WFJlOWtJOFhWTEpfMjJFdExzVHBuUVYwNnlHdHRUVVIzNXF2V050Y3FqUThja3p1aG5NN3dKa0N4TTM3R0tnenozWVlo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ucore-2026-11-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore Rare Metals Inc. Advances 4.08% as Positive Share-Price Momentum Draws Attention - kalkine.ca",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFBOM3l1MlFaQ1BVMDJMRTdjenNRdjVKbzhWUFJEeVc4TzhMUVRrempGS3Y4cHNUWFl3b0lZdVRIZDM4WTU5UjJXblkwMWhfanRvdm9ZbG8zdXdHcl9QaTAzTnVlWkxpbnhEckpMZW9mMjUyVnJycU5UNTRPUWNrNXNldnV3dHVSWDNhVVBKemNsckZvcmN4Vm5PZncxMy1lcE53LWVxdU9xbDJsT3N6QlhpMEg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Rare Earth Stocks Retail Investors Are Watching As Magnet Supply Tightens - Simply Wall St",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTVpJLXVGdHVTRjkxMGZLTTYzM2QybHd3NWxWZGZnUmlGWjliNnRfb0NMVkYxTFFHLWZSZmU3T3NTTjhoMDQzVnlyRnJ6ZW5ra0hjanBiZVQzT1hGeWRDUmFNYXlxT3pZblZGdHlmSEg2eWZWbEw4T3BabENrMWNiZWJyMTlUM0d1SVphbzFWR2M1cDdPV2Z5R2kxd3pacmVnN19GM283UG9mNlE1ZE10aE9kVllCR1d0NkthU0FWekpzYWdIQm9NeVJjNWZIbkt2OUdfbmVpQXcyQV9LSEoxMmhZWmZqd9IB6wFBVV95cUxNT2R6ekxjMHNqVjRPVUhGVmRjWGRWR19xd3UzdWdXSy1UVWlhQW9XNnIzeHQxOW16VEI3bERLaVJPcE9zNDZoOFZodUhXUERkRTJLLUdUYVdQR3pDR2I0Zlk4S3k5SlF0a2VBRDJNSFdsNkhwTzYxX2l4R3BZNUVnNFgybk93N1JtcldiLXQwVmFrcWtadnh5ZHZfRWU0c0Y2ZEVfWlpFdEZqRGZ2Z1IzQUhUbVpYWC1hTFQtbXNMNS1mSVk1VWlEdnJrRnQ0OVc3ejdCVXVzZDZlanFPajVwV1N4LS1GZFNWaFcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 345,
+    "dup_title": 152,
+    "too_old": 142,
+    "gate1_blocked": 25,
+    "gate2_blocked": 2,
+    "passed": 24,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為萊納斯、北方稀土、Arafura Rare Earths相關動態：「Lynas Rare Earths (ASX:LYC) Hits Record Prices But Sells ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Hits Record Prices But Sells Fewer Tonnes — and T...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Northern Rare Earth 2026 Science Awards Explained - Rare Earth Exchanges（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
