@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-03",
+  "total_events": 13,
+  "by_company": {
+    "lynas": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "iluka": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

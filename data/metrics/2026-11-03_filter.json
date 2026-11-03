@@ -1,0 +1,16 @@
+{
+  "total_raw": 354,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 23,
+  "gate2_fail": 10,
+  "passed": 25,
+  "gate2_samples": [
+    "Vital Metals Limited (VTMXF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+    "Vital Metals to Hold Annual General Meeting on 30 November 2026 with Director Election and 10% Equit",
+    "UCORE RARE METALS INC (UCU.NE) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca"
+  ]
+}
