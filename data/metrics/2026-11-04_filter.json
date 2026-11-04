@@ -1,0 +1,16 @@
+{
+  "total_raw": 323,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 9,
+  "gate2_fail": 7,
+  "passed": 21,
+  "gate2_samples": [
+    "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+    "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials Inc. Shares Advance 5.17% as Investors Reassess Growth Potential - kalkine"
+  ]
+}
