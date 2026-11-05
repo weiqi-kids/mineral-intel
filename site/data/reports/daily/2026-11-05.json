@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:58:47.105645Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asm-2026-11-05-012",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Energy Fuels Reports Q3-2026 Net Loss of $52.4 Million, Completes ASM Acquisition and Advances White Mesa Mill Rare Earth Expansion - Kalkine",
+      "companies": [
+        "asm",
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWGNXYVlSZzVVdVRYM0FaLXZUVkpkMmt0Q05tdElMTXRGSVRoZnFxUm9JOHBhN2tLTEdhNV85dTdLNVV4LWRXS3k5aWJRejRNRVVPM2pFNHBId0NwNjl3VjhUeFROZXpONDNveW1JTzVmMnZCUWc2VmlXWk92eFFuSVVnRXJEeTU2ZldRbFlqVGtHc0JTTDV4WWhsdlRJaUtPdXVPMS1UaGtqekt6OGlMdEpWTjZrUURPLTBpdHdrYzNHWjZiYnl0T3VPNVF1WTh1SEQ5dXFsekY4anFiSVcyR052UUctODhtV0xHM0NwOXkybHY3dnp6dzFsT0t3WUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-11-05-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "What Does the ASX Rally Mean for Lynas Rare Earths (ASX:LYC), PLS Group (ASX:PLS), and Iluka Resources (ASX:ILU)? - Kalkine",
+      "companies": [
+        "lynas",
+        "iluka"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVBHejRwWEw5Y0xkWWJGSFVoNVNMU2M1SW9OTEJtUklEOUVsT0lwRzlGVExQai1YYzFzcW1oaFlKeS1LeFRnUVFyOUtsUi1fMjhvSWl6X2t6RWhsZDF2OUxIS1AwRzVGaG85Z2NOZV9aa2gxbWktODZ2MU5wRGdmUDN0Z0xodHItcUcwazVzbXp0al8zSHUxdlJXWHUtSTR6b2p1a1p3TGMxdEdPejNlRjAyVHU0eEtoSW04ZlFMRHMtRUtsM1l0WUd6a3V3SWFyQ1Nrc0pCbXdieG5ydGg0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-05-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lundin cuts copper outlook again as wild Chile weather bites",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.mining.com/lundin-cuts-copper-outlook-again-as-wild-chile-weather-bites/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-05-028",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRQzU5NVo5MEdTYnY3dnh0VnM0QVR5WDJobGo2aWV2Vmx4eTdEWWs2MVJFNGRSblBwQTJNWFZBWGFHNU9YUVk0eV9tMnJGdWFVWmxkQ3FaX3JDV01aRGhVb1puZXBEVmtfUVFtdnBMamtFZVRMSWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lynas-2026-11-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Does Lynas Rare Earths(ASX:LYC) Plan to Expand Its Global Rare Earth Supply Chain? - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUndyY0c3dDNaN2cxQVd1UVdXTTdUV2FLM1R5VTBWMG5GU3dqSHB3cnoyMHBYQlgwYWYxOUp3WDNKTXdOc1E3NFlRaHlHSDFCdjdoMm92UmpLSVh0RTRnbjNnRGdoZ1ktdUx0bW1FSWtXVVJjUmthUl9fdVdWNl83SVhsUFRaU0l4THRyMlJoXy1zelhqRG9HUENoYXZSQzVSSTRLTnRKeVJKZlJYaml1LVdRbml6LTliWVpLUHhiV1lCS2RFRmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "energy_fuels",
+        "count": 3
+      },
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "iluka",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 2
+      },
+      {
+        "id": "ucore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 343,
+    "dup_title": 155,
+    "too_old": 118,
+    "gate1_blocked": 11,
+    "gate2_blocked": 10,
+    "passed": 49,
+    "pass_rate": "26.1%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+      "Arbitration Battle: Will Vital Metals (ASX:VML) Reshape Nechalacho? - Kalkine Media",
+      "Ucore Rare Metals (UURAF) Stock Price | Live Quotes & Charts | OTCQX - www.timothysykes.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為Energy Fuels、萊納斯、Iluka Resources相關動態：「Energy Fuels Reports Q3-2026 Net Loss of $52.4 Million, C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Energy Fuels Reports Q3-2026 Net Loss of $52.4 Million, Completes ASM Acquisi...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Does the ASX Rally Mean for Lynas Rare Earths (ASX:LYC), PLS Group (ASX:...（礦業產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

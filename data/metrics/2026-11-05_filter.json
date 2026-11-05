@@ -1,0 +1,16 @@
+{
+  "total_raw": 343,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 49,
+  "gate2_samples": [
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Vital Metals (ASX:VML) Pushes Nechalacho Pre-Feasibility Study Forward Amid Leadership Transition an",
+    "Arbitration Battle: Will Vital Metals (ASX:VML) Reshape Nechalacho? - Kalkine Media",
+    "Ucore Rare Metals (UURAF) Stock Price | Live Quotes & Charts | OTCQX - www.timothysykes.com"
+  ]
+}

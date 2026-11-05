@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-05",
+  "total_events": 28,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "iluka": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arafura": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hastings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vital": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "energy_fuels": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "asm": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "china_rare_earth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
