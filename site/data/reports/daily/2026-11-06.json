@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:30:37.747994Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_fuels-2026-11-06-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Energy Fuels Posts $52.37 Million Q3 Loss as Revenue Rises - TOKENPOST",
+      "companies": [
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZnlJYm5kaHZTd1pYLVZ2RnhaQXo3akx0d3JGVHRPY0hVZGFyN0UwX3RkaTJCdWk4a3lmM3lUSzBNVjVJcEpqalR5QjV6S1NsV01RVUJGMWI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-11-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Lynas Rare Earths (ASX:LYC) Turned Higher Prices and Heavy Rare Earth Output Into a More encouraging FY26 - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTU9UVWNObUdtSGNLaENBNWJOUnc0Z05IWGdkRUczZWhtSTFCbEl3aVlZdk5KSE9ydVJYVXdpSzFIaUdxUG1MSlNHUTZja1oyX2ZxaUFCYVVSRVZtcm1nYU9iREZNQjdoQkFuVnI2MUgzX0ZHWEd4WS15aWdvaFNPTV9sY1FRNkE3cUdiWlBVVHM5bTRqYkc0RVQyWDdhMDdrVURLYndvdnVqWlotWWw0SE1SbEI1dmRSbHc5VWE1QVRQLXloNDJRT0JHdTFKQ0laQWt6eWR5VkR4WTVxZ2p6ZDl4Tkwydw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-11-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Shares Slide Today: What Is Drawing Investor Attention to Rare Earths? - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDdRR2VSbGM2aEZIRW1oQk51TFN3X01YemZIT1FZcHpxckdWQXdJU24wVGZMb3JmU1NzVnZMdUp1OWNMRG9YOEtKN0ZmYlhRWWZBWGI4TlhZcU11S25PMHhPNnVQNUZJZGZfdWZ6Vy0zWU9fREZ5Q0hjdUZLck14X2dtWDE0SnZDN1p2Ymstb2wwVmd6Nlo5THU3b3V0TWUwQ213ckxSbVdULVQxaEpsaFVtQzJTZmpGTmZUTGliMTFRVTRXVEJR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lynas-2026-11-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare Earths, Building Materials and Mining Services on ASX Today: Lynas, James Hardie and Orica Shares Fall - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1YyTk1uc01VU0FLZm9iQm1RckFIR0RIdFh3Ym42TmhScE9WS0JjdmpEQ2dNdDA4WDEyY1pSY05kRjJwWE9STlZJRS00X1hldk13ekR0bF9yOHRULTVNOTJGVXo4aTBJZzd3M29TWmNXa0Zmb2JpRmpzVGxlUnhUVFo1UjJmRFpWeDhvR2NjMHh2eW56UXFZNDR5dTc3czJyRUhPanJ6eTFJd3Y3WTJ5VHZRQk5iMDBPUlgyVk5adUJVdVVqbjl0OHpycWozbFhQQlFHQzJDTkdyeXcyU3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "north_rare_earth-2026-11-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth NdFeB Drone Supply Chain - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "magnet_supply",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1I3dWJZVEZaSFRTcGdqUWFTS3RMM2RDMDhFWkl6NHJPWFE2SHQ5RExReHBudkNmc29vdmhYNUNNT0VkWkNBb1Jmc2FVUTRLYjQ0QlhEY1ZINFVRNDFNT2h2WEsxejNQQXVwdU5XV2h4QTFBOFZYRWVkdGVjMzAxVjYxSkZrRGZiMFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 3
+      },
+      {
+        "id": "energy_fuels",
+        "count": 3
+      },
+      {
+        "id": "hastings",
+        "count": 2
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 163,
+    "too_old": 114,
+    "gate1_blocked": 16,
+    "gate2_blocked": 9,
+    "passed": 38,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Vital Metals Appoints Kurt Laney and Vince Fayad as Joint Company Secretaries Effective 9 November 2",
+      "Ucore Rare Metals (UURAF) Stock Price | Live Quotes & Charts | OTCQX - www.timothysykes.com",
+      "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為萊納斯、Energy Fuels、Hastings Technology Metals相關動態：「Energy Fuels Posts $52.37 Million Q3 Loss as Revenue Rise...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Energy Fuels Posts $52.37 Million Q3 Loss as Revenue Rises - TOKENPOST",
+        "level": "green"
+      },
+      {
+        "text": "How Lynas Rare Earths (ASX:LYC) Turned Higher Prices and Heavy Rare Earth Out...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
