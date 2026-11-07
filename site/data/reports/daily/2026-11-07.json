@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:33:23.878497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Australian Rare Earth Stocks With Revenue Growth Up To 64% - Simply Wall St",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUpSY3U2Ml96QUNnakhWbGk1Y0NBMjdQWlFra0hXUTZoMWdzLU9jSHExQVpKTmdFeXBBQnpNaGdaY253czI5WjJUZnpxa2V5VE9QZWx0OXdqWGFFdDdhcEZtMlhhcms4eUtDWHpRd3I5cmZBcU81UmJnS1Bralk3aktPdWJuRzUtTjMyREdjalpJRElEQTdxTENxM3R3Z3BMN3Q0VEhyeE1EZzc1OTdaQ1FNX3dBWE9fOEs0WXJVXy1aSXR0NnBkN2NiSkrSAdIBQVVfeXFMTlMwXzQyRkRGUHUxOUJkOGJ6c1FSeXM1ZUhvc1V5S3hIQXlHZV8zb254am9rN2VsNDhpY3BENW9YRm5MZTF5c1BGMlg1WFF6dXJIb3d1UU5rMjJMSFI3Qmc2RF94TGE5ajdWcktKbHpNUEgyWWFsSG1vNG1sZzZwY3doZ1djZ2YyWkhZYy1UN2VxNkZ3TWg3V1RpMHJ2ci1EWEZsbncxd1dHQU03amdUdng3anV4ZXliNDN6aGlUaVdFMkNWVU5RVDc0Ny1nMTRTenR3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 162,
+    "too_old": 119,
+    "gate1_blocked": 9,
+    "gate2_blocked": 8,
+    "passed": 23,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Vital Metals Appoints Kurt Laney and Vince Fayad as Joint Company Secretaries Effective 9 November 2",
+      "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為礦業產業通用相關動態：「3 Australian Rare Earth Stocks With Revenue Growth Up To ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "3 Australian Rare Earth Stocks With Revenue Growth Up To 64% - Simply Wall St（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

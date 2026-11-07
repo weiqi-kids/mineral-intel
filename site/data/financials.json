@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:30:33.535102Z",
+  "updated_at": "2026-11-07T14:33:20.157477Z",
   "quarter": "2024-06-30, 2025-06-30, 2025-12-31",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "Energy Fuels",
       "ticker": "UUUU",
       "currency": "USD",
-      "ar": 13111000,
-      "ar_prev": 5482000,
-      "ar_qoq": "+139%",
+      "ar": 25364000,
+      "ar_prev": 13111000,
+      "ar_qoq": "+93%",
       "ar_period": "QoQ",
-      "inventory": 75037000,
-      "inv_prev": 69034000,
-      "inv_qoq": "+9%",
+      "inventory": 90291000,
+      "inv_prev": 75037000,
+      "inv_qoq": "+20%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "hastings",

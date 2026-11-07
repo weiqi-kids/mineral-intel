@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 9,
+  "gate2_fail": 8,
+  "passed": 23,
+  "gate2_samples": [
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Vital Metals Appoints Kurt Laney and Vince Fayad as Joint Company Secretaries Effective 9 November 2",
+    "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
