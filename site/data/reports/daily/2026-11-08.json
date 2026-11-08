@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:40:40.104219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "north_rare_earth-2026-11-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Co.,Ltd (CNRE80.BK) - Yahoo! Finance Canada",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoWmlzazdXS1lhX2JEN2ozUU8tOTM5eEZDVTZFWGxOT09PV05xQ1luNDI1dGZBLVlJMVRtMjdyNURKWjNmcGdGYzV3NjVQczIzSVE1ejIxVW9HbWdjWmdSZ3VYYmsyQ3pJenpfa1NHMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 180,
+    "too_old": 124,
+    "gate1_blocked": 19,
+    "gate2_blocked": 6,
+    "passed": 11,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo",
+      "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為北方稀土相關動態：「China Northern Rare Earth (Group) High-Tech Co.,Ltd (CNRE...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Northern Rare Earth (Group) High-Tech Co.,Ltd (CNRE80.BK) - Yahoo! Fina...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "北方稀土為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
