@@ -1,5 +1,500 @@
 [
   {
+    "id": "lynas-2026-11-09-001",
+    "date": "2026-11-09",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths Limited (ASX:LYC): What Drove the Jump in Quarterly Sales Revenue? - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWG5Kem9TUWsxeXJzR1daWUZiSEhiVk1qWTRuMXNQMkxZWDdnbFl1bFVubXIxWnZTSzc0ZEpmZGpIbE1VeDZwcjBsR2JIc2poMk5GN1hXcUxzWE1nWHFjTlhpQ3JzZ0QxbGlQTHBNS0",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWG5Kem9TUWsxeXJzR1daWUZiSEhiVk1qWTRuMXNQMkxZWDdnbFl1bFVubXIxWnZTSzc0ZEpmZGpIbE1VeDZwcjBsR2JIc2poMk5GN1hXcUxzWE1nWHFjTlhpQ3JzZ0QxbGlQTHBNS0tsaDJTVUtCWlZJeVBvRi1IY3lIN1BqU2RkTzFINE44SDhoM2VfMTBucmd5ZzhWMk5qV3ZIV1UxZ1hyZGlmV2lVbWs4Tjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ucore-2026-11-09-002",
+    "date": "2026-11-09",
+    "companies": [
+      "ucore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ucore Rare Metals Inc.: Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - FinanzNachrichten.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVmc0c183UUdhb0tHQlBPTWtPN1lzcjRDdWNJdnNVeGRoSmpkSUZyZjR0X2JVZDZsOFJCVU44OVNid2JoWUtOM256SzY4NERxbko5RVB0XzNVWE9wMmtSM2QxNHdMb3pEN0NzZVFKZW",
+    "sources": [
+      {
+        "name": "ucore",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVmc0c183UUdhb0tHQlBPTWtPN1lzcjRDdWNJdnNVeGRoSmpkSUZyZjR0X2JVZDZsOFJCVU44OVNid2JoWUtOM256SzY4NERxbko5RVB0XzNVWE9wMmtSM2QxNHdMb3pEN0NzZVFKZWdsTktvc0p1TXY1Y0E2eW4xZm9LaTRkbElLb09VMlB2eGd2dWNYRGFhdmVUZk9nWUFHMHJZb2JaM0lUaUV4OFA0M1c5WnFPSGx0UnlHeUdodXB2aEMzTE5EejV5WnJfSEdCcFVId2w2Z0JuMlFhcGxZVnBEWEV3UXFVTnNrdFlhMWR0ZTAwRzgxZlRhVFFGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-003",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meridian weighs $400 million investment decision for Cabaçal mine",
+    "summary": "Meridian’s copper-gold mine in Brazil has received more than twenty financing proposals.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/meridian-weighs-400-million-investment-decision-for-cabacal-mine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-004",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vivox AI, beSirius partner on mining supply chain compliance",
+    "summary": "Partnership will bring supplier evidence assessments alongside financial crime checks, the companies said. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/vivox-ai-besirius-partner-on-mining-supply-chain-compliance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-005",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$32 billion later, Codelco’s future hinges on private partners",
+    "summary": "Board chairman Bernardo Fontaine is sounding the alarm over falling copper output, soaring costs and deep-rooted management failures.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/32-billion-later-codelcos-future-hinges-on-private-partners/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-006",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Codelco, Pucobre clear key hurdle for $870 million copper mine",
+    "summary": "Chilean partners plan to begin construction in 2027 on a copper operation featuring solar power and a seawater supply system.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/codelco-pucobre-clear-key-hurdle-for-870-million-copper-mine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-007",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "magnet_supply",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths begins testing US metal production",
+    "summary": "Ore from Wyoming's Halleck Creek has entered continuous processing trials as the miner seeks to advance domestic magnet supply chains.\n",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/american-rare-earths-begins-testing-us-rare-earth-metal-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-008",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IGO’s Nova nickel mine bows out with production beat",
+    "summary": "Nova’s final output exceeded guidance for three metals as the Australian site prepares for conversion to lithium processing.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/igos-nova-nickel-mine-bows-out-with-production-beat/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-009",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barrick targets November filing for North American IPO",
+    "summary": "<p>Barrick Mining (TSX: ABX; NYSE: B) said it plans to file for an initial public offering of its North American gold business this month as...</p>\n<p>The post <a href=\"https://www.northernminer.com/n",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/barrick-targets-november-filing-for-north-american-ipo/1003897540/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-010",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US reports $2B in mineral stockpile commitments",
+    "summary": "<p>The U.S. Defense Logistics Agency (DLA) says it committed $2 billion (C$2.8 billion) to acquire strategic and critical materials for the National Defense Stockpile during...</p>\n<p>The post <a href",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/us-reports-2b-in-mineral-stockpile-commitments/1003897547/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-011",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AbraSilver extends Diablillos gold zone in Argentina",
+    "summary": "<p>AbraSilver Resource (TSX: ABRA; US-OTC: ABBRF) has extended gold mineralization beyond the planned Oculto pit at its Diablillos project in Argentina, adding growth potential ahead...</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/abrasilver-extends-diablillos-gold-zone-in-argentina/1003897544/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-012",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Codelco, Pucobre win permit for $870M copper project",
+    "summary": "<p>Chile’s state-owned Codelco and Pucobre (Santiago: PUCOBRE) won environmental approval on Oct. 23 for their $870-million (C$1.23 billion) Tovaku copper project, advancing a partnership that...</p>\n",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/codelco-pucobre-win-permit-for-870m-copper-project/1003897549/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-013",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fast-41 Projects Interactive Infographic",
+    "summary": "<p>The graphic tracks what comes next for 10 U.S. mining projects covered by FAST-41, which coordinates federal reviews and sets permitting timetables. Democrats’ midterm victory...</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/fast-41-projects-interactive-infographic/1003897473/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-014",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northern Miner honours Krebs, Isaac and Boyd",
+    "summary": "<p>A takeover that brought Coeur Mining (TSX, NYSE: CDE) into Canada, a strategy connecting uranium production with reactor technology and four decades spent building a...</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/tnm-leaders-videos/northern-miner-honours-krebs-isaac-and-boyd/1003897532/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-015",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths begins testing US rare earth metal production - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDJOelZVRXBacmRJQ0hOUG1ia1ZvN3lVY0ZfYUI2YkJWbjZCbGd4clVzcXgyMWxvTUZ3NXFfeVVxRDNtN0pBRVpCSjJYOWN4RktEYU1pOGhLcTJGYTRZbVNyalktcnJfaF9UWWxqMU",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDJOelZVRXBacmRJQ0hOUG1ia1ZvN3lVY0ZfYUI2YkJWbjZCbGd4clVzcXgyMWxvTUZ3NXFfeVVxRDNtN0pBRVpCSjJYOWN4RktEYU1pOGhLcTJGYTRZbVNyalktcnJfaF9UWWxqMUZ2TnluSkZjNFNYTFBhcmRmZi1uUXFZT1FHVVh3TlIya25hZVJu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-016",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$1.5 Trillion Rare Earth Risk Leads Europe to Tap China Playbook - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObFgtZVJEcmlsb3lsU2JUUW9Lcjk3eWFRVGxWYkQ1dUVaeDdZX0xfanJtdVJ3YVphU0xjQllpU05GOTgtTlhvWHJpTThOd29YOEhJeXJoaTNiQTRGc3RBNlZCVjZJZUlsNkZuenRYTl",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObFgtZVJEcmlsb3lsU2JUUW9Lcjk3eWFRVGxWYkQ1dUVaeDdZX0xfanJtdVJ3YVphU0xjQllpU05GOTgtTlhvWHJpTThOd29YOEhJeXJoaTNiQTRGc3RBNlZCVjZJZUlsNkZuenRYTlZmWC1jOWszQWRrMXlId003dl94dnZWSWhQcDdqdk05TlkwTWFvYnVZRlFEMlctT2hNSHF1SFl5cUZYX1VIU1FxaUpwcXQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-017",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths starts small-scale processing of rare earths ore - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2lUYjBhZ19URUxWZU51aDdoTHJ4WmxsTXJfYmtmQlJfTndiakNkam9vMHhpWWUtdzVYNndIaTI1MzBVTzZHb0VMYV9EUldCakVRVmpDcXFKWk1MUGhjYkVfZ1Zzb2loV2RPdllaZj",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR2lUYjBhZ19URUxWZU51aDdoTHJ4WmxsTXJfYmtmQlJfTndiakNkam9vMHhpWWUtdzVYNndIaTI1MzBVTzZHb0VMYV9EUldCakVRVmpDcXFKWk1MUGhjYkVfZ1Zzb2loV2RPdllaZjhSdk1qM0lscWdPSE9zcEMteEN0cjBpMnJMZmZhdDFRNFdjdEJ1N1RhUU83SkVXMDFkc3lsV2F6LWpLY3BHQTNpZno2ZGpNMXVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-018",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United States Antimony Surges 19% Ahead of Earnings; USA Rare Earth Climbs 7%, Critical Metals Rises 4% - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDZSSXZhT1NpRzYwVXQ2RWVJQ2Rtd3hXTWlFejFsbkpSODRlUEpHTUo2ZEhPSl9oX2lhTy1rRFY3RDJLazNqX0huMGQ5NnE2TWlPa3cwR1V5WExBSkdBYVRHdkdnQ2tpLVJPeW9XZj",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDZSSXZhT1NpRzYwVXQ2RWVJQ2Rtd3hXTWlFejFsbkpSODRlUEpHTUo2ZEhPSl9oX2lhTy1rRFY3RDJLazNqX0huMGQ5NnE2TWlPa3cwR1V5WExBSkdBYVRHdkdnQ2tpLVJPeW9XZjM5c0l4Y3lJdVhHcldmLWNWd0YxMjQxUUk2V1NVSmc3UFJIQ0I4QWx2TE9qZEpEVndmUTlqYUN2cXBYWmNzakFZYnZaaU1sazNZaEJBMkxZdmtRc1hqaVJ4Xzl4R29PdTllazFRMTJxRWZlQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-019",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brazilian mining enters 2027 focused on freight costs and critical minerals - BNamericas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFU5NmxxMTdEX2pTUFVsbjhFUFN3dU5SdnVwWEVIMFRFQkc3VzZ0S21ZYmxNOVBDTU5EOWJCUFhuclZPbHpFSW9jOW1nR3Z2dkV3TG55R0wyTW9jMWs0WFVURjRxYi1xdmotMXFUOV",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFU5NmxxMTdEX2pTUFVsbjhFUFN3dU5SdnVwWEVIMFRFQkc3VzZ0S21ZYmxNOVBDTU5EOWJCUFhuclZPbHpFSW9jOW1nR3Z2dkV3TG55R0wyTW9jMWs0WFVURjRxYi1xdmotMXFUOVFzeFNGTk8tZVJEQ0gxVV9uc2lzQ3pfQ3htdTUwMlV3bFh5aE9XbmVvVG04RU9oQm9LMW1rendmb0FGdkFxOGVlLV9HbWkxRTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-020",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$2 Billion Mabounie Niobium and Rare Earths Mining Project in Gabon Targets 2027 Construction - Construction Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWkJhMUIzT1l1d1hyaWMybU9YTlJNNThIWHRPS3NMYUFBYkhITFl2ZHkxaVFWa0R1ZzlkTDI1S0h2WUVPdFB6STY1a1BDXzVNdXc1T24waS1zT1R3LUd0U25mQ2YyRWFRYlMxOWZsNG",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWkJhMUIzT1l1d1hyaWMybU9YTlJNNThIWHRPS3NMYUFBYkhITFl2ZHkxaVFWa0R1ZzlkTDI1S0h2WUVPdFB6STY1a1BDXzVNdXc1T24waS1zT1R3LUd0U25mQ2YyRWFRYlMxOWZsNGN5VXlVV21JOWRzenlNcnQwSC1hb3Q3eFpKMU1QSWlXZ2VsejR4ajdWb0FKRElVMXdnZGI1ekNWMmcwS3pKSmNUSVdrc1BucHlnNHNiUk05d3NQU3NDMUpWanB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-021",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China extends suspension of new rare earth controls until January - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVo4bzYyXzJlM0RUaEJCaDNDQWZ2bzhKOFNmbzBNTnMzNW9UeGRqVm9vd0pDWkNZUnROTXVSRmZ4aFJ1ZW1SeFdfQXJhZmFOREt6R3JQa2NFb3dsa21BYkdRanpFLTdVT1JEUko5Nn",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVo4bzYyXzJlM0RUaEJCaDNDQWZ2bzhKOFNmbzBNTnMzNW9UeGRqVm9vd0pDWkNZUnROTXVSRmZ4aFJ1ZW1SeFdfQXJhZmFOREt6R3JQa2NFb3dsa21BYkdRanpFLTdVT1JEUko5NnhTY2lTbVk4cTZZS2NvS3lSMWQ4YnpQbElVcElZMDlQNjE2cDg2VnVwZ3MySXRraGpZQUtJWndKemxDRTVlMzBF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-022",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China extends rare earth export lifeline to the US, India, Japan and Europe by two months amid global supply concerns - Business Insider Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmJ2S2dwRVBSSFhHakZnU2xabE53eU5BTFo1d1ZRWVFQNFNLckx1UDBPRGwwYVZRVFNIY1VqbjJWdUdZeHI5T2tHZ19sQzlIYXJJdEhoLWdJTUlkZlRUWnJDT1FrTi1HSy04cGRnaU",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmJ2S2dwRVBSSFhHakZnU2xabE53eU5BTFo1d1ZRWVFQNFNLckx1UDBPRGwwYVZRVFNIY1VqbjJWdUdZeHI5T2tHZ19sQzlIYXJJdEhoLWdJTUlkZlRUWnJDT1FrTi1HSy04cGRnaUNFSFE3NXUwWWlud2hPd2Fua2o4S3cxeF9vcDJNdVcwVFAtckNrblBjM084QmVmcEpMV09RYllBVERFUGdJUnlGN2JhR1gyUGIzV3NrdXloV2tvdHQtUWxVcXMtaU9veTl3TmNZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-023",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China extends its pause on the October 2025 rare earth export controls to Jan. 10 - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlJiQlFReFk3U2RSbUpjODFRUzk3bjEzb2xrY2NrX21VbVFrSjBmT3hJZ3NxQlRtazUzVG9oZFlxVTY4MXVKX1dkTTJJdm4wQWJvMVMzVW9pYVJsclE5WUZsR1A2NXpNUFZZdklxNU",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlJiQlFReFk3U2RSbUpjODFRUzk3bjEzb2xrY2NrX21VbVFrSjBmT3hJZ3NxQlRtazUzVG9oZFlxVTY4MXVKX1dkTTJJdm4wQWJvMVMzVW9pYVJsclE5WUZsR1A2NXpNUFZZdklxNU5qRDdYT2RQZHJLc0FNRjlNeVItWjdYSjV5VF9qSmxLV0hFdm1hWGJtVnhJdFRuZzlPdWVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-024",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China Extends Two-Month Delay of Retaliatory Tariffs on US, Extends Rare Earth Export Control Exemption to Jan. 10 - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RllKNlZJUzFhX1A3NGxSUkZzMVBBd0lPNjBhYXN4andaeFpRYWxBU0Q3ZmFrdXlBcUg0ZFNacUk5XzhISkZGcGtTRXV6MmlRd3BKZzZRTWxUVUdjWFhXRWpXaVVSQUhhcGh4QVNHaT",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RllKNlZJUzFhX1A3NGxSUkZzMVBBd0lPNjBhYXN4andaeFpRYWxBU0Q3ZmFrdXlBcUg0ZFNacUk5XzhISkZGcGtTRXV6MmlRd3BKZzZRTWxUVUdjWFhXRWpXaVVSQUhhcGh4QVNHaTJmSVRxTFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-025",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Austria Rare Earth Export Controls November 2026 - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDFzaW04NjN0UHUzZWg5MTNTbjNvcHE1SUlGdWU3dU9UNTlGQ3VMU2JLdy1xS1JZUHQ0a29hamhVZnRFT0pyRXVqcDJISVlYTndyQlByRVU5T2Y5Z1AwYy1YR1pDTDF4LU9wQ3Q0OW",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDFzaW04NjN0UHUzZWg5MTNTbjNvcHE1SUlGdWU3dU9UNTlGQ3VMU2JLdy1xS1JZUHQ0a29hamhVZnRFT0pyRXVqcDJISVlYTndyQlByRVU5T2Y5Z1AwYy1YR1pDTDF4LU9wQ3Q0OWJiUndEWmZ0UE93R2VncVdfeklGcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-026",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China extends suspension of rare earth export controls until January - The Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHhNcUFTZ0JkN1pKb0JFVzdUWEJIM1RvTGJiLUdGUWlvbkJuTGRVWFAzb29HZFozaUhXX2JpVzBReUZ0OTNWQWJ4U0doODNOTDBnbHYtcnprV29GOEdEWjBrb3Y5RHhqWlNrQXJ0Mj",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHhNcUFTZ0JkN1pKb0JFVzdUWEJIM1RvTGJiLUdGUWlvbkJuTGRVWFAzb29HZFozaUhXX2JpVzBReUZ0OTNWQWJ4U0doODNOTDBnbHYtcnprV29GOEdEWjBrb3Y5RHhqWlNrQXJ0MjVqaGZuY2ZfZXpGM2tLMVFWYmdoWTJpaEszclVpRXg2TFY3WnZKZWxlSmVaamZOcTQwSC1wX184VjQ1WHIzaVBleTZrNG14Nm5BVWdzeWhEOHE4Q1F3Zk5YMWc3TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-027",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The world's 2nd-largest economy extends rare earth relief, while the US continues to insist on backing African projects as it seeks an escape from China’s dominance - Business Insider Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEo4T3NwdXlfdkgxQkx5Q3dndllFb1VwSXAwUFcydW1GWk5UXzZtdzg4U3ZGRWVfVEhOZ1lNR2t0b1llcW5Gc0EzOWpkaVYwelI2c3pCZU9ZdThYOFJvQU54b2xtZ2lDNTAyZ2t5d2",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEo4T3NwdXlfdkgxQkx5Q3dndllFb1VwSXAwUFcydW1GWk5UXzZtdzg4U3ZGRWVfVEhOZ1lNR2t0b1llcW5Gc0EzOWpkaVYwelI2c3pCZU9ZdThYOFJvQU54b2xtZ2lDNTAyZ2t5d2RBZERWR2M5Qm9DQlZwaFdkLWdlc0N0UWFnY0Z4dXFOY2RiVng0Mm1CRHZDeFJOX0oyOGgwZWU3Y3dfcWVQT0ViVG15dUx0cUFKdGhBLXlaSGxTRHZtWmlyNjNDd09uWGJEY01pRVpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "north_rare_earth-2026-11-08-001",
     "date": "2026-11-08",
     "companies": [
@@ -15,6 +510,84 @@
       {
         "name": "north_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoWmlzazdXS1lhX2JEN2ozUU8tOTM5eEZDVTZFWGxOT09PV05xQ1luNDI1dGZBLVlJMVRtMjdyNURKWjNmcGdGYzV3NjVQczIzSVE1ejIxVW9HbWdjWmdSZ3VYYmsyQ3pJenpfa1NHMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-11-08-002",
+    "date": "2026-11-08",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth (Group) High-Tech Co.,Ltd (CNRE80.BK) options chain - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYVXJ4QmJOdlljaTF2Y1A1OEllWUhpSHdNMkVCenFZTmFzcVVJN1NfVHJYdVlqbnNHOFhtQ1hvRHhUUWZwcjR0cFZtQ3pqMW9BVzhyQ2kyZDA5Mnd3eERZTTNRNA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYVXJ4QmJOdlljaTF2Y1A1OEllWUhpSHdNMkVCenFZTmFzcVVJN1NfVHJYdVlqbnNHOFhtQ1hvRHhUUWZwcjR0cFZtQ3pqMW9BVzhyQ2kyZDA5Mnd3eERZTTNRNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vital-2026-11-08-003",
+    "date": "2026-11-08",
+    "companies": [
+      "vital"
+    ],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Brazil picks 27 critical minerals in push for local supply chain",
+    "summary": "New classification will steer public funding toward domestic processing and projects considered vital to industrial growth. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/brazil-picks-27-critical-minerals-in-push-for-local-supply-chain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-004",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Australian miners rail against looming tax changes",
+    "summary": "Miners and industry groups warn proposed capital gains reforms could deter investment in high-risk mineral discoveries and weaken competitiveness.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/australian-miners-rail-against-looming-tax-changes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-005",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rare earths to tungsten: Which critical minerals are up for auction in govt’s latest round? - The Financial Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxObFRTLTJWWEZKQ2Vya3dDMUtzb3BORGdsRjR4N3RuNlROdEw5N3BSajh1bG05VHdWWUw3bDdkSWJFMlFOVGpyWHJXU1RVN0pzb3JZd1dqdVFoWDdXV0JJeDZYcGw5cjZVRzVBbUpfTW",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObFRTLTJWWEZKQ2Vya3dDMUtzb3BORGdsRjR4N3RuNlROdEw5N3BSajh1bG05VHdWWUw3bDdkSWJFMlFOVGpyWHJXU1RVN0pzb3JZd1dqdVFoWDdXV0JJeDZYcGw5cjZVRzVBbUpfTWRjdGFWOWlJQWN6QjVSRDh1ZHdJWXk0VENTUFJaTEdDRWE5UEJ4ZGxVVjVpT0VsZW9fZk5fUHZhazRPVndhOEk5STYtT2hqd2t5dUN1bFM1T1pkU3c3WFZySUprWjVLT3E5dWtCcTJFVzJCLVNjdjN4RnRvLVN3dGgt0gHvAUFVX3lxTFBTNEVUSzc3aHY4YlgwZjktT3NGQkhpWlJkSXZnYkNOQ1UxV1ZsY3dJLWotQkNiOF9sR1FxaWh0ZkxfNkdKTkFNUkFJdDl0cTlaUHk0Q2VMUW5SS25yYlhDMHpab3NjUHJ0MEp0ZHZpa3pseXFYVUVWZkdkenRRc3JlTmtwVGZlLUtJWVNnRVVacTNVVk9FRFI1OUlORGNTT292bkZCcS0wU3A2RHp5aldsOWpsWnVhWWliQ1Fiam1ibmpkWGNuQnlLd1JRUU9vZnVzeS1mNFpSUUNmcW9EY0dzOFdicTUyXzNFVUYtdEc0?oc=5",
         "type": "rss"
       }
     ]
@@ -92,6 +665,46 @@
       {
         "name": "hastings",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLURhelpsRzRUWURsTFNyX2VhT2FuNDJ2bUhHVG1DaTBjNzNKYmpncmxNOENpXzAtc2o2cmFPZ1lDZXFON1UyZE9JSkhZTHlTRWtxZUFTMEdkc0tXbVlVLXVSYTlGdEh2VmNXaVIxbDZxTTd1TWVNekFPMVh6dlp5NVRhS3ItQzlkZHBQd3VranF0UGZFSDF1aFhDQWh5azRnb1UxVUQwT1Y2NVhjd2VqTE85SFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-11-07-005",
+    "date": "2026-11-07",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth (Group) High-Tech Co.,Ltd (CNRE80.BK) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uVGUzVGxiaENLTzJFM2x5RUNtVjJaaU5OZU9wU1c1dTd5NmVZOVBLaWpUeV90MTB1YU9fcFZJQk5vem01ZXN1WXlVZUFlZnAtV1BDd2VaM2Q?oc=5\" target=\"_blank\">China No",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uVGUzVGxiaENLTzJFM2x5RUNtVjJaaU5OZU9wU1c1dTd5NmVZOVBLaWpUeV90MTB1YU9fcFZJQk5vem01ZXN1WXlVZUFlZnAtV1BDd2VaM2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "china_rare_earth-2026-11-07-006",
+    "date": "2026-11-07",
+    "companies": [
+      "china_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth Holdings Ltd (RAE.DU) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqVUlQY0NJcXJ2UG41WkVxamszMGRzQ1kwcl80Ny1VaGJjOHowWmpZMi1EczF5UXo4Q2hJWURCMzJKcVRaSXJPRG5oZGs0NHNpQmxaRTlxMUZEbEltM1hTNkoxSjg?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqVUlQY0NJcXJ2UG41WkVxamszMGRzQ1kwcl80Ny1VaGJjOHowWmpZMi1EczF5UXo4Q2hJWURCMzJKcVRaSXJPRG5oZGs0NHNpQmxaRTlxMUZEbEltM1hTNkoxSjg?oc=5",
         "type": "rss"
       }
     ]
@@ -1845,6 +2458,24 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSXgtRHdvbU1RYk5ONkpHeXlxY1FHQ3ZLZWhPZkVjelhVbm90cDdaSkVjMG9tU3FkZjFqM0g0RFNoYjBGOE9EWmlmX2RnLUstZlVlSnp4TTFzM3MyWi1vZGxYbzZzT2pCWnlud09xM0txVnlHckJFUUZQMXJsOFJIM3o3WkxadkE3eHREUzI3ZlVVdTBRZDVBZkxycTYxT25ZNzV6dlhqSEQ0TUZWOUJQdEFFeG5idDl0RDJsNTFxUjdxSGhfdFNTRjc5cjRPd1ZOWmFPVVFIWnRFSGp6VEdwQlBQTGl5M2VHZ0FNanQ3ZG9sQTRJeEtFMld1SmU1akxNVkpCMzM1ZnpIYi1yUEJpVm1EX0VzNDMxT3dxMnRaV2RDVVZadE9SMXNFVlZISE42cDRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-051",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "china_export_control"
+    ],
+    "impact": "neutral",
+    "title": "US extends suspension of export restrictions on Chinese firms - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1pTZHNPVmNSSjU0VnFsZWtLamRadUtEVVhnSnlFZWp4WWEwZGt1THFBMjNHWlZkbnFSSTRtTEMzQjJYNGJvUE5iYnZoTmlzN1NmOXhsR3ppd3VIdllfbzFTOWRpd2s2TmpNY3c?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:02:46.627986Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-11-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths Limited (ASX:LYC): What Drove the Jump in Quarterly Sales Revenue? - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWG5Kem9TUWsxeXJzR1daWUZiSEhiVk1qWTRuMXNQMkxZWDdnbFl1bFVubXIxWnZTSzc0ZEpmZGpIbE1VeDZwcjBsR2JIc2poMk5GN1hXcUxzWE1nWHFjTlhpQ3JzZ0QxbGlQTHBNS0tsaDJTVUtCWlZJeVBvRi1IY3lIN1BqU2RkTzFINE44SDhoM2VfMTBucmd5ZzhWMk5qV3ZIV1UxZ1hyZGlmV2lVbWs4Tjk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ucore-2026-11-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore Rare Metals Inc.: Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - FinanzNachrichten.de",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVmc0c183UUdhb0tHQlBPTWtPN1lzcjRDdWNJdnNVeGRoSmpkSUZyZjR0X2JVZDZsOFJCVU44OVNid2JoWUtOM256SzY4NERxbko5RVB0XzNVWE9wMmtSM2QxNHdMb3pEN0NzZVFKZWdsTktvc0p1TXY1Y0E2eW4xZm9LaTRkbElLb09VMlB2eGd2dWNYRGFhdmVUZk9nWUFHMHJZb2JaM0lUaUV4OFA0M1c5WnFPSGx0UnlHeUdodXB2aEMzTE5EejV5WnJfSEdCcFVId2w2Z0JuMlFhcGxZVnBEWEV3UXFVTnNrdFlhMWR0ZTAwRzgxZlRhVFFGQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meridian weighs $400 million investment decision for Cabaçal mine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/meridian-weighs-400-million-investment-decision-for-cabacal-mine/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vivox AI, beSirius partner on mining supply chain compliance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/vivox-ai-besirius-partner-on-mining-supply-chain-compliance/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$32 billion later, Codelco’s future hinges on private partners",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/32-billion-later-codelcos-future-hinges-on-private-partners/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "magnet_supply": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "china_export_control",
+        "count": 5
+      },
+      {
+        "id": "magnet_supply",
+        "count": 1
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 165,
+    "too_old": 118,
+    "gate1_blocked": 17,
+    "gate2_blocked": 8,
+    "passed": 34,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Vital Metals (ASX:VML) Hits 52-Week Low: How Advanced Is the Tardiff Project? - Kalkine",
+      "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為萊納斯、Ucore Rare Metals相關動態：「Lynas Rare Earths Limited (ASX:LYC): What Drove the Jump ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths Limited (ASX:LYC): What Drove the Jump in Quarterly Sales R...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ucore Rare Metals Inc.: Ucore Receives Initial Machine A Commissioning Feedst...",
+        "level": "green"
+      },
+      {
+        "text": "磁鐵供應話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

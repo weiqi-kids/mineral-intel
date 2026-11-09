@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 17,
+  "gate2_fail": 8,
+  "passed": 34,
+  "gate2_samples": [
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Vital Metals (ASX:VML) Hits 52-Week Low: How Advanced Is the Tardiff Project? - Kalkine",
+    "Ucore Rare Metals Inc: Share-Price Advance Highlights Constructive Investor Sentiment - kalkine.ca",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
