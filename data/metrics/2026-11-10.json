@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-10",
+  "total_events": 19,
+  "by_company": {
+    "hastings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rainbow": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": -0.04
+    },
+    "critical_mineral_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "china_export_control": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

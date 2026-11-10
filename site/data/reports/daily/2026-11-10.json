@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:58:51.677537Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hastings-2026-11-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals Ltd (5AM.HA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xUVVERVdISzcyQ1pnTjIyMnZ2NG9MVlRpNzIxYXM0VDJVQm9FUE5KYVVhck9tc1FHaXQ1aXF4ZEYtWnZod09qbExvR3lJUlBkeG12UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rainbow-2026-11-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "REG - Rainbow Rare Earths - Result of AGM - TradingView",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlpTUk9PQVRhN1dTTjVPd2xlQ3duRFJDWFk1aGg3M0MzclFtcGN6dzNzZFgydUU4Ym5uUDNtcU1LMEYyRFZCMWtRNEtTNk1GVk5TWVY1NVRLbVlUVnBvLVlraTlPNGJ3UEJrajdnSHVpRFgtanlLb014ZlRiMVc4NU5nUEJXbEdpVTVub1BKaldNM1dud1doMVZQS09POU44MXNJdlBQbndfNFc3a21Hc3hFaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rainbow-2026-11-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rainbow Rare Earths Says All Resolutions Passed At AGM On November 10 - TradingView",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3FoRGZGSXNmUlY5QlRYRWN6elY0Vlh0eVNTeUgtS21Qc19ZZFNXNnFiNWFsM2VDZ1lnOWRkVUJFeUltR0s2MXNvQkdLSGpfWW5BbXRNUlREXy1nQlRxUDRTdWViM1FrUzBubTNqVVMtMFlGU2J3WThyMm8yd0JGSDllS1dnYm1nY1plZk9IWnk4cnJiSTRSbXNnMU5PSlgtLUNQZ3NPUHVOVU5tc2ptdFd5bldKVDI4RUM0TGptYTZZUFZNUFdYNzM5c2ZmVTFNcmJST0x3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ucore-2026-11-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ucore Announces Investor Conference Schedule and Consultant Engagements - InvestorNews",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmxMdXhqNDc2amQ2MEx4OVgtUWVzTjhoOHFBcHRfQW0zODY4cmRRRmdrV3g1VF9tcmZ2YnA2LUI1c05aTlNNeGZ6Sy0tUHhTcDlkcVl4bW1mdmVlQ0RXTHJodVZxaWQ0X2Z6cEhvUWJlN253cU5FVmNuMHl1U1ZNQWlBdlFFNUIzZVY3ckFYTGUwLWpGSXJLMFBoUXpmMDNOVktKTDdBSWFxSkpLWFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "neo-2026-11-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Q3 2026 Earnings Call Is Live - TradingView",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXcybWwxMlVCd1gwM3psQXA5S2lWZGlHbmV2RTIzNmh2RmNxb2o4TERhRGpqZXlBX3pNRkNLaFJGcTBuQkpJVjU5dlBIY1NESzVXcDhkUXpRdm80Nl80TWQtd2FuTVI0MWZ5Q08xV3pTWU9ZTUtJMDZiczhRYllCbUxDZGRQSWwxYmcteTBmYjNkN3dSOXA4TXlzWnpCYXJpdUhIazFxbDhhX3Vpam9BeUxPaEpZbkh5UmVtZ2xNc2tlUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "rare_earth_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "neo",
+        "count": 3
+      },
+      {
+        "id": "rainbow",
+        "count": 2
+      },
+      {
+        "id": "hastings",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "china_export_control",
+        "count": 2
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      },
+      {
+        "id": "rare_earth_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 167,
+    "too_old": 115,
+    "gate1_blocked": 15,
+    "gate2_blocked": 8,
+    "passed": 33,
+    "pass_rate": "19.3%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - Investing News Netwo",
+      "Two Ucore consulting agreements list $6,000 and $15,000 monthly fees, pending exchange acceptance. -",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Neo Performance Materials、Rainbow Rare Earths、Hastings Technology Metals相關動態：「Hastings Technology Metals Ltd (5AM.HA) Stock Price, News...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hastings Technology Metals Ltd (5AM.HA) Stock Price, News, Quote & History - ...",
+        "level": "green"
+      },
+      {
+        "text": "REG - Rainbow Rare Earths - Result of AGM - TradingView（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "稀土價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

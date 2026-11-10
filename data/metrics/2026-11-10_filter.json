@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 15,
+  "gate2_fail": 8,
+  "passed": 33,
+  "gate2_samples": [
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - Investing News Netwo",
+    "Two Ucore consulting agreements list $6,000 and $15,000 monthly fees, pending exchange acceptance. -",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
