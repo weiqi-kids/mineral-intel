@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 37,
+  "gate2_samples": [
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Ucore Rare Metals Inc. (UURAF) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - InvestorNews",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

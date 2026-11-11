@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11",
+  "total_events": 17,
+  "by_company": {
+    "hastings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "neo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "energy_fuels": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": -0.08
+    },
+    "critical_mineral_policy": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

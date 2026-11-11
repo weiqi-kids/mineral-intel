@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:44:27.555945Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_fuels-2026-11-11-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Energy Fuels: A Paper Loss, a Completed Acquisition, and a Processing Run That Has to Happen - ad-hoc-news.de",
+      "companies": [
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX0RMaF9XOXdBN0NXNGMxa0JoeGtxYUYxZWVMRE4wUmdON2VIOUtkZ1FfTzl0ejRwbGcweHRVeXI0OWhmaWxXMFJTcEpQdkF3Mi1Ya1N5V3I2ZXdWbHhVbUhVWlgtNG8yM3ZkTGIwclEtUmhIMl9yYUprTFFPODlldlA0ZUJmbklXaW1tRktZWk5ZQzFXVnBULXR0dTFLN29BQXNjcDdNS3B6cUZzb1o0VEFJOU5FYVdXWUVTVFEtQUF2bHBPRFR6VjlveUlmY2k0UG5HVWpOLTAxc3dEWTZ3ZXhLcnpFQ3IwbU5XdVlaTnR4bWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hastings-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals Reports Director Share Purchase - TipRanks",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbi1ZT1pORkZTbkJkMWdGYTdIaXhNQzZfeEpuaUczM1BiQjBzTE1BQzh1VmMxWXNnNzNfbzZVejlBTzBTS2czWi1XZGR5WDhuUXpkWTZEdk84NExPWmxQNVRkZ083a01TRjFjZ283RkhBZlpQNHJpN05pdEJiVkhibFB2NE51bVNaRUNSRFFOTzdweVVQZmp0TlRzWkRwZzE1ZVExNXM0bE9EcWVwVlBN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hastings-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hastings Technology Metals Director Charles Lew Acquires 200,000 Shares in On-Market Purchase - Kalkine",
+      "companies": [
+        "hastings"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUN0Zm1kaVEzT21MeHpYaWR0Y0tiUWtBWFRBaTVLblVCM0VyZWdZM0dNb1QzUVFwX3BBUUhjZllZZU1YcmE4bHFvTHkzcFp0MXZoOHRuTGIxNG9uV2JtOWwzVkdmUnozR3ZyTmk4UU1VQVNFcUhSdkdXM0hHTHkxT3EwTnJwMnNxcVVYVTZKLWdrTzVmVWtJaDQ0VTlwbVI3cGxVZ0UwNS1qNkVKZldjenpKUzN1OXd5VHhrVTFGeGpsMXZfLVZ2VTNXdXRMeTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "neo-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Neo Performance Materials Q3 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjQtcHJvT3RTaUI2dGh1ZW44SFdHLXhydk1rVzBNSU9PaVBYeWd3VnR5VUFNN2lncWdYM29rYXNteUVQNTFkcVh3LVhRenFzMUE5S2xkWWlmT3RhNW41M1RYbWFndEEyNW1iUHR4SlFZWmMtRFN4eFF5Z1R1ek5oRXRsZHBPTlMtZjNSNEhvTW5xUERPakNCbUpNY180MUFuNmRUcA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EverMetal acquires UK critical metals recycler Advanced Alloys",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/evermetal-acquires-uk-critical-metals-recycler-advanced-alloys/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hastings",
+        "count": 2
+      },
+      {
+        "id": "neo",
+        "count": 1
+      },
+      {
+        "id": "energy_fuels",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 162,
+    "too_old": 116,
+    "gate1_blocked": 14,
+    "gate2_blocked": 8,
+    "passed": 37,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Ucore Rare Metals Inc. (UURAF) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - InvestorNews",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Hastings Technology Metals、Neo Performance Materials、Energy Fuels相關動態：「Energy Fuels: A Paper Loss, a Completed Acquisition, and ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Energy Fuels: A Paper Loss, a Completed Acquisition, and a Processing Run Tha...",
+        "level": "green"
+      },
+      {
+        "text": "Hastings Technology Metals Reports Director Share Purchase - TipRanks",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
