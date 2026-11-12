@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 11,
+  "gate2_fail": 11,
+  "passed": 32,
+  "gate2_samples": [
+    "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+    "Vital Metals Says Arbitration Hearing Rescheduled To Second Half Of January 2027 - TradingView",
+    "Vital Metals Arbitration Hearing Rescheduled to January 2027 After Arbitrator Unavailability - Kalki",
+    "Ucore Rare Metals Inc. (UURAF) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - TMX Newsfile"
+  ]
+}

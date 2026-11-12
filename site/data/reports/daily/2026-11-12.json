@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:29:08.426387Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rainbow-2026-11-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rainbow Rare Earths Limited (RBW.L) stock price, news, quote and history - Yahoo Finance UK",
+      "companies": [
+        "rainbow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMW1USGRpbU9iTndEbmdhMWo1empfc085YzNVUTduOHd2LUIxVnFPSG9MRVJiSF84Z3J2V3JGSHBUYVdaQVp3ekNGd0t6Y3R6QndB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ivanhoe Mines targets Pakistan copper with Mari Energies deal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/ivanhoe-mines-targets-pakistan-copper-with-mari-energies-deal/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hudbay cuts cost outlook as Copper Mountain improves",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.northernminer.com/news/hudbay-cuts-cost-outlook-as-copper-mountain-improves/1003897722/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Titan, US military team up on graphite",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/titan-us-military-team-up-on-graphite/1003897719/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Endeavour OKs $1.2B Africa gold mine as costs climb",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/regulatory-issues/endeavour-oks-1-2b-africa-gold-mine-as-costs-climb/1003897711/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rainbow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 174,
+    "too_old": 113,
+    "gate1_blocked": 11,
+    "gate2_blocked": 11,
+    "passed": 32,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "What Does Iluka Resources' (ASX:ILU) September Quarter Reveal About Zircon Pricing and Eneabba Progr",
+      "Vital Metals Says Arbitration Hearing Rescheduled To Second Half Of January 2027 - TradingView",
+      "Vital Metals Arbitration Hearing Rescheduled to January 2027 After Arbitrator Unavailability - Kalki",
+      "Ucore Rare Metals Inc. (UURAF) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Ucore Receives Initial Machine A Commissioning Feedstock at the Louisiana SMC - TMX Newsfile"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Rainbow Rare Earths相關動態：「Rainbow Rare Earths Limited (RBW.L) stock price, news, qu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rainbow Rare Earths Limited (RBW.L) stock price, news, quote and history - Ya...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ivanhoe Mines targets Pakistan copper with Mari Energies deal（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

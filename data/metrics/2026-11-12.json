@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-12",
+  "total_events": 10,
+  "by_company": {
+    "rainbow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
