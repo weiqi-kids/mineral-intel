@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:29:03.921703Z",
+  "updated_at": "2026-11-13T15:49:29.018875Z",
   "quarter": "2024-06-30, 2025-06-30, 2025-12-31",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "Neo Performance Materials",
       "ticker": "NEO.TO",
       "currency": "CAD",
-      "ar": 133324000,
-      "ar_prev": 113962000,
-      "ar_qoq": "+17%",
+      "ar": 141127000,
+      "ar_prev": 133324000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 276599000,
-      "inv_prev": 234594000,
-      "inv_qoq": "+18%",
+      "inventory": 303484000,
+      "inv_prev": 276599000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "north_rare_earth",

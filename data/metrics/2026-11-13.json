@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "total_events": 13,
+  "by_company": {
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

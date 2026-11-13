@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 12,
+  "gate2_fail": 8,
+  "passed": 29,
+  "gate2_samples": [
+    "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) stock price, news, quote and history - Yahoo Finance ",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+    "Neo Performance Materials Reports Third Quarter 2026 Results - Investing News Network"
+  ]
+}

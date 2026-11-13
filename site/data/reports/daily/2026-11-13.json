@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:49:31.678130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arafura-2026-11-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU): What Remains Before the Nolans Project Moves Ahead? - Kalkine",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5udVlNMzRHZXI2eDl6S00xOEZlRTdjTDdSY3pLamEyNzBfRzN6TWZmYjVyRkVuYlRUMmlJaG42enpjT0xfNHRGNy1DRDhzWk5hczVBamFPLUtHMlZCX3cyVmYwOUUtNjBWVEVQVFFSd2xLb0dzZEJBdW8xZ1FkNTZDT1Z3ck0tLTd6Qkx4RzhNN1k2LWdQc01sVVFndndtRk8xVTRSYUFrRW9pSHRpVVZR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Copper shortage or surplus? Banks split on 2027 outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/copper-shortage-or-surplus-banks-split-on-2027-outlook/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Guinea gold mining crackdown leaves 10 dead, sparks exodus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/guinea-gold-mining-crackdown-leaves-10-dead-sparks-exodus/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Freeport strikes $110M deal for BC copper stake",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/freeport-strikes-110m-deal-for-bc-copper-stake/1003897770/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aris extends Toroparu gold plan as cost climbs 36%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/aris-extends-toroparu-gold-plan-as-cost-climbs-36/1003897775/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arafura",
+        "count": 1
+      },
+      {
+        "id": "mp_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 170,
+    "too_old": 120,
+    "gate1_blocked": 12,
+    "gate2_blocked": 8,
+    "passed": 29,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) stock price, news, quote and history - Yahoo Finance ",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK",
+      "Neo Performance Materials Reports Third Quarter 2026 Results - Investing News Network"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Arafura Rare Earths、MP Materials相關動態：「Arafura Rare Earths (ASX:ARU): What Remains Before the No...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Arafura Rare Earths (ASX:ARU): What Remains Before the Nolans Project Moves A...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Copper shortage or surplus? Banks split on 2027 outlook（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
