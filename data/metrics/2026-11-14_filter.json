@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 22,
+  "gate2_fail": 7,
+  "passed": 23,
+  "gate2_samples": [
+    "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+    "Vital Metals Says Arbitration Hearing Rescheduled To Second Half Of January 2027 - TradingView",
+    "Ucore Rare Metals Inc. (UCU.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Shenghe Resources Holding Co., Ltd (600392.SS) stock price, news, quote and history - Yahoo Finance ",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo"
+  ]
+}
