@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:08:39.808186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVhCQWZiMUllOEs5dWphU0U4TjlHOGpCNnZjeFI0NGxBYjMtMGZfTVlSbUw0ME8xNmE4TlFfYUZhV0wwUGpRam9ZSTFHZkdIQXBwNm54eHI0YzVSbGFmUEpOTWdnZWFVbjFERGJZMklUaVhTZEx5YXNaM3NaWTZ4ZzYtdTZHSU1haHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vietnam urges mining university to advance rare earth research, green technology - Báo VietNamNet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcm5hY2tZS1JfS2loRW91WmpFZmJmQ1JrSmZvakhzQTVCdWpHUFlsakJzMnZIZUFjOWVsX1VINUJMdFpMWWZxZS02d2NRZ1JacVBEeEdLaGgwemhpT1BqVW5salFZMnZpeWpWcmx5aGE5U1ZjU0xCNzZIZ2taZnYzQjV1eXU2TTZTcHRZSEhvVGV1b3Z5dmFPTGl5WFRQUkE5SVJScm5fTVptSG9DSnBGeHJuZUdnMGtL?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmgzajlTc2t4SmdLb1g1X3o1VWhhMlFTWnJ3Sk5sOW9JcDBUU0ZYU0tkX0s4M28za1ZVRGw0S1FlZEJVNXhVRGhwTjI5Um9HRzJxb0lRWk8yeE9pb3ZuQXk3a3F4WU1wNDRHcTQ5SV9jRnpHOHlOOGZBWUliVU16bThPM0R5OElKQk5hXzNGR2pZc3BFYTcxa2IxcVVoLWhNaTJobDR1RHhZa3B1dHotX0hId1NPajBKSjBRa3BZSHUtN2RrV084?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks - The Standard (HK)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaURoeVUxczBjTW5iWENvZzREQUJONTdwYjNlRWVQczhaSmlUaWtQZFNBMGsxaENwak9POENqSE1oeVFUWVoyU2IxdTREWUt0TWx2aXhJVzBSbVdleHlXQ0pYWWViWnNablZtMTg4c3h0NEhzLWN0YVdQY0pEQko1NEdTem5EalFIMmZWcXhDSXQzLW9od2lPZ3dWcHlyOWJyNDY0NUcxbnFKSllSY1JzX3p3SHlERFh0LXlsbQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 180,
+    "too_old": 129,
+    "gate1_blocked": 19,
+    "gate2_blocked": 3,
+    "passed": 7,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo",
+      "Neo Performance Materials Reports Third Quarter 2026 Results - PR Newswire Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為礦業產業通用相關動態：「Analysis-Trump's minerals push has yet to loosen China's ...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Analysis-Trump's minerals push has yet to loosen China's grip ahead of Xi tal...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Vietnam urges mining university to advance rare earth research, green technol...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

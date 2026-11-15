@@ -1,0 +1,14 @@
+{
+  "total_raw": 338,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 19,
+  "gate2_fail": 3,
+  "passed": 7,
+  "gate2_samples": [
+    "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+    "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo",
+    "Neo Performance Materials Reports Third Quarter 2026 Results - PR Newswire Canada"
+  ]
+}
