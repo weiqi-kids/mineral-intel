@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:43:04.688692Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asm-2026-11-16-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Energy Fuels Updates Investor Presentation After Q3 Report and ASM Acquisition - TradingView",
+      "companies": [
+        "asm",
+        "energy_fuels"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1JmbVN1Tm9mWUVuU1d1MnM4UUwwSWhLWFFFbk9zQ1BNcmc0Nk93YV9aQlRJeThBZ29hbEJyZ0ZXd285dWRWWDlTUVpsNnhUQXdXMnVfdEhOS043cTJjMzFhT1ViXzAtNlEzODVQUTBndnQzLU5odzZCSmt0M2J5bE5zY2t2SkhyemlveGpTTk4yNWVRelV0UzdHWVYxR09FNzFSM3VuMU1kN1VKM0xtXzJsWkVqZVhSM1V6bzRlcGN4RDNjeUdxRzNTY1M5N2tvMFVxY2FCMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "neo-2026-11-16-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Neo Performance Materials Reports Record Q3 Sales in Magnets and Magnetic Powders, Expands European Production - Shanghai Metals Market",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRmV3UmEwREJDOXBVQ0pwQm04QTlXUHhmdGE4X3BQaXFnLUNFRl9jdk9uUWF5eUZXR0h5TGNFTjBhSkIxUlJ6YWlSbGViYnBydXFzSmJ0Vnk3TXFkSDhPRU9PdmE4c2hqckFfcm5UUUZKOUFUS1llU1Nlell6czJyNEtUaGRZQTZhRDhEaHlwUzdfMHNYTXNETmpMalppUmRfd1NiV3p1bXExWFdrTkN0RGdaVVhBbHlYbWFWZjR1eTVTcml1aVZzRXlCbnJyQWk5VkdyLUVYR1BxbFhIWGtUVkZPMXdoeHdkMUUzZFg0VVhVaXpBR2tQZ0NGdTRybFVEb05ISm8tc0VaOHI1b2Z1czRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "France wants rare earths from Malaysia. It isn’t the only buyer - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2U3alJQQkZLbkRXZUtQckotNHNKdk5jb29XZk1YczdnMkNfc3VlTVJ1UGI5SHJRdjRxU1pwVlhOQ0Vzbm1yNXdVTkNJVHFCbDkxQUFLWHI1Sm5yTTR3ZnVPVGp5TVFXTE5VMkJBY3cwV0N3bDlhTUNCRzBtNFBCZEtSOXlUUVF0T0dCSTYyTTdDbjd0SEdMb1ZFLWZ0V2RuWGVzdzVSWFhKYWpyNERqQm9RUGtIMGdw0gG4AUFVX3lxTE9wWmcxZDNOTGxna2FubUlKWWpRVHZtc3gyeFZqaEF0YmFnVk5KTFFsekpkaDJUZndoSVctSW9LS0h4VUZkbTlkbDlaRlNsU2Z1czhzcUJnM3lSNFlSRzctOWlBRmhiWVB2RFoyaG5lRjNyNEN3Y19KajZCRktULUpZSmxwaWdVN2xvMmZxNHlXMjlKaGFhLUVGbVZhY21UNlNuX2FzSWNKTFc1Y0ljQXhDR0g2d2tld3A?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Two armies need rare earths - Fat Tail Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DbDM2enhEZHpITmFrc2tucmVVMlFORzNCVHBwWWh6NFk0RjlNMXVybnNXUmVCM25pMWVyaUxtbmVGTERFbGJONVMwWlY0QzZSTGY2RnZJQUU5dzdOS2s3dGZTREpnTzh6LUxUa0JJZlJuSi1K?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's top rare earth firms' profits surge on supply caps - Mining Weekly",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcThoY1piVV96eVltb25fYU5FSm1aa2F0ekw5QTNrMVBPa3g3VEdXZUQ4QXhZZFFWUTZBb09XSG0tNC0zNWZlWDVBazFjLWZlZW03VlFJeFlkVTB1TGVOeWJuNElVZWdRTzIxV2JmdFNycUZ6dzVHRGhOUnZVV19WWkRtUHBZV21RRE9McjZjeE5jaDl3anpITFVfZmNWTFY0VnZXeURWVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 2
+      },
+      {
+        "id": "rainbow",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      },
+      {
+        "id": "neo",
+        "count": 1
+      },
+      {
+        "id": "asm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 165,
+    "too_old": 126,
+    "gate1_blocked": 18,
+    "gate2_blocked": 3,
+    "passed": 28,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Vital Metals Limited (VTMXF) Seasonal returns chart - Yahoo Finance UK",
+      "Shenghe Resources Holding Co., Ltd (600392.SS) Seasonal returns chart - Yahoo Finance UK",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance Singapo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為北方稀土、Rainbow Rare Earths、Ucore Rare Metals相關動態：「Energy Fuels Updates Investor Presentation After Q3 Repor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Energy Fuels Updates Investor Presentation After Q3 Report and ASM Acquisitio...",
+        "level": "yellow"
+      },
+      {
+        "text": "Neo Performance Materials Reports Record Q3 Sales in Magnets and Magnetic Pow...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
