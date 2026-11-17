@@ -1,5 +1,444 @@
 [
   {
+    "id": "lynas-2026-11-17-001",
+    "date": "2026-11-17",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths (ASX:LYC) Shares in Focus: Why Is the ASX 50 Stock Drawing Attention? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEM5dWJPZm1pSlVWTjV3cW5MZzRFb001VEV1N3Z3Z0NtRHpYX3hIRlk5eUZnVnRrNS1CRUw0VXFIQkE2bnJUVnZheXRsTGZsSnNic29xV2NZODBZdkJsSzhzeUlUNnJFNWJaM2xfa1",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEM5dWJPZm1pSlVWTjV3cW5MZzRFb001VEV1N3Z3Z0NtRHpYX3hIRlk5eUZnVnRrNS1CRUw0VXFIQkE2bnJUVnZheXRsTGZsSnNic29xV2NZODBZdkJsSzhzeUlUNnJFNWJaM2xfa1dJMG1LMHhaRUtLdjJYdjlTdjU0OFZpZ3VmQjU1M0JlcXIzOERuSEEya0puTjFaOEktVi03VjBpaGZmbUtzUVBjUjRPRVk4NTdLZE0xZk9HaTVjNUdfWTFwRHN1UHFKSklzYU9waHNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "north_rare_earth-2026-11-17-002",
+    "date": "2026-11-17",
+    "companies": [
+      "north_rare_earth"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Northern Rare Earth (Group) High-Tech Co down 7.13% on Tuesday - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI5T18zeTExSzIwemdZTTNpSkJpbG5qRHpFZVZWbTl3UUd3ZHFTQXpqU05SdXNOWmtsR2xobmhienh4amp6R3lIT1F1SFNyeTJ3bFV6WFZDUTd3U1JTWExoMG0zbkoxS2ZWcW1LSG",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI5T18zeTExSzIwemdZTTNpSkJpbG5qRHpFZVZWbTl3UUd3ZHFTQXpqU05SdXNOWmtsR2xobmhienh4amp6R3lIT1F1SFNyeTJ3bFV6WFZDUTd3U1JTWExoMG0zbkoxS2ZWcW1LSGlrUFBHX0w4Qkg2aEE4bmE2Tkk1UExRSGF3WFgtWUhkZlNtaEpxQ3VTMXNQU1FlV2tOLUkxUWVIZkIyTk1RRElERGZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-003",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s rare earth giants’ profit surge: supply controls explained for project teams - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1dzWElobG55WHdtYWNuWWh6Y0lhWnpfaUM2eUx1QThUMEN6MVhVRUZoTHQ1djJsWHdaMUVwd2lpa3NuZkN1V1ZDRzlXUVl4MGpKRkIyX3NLNHZvdzBhOTRlS0M0d01ERUlwWHhwMz",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1dzWElobG55WHdtYWNuWWh6Y0lhWnpfaUM2eUx1QThUMEN6MVhVRUZoTHQ1djJsWHdaMUVwd2lpa3NuZkN1V1ZDRzlXUVl4MGpKRkIyX3NLNHZvdzBhOTRlS0M0d01ERUlwWHhwMzFFZ3FSMmlMT2QxdjlwbnEzbUFBOFB0Z2Zwb0FDdDVhaFlaUUNXcE0wb2xNQmYwOU5LOGZWUXVnd2c2SFNycHFrNGJKa1ltVThLU3FNVzYzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-004",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tungsten Mining (ASX:TGN) Hits Its Watershed Moment - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNckRrTEpQd1lEeHBDTENVVjlkWGdiY3I2WHFacHN1Um5GNTgyU3U3WGpIZm1FdXFlbUMyWi1ReDF1ZXRUZGxGSXo1YXhBeXpzWEEtWnByblA5SlBXOXVRSU9VVEVNUGxwT3YySkhsTF",
+    "sources": [
+      {
+        "name": "vital",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckRrTEpQd1lEeHBDTENVVjlkWGdiY3I2WHFacHN1Um5GNTgyU3U3WGpIZm1FdXFlbUMyWi1ReDF1ZXRUZGxGSXo1YXhBeXpzWEEtWnByblA5SlBXOXVRSU9VVEVNUGxwT3YySkhsTFlUa3NXaUdveXNZSFpRZzlHajB4cXhxUXFRTEpZNDVWUjVkNDY2X3pNUFJmTkpZYlJRYnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-005",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Codelco’s $866 million Gabriela Mistral extension clears key hurdle",
+    "summary": "Chile’s state miner has secured environmental approval for a plan to sustain copper output  at the mine through 2055.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/codelcos-866m-gabriela-mistral-extension-clears-key-hurdle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-006",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chile copper output nears 23-year low as mines struggle",
+    "summary": "Ageing deposits, uneven mine performance and dependence on imported sulfuric acid complicate Chile's copper recovery.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/chile-copper-output-nears-23-year-low-as-mines-struggle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-007",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panama, First Quantum launch formal Cobre Panama talks",
+    "summary": "Negotiations over restarting the shuttered copper mine will focus on economic benefits, environmental safeguards and jobs.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/panama-first-quantum-launch-formal-cobre-panama-talks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sponsored Resource Review video: Iron Bear pitches a 44-year iron ore mine",
+    "summary": "<p>Iron Bear Resources Managing Director Paul Berend in conversation with The Northern Miner video host Devan Murugan. This sponsored video is PROMOTED CONTENT paid for...</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/video/sponsored-resource-review-video-iron-bear-pitches-a-44-year-iron-ore-mine/1003897909/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Li-FT cuts high-grade lithium ahead of Quebec study",
+    "summary": "<p>Li-FT Power (TSXV: LIFT; ASX: LFT) has intersected 45 metres at 2.71% lithium oxide at its Adina project in Quebec, strengthening the case for adding...</p>\n<p>The post <a href=\"https://www.norther",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/li-ft-cuts-high-grade-lithium-ahead-of-quebec-study/1003897896/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-010",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panama authorizes First Quantum restart talks",
+    "summary": "<p>Panama has authorized formal negotiations with First Quantum Minerals (TSX: FM) over a potential restart of mining at Cobre Panamá, advancing efforts to resolve a...</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/regulatory-issues/panama-authorizes-first-quantum-restart-talks/1003897888/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-011",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says - WTOP News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEFHR0xkR3dZWVB0aGdXSTNfM29LNm9TVUNrQXVCWEZLZk4yS283WlNERlB0VHQxSUZScmtkVVlGNk1JXzBuWXhVZzdHc21EbDl5S0o2TnItNGRaZDRaRVdPN190LXVjMkRpNEhuYX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEFHR0xkR3dZWVB0aGdXSTNfM29LNm9TVUNrQXVCWEZLZk4yS283WlNERlB0VHQxSUZScmtkVVlGNk1JXzBuWXhVZzdHc21EbDl5S0o2TnItNGRaZDRaRVdPN190LXVjMkRpNEhuYXpINUNScC00QmVZUjAtQ2o5eGo3c2wwcFNtaXYzNzBxUWFhM1JKMHNoSWlRVlFFbW9malZnZWZRWFhabV9uRkkzSmdRZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-012",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says - Bozeman Daily Chronicle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOcGNlNWJIT2loLVZmdmlvaHFIXzFFc1pZbTlJMEJGTE9TejBQT1FLR1FkN3oySWY5UExJV0kzRWFOLVpYLUJ6ZEx4X3R6ck5iLWNSSk9fWWhmX0lNNXFINFBCR2lNa0wwZUZVTXVVd0",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcGNlNWJIT2loLVZmdmlvaHFIXzFFc1pZbTlJMEJGTE9TejBQT1FLR1FkN3oySWY5UExJV0kzRWFOLVpYLUJ6ZEx4X3R6ck5iLWNSSk9fWWhmX0lNNXFINFBCR2lNa0wwZUZVTXVVd05iYTUxN1NsNDl4WjN3OUlhb0J1TmRWMURST0E2d0ZJRFhPbkVBRWxLemhuWWhwcDhoNGRUdjUweUpjYUlCQmtJZGJtWDhRQWNHdV9LMXFLTVZiaUNTcmVIX194UVludGtYMlZUdDQ5Wm41M2pnS3NQak5HUmd2TDVSbzduZmMzNzJlUFl3d0dETS1VaTJkd0tNQXAwMWdMV2Z4cU5kbjhoTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-013",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Mine to Magnet: Rare Earth Separation’s Critical Role in North American Supply - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1dkUzV4M2UwR21RS0lucGM4SmVsZXpZc1NHamRMa0d4elN3NEVsTmZuTnRPLTJabVNFdkxtUm9pT3ZTVnpPRDByM2NwTEJRazk3anNBVnNaSFU3NXAzX2JCcXdOYnpiY3hjRnVOM2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1dkUzV4M2UwR21RS0lucGM4SmVsZXpZc1NHamRMa0d4elN3NEVsTmZuTnRPLTJabVNFdkxtUm9pT3ZTVnpPRDByM2NwTEJRazk3anNBVnNaSFU3NXAzX2JCcXdOYnpiY3hjRnVOM2VHWXRSeW1WSWFwNTNGTXRmRWJVVWdIOUZaRlk1RnczRzJMdXkyT0VZa2hsQ1hzc0g1QWxuVHdKWnhSR04x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-014",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths advances Cowboy State feasibility study with strong final assay results - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYnRYVW5GMnpxZjJta1MxQjFUb0I1LVphN25pampyYnhUanYyRmNyRU5SWmN3WEFlRXpYZkVzUFItNGFXTmU2MnR2RUhuWGo0dVViT05xeTF3OHRHNXJDYlRfbWZrUllQYmFJUjdkbz",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYnRYVW5GMnpxZjJta1MxQjFUb0I1LVphN25pampyYnhUanYyRmNyRU5SWmN3WEFlRXpYZkVzUFItNGFXTmU2MnR2RUhuWGo0dVViT05xeTF3OHRHNXJDYlRfbWZrUllQYmFJUjdkbzRtcTJScVU1T3JOQXU5XzIzdV9WM190Y0dzZElGNDlpeEpOVHlKeWRXWlAtNVpkSTF3TGk3VVB3ajMwTWppeVFlRmg4bkxxeUZzXy1OSTNuSFhSaVl5RnRodDVmaVZ2cUxhU0Raa3JXcHlxeldoQlhfNXZOSDVBcHNydk13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-015",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia loosens rare earths curbs for France amid upgraded ties - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkFoZEl3VnoyRDVaeVc5dFpqSTZhWU5RZXM0Y2hSQmYxZUN0ekRoWFVTZkRMVHNlNGZ5ODB1bmhNVWVQdS02bW9mNDZmTXRVX1lpU1dBY3RWaTI4anQ1LWowZUx5b01qdUhZSFRhdC",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkFoZEl3VnoyRDVaeVc5dFpqSTZhWU5RZXM0Y2hSQmYxZUN0ekRoWFVTZkRMVHNlNGZ5ODB1bmhNVWVQdS02bW9mNDZmTXRVX1lpU1dBY3RWaTI4anQ1LWowZUx5b01qdUhZSFRhdC1helV5aWhFaXpweVhQaW43el91R2dJd3VOcWUzUjV1WjNmeHVQS0N0cVBRWXNoMmVoMGp6dzBwQkF0OVI3ZXBPR2EyeTd5SGRIa01RWDZCMG1NVkU2a3FGSlBQbndhcGFSMnEtOS1Baw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-016",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's rare earth curbs put new emphasis on Latin American investment - The National",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMURSSS1XYUgxaUZOUm5IU3FvM1dlQ1U1TDA2YjFuaEdGYWJublpya3ZUcENFVjZwWk4wcHdFYk5uSm5mR1Vyb1JvUHpWenVWWVZ5WHJMdTdzOU1fSHBKZnlSZHhybGI5WDJhMlppd2",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMURSSS1XYUgxaUZOUm5IU3FvM1dlQ1U1TDA2YjFuaEdGYWJublpya3ZUcENFVjZwWk4wcHdFYk5uSm5mR1Vyb1JvUHpWenVWWVZ5WHJMdTdzOU1fSHBKZnlSZHhybGI5WDJhMlppd2xTRmFsMGtmdXduNWwyNDhHUVlURFBwTmtna2FGdndLZzVObkRqUzZxemFlZTJEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-017",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASEAN Critical Minerals Strategy 2026 Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93OTRLejdBOTZGNGpSNTI3QTNUVWJleUJtYl9rbVVCbWpXV3Q1dTBHMG9rRXVQOHNVSF9oUDRQcEtCWVc1VDRWb1FWUTh0MVZOdkYzNVRLNjYyZjc5UF96QmJTbU0xb3VlaFkyTTh5WH",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OTRLejdBOTZGNGpSNTI3QTNUVWJleUJtYl9rbVVCbWpXV3Q1dTBHMG9rRXVQOHNVSF9oUDRQcEtCWVc1VDRWb1FWUTh0MVZOdkYzNVRLNjYyZjc5UF96QmJTbU0xb3VlaFkyTTh5WHduTmVPUmxBdEZ6TERGbjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-018",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Import Reliance for Rare Earth Compounds and Metals Hit 67% in 2025 - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajNJOEpDY2tSZjQxakpqelN5LVpFNFhndkRDak1Icjd5VklObmpHR0otTzRzdTNsV1FhUkdsSEQ2ZGQyYVJvaDVPR2x6LUJJeVltQjU3SEc0Vkw0YVFUdDdWdWZ4aHI0d3pXVVFBS1",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajNJOEpDY2tSZjQxakpqelN5LVpFNFhndkRDak1Icjd5VklObmpHR0otTzRzdTNsV1FhUkdsSEQ2ZGQyYVJvaDVPR2x6LUJJeVltQjU3SEc0Vkw0YVFUdDdWdWZ4aHI0d3pXVVFBS1o2a3Uxd3RCdGU5dEVqU3FCVjhXNzNIR01KUUpOUG5QbjB1NFhLaThOenN4bk5SZS0zWlE4elAtR2FxYTRyUjFpU0tDTDdiOXZ0dkRBOXFqMXQ2bXZTeFR5bC04UkdHU3FWcm1uMC15dmcxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-019",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia loosens rare earths curbs for France amid upgrade of ties to strategic partnership - The Business Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnhvMUpBMVo2ZFVIaGF0NmdqblJjN3ZYYS02SUlEWnNva19MRDdiNGNfVVpDY1UxVXBkaTc4VzN4cFlBUDczSTdTVl9aUjliYXdYTW9VMTdILTYxR2xoWXItTVp4eHIyempINHZCSz",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnhvMUpBMVo2ZFVIaGF0NmdqblJjN3ZYYS02SUlEWnNva19MRDdiNGNfVVpDY1UxVXBkaTc4VzN4cFlBUDczSTdTVl9aUjliYXdYTW9VMTdILTYxR2xoWXItTVp4eHIyempINHZCSzBWYzIxREJ0Yll3YXJXNkthYVNjNUd2dE85WTRTTkJMOXVsd19DbzM2RUQyaWRWUEcxX1NIekFuNEd6MWY1azNfUVRRcV83V2YtaU41bDhHUmdiMEw1SVNYOTZ0QUM0bVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-020",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France and Malaysia agree rare earths deal as Macron looks beyond China for supplies - AOL.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGxnU3BwUU9CTXpXU1lYZjl5U2FPZWhDaURWVGhLWGkyVUxWRzZTb1U2R1gxWHcxWDdSY2xpNDBCVWxFTzVkbDBieTJKVkNDRVhPakNwT25qT2NUenQyb2VtRUxzR21VSVlkQU85d3",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGxnU3BwUU9CTXpXU1lYZjl5U2FPZWhDaURWVGhLWGkyVUxWRzZTb1U2R1gxWHcxWDdSY2xpNDBCVWxFTzVkbDBieTJKVkNDRVhPakNwT25qT2NUenQyb2VtRUxzR21VSVlkQU85d3BlTy1sc2pLcHV5dXlrdWFSd05wMlBLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-021",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France, Malaysia deepen strategic ties with rare earths project, defence cooperation - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOG1aZ3cybWUzbno4S1FnRk5mcEsxTXNHbWI3R3Y2TEpKZjRCMFA5VVNRYlB2b1doQTRIOEhkZEl0eVM5TGVrOEl4RmRHRDdvdkQ5Qy1WZUQwTEJFOWdNSko1cWg4Qkd5NUNxZDZzcX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOG1aZ3cybWUzbno4S1FnRk5mcEsxTXNHbWI3R3Y2TEpKZjRCMFA5VVNRYlB2b1doQTRIOEhkZEl0eVM5TGVrOEl4RmRHRDdvdkQ5Qy1WZUQwTEJFOWdNSko1cWg4Qkd5NUNxZDZzcXZhdnlkVTJwQWV4S1ByQURMOHdoWVkwZ1N2TTk1dm9vRHN2aThHQWhVMlpOYmEwek82NnZqTl85amx2OThRbktROGREbGZTRkJoOUUxZ2pSRm1sY1hZUHMwUUR3QVJHdVcxaUhVLWd30gHbAUFVX3lxTE1XY2tXblJTbWc1b3NVYjFPc2MwU2Rqazd1RW5OMDZjVWtPM250QnNxR0tzZ3h2RURfZ3ZCUjF4SndxNi1zcHBQM2hOMjBaNjNaRmFRNWlUXzB1LXBtbU5SU3RHSm54T2JyQ0pOM1R4UG5XTTlOU0FMUTR4SG9xSjlGT244QTFRUGRVOWpLMkFyRlJ0Wi04RFlTX3NUQ3ZIcElidXRMX0xSc24zTUcwWFA3N2Rqa19EaHUxREZiMzdWTTNJd05rOElGWFhyd3J6S1ZTMkxsaVh3TDdDaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-022",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Critical Mineral Stocks To Watch As AI Chip Rules Raise Supply Chain Stakes - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0htdlR0OGE5U3lwRWZyY3lSQzREaXZMT1B4SS0zNDZYMTRDM09EQ1ZyMEE2UTYxcFo5UEJ1VTNiSTJHTnpoY3RqSHFJR0ZFSTZTazFMRlh2UFZSYy1QMVEzcFNISnVuZ2FteUEwZm",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0htdlR0OGE5U3lwRWZyY3lSQzREaXZMT1B4SS0zNDZYMTRDM09EQ1ZyMEE2UTYxcFo5UEJ1VTNiSTJHTnpoY3RqSHFJR0ZFSTZTazFMRlh2UFZSYy1QMVEzcFNISnVuZ2FteUEwZmlUUXAxaDFNU3pNa1FUV292RW85R05Ba09o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-023",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Critical Minerals Stocks Screening For Supply Chain Shifts After New AI Chip Rules - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcnpOVGEzRjVXN0lfd1hHb2tubE9rMEgtOGpkOURCMzFOLTl0bEh4c0NVaHFMekRZMGpxT0t4NUFjMzFqVEI0UExwUmhQb2lBMFdNZEh2VWRkNGpOOGNjdTUxaXAxWXp1dWpZVVFCWi",
+    "sources": [
+      {
+        "name": "google_critical_minerals",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcnpOVGEzRjVXN0lfd1hHb2tubE9rMEgtOGpkOURCMzFOLTl0bEh4c0NVaHFMekRZMGpxT0t4NUFjMzFqVEI0UExwUmhQb2lBMFdNZEh2VWRkNGpOOGNjdTUxaXAxWXp1dWpZVVFCWi1sSVh6Sjd3djVUNUhNUk1pcG0zbG13Tkl4eWFFY0VudHgySm5yNzRJbDdUdlNrSGxOTnlUMV9hUzNqMjN0Y2ZEbktPQzBfQ2pwaXNLMlJsRHhSZnRpVGQ0dFdZMC1DSXo50gHWAUFVX3lxTFA0bWFxdmc2NWxpdzYwRnZZYjVoQXZ6WW5vOEViMTJkYVRUQVRWNG8xQVRpNXVGZFdDWlQ4dUVZbm9kVzVzZFlkV1kxTzlWOVpsWC1MNFc3cDVKNE1qMEhudGc3dWJjMnk3MHNpVlRXdlV1dzNtRWZFX190cXAyVk8xSkZGVDUxSDgzTWJxU3Mzek1iNlpRbE44OU82UWowN0phMDhPclpEWUVWdkFhMUJNTzNSQ1FaSXhFMDNtbkRMd0FxaUJJOGEtMEJ2SzQ0MTNMSWh1T1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-024",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump says US will catch China on rare earths in 10 months. Data suggests it’s far behind - Egypt Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3F2MV9TU2FPUHVoeWdaaGNzWWNRQ3RKQWtxLVhqb2l2ZXB0bWhvQ0xva0w4WWhaZTM4a3h2WjVEdUNGeC1KYk9uT1Z0MkZaaE5aN2VGSDRGbThoOF9wMW56aGp0RUVuSGFDcnRJVX",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3F2MV9TU2FPUHVoeWdaaGNzWWNRQ3RKQWtxLVhqb2l2ZXB0bWhvQ0xva0w4WWhaZTM4a3h2WjVEdUNGeC1KYk9uT1Z0MkZaaE5aN2VGSDRGbThoOF9wMW56aGp0RUVuSGFDcnRJVXMtQWFXY0dQVHUxRnA0S29KWG1feDlFUzUwUHR2NTM5a2JVZnAzb2NURnJwclZFd2V2QS1zX0FqNFljRFRFaWpuMmFMMUlTU3VIZzNVZExB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-16-001",
     "date": "2026-11-16",
     "companies": [],
@@ -456,6 +895,260 @@
     ]
   },
   {
+    "id": "unknown-2026-11-16-026",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's top rare earth firms' profits surge on supply caps - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWE0c2x0ZU5WRUdQZGxCSXFfQU5lenV4TGtPTE9yT3R3WlJvRnE5dlBabzZMTklhZHhSTWpxV2RjLVlSN0gtWkZKN25EMzFfWEVLZzlPVkFtbkdEZnFtM1NZMVFvMVJoN01sS01hOE",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWE0c2x0ZU5WRUdQZGxCSXFfQU5lenV4TGtPTE9yT3R3WlJvRnE5dlBabzZMTklhZHhSTWpxV2RjLVlSN0gtWkZKN25EMzFfWEVLZzlPVkFtbkdEZnFtM1NZMVFvMVJoN01sS01hOEU2VC1iMl9mdXlRYzNreGhKMzV0TmlRSVJiUmVNaTJqMzI3YWE2QzVMTkN6ZmtHNzd0OEZRaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-027",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China rare earth giants more than double profits - The Northern Miner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2t0WEVDdnhaVWlKelNRYWNONlNYdjltdUhmM2ZMOGl2NTZ3bmFWRGl1OE9ZVE5ZOVBwUVJidU1iNE5vVWN6blFTLWlyNEVaSGhXX05yT0hLY0pNZ0FvdGQ5TEo4VHFpVmxGWFRuYj",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2t0WEVDdnhaVWlKelNRYWNONlNYdjltdUhmM2ZMOGl2NTZ3bmFWRGl1OE9ZVE5ZOVBwUVJidU1iNE5vVWN6blFTLWlyNEVaSGhXX05yT0hLY0pNZ0FvdGQ5TEo4VHFpVmxGWFRuYjdHemtkdnNtcU1ubEVWTzJMcUQxT2hYbTN3TE9NNGZ0T05INllNckIySnhkWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-028",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s rare earth giants double profits as prices soar - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONlZvcmxJbW9kdWRBLTdTSVlXcm5TdjVxMl85RXFxMm5PdWo5Z3ZXamd3QmdzTWd1RHNzQnhNVzJjWFItQmFjeGZFZUpybTYza3V0VTZTZ1ExU3NwcG5jN1J0eld5MzgyNEh1SWR1cm",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlZvcmxJbW9kdWRBLTdTSVlXcm5TdjVxMl85RXFxMm5PdWo5Z3ZXamd3QmdzTWd1RHNzQnhNVzJjWFItQmFjeGZFZUpybTYza3V0VTZTZ1ExU3NwcG5jN1J0eld5MzgyNEh1SWR1cmdaN0VBVG9VMUh2SlB1TXVlMVI5Qlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-029",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s rare earth giants double profits as prices soar",
+    "summary": "Beijing's tighter production quotas lift earnings and strengthen its negotiating position ahead of talks with Washington.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/chinas-rare-earth-giants-double-profits-as-prices-soar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-030",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scotia Metals targets hidden lithium in Brazil’s Bahia",
+    "summary": "Scotia gains access to a Brazilian pegmatite prospect with surface lithium minerals and pending assays to guide exploration.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/scotia-metals-targets-hidden-lithium-in-brazils-bahia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-031",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CleanTech’s key Chile lithium contract faces final review",
+    "summary": "The country's regulator has requested changes to a key operating decree, adding uncertainty to the Laguna Verde project's timeline.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/chile-approval-delay-puts-cleantech-lithium-project-on-hold/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-032",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sponsored Resource Review video: Industry needs workers, power, CIM says",
+    "summary": "<p>Canada’s push to accelerate mining development risks running ahead of its workforce, with too few people available to meet demand over the next decade, Canadian...</p>\n<p>The post <a href=\"https://",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/latest-videos/resource-review-video-industry-needs-workers-power-cmi-says/1003897833/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-033",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canadian Copper adds $9.8M for New Brunswick plan",
+    "summary": "<p>Canadian Copper (CSE: CCI) has raised $9.8 million (US$6.8 million) through warrant exercises, lifting its treasury above $24 million as it advances a plan to...</p>\n<p>The post <a href=\"https://ww",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/exploration/canadian-copper-adds-9-8m-for-new-brunswick-plan/1003897863/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-034",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CleanTech faces further Chile lithium contract delay",
+    "summary": "<p>CleanTech Lithium (AIM: CTL) faces another delay in obtaining a lithium operating contract for its Laguna Verde project in Chile after the country’s Comptroller General...</p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/cleantech-faces-further-chile-lithium-contract-delay/1003897878/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-035",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China rare earth giants more than double profits",
+    "summary": "<p>Two of China’s leading rare earth producers more than doubled their profits in the first nine months of 2026 as tighter supply controls supported higher...</p>\n<p>The post <a href=\"https://www.nort",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/china-rare-earth-giants-more-than-double-profits/1003897870/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-036",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sponsored Resource Review video: Memorial in Newfoundland offers new master’s degree",
+    "summary": "<p>Memorial University is developing a shorter route to training mining professionals as the industry faces a wait of almost six years for the first graduates...</p>\n<p>The post <a href=\"https://www.n",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/latest-videos/resource-review-video-memorial-in-newfoundland-offers-new-masters-degree/1003897844/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-037",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths completes Wyoming drill program - Canadian Mining Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmlNWG1xVld6UnVEbUhiOW5ra3NtTXJfei14MHRrSzk3WVNIdmFoZ24zZzc0aXhtTnU0U0NBLWVLeGYwNjBHWlF3OGg5SFFuZVY3QWQzUVNyWUNLY3hPWW5uQ0gyVkcxczM2MU4zek",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmlNWG1xVld6UnVEbUhiOW5ra3NtTXJfei14MHRrSzk3WVNIdmFoZ24zZzc0aXhtTnU0U0NBLWVLeGYwNjBHWlF3OGg5SFFuZVY3QWQzUVNyWUNLY3hPWW5uQ0gyVkcxczM2MU4zekRwMWw5M1NTZk9RSGtPa182Q1RJQy1KN3UwdTJpRFdrQ1J3OHFFaDFhOUYtYi0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mp_materials-2026-11-16-038",
+    "date": "2026-11-16",
+    "companies": [
+      "mp_materials"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "USA Rare Earth Tumbles 10% on William Blair Downgrade Over Feedstock Issues; Critical Metals Plunges 13%, MP Materials Drops 5% - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVHNIZTM0YUkyb3lsSl9NQWgzY25saWJON1UxUjlicGxKN05DaTRmcWQ3aXNJZnlEbDUyVWhsaGRxMmRZS3pMT3ZJTEtjcVAzX3FwVThHcHBCQnJ0MUFkcUQxSkl4ZjFMZEZNSzJpcX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVHNIZTM0YUkyb3lsSl9NQWgzY25saWJON1UxUjlicGxKN05DaTRmcWQ3aXNJZnlEbDUyVWhsaGRxMmRZS3pMT3ZJTEtjcVAzX3FwVThHcHBCQnJ0MUFkcUQxSkl4ZjFMZEZNSzJpcXZLRGVlY2ZkcG5sWnFScjh2TjZ2aWZyZnh1SE9oZTE3cmpoRGt0bDlZNy03M1N1NHc1MlNfakR2d181SFhXb1NkY25yVGFIeFNQdXI1YVd3RWdNSXRiNDBNOThONVlpblhaS0E2b3Bwd0tmbVBtMG5xQzJoRi1JS2w4NUo2YWZnYWNMb0x1RVdHRjJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-039",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths Completes 2026 Feasibility Drilling at Halleck Creek With Up to 200 Meters of Continuous Mineralization From Surface - InvestorNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNTy10UDVhaXNIbGlfZllBWndtNHRfOVctRlhESnpnX0lFcXVMZ0xpSzEyajRQODRzQTRVNFhJWnZyU0dOTGx0djJTcUNkd3R6eF9SYjdZdVpPSFl6NVAzemVJZFdXN0xDSzB6bVFDN1",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTy10UDVhaXNIbGlfZllBWndtNHRfOVctRlhESnpnX0lFcXVMZ0xpSzEyajRQODRzQTRVNFhJWnZyU0dOTGx0djJTcUNkd3R6eF9SYjdZdVpPSFl6NVAzemVJZFdXN0xDSzB6bVFDN1dkbFVKZWtjT0d3TjlZRWdsRl9VUkVTYU12NmxGakhENDRNcGlMUGhJNmMyYjZ3S19vSEpiLVJHVDVGaGsyVE5mdEpGa3hEN0U5ZmpLenRxRVFjUTFGV1k0NUFYVk1uYjBKLS1HNlJINTNVYTd6NEtfQ0FfR1lseGVKSUlicU1NY3F5WlNHNnBMLTUyS21pS002aHBQYk5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-15-001",
     "date": "2026-11-15",
     "companies": [],
@@ -578,6 +1271,25 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTy1TRkljMlRCSmhCRWJoTF9xZ0hHNzJfQUUwYmdLRDNOenBIeFlxaXhwNVNfX1FuNG1WVTE4VUJBQ2ktZUJCZkRxRDFzZkdRSXJBRndmSVMtMDQ1RjdmOXBHN1pjNlFVQnAzVXFRV2VIWU1xTFhram5wR2t1SHR0b3g3WFJMV3NqRF9LX0tfSlY5TTZKSVFsa256TXprbEtNbXRMb1FxNTJ1SGFUY3pFbnV1ekk0aV9rbzdBZ3RvOFJWTlJMWjgxZnVwR1Z5cFlYaGxrdzNoTlExcG1jUEw3OU1CWjFRVEMyT1ZqZTV4TFlWb3JlR3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-008",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "china_export_control",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yttrium Supply Chain China Export Controls Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4wcnRmTGMwc01wZDljNUtaMlpGMDZwR3NzblhINWFndVNSd0NidlV4dWpZNzE5cHpHMWZUTVRwbVo3dE9wbVNwQkg0aERwRTFLU1Zrek1qRUZDUjdGeXpoSkdsMVMyTW5QX0V6V2ozSD",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wcnRmTGMwc01wZDljNUtaMlpGMDZwR3NzblhINWFndVNSd0NidlV4dWpZNzE5cHpHMWZUTVRwbVo3dE9wbVNwQkg0aERwRTFLU1Zrek1qRUZDUjdGeXpoSkdsMVMyTW5QX0V6V2ozSDAyRmQtX01VS09QVlA?oc=5",
         "type": "rss"
       }
     ]
@@ -1260,6 +1972,24 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzhrdWNxblBZZ2ZCaGROMFlTaWJNcEVWUUItUktScGNkX2tHQUMwamxDY0l6UzZvei1QU1RvWi1pUkx4NFlhR2h5U05ORzE1UkhVbGtLd1RBMU5yMnZNam5LV3N3cGNxVHN2YVA4aGJ6bE01SDBZZU0tM25XYmhvell3V09VRGpVSFhKNG1vTVdXNGNMZjQtQXo4elVydFh4QVA0Z0twUTJXeUZXOGZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-031",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Rare Earth SOE Political Risk for Western Buyers - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1JN2JUWGt2UTJ0am8xY3BzNVh0NlBUTHoxQ3FxV1dJVmhwU1paVFdsMlltTVZYUnZwdllHX2hHemFJZnd1c0l6UmZ3NGtWMkozdlVKU24zTFlmdURpRWlhNmZSS2p5Uk1iZnlzZll6TE",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JN2JUWGt2UTJ0am8xY3BzNVh0NlBUTHoxQ3FxV1dJVmhwU1paVFdsMlltTVZYUnZwdllHX2hHemFJZnd1c0l6UmZ3NGtWMkozdlVKU24zTFlmdURpRWlhNmZSS2p5Uk1iZnlzZll6TElXNVNwTEVfWUo4M0U?oc=5",
         "type": "rss"
       }
     ]
@@ -3104,6 +3834,24 @@
       {
         "name": "ucore",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LdVYtRkItT0p5Ykl3SjVDbmVSdWk0SFdmRnYySXIzUVdlZkpVS3EzUTFXQWRKRHQ5ZV9tMy1KVU9iRnlOZk45bEROam9aY0gwS0E0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-044",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One Year After Busan: Has China Kept Its Rare Earth Promises? - CSIS | Center for Strategic and International Studies",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3BqWHBac0pVdnQwY2lRQVlXYndZVFU0YVZNQ3pqdlNSRDUtYmVhSkFHQzlnMk41NXlXM3RXdk1YaEYwWDBtdEdsLVo3aU1nekkyWDFBdzd5T1dyWnREeWFrdC1WWlpqQ2FUTC03OU",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3BqWHBac0pVdnQwY2lRQVlXYndZVFU0YVZNQ3pqdlNSRDUtYmVhSkFHQzlnMk41NXlXM3RXdk1YaEYwWDBtdEdsLVo3aU1nekkyWDFBdzd5T1dyWnREeWFrdC1WWlpqQ2FUTC03OUJqRVpDWEhjcXhJSHVpdlR4d05YOFZNeG5mOGsydlVJOG9KVjg?oc=5",
         "type": "rss"
       }
     ]

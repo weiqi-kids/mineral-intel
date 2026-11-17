@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:15:35.233074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Shares in Focus: Why Is the ASX 50 Stock Drawing Attention? - Kalkine Media",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEM5dWJPZm1pSlVWTjV3cW5MZzRFb001VEV1N3Z3Z0NtRHpYX3hIRlk5eUZnVnRrNS1CRUw0VXFIQkE2bnJUVnZheXRsTGZsSnNic29xV2NZODBZdkJsSzhzeUlUNnJFNWJaM2xfa1dJMG1LMHhaRUtLdjJYdjlTdjU0OFZpZ3VmQjU1M0JlcXIzOERuSEEya0puTjFaOEktVi03VjBpaGZmbUtzUVBjUjRPRVk4NTdLZE0xZk9HaTVjNUdfWTFwRHN1UHFKSklzYU9waHNB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "north_rare_earth-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth (Group) High-Tech Co down 7.13% on Tuesday - Global Banking & Finance Review",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI5T18zeTExSzIwemdZTTNpSkJpbG5qRHpFZVZWbTl3UUd3ZHFTQXpqU05SdXNOWmtsR2xobmhienh4amp6R3lIT1F1SFNyeTJ3bFV6WFZDUTd3U1JTWExoMG0zbkoxS2ZWcW1LSGlrUFBHX0w4Qkg2aEE4bmE2Tkk1UExRSGF3WFgtWUhkZlNtaEpxQ3VTMXNQU1FlV2tOLUkxUWVIZkIyTk1RRElERGZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s rare earth giants’ profit surge: supply controls explained for project teams - Geomechanics.io",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1dzWElobG55WHdtYWNuWWh6Y0lhWnpfaUM2eUx1QThUMEN6MVhVRUZoTHQ1djJsWHdaMUVwd2lpa3NuZkN1V1ZDRzlXUVl4MGpKRkIyX3NLNHZvdzBhOTRlS0M0d01ERUlwWHhwMzFFZ3FSMmlMT2QxdjlwbnEzbUFBOFB0Z2Zwb0FDdDVhaFlaUUNXcE0wb2xNQmYwOU5LOGZWUXVnd2c2SFNycHFrNGJKa1ltVThLU3FNVzYzUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tungsten Mining (ASX:TGN) Hits Its Watershed Moment - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckRrTEpQd1lEeHBDTENVVjlkWGdiY3I2WHFacHN1Um5GNTgyU3U3WGpIZm1FdXFlbUMyWi1ReDF1ZXRUZGxGSXo1YXhBeXpzWEEtWnByblA5SlBXOXVRSU9VVEVNUGxwT3YySkhsTFlUa3NXaUdveXNZSFpRZzlHajB4cXhxUXFRTEpZNDVWUjVkNDY2X3pNUFJmTkpZYlJRYnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Codelco’s $866 million Gabriela Mistral extension clears key hurdle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/codelcos-866m-gabriela-mistral-extension-clears-key-hurdle/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 1
+      },
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 162,
+    "too_old": 113,
+    "gate1_blocked": 21,
+    "gate2_blocked": 4,
+    "passed": 41,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Ucore Rare Metals Inc.: Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its",
+      "Ucore Rare Metals Secures Louisiana Air Permit for Full 9,600 tpa Strategic Metals Complex Build-Out",
+      "S&P/TSX Composite: Neo Performance Materials Inc. [TSX:NEO] — Why Investors Are Watching the Next Ca",
+      "Neo Performance Materials Reports Third Quarter 2026 Results - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為萊納斯、北方稀土相關動態：「Lynas Rare Earths (ASX:LYC) Shares in Focus: Why Is the A...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths (ASX:LYC) Shares in Focus: Why Is the ASX 50 Stock Drawing ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Northern Rare Earth (Group) High-Tech Co down 7.13% on Tuesday - Global...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

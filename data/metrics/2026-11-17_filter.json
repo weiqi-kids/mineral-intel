@@ -1,0 +1,15 @@
+{
+  "total_raw": 341,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 21,
+  "gate2_fail": 4,
+  "passed": 41,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc.: Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its",
+    "Ucore Rare Metals Secures Louisiana Air Permit for Full 9,600 tpa Strategic Metals Complex Build-Out",
+    "S&P/TSX Composite: Neo Performance Materials Inc. [TSX:NEO] — Why Investors Are Watching the Next Ca",
+    "Neo Performance Materials Reports Third Quarter 2026 Results - Yahoo Finance"
+  ]
+}
