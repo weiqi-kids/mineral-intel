@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 24,
+  "gate2_fail": 9,
+  "passed": 34,
+  "gate2_samples": [
+    "Lynas permanent disposal facility nearly 80% done, monitored by Atomic Energy Dept - The Star",
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+    "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its Strategic Metals Comple",
+    "Ucore Rare Metals Secures Louisiana Air Permit for Full 9,600 tpa Strategic Metals Complex Build-Out"
+  ]
+}

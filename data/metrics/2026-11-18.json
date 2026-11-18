@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-18",
+  "total_events": 22,
+  "by_company": {
+    "lynas": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "arafura": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.05
+    },
+    "rare_earth_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "critical_mineral_policy": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
