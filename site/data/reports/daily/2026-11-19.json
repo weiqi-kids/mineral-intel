@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:59:12.393674Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths rises 3.40% in Thursday's session - Global Banking & Finance Review",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM0U1Nk04eGh3U2I5b2lfS25FUlhrOGtXenplX1FRM0lQM05hNGRTX0tkcmtfU3c2NmVBT3RCREdYN3VMTTl3ZEVIdVltXzJoM2pmMDUyZFY3WEdlVmFWaDJ6SnVwQm1fNEJ5MTJUUERDZVFpc3pNVlR0YjYwV0VPaVAxR3QyclB5UXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lynas-2026-11-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC): September Quarter Production and Expansion in Focus - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3lwcGV6cEhLNTlMb1d3dG55QkNNSUFtQUQxVmtyRXJzVTc2SVQ4cmM2UUQ3WXpid0lsLVVOdkhnS2FuS21XWEI2YVd2eUpsY2lqT1l6azVvZHU4dS0zbzd1WkVYa1lsY0Y5YjNmNFVxZndPNEg5WDZBdWN5cXV4bW4ycktkUzZ0M2lMVFU3X1lpSmowZ0ZtZllXQThIRXBTVVJHbS1qZE1BbnV6Qm9kVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arafura-2026-11-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arafura Rare Earths (ASX:ARU) Shares Could Be Trading At A Premium On A 49% Slump - Simply Wall St",
+      "companies": [
+        "arafura"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0FSUWVXRERYR0JQZG9rWkFydlMzN3hxOUNtTWpEZUpKYVE0Y1RndGUtekxpX1lmZFhyZm0tREtZZzl3cHFDT0V4MDZoOXQzTjJnNzI2N1pQVzdUN3d6SEoyS1RRMDlLT3ZXaE4wTVpBeEEzSzltclNFUmNxWFpWQ3daOERoaUNScDRUMHlDU3JtZjlTNzc0WXkydGxfdVdBdVp5b2t4Z2hOQ052ZUdZUTIwYnhrSmhuMlYxU19RS1hQUVUwUmFPV1JXQmpLR0ItM0NvS2FJUjhYUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Friedland’s Ivanhoe Electric strikes high-grade copper in Arizona",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/friedlands-ivanhoe-electric-strikes-high-grade-copper-in-arizona/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ground View Pakistan: The message behind the words",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/ground-view-pakistan-the-message-behind-the-words/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "arafura",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 157,
+    "too_old": 120,
+    "gate1_blocked": 26,
+    "gate2_blocked": 7,
+    "passed": 32,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+      "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its Strategic Metals Comple",
+      "Ucore Rare Metals Secures Louisiana Air Permit for Full 9,600 tpa Strategic Metals Complex Build-Out",
+      "Neo Performance Materials Inc. (NEO.TO) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為萊納斯、Arafura Rare Earths相關動態：「Lynas Rare Earths rises 3.40% in Thursday's session - Glo...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lynas Rare Earths rises 3.40% in Thursday's session - Global Banking & Financ...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lynas Rare Earths (ASX:LYC): September Quarter Production and Expansion in Fo...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
