@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:31:56.419405Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chile’s $111 billion mining boom hinges on lithium approvals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/chiles-111-billion-mining-boom-hinges-on-lithium-approvals/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US defies court ruling with historic seabed mine leases",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.mining.com/us-defies-court-ruling-with-historic-seabed-mine-leases/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US copper booked for China as tariff bet unwinds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.northernminer.com/news/us-copper-booked-for-china-as-tariff-bet-unwinds/1003898084/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan sets February start for full-scale rare earth seabed mining test - Mining.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQm1hTEhKUnRib2l1MEF4cTdoeWxCRkgydXd2a1NRSWpfaGloektHdDRvcElVcjVCLVozVEJNUzZ6SjJ1M055RktkbnB5VXNUeXlNekNPNkQ0TVVLZ1l4amlRaE9YNVlSNkh3bjY3ejJheVB6b0NBTXFQUDdkX3FiOXhnUTNmWFNBdDFlLXRMc1V0MHBNMjBXel9PYjcyQWM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kenya selects US-led Frontier Minerals for mining project - Semafor",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzNVMkkyUTRLcWxzeU1RNjNPdTBEMTRQUHh4ek83VUpzQ3FId0I2U3hiVlJsZThNdG9TckplN1hSeGtkdUN6bTd2MTZqQTVNVlF1NUFFR3hmQjVWaElhRzREUU53X25HbmJvM2hJc2Q5Q2pqTXZHeVJVMFFXVlhENmhpYldQYXZpT3pneGNaLWxGU3ZuZVNlQmFzVVJCVW5DNFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 227,
+    "dup_title": 120,
+    "too_old": 61,
+    "gate1_blocked": 25,
+    "gate2_blocked": 3,
+    "passed": 18,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Neo Performance Materials (TSX:NEO) - Stock Analysis - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為礦業產業通用相關動態：「Chile’s $111 billion mining boom hinges on lithium approvals」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Chile’s $111 billion mining boom hinges on lithium approvals（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "US defies court ruling with historic seabed mine leases（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

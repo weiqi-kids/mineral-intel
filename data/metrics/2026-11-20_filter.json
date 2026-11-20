@@ -1,0 +1,14 @@
+{
+  "total_raw": 227,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 25,
+  "gate2_fail": 3,
+  "passed": 18,
+  "gate2_samples": [
+    "Neo Performance Materials Inc. (NEO.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials (TSX:NEO) - Stock Analysis - Simply Wall St"
+  ]
+}
