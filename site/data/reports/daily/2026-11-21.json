@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:50:35.880034Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Rare Earth Industrial Expansion vs Western Buildout 2026 - Rare Earth Exchanges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJsZkdvZnQ2OWF4clhSNlA2Mlc3UHIyZThGam5nNFU0c0FmQlAtZzNLU2xGZGY4RndIaVBVM1I5QTFDTTcxYkwzam1Wam9uSEdJTk5adXRmVHNudmdJNlNEdWFBUVRZb0RMY2ExTlZKc0dOdVJCM0g1X0FFWmF1TGczOHBLYjc5OW93N3VR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 156,
+    "too_old": 130,
+    "gate1_blocked": 28,
+    "gate2_blocked": 9,
+    "passed": 19,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+      "Vital Metals Limited (VML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its Strategic Metals Comple",
+      "Ucore Rare Metals Secures Louisiana Air Permit for Full 9,600 tpa Strategic Metals Complex Build-Out",
+      "Neo Performance Materials Inc. (NOPMF) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為礦業產業通用相關動態：「China Rare Earth Industrial Expansion vs Western Buildout...」。主要關注主題為礦業產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China Rare Earth Industrial Expansion vs Western Buildout 2026 - Rare Earth E...（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
