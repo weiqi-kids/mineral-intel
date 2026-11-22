@@ -1,0 +1,15 @@
+{
+  "total_raw": 342,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 27,
+  "gate2_fail": 4,
+  "passed": 9,
+  "gate2_samples": [
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+    "Vital Metals Limited (VML.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials (TSX:NEO) - Stock Analysis - Simply Wall St"
+  ]
+}

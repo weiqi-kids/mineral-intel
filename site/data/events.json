@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "supply_diversification",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rare Earths: As Policy Accelerates Supply Diversification, A Decade Of Growth Could Follow - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTkdUWFpFRjBZSmQyTGUyTWJNdGg4MUlqQmRrbFpnVnhEaWdJUjBiS3VQZHBnVkZjSXpGeThOVW1pX216SFpQcHM5amVVY2tTTWdSeVVLc2M5VHhnQ3pEUW1VaFV0R3R2MDRnTkpER1",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTkdUWFpFRjBZSmQyTGUyTWJNdGg4MUlqQmRrbFpnVnhEaWdJUjBiS3VQZHBnVkZjSXpGeThOVW1pX216SFpQcHM5amVVY2tTTWdSeVVLc2M5VHhnQ3pEUW1VaFV0R3R2MDRnTkpER1FWMXUwaG1ERzYxTHpiNmhrbGJSZVY1N0lpU3NHMF9jZkNsbWY5VmNvR2VjZVZtWnlRZ2lwLU93dzRiY0RlTTJxazJyR0pLc19BaEZsbHZRTGROdGlCOXZIZS1GR2pmRHZpMEF4YWU5UG0xa3AtN1hIcEJncGdVZXZnQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kenya Selects US-Led Consortium for Mrima Hill Rare Earths and Niobium Critical Minerals Project - CASRAI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjBmQkctOGdxaHZOejA0bHB2aUZxNWRyU21Ld1FPNEVTNHVJY1ZhaFFKNWl3UUFCbFRHa3g3WTZQZFhDeVhnZ1VKczh4WXNBdGxZNDBTOEhIbkROZjBSYlRoZ0NHTllKblJvMVRQRn",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjBmQkctOGdxaHZOejA0bHB2aUZxNWRyU21Ld1FPNEVTNHVJY1ZhaFFKNWl3UUFCbFRHa3g3WTZQZFhDeVhnZ1VKczh4WXNBdGxZNDBTOEhIbkROZjBSYlRoZ0NHTllKblJvMVRQRnlXNzdRbVRpb005OXRDZnVTazVwV2V0Zl92dzF0QTRvQms2dnBLZklBYXFKZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-003",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Interest In Myanmar’s Rare Earths Might Overshadow Implementation Of ICJ’s Ruling On Rohingyas - Analysis - Eurasia Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2M1UkVCWXlqREhqbnh6MkhNQXk4dUxPYm1NTmU4VzlaOGFUQ3MwZlczYmFwRUdIQW1QN1JBSUpxZU1jdktEZlJsdkdlWnpKUUp3OFVWVlN1elBDREtvd0RBU2w3VjktQVNkUXFVYW",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2M1UkVCWXlqREhqbnh6MkhNQXk4dUxPYm1NTmU4VzlaOGFUQ3MwZlczYmFwRUdIQW1QN1JBSUpxZU1jdktEZlJsdkdlWnpKUUp3OFVWVlN1elBDREtvd0RBU2w3VjktQVNkUXFVYWNWZ21Ddk9JVHpzd3A2Rnl3UlBzLWsza041NEVVd25IQ1BrMFBqWWtfMEZfZlQzOWVNVWJKOWtFNTV3SlVsaUFLaVVwRDZhTUdXMldUNGo1TGZvZXktamJGTmg1YnFtUVBKYVBzY1o0a1FIY0haZUZHNXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [],
@@ -13,6 +69,60 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJsZkdvZnQ2OWF4clhSNlA2Mlc3UHIyZThGam5nNFU0c0FmQlAtZzNLU2xGZGY4RndIaVBVM1I5QTFDTTcxYkwzam1Wam9uSEdJTk5adXRmVHNudmdJNlNEdWFBUVRZb0RMY2ExTlZKc0dOdVJCM0g1X0FFWmF1TGczOHBLYjc5OW93N3VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-11-21-002",
+    "date": "2026-11-21",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Ltd (5AM.MU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0Z1aDdMdUFqNEEyaVh0aFhRbDBPekp0OEhfVmI0ZHNCVW1qSzJJT0tzcHFCNVl6WnpxTk5oYWVUMTZSYkpCZkU2blF0THpSa0RrR0hsMHMtUU9xZjVuNmE3S0w?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud0Z1aDdMdUFqNEEyaVh0aFhRbDBPekp0OEhfVmI0ZHNCVW1qSzJJT0tzcHFCNVl6WnpxTk5oYWVUMTZSYkpCZkU2blF0THpSa0RrR0hsMHMtUU9xZjVuNmE3S0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-11-21-003",
+    "date": "2026-11-21",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Ltd (5AM.DU) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41RzN4R1ZiZ2FyLTJtM0ZyQk5DRm1Fbk9TQ09ycl82bVh3TEEweFdtVDU2UHBxM29NeFZSNjJNX3FES21oV3lWbjUtdDRRSUxfSFR1aGYwRXBMcVBRR0FkbTR1WE0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41RzN4R1ZiZ2FyLTJtM0ZyQk5DRm1Fbk9TQ09ycl82bVh3TEEweFdtVDU2UHBxM29NeFZSNjJNX3FES21oV3lWbjUtdDRRSUxfSFR1aGYwRXBMcVBRR0FkbTR1WE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-004",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China Extends Suspension of Expanded Rare Earth and Processing Technology Export Controls to 2027 - CASRAI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzRkQjZiWlJVV3lBM0NNN1NHMDc4TXpYbzB1WDVFSHc3LUpBdzAySVZkS0I4SEpSRUQ4UGU0Z29CR0UwZjNlZE1PMVVhNFhMR2hBRC05MzkzN0dOSkJMaHFMRU5LbnlnY3QtU1c0cE",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzRkQjZiWlJVV3lBM0NNN1NHMDc4TXpYbzB1WDVFSHc3LUpBdzAySVZkS0I4SEpSRUQ4UGU0Z29CR0UwZjNlZE1PMVVhNFhMR2hBRC05MzkzN0dOSkJMaHFMRU5LbnlnY3QtU1c0cENfMFU1NWd1a19hSzRFbEFyc1pKTEo5MU12V0lKZmxuOA?oc=5",
         "type": "rss"
       }
     ]
@@ -491,6 +601,24 @@
       {
         "name": "google_critical_minerals",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmktYldKMFpGdzhxVk9QbDNaNkIzSkk2V1R1aVpHeFNXMmZhZndnMTJaRWxOTWZRU3BlODZnMTVGdVBIczduU1U5T2VPcFRyQ1hMS0RzQUctOTh3VkZYcWtjUHZjczVMTm5McE5rcVhiaEFYSURIdTdlV3U0R0NFNHIwLVdhUGdCeGM5WjBSNjYxZGJwd0xkYXhrMko?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-11-20-027",
+    "date": "2026-11-20",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lynas shareholder meeting to spotlight CEO hunt next week - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE5xLUZLYl9jTnJRVG5xd3U2NHRfUVUtX3U4VVl4dzQ2dU1OSVBjYjNXdlM5WHNjaHB4YzQtX1F6SW51M1ZSV2M4ZnJQZHBQdGJxNGN3TEVvODFRQnBtQVBoTld5aTBMU0ItYU9pTm",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE5xLUZLYl9jTnJRVG5xd3U2NHRfUVUtX3U4VVl4dzQ2dU1OSVBjYjNXdlM5WHNjaHB4YzQtX1F6SW51M1ZSV2M4ZnJQZHBQdGJxNGN3TEVvODFRQnBtQVBoTld5aTBMU0ItYU9pTmFhM1luWG1JVEZRVk1pLVAyLVVRUGlwdnk3LXVub3A3SVJmN092dzhnRUZRbl90elppWWJRTWl5TFZhMEY5VGRn?oc=5",
         "type": "rss"
       }
     ]
@@ -1100,6 +1228,24 @@
       {
         "name": "neo",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81cWF6eGFkNWV6MTBOOGhDQUpDb2ZTbElFWDVMeVA0dUhRX2dqVFpZTXF4aEtuY0gwendhVmphNFJPcXRaNWlQQUhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-11-19-034",
+    "date": "2026-11-19",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Limited (5AM.F) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16c1o3eEgyLWJnVDY4VHF3anE4SUdtS1FDa3BBSTN6a3FlRlJ6M2l1QXE3SmNCZEEzaU55bmNlbGRDYkswTjhycmlDWHRZdkJQaUMwZmRWYmhaem1pM09MOEN4RQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16c1o3eEgyLWJnVDY4VHF3anE4SUdtS1FDa3BBSTN6a3FlRlJ6M2l1QXE3SmNCZEEzaU55bmNlbGRDYkswTjhycmlDWHRZdkJQaUMwZmRWYmhaem1pM09MOEN4RQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3029,6 +3175,27 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTy10UDVhaXNIbGlfZllBWndtNHRfOVctRlhESnpnX0lFcXVMZ0xpSzEyajRQODRzQTRVNFhJWnZyU0dOTGx0djJTcUNkd3R6eF9SYjdZdVpPSFl6NVAzemVJZFdXN0xDSzB6bVFDN1dkbFVKZWtjT0d3TjlZRWdsRl9VUkVTYU12NmxGakhENDRNcGlMUGhJNmMyYjZ3S19vSEpiLVJHVDVGaGsyVE5mdEpGa3hEN0U5ZmpLenRxRVFjUTFGV1k0NUFYVk1uYjBKLS1HNlJINTNVYTd6NEtfQ0FfR1lseGVKSUlicU1NY3F5WlNHNnBMLTUyS21pS002aHBQYk5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asm-2026-11-16-040",
+    "date": "2026-11-16",
+    "companies": [
+      "asm",
+      "energy_fuels"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Fuels ASM Acquisition Executive Bonuses Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAyREtKdjhwaDRyeExvRVdKUXNneTRnMnQ3Yk5YdXg2NTdlLTM1X2xKOExFUFZiczFoTzFxaGhaOHA5Z0wtTjdXbDdBRjdteEhJUllVZXdSZ1pVUTF4UlBWb05iWXQ2RWxHNlhFRGlZUW",
+    "sources": [
+      {
+        "name": "asm",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyREtKdjhwaDRyeExvRVdKUXNneTRnMnQ3Yk5YdXg2NTdlLTM1X2xKOExFUFZiczFoTzFxaGhaOHA5Z0wtTjdXbDdBRjdteEhJUllVZXdSZ1pVUTF4UlBWb05iWXQ2RWxHNlhFRGlZUWp5V2FtMUFxZVZlUlh0UQ?oc=5",
         "type": "rss"
       }
     ]
