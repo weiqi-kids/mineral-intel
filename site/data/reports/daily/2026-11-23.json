@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:41:55.880246Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "north_rare_earth-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Northern Rare Earth Technology Strategy Explained - Rare Earth Exchanges",
+      "companies": [
+        "north_rare_earth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2pWWEF6aUFIMk5fUGtMbU5rdmc5MWJHSFhJV2NPbFhyNTkwelBHZWRkNy1fb1hQX0NDMS1DVUkzaWdDWXZKeEhVT3lLMnNQNmloQlcwYzY4dkZoQTVEMG50NHhLYWdRaE1Md1psdW96ZVF0TjJrcjlQOXpYaXlkcHQ0TjdTb2tRRmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ucore-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Ucore Rare Metals (TSXV:UCU) sank on the TSX Venture Exchange as rare earth stocks extended a sell-off - kalkine.ca",
+      "companies": [
+        "ucore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFFLMG9NZmFSS210UGt4ZVZPcEJKc2N1eHVPTHBqY2xSb1VRRUFCTkU0eEJ5d0xmOUJ0Ym1mdVhMTi1ZQldvWkpzWGxHSHZ1VTF5SjV1V2dnTzl1bEJTd0IySDZkYjhFS1lMTFZmRnBvWi1CSTZpSEZKeW1UR0oydUMwa0VqQkVtdVo1Z25PRG80V2VMbVAtY2trZFhjenN0cnZKdlY0cWlQVUw0c2tWMVQxSl94a19zLWJPRnhrYTBYcHd1OE9CUXBKbEdBR1U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "neo-2026-11-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rare-Earth Earnings Surge: Neo Performance Materials Inc. (TSX:NEO) | S&P/TSX Composite Index | Small Cap Growth Stock - kalkine.ca",
+      "companies": [
+        "neo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUJrVV9sOTZtVVlfZVVtNUdHOElxQktrUVF3WFVOUG8xeU50U0FvVmRSS0lBbEVTeGllRkM2WkxYRWRWR1ktZGhSUUlrWmdieXZPYUhXNXUyMk95SElYWHl6cVBySnZ0dFZfTEpubDYwSXBEVERYc1ZhU1ctUTVGaDg2TjFzQWtwV2s4cDRTb2hvYS0teFNfUEJFQ0xObW4zRFZ4eURPdXk3ZUFtVElFMng3N1Y0UG1pS3pWT25pQUoyenFHZ2ZKTTdpRUM3RW5DaGhiT05VWTdhdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Copper rout threatens Chile’s budget recovery hopes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Namib Minerals pours first gold at historic Redwing gold mine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/namib-minerals-pours-first-gold-at-historic-redwing-gold-mine/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "north_rare_earth",
+        "count": 1
+      },
+      {
+        "id": "ucore",
+        "count": 1
+      },
+      {
+        "id": "neo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "china_export_control",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 166,
+    "too_old": 127,
+    "gate1_blocked": 21,
+    "gate2_blocked": 1,
+    "passed": 25,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "0.6%",
+    "gate2_samples": [
+      "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為北方稀土、Ucore Rare Metals、Neo Performance Materials相關動態：「China Northern Rare Earth Technology Strategy Explained -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China Northern Rare Earth Technology Strategy Explained - Rare Earth Exchanges（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Ucore Rare Metals (TSXV:UCU) sank on the TSX Venture Exchange as rare ear...（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

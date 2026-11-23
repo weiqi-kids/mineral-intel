@@ -1,0 +1,12 @@
+{
+  "total_raw": 340,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 21,
+  "gate2_fail": 1,
+  "passed": 25,
+  "gate2_samples": [
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}
