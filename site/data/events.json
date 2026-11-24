@@ -1,5 +1,374 @@
 [
   {
+    "id": "lynas-2026-11-24-001",
+    "date": "2026-11-24",
+    "companies": [
+      "lynas",
+      "mp_materials"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Time pressure on heavy rare earths: Globex Mining, MP Materials and Lynas Rare Earths between Beijing and the Pentagon - Stockhouse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHJocFU0c0o2QkFxV192R0d1eGNMSUk3ZXJoZXFEanRWWVFHcFMzbnNXczlGY21yeVUyNWEySEtEb3J0cWw3dDFmYWxkLTNiQV9xazRlMDkzZ2lKWVlWQVdmTzgxbHV6ekVEaWRGUm",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHJocFU0c0o2QkFxV192R0d1eGNMSUk3ZXJoZXFEanRWWVFHcFMzbnNXczlGY21yeVUyNWEySEtEb3J0cWw3dDFmYWxkLTNiQV9xazRlMDkzZ2lKWVlWQVdmTzgxbHV6ekVEaWRGUmU5ZnF4aVVyNkJiYkJrZ3o4dEo4LUtqTWs1VkZ2bnhQS2lrcTlnb05EbEo3Mk55RkFxSk5kemZtTWJZeGxXeHVuWlpNaktiNGRhRDVFblhjbllhMlR0eDhyai1DUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lynas-2026-11-24-002",
+    "date": "2026-11-24",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths (ASX:LYC) Completes Mt Weld Expansion Commissioning and Adds Heavy Rare Earth Output - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVlaZjFiZ2NBVkphd3E3dHlXRVgyYUVWY2l5VGFqOGg3LUVSLUdMVnQxVGd0ckRiTk91QTJvZmg2WWRZckJZYktrd0VCTjNlTjI3Z1dZQ1pPRWNhQUJSQ0t4blN4NERYVWtsYm5nM3",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVlaZjFiZ2NBVkphd3E3dHlXRVgyYUVWY2l5VGFqOGg3LUVSLUdMVnQxVGd0ckRiTk91QTJvZmg2WWRZckJZYktrd0VCTjNlTjI3Z1dZQ1pPRWNhQUJSQ0t4blN4NERYVWtsYm5nM3M2Mlg1M0pEZGtCT3BnTXZLeTBNNnJXVG1TVHE4UnFpZFZlRTVpb1lNS2p4UjJDT0xHaGt4X25CdzdqRFB1ZGQ4UHBhb0hLdjJsajhjR29TWVRLcEhWNE9pWTBTUy1IV0xWV1dDeVhxckxTbDBO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-003",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
+    "summary": "Traders have booked up to 100,000 tonnes of US copper for China, a sign they are losing faith in tariffs, BMO Capital Markets says.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/copper-price-erases-nvidia-rebound-as-investors-steer-clear-of-metals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-004",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vale to resume operations at Viga iron ore mine",
+    "summary": "Production at the Brazilian mine has been halted since January 2026 due to water overflows.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/vale-to-resume-operations-at-viga-iron-ore-mine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-005",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An under-resourced mining agency might be Brazil’s next challenge in mining push",
+    "summary": "As Brazil aims to become a critical mineral destination for investors, it may need to look inwards before attracting new projects. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/an-under-resourced-mining-agency-might-be-brazils-next-challenge-in-mining-push/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-006",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Silver miners struggle to close persistent supply gap",
+    "summary": "Dependence on copper, lead, zinc and gold operations limits the precious metal’s supply response despite record prices.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-007",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Osisko outlines 7.4B lb. of copper underground at Gaspé",
+    "summary": "Underground deposit at the Gaspé project in Quebec holds nearly double the open-pit resources grade.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/osisko-outlines-7-4b-lb-of-copper-underground-at-gaspe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-008",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trafigura takes control of $260 million copper-gold project in Chile",
+    "summary": "The commodities giant moves into mine development in the Atacama, but an Indigenous legal challenge threatens construction plans.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/trafigura-takes-control-of-260-million-copper-gold-project-in-chile/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-009",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ontario seeks to speed up mining approvals",
+    "summary": "<p>Ontario plans to overhaul mining approvals beyond its fast-track program for four major projects, proposing to eliminate or streamline half of the key permits and...</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/ontario-seeks-to-speed-up-mining-approvals/1003898200/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-010",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marimaca gets Sprott’s backing for Chile copper project",
+    "summary": "<p>Developer Marimaca Copper (TSX: MARI; ASX: MC2) has secured investment committee backing from a Sprott (TSX, NYSE: SII) unit for a proposed funding package to...</p>\n<p>The post <a href=\"https://ww",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/marimaca-gets-sprotts-backing-for-chile-copper-project/1003898203/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-011",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I-80 begins mining at Nevada’s Archimedes",
+    "summary": "<p>I-80 Gold (TSX: IAU; NYSE: IAUX) has begun mining at Archimedes, its second underground gold mine in Nevada, saying it expects to recover the first...</p>\n<p>The post <a href=\"https://www.northernm",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/i-80-begins-mining-at-nevadas-archimedes/1003898190/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-012",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Osisko outlines 7.4B lb of copper underground at Gaspé",
+    "summary": "<p>Osisko Metals (TSX: OM; US-OTC: OMZNF) has outlined an underground deposit containing 7.4 billion lb. of copper at its Gaspé project in eastern Quebec &#8212;...</p>\n<p>The post <a href=\"https://ww",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/osisko-outlines-7-4b-lb-of-copper-underground-at-gaspe/1003898178/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-013",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China extends reprieve for U.S. mineral buyers",
+    "summary": "<p>China will keep tighter rules on U.S.-bound shipments of gallium, germanium and antimony on hold for two more months, through Jan. 27, 2027, the Commerce...</p>\n<p>The post <a href=\"https://www.nor",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/china-extends-reprieve-for-u-s-mineral-buyers/1003898210/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-014",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France plans to create rare earths stockpile and encourage joint buying - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQVFPN1lOT2M4TEIyYncwM09BVjJ1NS1maHRGWFNzRmt5TTNreS1fem9nT1R1YU5NWXFWTW5mUnlXZFV3c2F2aGJFTklfU0RhQjNWV3JPQTB1aDBzYTk0cEV3eU8wOHMzY3VldjZ0OG",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQVFPN1lOT2M4TEIyYncwM09BVjJ1NS1maHRGWFNzRmt5TTNreS1fem9nT1R1YU5NWXFWTW5mUnlXZFV3c2F2aGJFTklfU0RhQjNWV3JPQTB1aDBzYTk0cEV3eU8wOHMzY3VldjZ0OG1QRXZzak1mTV9RREwzei1iZnhvZTFtLTh0MG9BM21Gc2dYZW53TTcyTlVsLWtUWEZF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-015",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Rare Earths delivers $1.3bn NPV study on Cowboy State Mine - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPd1VrQXV3OVZfMW5GUldYb2E3UGUwN1pWREdpaUYwQ3RwcFNSdjUyMFpjTUJZN2IwQW5aZU9CTkVfcWlBNFNuX2QwZ0c2TzNTWFkzbFVDUG4xc3RIT2xscHVJWGlqMk92MV9wXzNiem",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd1VrQXV3OVZfMW5GUldYb2E3UGUwN1pWREdpaUYwQ3RwcFNSdjUyMFpjTUJZN2IwQW5aZU9CTkVfcWlBNFNuX2QwZ0c2TzNTWFkzbFVDUG4xc3RIT2xscHVJWGlqMk92MV9wXzNiemE2bkZFSGpfTEgycDlndjJ2WWxENmhUb05WT0tsWjEwZkFNTDIwc0xsekJmR0dIMzVTbWJpZVdWcFAxTWZqODR2Sk0xZFlKMDZwWFNxME91MUthbVIxbUtz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-016",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia’s next critical mineral step is metallisation - Lowy Institute",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUNXMXBjeGVpUE5CZTVZUm5RVUVIeXpwZDZERzZJdmJjRVlqZGhTM3dtbXdGMkk1dWJKYXQyeW9jWHlMdkN5cWF1Rmpzd3JVbUc2X1JCV3ppYjMwWGpsTjlxSm9yR0RGQWg1UXZGQW",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUNXMXBjeGVpUE5CZTVZUm5RVUVIeXpwZDZERzZJdmJjRVlqZGhTM3dtbXdGMkk1dWJKYXQyeW9jWHlMdkN5cWF1Rmpzd3JVbUc2X1JCV3ppYjMwWGpsTjlxSm9yR0RGQWg1UXZGQWkycWl3dXRidGxXWjk0NnhHdDExbzk2c0liNnhtZmUxeE0ydl85Yzl2V0Q2M1AzVEVPUkRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-017",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "“We Must Break Free of China’s Monopoly”: Japan Mobilizes Public and Private Sectors to Revive Rare Earth Ecosystem as U.S. Accelerates Supply Chain Shift Away from China - https://economy.ac/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE01SmZVVV9MUm9PWGthTHRUdXFjUTVTcWo2ckF0YkJONXd3azFWMi0wTzdnR21jVk8xQ0x3NWg0aFpETTYyRklwM0F3alF2d2pkMkk0bmttbw?oc=5\" target=\"_blank\">“We Must ",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01SmZVVV9MUm9PWGthTHRUdXFjUTVTcWo2ckF0YkJONXd3azFWMi0wTzdnR21jVk8xQ0x3NWg0aFpETTYyRklwM0F3alF2d2pkMkk0bmttbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-018",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France to establish 'strategic stockpiles' of critical minerals - RFI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzZ4aVhxeHZ0YWJPd0pQdFppMmprRnFpeXFNQnZoT3puYjZ6VWRtTU1MT3pxX3RUN00zd3Q5WEVDZUVUbWJ3VnU0WXJTRUszZFgwU0M3LTJVdVNyOGxfbkhnQmRIMWFJdm10MzB1VX",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzZ4aVhxeHZ0YWJPd0pQdFppMmprRnFpeXFNQnZoT3puYjZ6VWRtTU1MT3pxX3RUN00zd3Q5WEVDZUVUbWJ3VnU0WXJTRUszZFgwU0M3LTJVdVNyOGxfbkhnQmRIMWFJdm10MzB1VXF3TG95NnZiVEtOcEJ0cTRhd1RWNU1SeWlqX1lwWVVib2lCcFcxRjR3MWRrNkhKOXhr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-019",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Montana's mining industry is eyeing a boom. But will it go bust? - The Missoulian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkxuN3JYVGRfVW4xXzhRN3hEZ1Roa1ZSRHU4U19rbFg4QW1hYVUxbk9jUWJoNXBVX2xFTU5oTkFCcm9rLUhYVzlmTTktNlNZWWV5TldHQXZYMnhIWlZXX3Nxb0NWQllJVksyMm93OU",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkxuN3JYVGRfVW4xXzhRN3hEZ1Roa1ZSRHU4U19rbFg4QW1hYVUxbk9jUWJoNXBVX2xFTU5oTkFCcm9rLUhYVzlmTTktNlNZWWV5TldHQXZYMnhIWlZXX3Nxb0NWQllJVksyMm93OURIRlpMak5kVjM3WUxSWkRncWNSU2tkT25FdGp3VVpJV3N5WjN4T0xZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-020",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China extends pause in controls on critical mineral exports to US - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTz",
+    "sources": [
+      {
+        "name": "google_china_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "north_rare_earth-2026-11-23-001",
     "date": "2026-11-23",
     "companies": [
@@ -384,6 +753,115 @@
     ]
   },
   {
+    "id": "unknown-2026-11-23-022",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Discover the Top 10 Countries Leading Rare Earth Metal Production - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkdoUU1YS1pFU2ZaRU0xRjE4empyMjQtaDdGa3QyYktMNGlxVC1EWUNESjRVX3NBVV9RZUlZaVo0VFBaRGJkTUNCd0FiRElLcFlGd3RNZWNEX2RBeHp5LV8zM3NhdjlESzhuS2RoZW",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkdoUU1YS1pFU2ZaRU0xRjE4empyMjQtaDdGa3QyYktMNGlxVC1EWUNESjRVX3NBVV9RZUlZaVo0VFBaRGJkTUNCd0FiRElLcFlGd3RNZWNEX2RBeHp5LV8zM3NhdjlESzhuS2RoZWhuNWZzeGNHcHRiZEU4bmVMUHlSamg4QS1SMnM5MmgzZjRxLVpfY21CZzRYNzM4eFZpR2gxcUdNLUNKNjRTck11Y3h4T2dSZ1dsajN0NzU3SUxVNWFa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ucore-2026-11-23-023",
+    "date": "2026-11-23",
+    "companies": [
+      "ucore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ucore Rare Metals Inc. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN29wUkNoLXhRRHNYVWFFT2NyMjA4NTlSZUpYcVFlZF8xNk9DTmIxaVBrX1c4NVlwWjl2U2U1VDZQYWxWOFlnbXRKekhQeEQwTDRBSWJ0b05WcXN3aGlUaHdHUl92NEJlNnJXV1hMNF",
+    "sources": [
+      {
+        "name": "ucore",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN29wUkNoLXhRRHNYVWFFT2NyMjA4NTlSZUpYcVFlZF8xNk9DTmIxaVBrX1c4NVlwWjl2U2U1VDZQYWxWOFlnbXRKekhQeEQwTDRBSWJ0b05WcXN3aGlUaHdHUl92NEJlNnJXV1hMNFhwWkFFT1lHNU1pbEVXMzMzTGJwTWNXQTl2UFJfZGR5UExGdmgxSHJRUjY0OWM5QUppZFZvcjQ0U3pGV0ZNTEIycU54NDdEdTYxc05pdlA3U3ZuQ2JVTFF3X2JpOG5sMVRYM3Fic1FuOUc0Q2RrcUdVcjVOOHBDRkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-024",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Empower EIT inks 10 year lithium offtake deal with Glencore",
+    "summary": "Binding offtake deal is for 100,000 tonnes of lithium. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/empower-eit-inks-10-year-lithium-offtake-deal-with-glencore/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-025",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Resource Review video: Why planned shutdowns can save money",
+    "summary": "<p>An emergency repair at a mineral processing plant can cost a miner up to four times as much as the same job scheduled in advance,...</p>\n<p>The post <a href=\"https://www.northernminer.com/news/reso",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/resource-review-video-why-planned-shutdowns-can-save-money/1003898170/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-026",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "critical_mineral_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brazil Mining Agency Shortfalls Threaten Critical Minerals Push - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQThBSHJNdzBZWmM2MmFqVEc2QXB2YUhwOW55TXR5akVDeHJPYWl1dUFtVUhYOXpsdUNLLThfWTkwWW41ZFBZNGVxZzVZbjZWd00zNkVTVlBpWVN4MmdCLVpJZEQ2dDhkaVU4X2t2Yn",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQThBSHJNdzBZWmM2MmFqVEc2QXB2YUhwOW55TXR5akVDeHJPYWl1dUFtVUhYOXpsdUNLLThfWTkwWW41ZFBZNGVxZzVZbjZWd00zNkVTVlBpWVN4MmdCLVpJZEQ2dDhkaVU4X2t2YnRRLVg5VHFrRGFxeGFoVGxfYjh0ZFdWcS1lcGtDMFRDeEtzMFhNX1JQRGRwOUViLWNGNGZadDBFQU9GZjlncGtNYWJsT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-027",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Abu Dhabi’s IRH outlines $464 million titanium deal - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNY21rVVh0cnR3bkNJX0t3NnVpeDFKNGd1ZkNpLWN2U3pBX0RmV2t0N2Z4cDdyNkdtZHluWjNiRVVsQjY2UndCaHJtUi10eFE4dGx1UmI4eGZjSDE5QzRDb01SODBYcmpieTA1V2xaOW",
+    "sources": [
+      {
+        "name": "google_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY21rVVh0cnR3bkNJX0t3NnVpeDFKNGd1ZkNpLWN2U3pBX0RmV2t0N2Z4cDdyNkdtZHluWjNiRVVsQjY2UndCaHJtUi10eFE4dGx1UmI4eGZjSDE5QzRDb01SODBYcmpieTA1V2xaOWdPVEZYa1AtaWVEcTBiSXVSdjFsVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-22-001",
     "date": "2026-11-22",
     "companies": [],
@@ -526,6 +1004,26 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzRkQjZiWlJVV3lBM0NNN1NHMDc4TXpYbzB1WDVFSHc3LUpBdzAySVZkS0I4SEpSRUQ4UGU0Z29CR0UwZjNlZE1PMVVhNFhMR2hBRC05MzkzN0dOSkJMaHFMRU5LbnlnY3QtU1c0cENfMFU1NWd1a19hSzRFbEFyc1pKTEo5MU12V0lKZmxuOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rainbow-2026-11-21-005",
+    "date": "2026-11-21",
+    "companies": [
+      "rainbow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rainbow Rare Earths (LSE:RBW) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1oMkxBMjZveTdqNTJhOGUyNl9KZnBxU1haYTZnY0xiYzZ6ZWZNaHB6WC1McVhXbzZMMUpyT3VXbkNOMlRCRWJuaUtFR2swMUsxVEs4NjRsWGtMeS1uLUx0ZUhwUlhYSV9PU09DTH",
+    "sources": [
+      {
+        "name": "rainbow",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1oMkxBMjZveTdqNTJhOGUyNl9KZnBxU1haYTZnY0xiYzZ6ZWZNaHB6WC1McVhXbzZMMUpyT3VXbkNOMlRCRWJuaUtFR2swMUsxVEs4NjRsWGtMeS1uLUx0ZUhwUlhYSV9PU09DTHJKandrVThrejB0RVdCWjRfUG1B?oc=5",
         "type": "rss"
       }
     ]
@@ -1041,6 +1539,60 @@
       {
         "name": "google_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVdVdzVMVE1kMEZpeHlJX0xDMUxwdzB2UjhCcFNPaVp2bXRaOFZZOG5jSWIwcEhJRFUxTFotaXNZaFVMVG0wZ3NHVkNZZ0dNQzZ3LW40ZU11M1lNODhnQkY1bWphUjd3bjJkc3czeGdOWFhtZVVPSkwtYVg5dGotcWl4ZlNVUENJVDM2M2plclRiOTZXTVdxcmxzbEJvXzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-029",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to Invest in Rare Earth Elements: Stocks, ETFs and the Risks - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA2LWREYjBLeE1MSXlkV3dxQV8wMUdhcU40dDVmVHJvTDE0M1NUekpvSzY1RmExS3hIcm1ia014UF9NN09td1JSZzJLekN2R0I2Q1BraVN3d1EwN1FDd2tqbFdDTzBBenl2aWlyVmFmNV",
+    "sources": [
+      {
+        "name": "north_rare_earth",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2LWREYjBLeE1MSXlkV3dxQV8wMUdhcU40dDVmVHJvTDE0M1NUekpvSzY1RmExS3hIcm1ia014UF9NN09td1JSZzJLekN2R0I2Q1BraVN3d1EwN1FDd2tqbFdDTzBBenl2aWlyVmFmNVBIWVI5TVg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hastings-2026-11-20-030",
+    "date": "2026-11-20",
+    "companies": [
+      "hastings"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hastings Technology Metals Ltd (5AM.HA) Insider Ownership & Holdings - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aem9uN2tyQWF6YWlvdnhmTDlkYV8wcUdiRlU4cDlDUFhNNXlIdFRuUE5oQ2sxS1JJQVB4ZVJ6RG9hYXp1UEZoVVNqR1QxOVA1bEVBVDh5Y3loS2psY1RCdnBxbGJISFhs?oc=5\" tar",
+    "sources": [
+      {
+        "name": "hastings",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aem9uN2tyQWF6YWlvdnhmTDlkYV8wcUdiRlU4cDlDUFhNNXlIdFRuUE5oQ2sxS1JJQVB4ZVJ6RG9hYXp1UEZoVVNqR1QxOVA1bEVBVDh5Y3loS2psY1RCdnBxbGJISFhs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vital-2026-11-20-031",
+    "date": "2026-11-20",
+    "companies": [
+      "vital"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vital Metals Ltd (VJF.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9heEhqbVlwcVZqRVh0amxacUxERnBxM1dfYWxfT1ZhNVJhcDZmVlFzVDJBcFNuM1hKbE92cDRQU1JVSmZhWkZQdE15RU9Jd1MwR3k4emlTWUdlTVkzbndXYk1WbjdUdm8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "vital",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9heEhqbVlwcVZqRVh0amxacUxERnBxM1dfYWxfT1ZhNVJhcDZmVlFzVDJBcFNuM1hKbE92cDRQU1JVSmZhWkZQdE15RU9Jd1MwR3k4emlTWUdlTVkzbndXYk1WbjdUdm8?oc=5",
         "type": "rss"
       }
     ]

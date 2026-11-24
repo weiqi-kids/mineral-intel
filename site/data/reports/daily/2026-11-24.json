@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:15:30.525598Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lynas-2026-11-24-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Time pressure on heavy rare earths: Globex Mining, MP Materials and Lynas Rare Earths between Beijing and the Pentagon - Stockhouse",
+      "companies": [
+        "lynas",
+        "mp_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHJocFU0c0o2QkFxV192R0d1eGNMSUk3ZXJoZXFEanRWWVFHcFMzbnNXczlGY21yeVUyNWEySEtEb3J0cWw3dDFmYWxkLTNiQV9xazRlMDkzZ2lKWVlWQVdmTzgxbHV6ekVEaWRGUmU5ZnF4aVVyNkJiYkJrZ3o4dEo4LUtqTWs1VkZ2bnhQS2lrcTlnb05EbEo3Mk55RkFxSk5kemZtTWJZeGxXeHVuWlpNaktiNGRhRDVFblhjbllhMlR0eDhyai1DUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-24-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Silver miners struggle to close persistent supply gap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/"
+    },
+    {
+      "rank": 3,
+      "event_id": "lynas-2026-11-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynas Rare Earths (ASX:LYC) Completes Mt Weld Expansion Commissioning and Adds Heavy Rare Earth Output - Kalkine",
+      "companies": [
+        "lynas"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVlaZjFiZ2NBVkphd3E3dHlXRVgyYUVWY2l5VGFqOGg3LUVSLUdMVnQxVGd0ckRiTk91QTJvZmg2WWRZckJZYktrd0VCTjNlTjI3Z1dZQ1pPRWNhQUJSQ0t4blN4NERYVWtsYm5nM3M2Mlg1M0pEZGtCT3BnTXZLeTBNNnJXVG1TVHE4UnFpZFZlRTVpb1lNS2p4UjJDT0xHaGt4X25CdzdqRFB1ZGQ4UHBhb0hLdjJsajhjR29TWVRLcEhWNE9pWTBTUy1IV0xWV1dDeVhxckxTbDBO?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/copper-price-erases-nvidia-rebound-as-investors-steer-clear-of-metals/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vale to resume operations at Viga iron ore mine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/vale-to-resume-operations-at-viga-iron-ore-mine/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "critical_mineral_policy": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lynas",
+        "count": 2
+      },
+      {
+        "id": "mp_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 171,
+    "too_old": 112,
+    "gate1_blocked": 20,
+    "gate2_blocked": 7,
+    "passed": 30,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Vital Metals Limited (VML.XA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Vital Metals Terminates Less Than Marketable Parcel Share Sale Facility With No Shares Sold - Kalkin",
+      "Vital Metals Ltd (VJF.DU) Seasonal returns chart - Yahoo Finance Australia",
+      "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Ucore Rare Metals Inc.: Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為萊納斯、MP Materials相關動態：「Time pressure on heavy rare earths: Globex Mining, MP Mat...」。主要關注主題為礦業產業通用、關鍵礦物政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Time pressure on heavy rare earths: Globex Mining, MP Materials and Lynas Rar...（礦業產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Silver miners struggle to close persistent supply gap（礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

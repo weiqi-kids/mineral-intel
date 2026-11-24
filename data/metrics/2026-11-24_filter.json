@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 20,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "Vital Metals Limited (VML.XA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Vital Metals Terminates Less Than Marketable Parcel Share Sale Facility With No Shares Sold - Kalkin",
+    "Vital Metals Ltd (VJF.DU) Seasonal returns chart - Yahoo Finance Australia",
+    "Ucore Rare Metals Inc. (UURAF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Ucore Rare Metals Inc.: Ucore Receives Louisiana Air Permit Covering Full 9,600 tpa Build-Out of Its"
+  ]
+}

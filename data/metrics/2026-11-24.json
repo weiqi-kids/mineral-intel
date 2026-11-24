@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-24",
+  "total_events": 20,
+  "by_company": {
+    "lynas": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.03
+    },
+    "critical_mineral_policy": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
