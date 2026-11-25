@@ -1,0 +1,15 @@
+{
+  "total_raw": 351,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 25,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "Ucore Rare Metals Inc. (U9UA.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Neo Performance Materials (TSX:NEO) Stock Could Be 39% Above Fair Value - Simply Wall St",
+    "Could Neo Performance Materials (TSX:NEO) Deliver Stronger Value Ahead? - Kalkine Media",
+    "Neo Performance Materials (TSX:NEO) - Stock Analysis - Simply Wall St"
+  ]
+}

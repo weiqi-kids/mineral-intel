@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-25",
+  "total_events": 21,
+  "by_company": {
+    "lynas": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "rainbow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ucore": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "mp_materials": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": -0.02
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
