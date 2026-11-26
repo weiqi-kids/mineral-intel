@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:02:06.184295Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-26-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ivanhoe Mines taps AI to unlock Angola’s geological archives",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.mining.com/ivanhoe-mines-taps-ai-to-unlock-angolas-geological-archives/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Op-Ed: Critical minerals face a post-construction test",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "critical_mineral_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/op-ed-critical-minerals-face-a-post-construction-test/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Planet One leads $933M plan for Senegal iron ore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/planet-one-leads-933m-plan-for-senegal-iron-ore/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Congo closes in on Chile’s long-held copper crown",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.mining.com/congo-closes-in-on-chiles-long-held-copper-crown/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chile clears Marimaca to start early copper mine works",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.mining.com/chile-clears-marimaca-to-start-early-copper-mine-works/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "critical_mineral_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "china_export_control": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "critical_mineral_policy",
+        "count": 2
+      },
+      {
+        "id": "china_export_control",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 40,
+    "dup_title": 12,
+    "too_old": 0,
+    "gate1_blocked": 14,
+    "gate2_blocked": 0,
+    "passed": 14,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為礦業產業通用、關鍵礦物政策、中國出口管制相關動態：「Ivanhoe Mines taps AI to unlock Angola’s geological archives」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ivanhoe Mines taps AI to unlock Angola’s geological archives（礦業產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Op-Ed: Critical minerals face a post-construction test（關鍵礦物政策、礦業產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
