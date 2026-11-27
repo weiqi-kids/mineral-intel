@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 20,
+  "gate2_fail": 5,
+  "passed": 40,
+  "gate2_samples": [
+    "Lynas Corporation Limited (LYC.AX) stock price, news, quote and history - Yahoo Finance UK",
+    "Vital Metals Limited (VJF.F) Seasonal returns chart - Yahoo Finance UK",
+    "Vital Metals Terminates Less Than Marketable Parcel Share Sale Facility With No Shares Sold - Kalkin",
+    "Ucore Rare Metals Inc. (UCU.V) stock price, news, quote and history - Yahoo Finance Australia",
+    "Ucore Rare Metals Inc (U9UA.HM) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
