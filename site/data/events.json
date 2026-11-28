@@ -1,5 +1,25 @@
 [
   {
+    "id": "lynas-2026-11-28-001",
+    "date": "2026-11-28",
+    "companies": [
+      "lynas"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas Rare Earths Buy Thesis 2026 Risks Explained - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBRZzdhYThDakZmR2stV3Z1VnF4YlREYkRZamZLVF9uQ1k1MERFdl93UnpyMGljeF83clVUdG9JMmhreXpDbWtVcXNVaUlSSnN5M0UzQjZRT1Bwd1pFNkdBXzVIa29wZlNzNmE0ZmFTbG",
+    "sources": [
+      {
+        "name": "lynas",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRZzdhYThDakZmR2stV3Z1VnF4YlREYkRZamZLVF9uQ1k1MERFdl93UnpyMGljeF83clVUdG9JMmhreXpDbWtVcXNVaUlSSnN5M0UzQjZRT1Bwd1pFNkdBXzVIa29wZlNzNmE0ZmFTbGRxd25OWEg1R2FvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lynas-2026-11-27-001",
     "date": "2026-11-27",
     "companies": [
@@ -306,6 +326,60 @@
       {
         "name": "google_china_rare_earth",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xeEFjVkMzVUtEOEFVOFY3MWRlMWVjbjEzSTFTcXMyenhNVHhzRFpkNkNYa05oS2UtQXAtb3pGaEpsVVdlbUtmNEFIVkFHQ29sdVoyZGpaSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-27-018",
+    "date": "2026-11-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Entrée, Mongolia target March 31 for Oyu Tolgoi deal",
+    "summary": "At issue is whether the state takes a stake of up to 34% in Entrée LLC, the subsidiary that holds the Shivee Tolgoi and Javkhlant mining licences. ",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/entree-mongolia-target-march-31-for-oyu-tolgoi-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-27-019",
+    "date": "2026-11-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Copper price jumps most since January as short sellers retreat",
+    "summary": "Traders who had bet on further declines were forced to buy back copper as the rebound in US shares lifted sentiment.",
+    "sources": [
+      {
+        "name": "mining_com",
+        "url": "https://www.mining.com/copper-price-jumps-most-since-january-as-short-sellers-retreat/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-27-020",
+    "date": "2026-11-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barrick gives mine managers more say on targets",
+    "summary": "<p>Barrick Mining (TSX: ABX; NYSE: B) has given mine managers more responsibility in setting and meeting production targets after years of missed forecasts eroded investor...</p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "name": "northern_miner",
+        "url": "https://www.northernminer.com/news/barrick-gives-mine-managers-more-say-on-targets/1003898385/",
         "type": "rss"
       }
     ]
